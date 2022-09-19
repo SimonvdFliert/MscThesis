@@ -1,0 +1,4310 @@
+{
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fall": [
+        "fell",
+        "fallen"
+    ],
+    "DT[form=undefined] a": [
+        "a",
+        "an",
+        "A",
+        "An"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] set": [
+        "set"
+    ],
+    "DT[form=defined] both": [
+        "both",
+        "Both"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] lay": [
+        "are laying"
+    ],
+    "DT[form=defined] the": [
+        "the",
+        "The"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] push": [
+        "push"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] come": [
+        "come"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] report": [
+        "reported"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] position": [
+        "are positioned"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] say": [
+        "said"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] close": [
+        "closed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be": [
+        "were"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] post": [
+        "posting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slide": [
+        "slid"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] continue": [
+        "Continued",
+        "continued"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] take": [
+        "were taking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] see": [
+        "see",
+        "See"
+    ],
+    "DT[form=demonstrative] that": [
+        "that",
+        "That"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] impact": [
+        "is impacted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] turn": [
+        "has turned"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] be": [
+        "'s"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] continue": [
+        "continues"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] revise": [
+        "revise"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow": [
+        "followed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] predict": [
+        "predicted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] lead": [
+        "Leading",
+        "leading"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] have": [
+        "had"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be": [
+        "is"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] post": [
+        "posted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] snap": [
+        "snapped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] end": [
+        "ended"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] underpin": [
+        "underpinned"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] release": [
+        "released"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] manufacture": [
+        "manufacturing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] poll": [
+        "polled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] expect": [
+        "expected"
+    ],
+    "DT[form=defined] any": [
+        "any",
+        "Any"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] indicate": [
+        "indicates"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] worsen": [
+        "worsening"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be": [
+        "was"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] stall": [
+        "stalling"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] deepen": [
+        "deepening"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] show": [
+        "shows"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] spread": [
+        "spreading"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] drop": [
+        "dropping"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] base": [
+        "are based"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come": [
+        "comes"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cut": [
+        "cut"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] restart": [
+        "restart"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] ask": [
+        "has asked"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] use": [
+        "use"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] help": [
+        "help"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] prod": [
+        "prod"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have": [
+        "has"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] run": [
+        "been running",
+        "get run"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] near": [
+        "nears"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] deliver": [
+        "delivers"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] part": [
+        "part"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] turn": [
+        "turns"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] set": [
+        "is setting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] be": [
+        "be",
+        "Be"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] accord": [
+        "According",
+        "according"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] notch": [
+        "notched"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] represent": [
+        "represents"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] note": [
+        "noting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] manage": [
+        "managed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] eke": [
+        "eke"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] close": [
+        "were closed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] represent": [
+        "represented"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] book": [
+        "booked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] say": [
+        "says"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] mark": [
+        "marks"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] start": [
+        "start"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] issue": [
+        "issued"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] anticipate": [
+        "anticipated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] survey": [
+        "surveyed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] ea": [
+        "eas"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] attest": [
+        "attest"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] change": [
+        "change"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] end": [
+        "end"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] strike": [
+        "struck"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] call": [
+        "called"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] agree": [
+        "agreed"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] write": [
+        "be written"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hit": [
+        "hit"
+    ],
+    "DT[form=demonstrative] this": [
+        "this",
+        "This"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] buy": [
+        "buy"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include": [
+        "includes"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] hold": [
+        "hold",
+        "Hold"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] set": [
+        "were set"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] take": [
+        "take"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] make": [
+        "been made",
+        "being made"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] hit": [
+        "hits"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] hit": [
+        "hit"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] disclose": [
+        "disclosed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] get": [
+        "got"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] turn": [
+        "turn"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] include": [
+        "including"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] schedule": [
+        "are scheduled"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] report": [
+        "report"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] extend": [
+        "extending"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] set": [
+        "setting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] power": [
+        "powered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] push": [
+        "pushed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reopen": [
+        "reopened"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] bolster": [
+        "bolstering"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] run": [
+        "run"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] rise": [
+        "rising",
+        "Rising"
+    ],
+    "DT[form=defined] another": [
+        "another",
+        "Another"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] power": [
+        "have powered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] encourage": [
+        "encourage"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] create": [
+        "does create"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bring": [
+        "bring"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] augment": [
+        "augments"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] miss": [
+        "missing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] \u2019s": [
+        "\u2019s"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] go": [
+        "going"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] make": [
+        "make"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] go": [
+        "\u2019re going"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] show": [
+        "showed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] tame": [
+        "Tame"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] suspend": [
+        "suspend"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] expect": [
+        "is expected"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] open": [
+        "open"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] record": [
+        "recorded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] follow": [
+        "following",
+        "Following"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] suggest": [
+        "suggesting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] finish": [
+        "finished"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] publish": [
+        "publish"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] buy": [
+        "is buying"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] show": [
+        "showing",
+        "be showing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] cut": [
+        "cut"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] stem": [
+        "stem"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] contribute": [
+        "contributing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] add": [
+        "added"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spark": [
+        "sparked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] contract": [
+        "contracted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] estimate": [
+        "estimated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bounce": [
+        "bounced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] surge": [
+        "surged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] perform": [
+        "performing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] outshine": [
+        "outshined"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] outperform": [
+        "outperformed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] advance": [
+        "has advanced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] take": [
+        "taken",
+        "took"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] stabilise": [
+        "stabilise"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] begin": [
+        "have begun"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] fall": [
+        "fall"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] peak": [
+        "peaking",
+        "Peaking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] allow": [
+        "allowing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] look": [
+        "look"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have": [
+        "have"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spend": [
+        "spent"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] trade": [
+        "trading"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] overbought": [
+        "overbought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] offset": [
+        "offset"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] move": [
+        "moved"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] block": [
+        "block"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] see": [
+        "sees"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hit": [
+        "hitting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] stage": [
+        "stages"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] perform": [
+        "perform"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] grow": [
+        "grow"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] see": [
+        "is seen"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] anticipate": [
+        "is anticipated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] recover": [
+        "recover"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] project": [
+        "is projected"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] own": [
+        "owned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] almost": [
+        "almost"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] decline": [
+        "decline"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] raise": [
+        "raised"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] pick": [
+        "pick"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] defer": [
+        "deferred"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] boost": [
+        "boosting"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] project": [
+        "are projected"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] decline": [
+        "declining"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] appear": [
+        "appears"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] work": [
+        "be working",
+        "working"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] trap": [
+        "has been trapped"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] top": [
+        "topping"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] steal": [
+        "stole"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] earn": [
+        "earned"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] remain": [
+        "remained"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] amount": [
+        "amounted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] close": [
+        "close"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pull": [
+        "pulled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] shorten": [
+        "shortened"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] notch": [
+        "notching"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] drive": [
+        "helped drive"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] support": [
+        "supporting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] dampen": [
+        "dampened"
+    ],
+    "DT[form=defined] some": [
+        "some",
+        "Some"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] threaten": [
+        "threatened"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] drop": [
+        "dropped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] shed": [
+        "shed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] slide": [
+        "sliding"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] watch": [
+        "watch",
+        "Watch"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] take": [
+        "taking",
+        "Taking",
+        "was taking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] buckle": [
+        "buckle"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] go": [
+        "go"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] warn": [
+        "warned"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reclaim": [
+        "reclaiming"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be": [
+        "has been",
+        "\u2019s been"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] see": [
+        "have been seen"
+    ],
+    "DT[form=defined] each": [
+        "each",
+        "Each"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] be": [
+        "being"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] believe": [
+        "believe"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] manage": [
+        "manage"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] imply": [
+        "implied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] know": [
+        "known"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] fear": [
+        "fear"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ease": [
+        "eased"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] get": [
+        "get"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] kick": [
+        "kicks"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] exacerbate": [
+        "exacerbate"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] boost": [
+        "boost"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] observe": [
+        "observe"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] give": [
+        "gives"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be": [
+        "are"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] move": [
+        "moves"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] tend": [
+        "tends"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] swing": [
+        "swung"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] escalate": [
+        "escalated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] fan": [
+        "fanning"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] flash": [
+        "flashed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] pummel": [
+        "got pummeled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] make": [
+        "made"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] stoke": [
+        "stoking",
+        "be stoking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] renew": [
+        "renewed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] send": [
+        "send"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] soar": [
+        "soaring"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] fall": [
+        "falling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] come": [
+        "came"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] lower": [
+        "lowering"
+    ],
+    "DT[form=demonstrative] these": [
+        "These",
+        "these"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] follow": [
+        "follow"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] let": [
+        "let"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] view": [
+        "was viewed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] make": [
+        "makes"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] wind": [
+        "wound"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] turn": [
+        "turning"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stabilize": [
+        "stabilized"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lead": [
+        "led"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pare": [
+        "pared"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] count": [
+        "counted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] get": [
+        "getting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] seek": [
+        "sought"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] create": [
+        "were created"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] signal": [
+        "signaling"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] remain": [
+        "remains"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] raise": [
+        "raise"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] come": [
+        "coming"
+    ],
+    "DT[form=demonstrative] those": [
+        "those",
+        "Those"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] trade": [
+        "were trading"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] relinquish": [
+        "relinquishing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] consider": [
+        "is considering"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] cite": [
+        "citing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] intensify": [
+        "intensify"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] wage": [
+        "being waged"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] set": [
+        "have set"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] meet": [
+        "meet"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] resolve": [
+        "resolve"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] base": [
+        "based",
+        "Based"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] trade": [
+        "trade"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] remove": [
+        "removing"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] be": [
+        "had been"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] trade": [
+        "trade"
+    ],
+    "DT[form=defined] all": [
+        "All",
+        "all"
+    ],
+    "VP[aspect=perfect-progressive,tense=past,voice=active,person=null,number=null] trade": [
+        "had been trading"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] trade": [
+        "trades"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] decline": [
+        "declined"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] comment": [
+        "comment"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] decide": [
+        "decided"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] replace": [
+        "replace"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] make": [
+        "have been made"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] exclude": [
+        "were excluded"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] base": [
+        "were based"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] calculate": [
+        "be calculated"
+    ],
+    "DT[form=defined] no": [
+        "no"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] apply": [
+        "apply"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] cap": [
+        "is capped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] go": [
+        "went"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] continue": [
+        "continue"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] list": [
+        "be listed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] continue": [
+        "continue"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] share": [
+        "share"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] generate": [
+        "generated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] price": [
+        "priced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] balloon": [
+        "ballooned"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] trade": [
+        "traded"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] sell": [
+        "were sold"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] imply": [
+        "implies"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] offer": [
+        "offered"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] be": [
+        "were being"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sell": [
+        "sold"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] increase": [
+        "increase"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=plural] be": [
+        "are being",
+        "is being"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] consider": [
+        "are considering"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] combine": [
+        "combining"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] charge": [
+        "charged"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] limit": [
+        "limit"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pay": [
+        "paid"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tell": [
+        "told"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] propose": [
+        "proposed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] refund": [
+        "refunding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] exceed": [
+        "exceeded"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] collect": [
+        "collect"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] calculate": [
+        "calculate"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] introduce": [
+        "introduced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] increase": [
+        "increased"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cancel": [
+        "canceled",
+        "cancelled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] plan": [
+        "planned"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] say": [
+        "saying"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] coordinate": [
+        "coordinate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] elaborate": [
+        "elaborating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hold": [
+        "held"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] balance": [
+        "balancing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] close": [
+        "closing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] find": [
+        "found"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] indicate": [
+        "indicating"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] extend": [
+        "extend"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] delay": [
+        "delayed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] face": [
+        "faces"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] hope": [
+        "had hoped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] secure": [
+        "secure"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] overshadow": [
+        "Overshadowing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] enter": [
+        "entered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rebound": [
+        "rebounded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] guide": [
+        "guided"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] extend": [
+        "extended"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] update": [
+        "UPDATED",
+        "updated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] suspend": [
+        "suspended"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] experience": [
+        "is experiencing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] affect": [
+        "affecting"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] halt": [
+        "have been halted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] work": [
+        "are working"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] start": [
+        "started"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] affect": [
+        "affect"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] affect": [
+        "affected"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] set": [
+        "was set"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] extend": [
+        "be extended"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] halt": [
+        "be halted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] persist": [
+        "persisted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] remain": [
+        "remain"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] emerge": [
+        "emerged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sink": [
+        "sank"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slash": [
+        "slashed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] sell": [
+        "selling"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] own": [
+        "owns"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hold": [
+        "holding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] follow": [
+        "follows"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] announce": [
+        "announced"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] write": [
+        "write"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] experience": [
+        "experienced"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] find": [
+        "find"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] move": [
+        "moving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] complete": [
+        "completed"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make": [
+        "is made"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] regard": [
+        "regarding"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] raise": [
+        "raising"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] divide": [
+        "is divided"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] allocate": [
+        "has been allocated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] relate": [
+        "relating"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] register": [
+        "been registered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] divide": [
+        "divided"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] compare": [
+        "compared"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] weight": [
+        "weighted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] list": [
+        "listed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] regulate": [
+        "regulated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] adjust": [
+        "is adjusted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] reflect": [
+        "reflect"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] meet": [
+        "meet"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] refer": [
+        "refer"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] track": [
+        "tracks"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] purify": [
+        "Purified"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] yield": [
+        "yielded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] see": [
+        "saw",
+        "seen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hover": [
+        "hovered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] end": [
+        "ending"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reveal": [
+        "revealed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] note": [
+        "noted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] launch": [
+        "has launched"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] provide": [
+        "providing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] provide": [
+        "provide"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] seek": [
+        "seeking"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] distribute": [
+        "distribute"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] come": [
+        "has come"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] come": [
+        "come",
+        "did come"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] break": [
+        "broke"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] shrug": [
+        "shrugging"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] maintain": [
+        "maintaining"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] refer": [
+        "refers"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] sign": [
+        "signing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] concern": [
+        "were concerned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] evolve": [
+        "evolve"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] derail": [
+        "derail"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] spark": [
+        "spark"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] roar": [
+        "roaring"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] register": [
+        "register"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] win": [
+        "winning"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] kick": [
+        "kick"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] hit": [
+        "was hit"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] rise": [
+        "has risen"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] found": [
+        "was founded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] boost": [
+        "boosted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] help": [
+        "have been helped"
+    ],
+    "DT[form=defined] every": [
+        "every"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] drop": [
+        "drop"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rise": [
+        "rose"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] fund": [
+        "fund"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] finish": [
+        "had finished"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] measure": [
+        "measured"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] advance": [
+        "advanced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reflect": [
+        "reflected"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] increase": [
+        "increasing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] influence": [
+        "influenced"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] struggle": [
+        "struggling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] range": [
+        "ranged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] advance": [
+        "advancing",
+        "Advancing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] outnumber": [
+        "is outnumbering"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] witness": [
+        "witnessed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] read": [
+        "READ",
+        "read"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] grow": [
+        "growing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] trade": [
+        "were traded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stand": [
+        "stood"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] transact": [
+        "transacted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sustain": [
+        "sustained"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cap": [
+        "capped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] digest": [
+        "digested"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] confirm": [
+        "confirmed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] schedule": [
+        "scheduled"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] roll": [
+        "roll"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] quell": [
+        "does quell"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] lift": [
+        "lift"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reach": [
+        "reached"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] set": [
+        "is set"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] join": [
+        "joined"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fail": [
+        "failed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] reach": [
+        "reach"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] make": [
+        "making"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] sell": [
+        "sell"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] issue": [
+        "be issued"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] sign": [
+        "be signed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] want": [
+        "wants"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] do": [
+        "do"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] like": [
+        "like"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] talk": [
+        "talk"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] happen": [
+        "happen"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=null] make": [
+        "'re making"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] drive": [
+        "were driven"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] report": [
+        "report"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] slow": [
+        "slowing"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] unseat": [
+        "has unseated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] total": [
+        "totalled",
+        "totaled"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] eclipse": [
+        "eclipsing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] compile": [
+        "compiled"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] buoy": [
+        "have been buoyed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] contribute": [
+        "contributed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] account": [
+        "accounting"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] rank": [
+        "were ranked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] date": [
+        "dated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] lose": [
+        "losing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] capitalise": [
+        "capitalising"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] start": [
+        "starting"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] see": [
+        "were seen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] enjoy": [
+        "enjoyed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] do": [
+        "did",
+        "done"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] sell": [
+        "was sold"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] try": [
+        "TRY",
+        "try"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] become": [
+        "became"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] give": [
+        "given",
+        "gave"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] discount": [
+        "discounted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] benefit": [
+        "benefitted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] encourage": [
+        "is encouraging"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] weigh": [
+        "weigh"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] translate": [
+        "translating"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] add": [
+        "Add",
+        "add"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] be": [
+        "'re"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] acquire": [
+        "was acquired"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] replace": [
+        "replaced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] change": [
+        "changed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] keep": [
+        "keeping"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] finish": [
+        "finish"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] boost": [
+        "were boosted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] signal": [
+        "signaled",
+        "signalled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] return": [
+        "returned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] digest": [
+        "digest"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] cool": [
+        "Cooling"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] fuel": [
+        "have fueled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] nestle": [
+        "nestled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] weigh": [
+        "weighed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] agree": [
+        "has agreed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] affiliate": [
+        "affiliated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] retain": [
+        "retain"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] combine": [
+        "combined",
+        "Combined"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] result": [
+        "resulting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] bring": [
+        "brings"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] create": [
+        "create"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] require": [
+        "requires"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] complete": [
+        "complete"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] join": [
+        "join"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] rise": [
+        "rise"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] adjust": [
+        "adjusted",
+        "Adjusted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] climb": [
+        "climbed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] drive": [
+        "driven",
+        "drove"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hope": [
+        "hoping",
+        "be hoping"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] sustain": [
+        "sustain"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] price": [
+        "are pricing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] advise": [
+        "is advising"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] calculate": [
+        "is calculated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] divide": [
+        "dividing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] forecast": [
+        "forecast"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tilt": [
+        "tilted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] assign": [
+        "have assigned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] expand": [
+        "expand"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] outperform": [
+        "has outperformed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] include": [
+        "include"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] help": [
+        "helped"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] climb": [
+        "has climbed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] expect": [
+        "expect"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] support": [
+        "support"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] take": [
+        "take"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] resurface": [
+        "resurfaced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sign": [
+        "signed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] draw": [
+        "drawing",
+        "Drawing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] account": [
+        "account"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] outnumber": [
+        "outnumbered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] widen": [
+        "widened"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] revise": [
+        "revised"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] guide": [
+        "guide"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] add": [
+        "be added"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] publish": [
+        "published"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] gain": [
+        "gains"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] purchase": [
+        "purchase"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] reflect": [
+        "reflects"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] accomplish": [
+        "accomplished"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] underperform": [
+        "underperform",
+        "Underperform"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] trade": [
+        "was trading"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] take": [
+        "was taking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] drive": [
+        "drive"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] write": [
+        "wrote"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] contend": [
+        "contend"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] relate": [
+        "related"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] short": [
+        "shorting"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] diminish": [
+        "has diminished"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] keep": [
+        "kept"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] agree": [
+        "have agreed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] launch": [
+        "launch"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] compete": [
+        "compete"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] improve": [
+        "improve"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] reduce": [
+        "reduce"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] simplify": [
+        "simplify"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] call": [
+        "be called"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] fund": [
+        "be funded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] control": [
+        "controlled"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] plan": [
+        "plans"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] offer": [
+        "offer"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] represent": [
+        "represent"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] comprise": [
+        "comprised"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] face": [
+        "have faced"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] surge": [
+        "surging"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] feed": [
+        "feeds"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] use": [
+        "use"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] monitor": [
+        "monitor"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] run": [
+        "is run"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] handle": [
+        "handles"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] file": [
+        "file"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] operate": [
+        "operate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] erase": [
+        "erasing"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] lay": [
+        "has laid"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reduce": [
+        "reducing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] slash": [
+        "slashing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] argue": [
+        "argue"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] pay": [
+        "pay"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] perform": [
+        "performs"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] include": [
+        "included"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] comment": [
+        "commented"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] be": [
+        "have been"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve": [
+        "served"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reduce": [
+        "reduced"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] use": [
+        "uses"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] calculate": [
+        "calculate"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] experience": [
+        "have experienced"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] drive": [
+        "has driven"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] tend": [
+        "tend"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] hedge": [
+        "hedge"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] equate": [
+        "equating"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] close": [
+        "are closed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] fuel": [
+        "been fueled"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] show": [
+        "has shown"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] wax": [
+        "have waxed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] resolve": [
+        "resolved"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] have": [
+        "have"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] look": [
+        "were looking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] resolve": [
+        "resolving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] put": [
+        "put"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] beat": [
+        "beat"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] estimate": [
+        "had estimated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] issue": [
+        "issue"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] begin": [
+        "begins"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] announce": [
+        "announce"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] generate": [
+        "has generated"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] end": [
+        "ends"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hope": [
+        "hoped"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] predict": [
+        "predict"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] prompt": [
+        "prompt"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hint": [
+        "hinted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] improve": [
+        "improving"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] design": [
+        "are designed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] comprise": [
+        "comprises"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] launch": [
+        "launched"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base": [
+        "is based"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] make": [
+        "make"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] generate": [
+        "has been generated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] receive": [
+        "received"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] downgrade": [
+        "downgraded"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] recognize": [
+        "recognize"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] justify": [
+        "justify"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] leave": [
+        "left"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] assign": [
+        "assigned"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] compare": [
+        "compares"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] fuel": [
+        "fueling"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] forecast": [
+        "was forecast"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] settle": [
+        "settling"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] open": [
+        "opening"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] suggest": [
+        "suggests"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] follow": [
+        "follow",
+        "Follow"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] grind": [
+        "grind"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] trigger": [
+        "trigger"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] enter": [
+        "enter"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] start": [
+        "start"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] ascend": [
+        "ascending"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] draw": [
+        "drawn"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] feed": [
+        "feed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] await": [
+        "awaited"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] hover": [
+        "hovers"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] maintain": [
+        "helped maintain"
+    ],
+    "VP[aspect=perfect-progressive,tense=present,voice=active,person=3rd,number=null] build": [
+        "has been building"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] upgrade": [
+        "upgraded"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] close": [
+        "be closed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] keep": [
+        "keep"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] notch": [
+        "notch"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] meet": [
+        "has met"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] begin": [
+        "begin"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] hire": [
+        "has hired"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] work": [
+        "worked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] miss": [
+        "miss"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] expect": [
+        "expects"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] provide": [
+        "provided"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] believe": [
+        "believes"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] result": [
+        "resulted"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] visit": [
+        "visits"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] see": [
+        "be seen"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] look": [
+        "looking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] crash": [
+        "crashed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] kill": [
+        "killing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] use": [
+        "used"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] involve": [
+        "involving"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] ground": [
+        "have grounded"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] anticipate": [
+        "anticipate"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cheer": [
+        "cheered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] hurt": [
+        "are hurting"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] set": [
+        "are set"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] reach": [
+        "is reached"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] trim": [
+        "trimmed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] allay": [
+        "allay"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] meet": [
+        "meets"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] overheate": [
+        "overheating"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] show": [
+        "show"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] head": [
+        "headed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] need": [
+        "need"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] grow": [
+        "is growing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] love": [
+        "love"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] guide": [
+        "is guiding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] gain": [
+        "gain"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] plan": [
+        "plan"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] average": [
+        "averaged"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] leave": [
+        "had left"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] have": [
+        "having"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] leave": [
+        "leaves"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] join": [
+        "Joining"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] remove": [
+        "were removed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] account": [
+        "has accounted"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] drive": [
+        "is driven"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] mean": [
+        "meaning"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] weight": [
+        "is weighted"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] command": [
+        "commands"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] move": [
+        "move",
+        "Move"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] report": [
+        "reporting",
+        "Reporting",
+        "be reporting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] forecast": [
+        "forecast"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] list": [
+        "listing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] open": [
+        "opened"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] see": [
+        "has seen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] buy": [
+        "bought"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] aim": [
+        "aims"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] double": [
+        "double"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] value": [
+        "valued"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] bring": [
+        "bringing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] outpace": [
+        "outpacing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] require": [
+        "require"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] divest": [
+        "divest"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] establish": [
+        "establish"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] generate": [
+        "generate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] record": [
+        "recording"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] log": [
+        "logging"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] do": [
+        "doing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cross": [
+        "crossed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stall": [
+        "stalled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] center": [
+        "centered"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] cross": [
+        "has crossed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] identify": [
+        "identify"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] sit": [
+        "sitting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] push": [
+        "pushing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] give": [
+        "giving"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] include": [
+        "was included"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] attempt": [
+        "attempting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] breach": [
+        "breach"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] struggle": [
+        "struggle"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] regain": [
+        "regain"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] add": [
+        "adding"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] position": [
+        "positioning"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] challenge": [
+        "challenge"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] signal": [
+        "signal"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] engage": [
+        "engage"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] play": [
+        "play"
+    ],
+    "VP[aspect=perfect-progressive,tense=past,voice=active,person=null,number=null] support": [
+        "had been supporting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] do": [
+        "do"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] need": [
+        "need"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] convince": [
+        "are convinced"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] suspend": [
+        "was suspended"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] place": [
+        "place"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] identify": [
+        "identified"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] access": [
+        "access"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] wash": [
+        "washed"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] drag": [
+        "had dragged"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=null,number=null] comfort": [
+        "have been comforted"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] pick": [
+        "had picked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] encourage": [
+        "encouraged"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] build": [
+        "build"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] intensify": [
+        "intensified"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] wipe": [
+        "wipe"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] recoup": [
+        "recoups"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] recoup": [
+        "had recouped"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] crash": [
+        "crashing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] touch": [
+        "touched"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] owe": [
+        "owing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] escalate": [
+        "escalating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] claim": [
+        "claimed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] shoot": [
+        "shot"
+    ],
+    "DT[form=defined] either": [
+        "either"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] arrest": [
+        "have arrested"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] accept": [
+        "accepted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] claim": [
+        "claiming"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] shoot": [
+        "had shot"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] belong": [
+        "belonging"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] heighten": [
+        "has heightened"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] destroy": [
+        "destroyed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] help": [
+        "has helped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] drag": [
+        "dragged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] erase": [
+        "erased"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] track": [
+        "tracking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] gain": [
+        "gained"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] ease": [
+        "Easing",
+        "easing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] leave": [
+        "leave"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] offer": [
+        "have offered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] turn": [
+        "turned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] soar": [
+        "soar"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] stop": [
+        "being stopped"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] reach": [
+        "be reached"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] begin": [
+        "began"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] exempt": [
+        "exempting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] top": [
+        "topped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lower": [
+        "lowered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] swell": [
+        "swelled"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] see": [
+        "is seeing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] accelerate": [
+        "accelerated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] underlie": [
+        "underlying"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] head": [
+        "is headed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] predate": [
+        "predates"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] shed": [
+        "shedding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] focus": [
+        "focuses"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] wipe": [
+        "wiping"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] shine": [
+        "are shining"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] borrow": [
+        "borrowed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] lead": [
+        "lead"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] connect": [
+        "are connected"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] pledge": [
+        "has been pledged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] look": [
+        "looked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] deliver": [
+        "delivered"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] boil": [
+        "boils"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spare": [
+        "spared"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] raise": [
+        "raises"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] resume": [
+        "resume"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] think": [
+        "think"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] build": [
+        "building"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] start": [
+        "is starting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pocket": [
+        "pocketing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bleed": [
+        "bled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] underperform": [
+        "underperformed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] file": [
+        "filed"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] slide": [
+        "had slid"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] perform": [
+        "have performed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lag": [
+        "lags"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] outperform": [
+        "have outperformed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] calculate": [
+        "were calculated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rally": [
+        "rallied"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] delay": [
+        "was delaying"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] leave": [
+        "leaving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] dip": [
+        "dipped"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] create": [
+        "creating",
+        "be creating"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] own": [
+        "owning"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] give": [
+        "give"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] need": [
+        "needed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bolster": [
+        "bolster"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] announce": [
+        "was announced"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] provide": [
+        "provides"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] sell": [
+        "sells"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] continue": [
+        "have continued"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] close": [
+        "had closed"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] quote": [
+        "was quoting"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] touch": [
+        "had touched"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] show": [
+        "were showing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] face": [
+        "is facing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] battle": [
+        "battles"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] respond": [
+        "responded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lift": [
+        "lifted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] bounce": [
+        "bouncing"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] fall": [
+        "had fallen"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] suffer": [
+        "suffering"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] lose": [
+        "has lost"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] engender": [
+        "engender"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] destroy": [
+        "has been destroyed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] step": [
+        "step"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] recognize": [
+        "recognize"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] believe": [
+        "believed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] elect": [
+        "elected"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] lead": [
+        "helped lead"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] fare": [
+        "has fared"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] lag": [
+        "has lagged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tumble": [
+        "tumbled"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] feel": [
+        "feel"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] return": [
+        "return"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] grapple": [
+        "grapples"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] surpass": [
+        "had surpassed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] hit": [
+        "hit"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] widen": [
+        "widen"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] see": [
+        "have seen"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] come": [
+        "is coming"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] struggle": [
+        "struggled"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] offset": [
+        "offset"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] hover": [
+        "are hovering"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] know": [
+        "know"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=null] drop": [
+        "'s dropping"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] create": [
+        "have created"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] reject": [
+        "was rejected"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] be": [
+        "have been"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] realise": [
+        "realising"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reject": [
+        "rejected"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sweep": [
+        "swept"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] focus": [
+        "focused"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] beat": [
+        "beating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] grow": [
+        "grew"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] suspend": [
+        "is suspended"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] close": [
+        "was closed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] complete": [
+        "has completed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] offer": [
+        "were offered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] maintain": [
+        "maintain"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] deliver": [
+        "have delivered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] outperform": [
+        "outperforming"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] provide": [
+        "have provided"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] invest": [
+        "invests"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] resume": [
+        "had resumed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] mitigate": [
+        "mitigated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] click": [
+        "Click"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] put": [
+        "put"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] hold": [
+        "holds"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] perform": [
+        "has performed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reinvest": [
+        "reinvested"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] blacklist": [
+        "was blacklisted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] prohibit": [
+        "prohibited"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] grant": [
+        "being granted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hone": [
+        "honing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] estimate": [
+        "estimates"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] project": [
+        "projecting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] attribute": [
+        "attributed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] face": [
+        "facing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] initiate": [
+        "initiated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] achieve": [
+        "achieve"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] do": [
+        "is doing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] adjust": [
+        "adjusting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] back": [
+        "backed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bar": [
+        "barred"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] acquire": [
+        "acquiring"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] hamper": [
+        "hamper"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] deliver": [
+        "delivering"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] exact": [
+        "exacted"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] slam": [
+        "got slammed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] withhold": [
+        "withheld"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] concern": [
+        "concerning"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tie": [
+        "tied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] recall": [
+        "recalled"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] close": [
+        "closes"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reflect": [
+        "reflecting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] oscillate": [
+        "oscillated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] happen": [
+        "happened"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] present": [
+        "present"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] reform": [
+        "reform"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] support": [
+        "support"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] keep": [
+        "is keeping"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] contain": [
+        "contain"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] pour": [
+        "pour"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] quadruple": [
+        "quadruple"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] own": [
+        "own"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] pull": [
+        "pull"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] track": [
+        "tracked"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] emerge": [
+        "emerging"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] complete": [
+        "be completed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] continue": [
+        "continuing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] carry": [
+        "carried"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] constitute": [
+        "constituted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] probe": [
+        "probe"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] accumulate": [
+        "had accumulated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] retaliate": [
+        "retaliated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lose": [
+        "lost"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] miss": [
+        "is missing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] ascertain": [
+        "is ascertaining"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] strike": [
+        "has struck"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] dismantle": [
+        "dismantle"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] remain": [
+        "remaining"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] claim": [
+        "had claimed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bomb": [
+        "bombed"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] plan": [
+        "was planning"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] become": [
+        "had become"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] run": [
+        "ran",
+        "run"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] result": [
+        "results"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] return": [
+        "returns"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] link": [
+        "linked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] create": [
+        "created"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] think": [
+        "thinks"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] contribute": [
+        "contribute"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] boost": [
+        "boost"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] turn": [
+        "turn"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] become": [
+        "become"
+    ],
+    "VP[aspect=perfect-progressive,tense=present,voice=active,person=3rd,number=null] take": [
+        "has been taking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] be": [
+        "been"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] flirt": [
+        "flirting"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] hit": [
+        "has hit"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] judge": [
+        "Judging"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] poise": [
+        "be poised"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] re-accelerate": [
+        "re-accelerate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] stay": [
+        "staying"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] break": [
+        "has broken"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] wrap": [
+        "wraps"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] navigate": [
+        "navigate"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] send": [
+        "sends"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] fare": [
+        "are faring"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] solidify": [
+        "be solidified"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] mean": [
+        "means"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] note": [
+        "notes"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] tally": [
+        "has tallied"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] go": [
+        "go"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] reshuffle": [
+        "reshuffle"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] remove": [
+        "be removed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] send": [
+        "sent"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] push": [
+        "helped push"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fare": [
+        "fared"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] say": [
+        "say"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] plan": [
+        "planning"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] stop": [
+        "stop"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] seem": [
+        "seemed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] spook": [
+        "spook"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] help": [
+        "had helped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] perform": [
+        "performed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sort": [
+        "sorted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] kill": [
+        "killed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] plunge": [
+        "plunged"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] endorse": [
+        "was endorsed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] increase": [
+        "have increased"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] grow": [
+        "have grown"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] ban": [
+        "ban"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] grow": [
+        "are growing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] appear": [
+        "appeared"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] observe": [
+        "observed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] upgrade": [
+        "upgrade"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] opt": [
+        "opting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] anticipate": [
+        "anticipates"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] register": [
+        "registered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] suffer": [
+        "suffered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] favor": [
+        "favored"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] fall": [
+        "has fallen"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] rain": [
+        "was raining"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] supply": [
+        "supplies"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] buy": [
+        "was bought"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] value": [
+        "was valued"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] control": [
+        "controlling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] acquire": [
+        "acquired"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] deal": [
+        "deal"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] scoop": [
+        "scooped"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] value": [
+        "valuing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] market": [
+        "marketed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] count": [
+        "counts"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] block": [
+        "blocked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] join": [
+        "joins"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] parade": [
+        "have paraded"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] stumble": [
+        "have stumbled"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] sink": [
+        "sinking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] outperform": [
+        "is outperforming"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] do": [
+        "are doing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] become": [
+        "becoming"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] cause": [
+        "was caused"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] dump": [
+        "dumped"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] acquire": [
+        "had acquired"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] acquire": [
+        "acquire"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] enter": [
+        "has entered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] invest": [
+        "invest"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] firm": [
+        "firmed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] relieve": [
+        "relieved"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] lead": [
+        "was led"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] lift": [
+        "was lifted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] edge": [
+        "edged"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] shore": [
+        "was shored"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] curb": [
+        "were curbed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] remain": [
+        "remain"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] cause": [
+        "has caused"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] do": [
+        "does"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bode": [
+        "bode"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] expect": [
+        "expect"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] survive": [
+        "survived"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] grip": [
+        "gripped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] post": [
+        "post"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] produce": [
+        "produced"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] move": [
+        "move"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] give": [
+        "was given"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reach": [
+        "reaching"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] point": [
+        "points"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] sign": [
+        "has signed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] connect": [
+        "connects"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] allow": [
+        "allow"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] broaden": [
+        "broaden"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] benefit": [
+        "benefit"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] help": [
+        "helping"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] augment": [
+        "augment"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] experience": [
+        "had experienced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] jump": [
+        "jumped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] capture": [
+        "capture"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] turn": [
+        "are turning"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] get": [
+        "gets"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] say": [
+        "have said"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] work": [
+        "work"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] study": [
+        "study"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] lower": [
+        "lower"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] target": [
+        "targeted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] relend": [
+        "relending"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] rediscount": [
+        "rediscounting"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] quote": [
+        "was quoted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fight": [
+        "fought"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] reduce": [
+        "were reduced"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] favour": [
+        "favouring"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] drop": [
+        "has dropped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] proceed": [
+        "proceed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] combine": [
+        "combine"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lack": [
+        "lacked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] improve": [
+        "improved"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] expand": [
+        "expanded"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] buy": [
+        "had bought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] recommend": [
+        "recommended"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] start": [
+        "has started"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] phase": [
+        "phase"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] aim": [
+        "aiming"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] influence": [
+        "influencing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] consolidate": [
+        "consolidate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] total": [
+        "totaling"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] see": [
+        "was seen"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] distribute": [
+        "distribute"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] develop": [
+        "develop"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] manage": [
+        "manage"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] cap": [
+        "capping"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] apply": [
+        "applying"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] include": [
+        "are included"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] approve": [
+        "be approved"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] attract": [
+        "attracts"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] help": [
+        "helps"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] hang": [
+        "hangs"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] privatize": [
+        "privatizing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cause": [
+        "caused"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] mark": [
+        "marking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] read": [
+        "read"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] view": [
+        "viewed"
+    ],
+    "VP[aspect=perfect-progressive,tense=present,voice=active,person=non-3rd,number=null] hold": [
+        "having been holding"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] explode": [
+        "has exploded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] short": [
+        "shorted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] act": [
+        "act"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] break": [
+        "breaking"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] see": [
+        "see",
+        "do see"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] need": [
+        "needs"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] clear": [
+        "clear"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] \u2019ve": [
+        "\u2019ve"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] double": [
+        "doubled"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] change": [
+        "have changed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] want": [
+        "want"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] prefer": [
+        "prefers"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] own": [
+        "own"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] put": [
+        "puts"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] enter": [
+        "enters"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] wait": [
+        "waiting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] occur": [
+        "occurs"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] precede": [
+        "preceded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] round": [
+        "Rounding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] arm": [
+        "arm"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] manage": [
+        "managing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] occur": [
+        "occurred"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bolster": [
+        "bolstered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hurt": [
+        "hurting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] target": [
+        "targets"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bid": [
+        "bid"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] propose": [
+        "was proposing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] run": [
+        "runs"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] compile": [
+        "compiles"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] accelerate": [
+        "is accelerating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stress": [
+        "stressed"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] make": [
+        "be made"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] note": [
+        "note"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] clock": [
+        "clocked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] associate": [
+        "associated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] rally": [
+        "rally"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] book": [
+        "book"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] surface": [
+        "surfacing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] churn": [
+        "churning"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] resume": [
+        "resumed"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] start": [
+        "had started"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] kick": [
+        "kicked"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] take": [
+        "is taking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] think": [
+        "thought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] blacklist": [
+        "blacklisted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hurt": [
+        "hurt"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fuel": [
+        "fueled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reference": [
+        "referenced"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] prove": [
+        "prove"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] scrub": [
+        "scrub"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] throw": [
+        "threw"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] incorporate": [
+        "incorporated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] step": [
+        "stepped"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] catch": [
+        "catching"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] prompt": [
+        "prompting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tank": [
+        "tanked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] violate": [
+        "violated"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] shoot": [
+        "was shot"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] conduct": [
+        "conducted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] demolish": [
+        "demolished"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] engage": [
+        "were engaged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] clock": [
+        "clocking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] mean": [
+        "mean"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] fixate": [
+        "are fixated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] exceed": [
+        "exceed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] focus": [
+        "focusing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] face": [
+        "face"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] look": [
+        "looks"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hint": [
+        "hinting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] prevent": [
+        "prevent"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] miss": [
+        "missed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] expand": [
+        "expanding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] invest": [
+        "invested"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] represent": [
+        "represent"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] voice": [
+        "voiced"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] worry": [
+        "worry"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] import": [
+        "are imported"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] finish": [
+        "finishing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] buy": [
+        "being bought"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] seem": [
+        "Seems",
+        "seems"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] give": [
+        "have given"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] approve": [
+        "approved"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] back": [
+        "is backed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] transform": [
+        "transform"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] headquarter": [
+        "headquartered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] pocket": [
+        "pocket"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] criticise": [
+        "criticising"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] secure": [
+        "secured"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] generate": [
+        "generate"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] roll": [
+        "be rolled"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] diversify": [
+        "diversify"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] focus": [
+        "been focused"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] show": [
+        "show"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] represent": [
+        "representing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] truncate": [
+        "truncated"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] log": [
+        "has logged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] learn": [
+        "learning"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bounce": [
+        "bounce"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] find": [
+        "finds"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] gain": [
+        "has gained"
+    ],
+    "VP[aspect=perfect-progressive,tense=present,voice=active,person=3rd,number=null] follow": [
+        "has been following"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] release": [
+        "releases"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] cool": [
+        "are cooling"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] cover": [
+        "cover"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] decrease": [
+        "decreased"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] touch": [
+        "touches"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] cross": [
+        "crossing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] elect": [
+        "was elected"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] manage": [
+        "manages"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] pass": [
+        "have passed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] travel": [
+        "travel"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] prompt": [
+        "prompted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tweet": [
+        "tweeted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] buttress": [
+        "have been buttressed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reset": [
+        "resetting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] check": [
+        "Check"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stake": [
+        "staked"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] extend": [
+        "were extending"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] point": [
+        "point"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] trade": [
+        "is trading"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] define": [
+        "defined"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] notify": [
+        "has been notified"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] set": [
+        "set"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] phase": [
+        "phased"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] load": [
+        "loaded"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] kill": [
+        "were killed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] recover": [
+        "recovered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] swing": [
+        "swing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] choose": [
+        "chosen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] establish": [
+        "established"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] take": [
+        "takes"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] add": [
+        "adds"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] divide": [
+        "divides"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] outstrip": [
+        "outstripped"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] ebb": [
+        "ebbs"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] flow": [
+        "flows"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] drag": [
+        "drags"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] treat": [
+        "\u2019s treated"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] treat": [
+        "treat"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] commence": [
+        "commenced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] dominate": [
+        "dominated"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] lend": [
+        "lend"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] shore": [
+        "shore"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] play": [
+        "played"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] gain": [
+        "gaining"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] scale": [
+        "scale"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] supply": [
+        "supply"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] allege": [
+        "alleging"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] involve": [
+        "is involved"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] compromise": [
+        "compromise"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] deny": [
+        "denies"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] caution": [
+        "caution"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] make": [
+        "had made"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] slap": [
+        "have slapped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] aim": [
+        "aimed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pick": [
+        "picked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] embolden": [
+        "emboldened"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] expect": [
+        "was expected"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] rally": [
+        "has rallied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] uplist": [
+        "uplisted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fire": [
+        "fired"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] price": [
+        "pricing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] summarize": [
+        "summarize"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] learn": [
+        "learn"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] visit": [
+        "visiting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] bookmark": [
+        "bookmark"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] stay": [
+        "stay"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] maintain": [
+        "maintains"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] design": [
+        "designed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] launch": [
+        "was launched"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] draw": [
+        "are drawing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] strike": [
+        "striking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pump": [
+        "pumping"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] make": [
+        "has been made"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] approach": [
+        "approaching"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] regain": [
+        "are regaining"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pend": [
+        "pending"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] delist": [
+        "be delisted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] require": [
+        "required"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] operate": [
+        "operates"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] inform": [
+        "been informed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] delist": [
+        "delist"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] decrease": [
+        "decrease"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reverse": [
+        "reversed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] power": [
+        "helped power"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] introduce": [
+        "has introduced"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] form": [
+        "is formed"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] incorporate": [
+        "are incorporated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] operate": [
+        "operating"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] constitute": [
+        "constitute"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] make": [
+        "were made"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hand": [
+        "handing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] worry": [
+        "worried"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] offset": [
+        "were offset"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] drag": [
+        "dragging"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slap": [
+        "slapped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] carry": [
+        "carry"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] ease": [
+        "ease"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] acquire": [
+        "be acquired"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] receive": [
+        "receive"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] enhance": [
+        "enhance"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] attract": [
+        "attracting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] parse": [
+        "parsed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] linger": [
+        "lingering"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] surpass": [
+        "surpassed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slip": [
+        "slipped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] admit": [
+        "admitted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] combate": [
+        "combating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] exacerbate": [
+        "exacerbated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] forecast": [
+        "forecasting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reiterate": [
+        "reiterated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fade": [
+        "faded"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] spike": [
+        "has spiked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] discuss": [
+        "discussed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] spend": [
+        "spend"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] have": [
+        "has had"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] release": [
+        "release"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] hold": [
+        "being held"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] adjust": [
+        "adjust"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] benchmark": [
+        "benchmarked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] extend": [
+        "extends"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] approve": [
+        "approve"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] end": [
+        "had ended"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] receive": [
+        "had received"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] order": [
+        "ordered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] thrive": [
+        "thrived"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] stand": [
+        "stands"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] bring": [
+        "bring"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] threaten": [
+        "threaten"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] fear": [
+        "fear"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] vote": [
+        "voted"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] surge": [
+        "was surging"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] soar": [
+        "soared"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] acquit": [
+        "was acquitted"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] convict": [
+        "convict"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] cross-asset": [
+        "cross-asset"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bring": [
+        "brought"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] predict": [
+        "predict"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] settle": [
+        "settle"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] include": [
+        "be included"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] make": [
+        "are made"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] exchange": [
+        "was exchanged"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] dominate": [
+        "was dominated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] accumulate": [
+        "accumulated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] wreak": [
+        "wreaked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] fall": [
+        "falls"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] chug": [
+        "chugging"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] negotiate": [
+        "negotiated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] retire": [
+        "retired"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] prefer": [
+        "preferred"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] exchange": [
+        "be exchanged"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] start": [
+        "starts"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] register": [
+        "registering"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] trade": [
+        "are traded"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] bulk": [
+        "bulks"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] exist": [
+        "existing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] ask": [
+        "ask"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] exclude": [
+        "Excluding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] maintain": [
+        "maintained"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] celebrate": [
+        "celebrated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] aim": [
+        "is aimed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] stabilise": [
+        "stabilising"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] manage": [
+        "be managed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] inject": [
+        "be injecting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] lose": [
+        "lose"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] move": [
+        "be moved"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] trade": [
+        "was traded"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] receive": [
+        "has received"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] do": [
+        "be done"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] take": [
+        "are taking"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] drive": [
+        "was driven"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] look": [
+        "look"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rattle": [
+        "rattled"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] buoy": [
+        "were buoyed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] help": [
+        "were helped"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] deepen": [
+        "deepen"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] ground": [
+        "be grounded"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] persist": [
+        "persists"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pursue": [
+        "pursuing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] refuse": [
+        "refused"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] accept": [
+        "accept"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] deserve": [
+        "deserves"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] ring": [
+        "has rung"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] oppose": [
+        "opposed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] equate": [
+        "equates"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] replace": [
+        "replacing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] aid": [
+        "aided"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] know": [
+        "is known"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] champion": [
+        "championing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] mire": [
+        "was mired"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] reach": [
+        "have reached"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] bring": [
+        "have brought"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] calculate": [
+        "has calculated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] hold": [
+        "are held"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] keep": [
+        "keeps"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] strengthen": [
+        "strengthening"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] break": [
+        "break"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] overcome": [
+        "overcome"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] test": [
+        "test"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] buy": [
+        "buying"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] surpass": [
+        "surpass"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] violate": [
+        "violating"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find": [
+        "be found"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pause": [
+        "paused"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] attract": [
+        "attract"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] print": [
+        "printing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] impose": [
+        "impose"
+    ],
+    "VP[aspect=perfect-progressive,tense=present,voice=active,person=3rd,number=null] struggle": [
+        "has been struggling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] derive": [
+        "derived"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] average": [
+        "averaging"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=null] impose": [
+        "imposing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] permit": [
+        "permitting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] consider": [
+        "considering"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] encourage": [
+        "encouraging"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] assess": [
+        "be assessed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] operate": [
+        "operate"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] mitigate": [
+        "mitigate"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ask": [
+        "asked"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] evaluate": [
+        "evaluate"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] ensure": [
+        "ensure"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] comply": [
+        "comply"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] appear": [
+        "appear"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slow": [
+        "slowed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] withdraw": [
+        "withdrew"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] depart": [
+        "departed"
+    ]
+}

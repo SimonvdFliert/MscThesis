@@ -1,0 +1,5430 @@
+{
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn": [
+        "is"
+    ],
+    "ART[form=bep,gender=zijd_of_mv,case=neut] de": [
+        "de"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] lopen": [
+        "liep"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] komen": [
+        "kwam"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] steken": [
+        "stak"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] het": [
+        "het"
+    ],
+    "ART[form=onbep,gender=zijd_of_onzijd,case=neut] een": [
+        "een"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen": [
+        "kwamen"
+    ],
+    "V[type=trans,tense=inf] verlenen": [
+        "verlenen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] oplopen": [
+        "opliep"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden": [
+        "werd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] scheppen": [
+        "geschept"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] oversteken": [
+        "oversteken"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] zijn": [
+        "was"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] terechtkomen": [
+        "terechtgekomen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] gebeuren": [
+        "gebeurde"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] melden": [
+        "melden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden": [
+        "reed"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] getuigen": [
+        "getuigen"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] worden": [
+        "werden"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] zijn": [
+        "zijn"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overlijden": [
+        "overleed"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] moeten": [
+        "moest"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] komennen": [
+        "komende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] sturen": [
+        "gestuurd"
+    ],
+    "V[type=trans,tense=inf] tillen": [
+        "tillen"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] hoeven": [
+        "hoefde"
+    ],
+    "V[type=intrans,tense=inf] komen": [
+        "komen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] onderzoeken": [
+        "onderzoekt"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] hebben": [
+        "heeft"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] zitten": [
+        "zaten"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] hebben": [
+        "had"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inhalen": [
+        "ingehaald"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] knallen": [
+        "knalde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] slaan": [
+        "sloeg"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanrijden": [
+        "aangereden"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] hebben": [
+        "heeft"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] instellen": [
+        "ingesteld"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afsluiten": [
+        "afgesloten"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] zullen": [
+        "zou"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] rijden": [
+        "gereden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] besturen": [
+        "bestuurd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] oproepen": [
+        "opgeroepen"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] bleken": [
+        "bleek"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] stelen": [
+        "stelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00ebindigen": [
+        "ge\u00ebindigd"
+    ],
+    "V[type=trans,tense=imp] innen": [
+        "in"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] lopennen": [
+        "lopende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] signaleren": [
+        "gesignaleerd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] dragen": [
+        "droeg"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] bedreigen": [
+        "bedreigde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] reden": [
+        "reden"
+    ],
+    "V[type=trans,tense=imp] metten": [
+        "met"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vluchten": [
+        "vluchtte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] arriveren": [
+        "arriveerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beuren": [
+        "gebeurd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] duren": [
+        "geduurd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] vermoeden": [
+        "vermoeden"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] bestaan": [
+        "bestaat"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] komen": [
+        "gekomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overlijden": [
+        "overleden"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] willen": [
+        "wilde"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] iemand": [
+        "iemand"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] zijn": [
+        "zijn"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] blijven": [
+        "bleef"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitbreiden": [
+        "uitgebreid"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] kunnen": [
+        "kon"
+    ],
+    "V[type=trans,tense=inf] ontwijken": [
+        "ontwijken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] ontstaan": [
+        "ontstond"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vinden": [
+        "vond"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] raken": [
+        "raakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kwijtraken": [
+        "kwijtgeraakt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] stellen": [
+        "gesteld"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] overlijden": [
+        "overleden"
+    ],
+    "V[type=trans,tense=inf] slaan": [
+        "slaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verrichten": [
+        "verricht"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] worden": [
+        "worden"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] melden": [
+        "melden"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] laten": [
+        "liet"
+    ],
+    "V[type=trans,tense=inf] wijten": [
+        "weten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] laten": [
+        "liet"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] roepen": [
+        "roept"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] bellen": [
+        "bellen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zitten": [
+        "zat"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] hebben": [
+        "hadden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verlaten": [
+        "verlaten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overbrengen": [
+        "overgebracht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] botsen": [
+        "gebotst"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] besluiten": [
+        "besloot"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] rijdennen": [
+        "rijdende"
+    ],
+    "V[type=trans,tense=inf] halen": [
+        "halen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] kozen": [
+        "koos"
+    ],
+    "V[type=trans,tense=imp] oppen": [
+        "op"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] botsen": [
+        "botsten"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] melden": [
+        "meldt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] voorzien": [
+        "voorzien"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] drinken": [
+        "gedronken"
+    ],
+    "V[type=hulp_of_kopp,tense=verl_dw,person=onverv] wezen": [
+        "geweest"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] rammen": [
+        "ramde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] halen": [
+        "gehaald"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] maken": [
+        "gemaakt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] gaten": [
+        "gaat"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] geven": [
+        "gegeven"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] moeten": [
+        "moesten"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] stanen": [
+        "staande"
+    ],
+    "V[type=hulp_of_kopp,tense=verl_dw,person=onverv] geraken": [
+        "geraakt"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] komen": [
+        "gekomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gespecialiseren": [
+        "gespecialiseerde"
+    ],
+    "V[type=trans,tense=inf] behandelen": [
+        "behandelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] brengen": [
+        "gebracht"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zondagnachten": [
+        "zondagnacht"
+    ],
+    "V[type=trans,tense=inf] zien": [
+        "zien"
+    ],
+    "V[type=trans,tense=inf,person=subst] zien": [
+        "zien"
+    ],
+    "V[type=intrans,tense=inf] gebeuren": [
+        "gebeuren"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] hebben": [
+        "hebben"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gealarmeren": [
+        "gealarmeerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zien": [
+        "zag"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] bezwijken": [
+        "bezweek"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] gaan": [
+        "ging"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afzetten": [
+        "afgezet"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] zijn": [
+        "waren"
+    ],
+    "V[type=intrans,tense=inf] staan": [
+        "staan"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] uitstappen": [
+        "uitgestapt"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] sloten": [
+        "sloot"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] zittennen": [
+        "zittende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verklaren": [
+        "verklaarde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] hebben": [
+        "gehad"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opzoeken": [
+        "opgezocht"
+    ],
+    "V[type=hulp,tense=verl_dw,person=onverv] trachten": [
+        "getracht"
+    ],
+    "V[type=trans,tense=inf] bieden": [
+        "bieden"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] laten": [
+        "laat"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] hebben": [
+        "hebben"
+    ],
+    "V[type=hulp,tense=verl_dw,person=onverv] proberen": [
+        "geprobeerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] lopen": [
+        "loopt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] oplopen": [
+        "opgelopen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] belanden": [
+        "belandde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aantreffen": [
+        "aangetroffen"
+    ],
+    "V[type=intrans,tense=inf,person=subst] handelen": [
+        "handelen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] leven": [
+        "levend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontvangen": [
+        "ontvangen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] liggen": [
+        "lag"
+    ],
+    "V[type=trans,tense=inf] reanimeren": [
+        "reanimeren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] frontalen": [
+        "frontaal"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gaan": [
+        "gegaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] landen": [
+        "landde"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] slingeren": [
+        "slingerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beknelden": [
+        "bekneld"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] doen": [
+        "gedaan"
+    ],
+    "V[type=trans,tense=inf] redden": [
+        "redden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] spreken": [
+        "gesproken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verzoeken": [
+        "verzocht"
+    ],
+    "V[type=trans,tense=inf] nemen": [
+        "nemen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] rukken": [
+        "rukte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] betrekken": [
+        "betrokken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] vallen": [
+        "viel"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] rijden": [
+        "rijdt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] ganen": [
+        "gaande"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] geraken": [
+        "geraakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vernielen": [
+        "vernield"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] plaatsvinden": [
+        "plaatsgevonden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aflopen": [
+        "afgelopen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] slingeren": [
+        "geslingerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] blijken": [
+        "blijkt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vaststellen": [
+        "vastgesteld"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] zitten": [
+        "gezeten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] schuiven": [
+        "schoof"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] proberen": [
+        "probeerde"
+    ],
+    "V[type=hulp,tense=inf] kunnen": [
+        "kunnen"
+    ],
+    "ART[form=onbep,gender=zijd_of_onzijd,case=neut] 'n": [
+        "'n"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schuiven": [
+        "geschoven"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] doen": [
+        "doet"
+    ],
+    "V[type=intrans,tense=inf] liggen": [
+        "liggen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] alarmeren": [
+        "alarmeerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] ontdekken": [
+        "ontdekten"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] lijken": [
+        "lijkt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] komen": [
+        "komt"
+    ],
+    "V[type=trans,tense=inf] krijgen": [
+        "krijgen"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] kunnen": [
+        "konden"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] weggeslepen": [
+        "weggesleept"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] belannen": [
+        "belande"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] worden": [
+        "wordt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] tegemoetkomennen": [
+        "tegemoetkomende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] vinden": [
+        "vond"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] weghalen": [
+        "weggehaald"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] onderzoeken": [
+        "onderzocht"
+    ],
+    "V[type=trans,tense=ott,person=2,number=ev] vragen": [
+        "vraagt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] zien": [
+        "gezien"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] melden": [
+        "meldde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vermoeden": [
+        "vermoedt"
+    ],
+    "V[type=trans,tense=inf,person=subst] horen": [
+        "horen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] horen": [
+        "horen"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] gelukken": [
+        "gelukt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] sturen": [
+        "stuurde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] lukken": [
+        "lukte"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verlenen": [
+        "verleende"
+    ],
+    "V[type=trans,tense=inf] bevrijden": [
+        "bevrijden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vervoeren": [
+        "vervoerde"
+    ],
+    "V[type=refl,tense=verl_dw,person=onverv] scharen": [
+        "geschaard"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitvoeren": [
+        "uitgevoerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verklaren": [
+        "verklaard"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitwijzen": [
+        "uitgewezen"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] mogen": [
+        "mocht"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] tikken": [
+        "tikte"
+    ],
+    "V[type=intrans,tense=inf] vertrekken": [
+        "vertrekken"
+    ],
+    "V[type=trans,tense=inf] slingeren": [
+        "slingeren"
+    ],
+    "V[type=trans,tense=imp] vannen": [
+        "van"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] haren": [
+        "haar"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] nemen": [
+        "genomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] besturen": [
+        "bestuurde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vinden": [
+        "gevonden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] vinden": [
+        "vonden"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] kunnen": [
+        "kan"
+    ],
+    "V[type=trans,tense=inf] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=trans,tense=ott,person=2,number=ev] stellen": [
+        "stelt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] volgen": [
+        "volgde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] maken": [
+        "maakten"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] proberen": [
+        "probeert"
+    ],
+    "V[type=trans,tense=inf] achterhalen": [
+        "achterhalen"
+    ],
+    "V[type=trans,tense=inf] zeggen": [
+        "zeggen"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] blijven": [
+        "bleven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] maken": [
+        "maakte"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] toegesnelen": [
+        "toegesnelde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] verzorgen": [
+        "verzorgden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verliezen": [
+        "verloor"
+    ],
+    "V[type=trans,tense=inf] afrijjen": [
+        "afrijden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] staan": [
+        "stond"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zeggen": [
+        "zegt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] alarmeren": [
+        "gealarmeerd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] aansluitennen": [
+        "aansluitende"
+    ],
+    "V[type=hulp,tense=inf] laten": [
+        "laten"
+    ],
+    "V[type=intrans,tense=inf] stappen": [
+        "stappen"
+    ],
+    "V[type=trans,tense=imp] naren": [
+        "naar"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inrijden": [
+        "ingereden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] stilstanen": [
+        "stilstaande"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] inzittennen": [
+        "inzittende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inschakelen": [
+        "ingeschakeld"
+    ],
+    "V[type=trans,tense=inf] stellen": [
+        "stellen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] terechtkomen": [
+        "terechtkwam"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] controleren": [
+        "gecontroleerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opvangen": [
+        "opgevangen"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] staan": [
+        "stond"
+    ],
+    "V[type=intrans,tense=inf] wachten": [
+        "wachten"
+    ],
+    "V[type=intrans,tense=inf] rijen": [
+        "rijden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] passeren": [
+        "gepasseerd"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zoeken": [
+        "zoekt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opnemen": [
+        "opgenomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bergen": [
+        "geborgen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanhouden": [
+        "aangehouden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] doen": [
+        "deed"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bevrijden": [
+        "bevrijd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] zitten": [
+        "zit"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] gaan": [
+        "gingen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] meegesleuren": [
+        "meegesleurt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] overstappen": [
+        "overgestapt"
+    ],
+    "V[type=trans,tense=inf] inhalen": [
+        "inhalen"
+    ],
+    "V[type=trans,tense=inf,person=subst] uitwijken": [
+        "uitwijken"
+    ],
+    "V[type=trans,tense=inf] draaien": [
+        "draaien"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00ebmotioneren": [
+        "ge\u00ebmotioneerd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] zien": [
+        "zagen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] verlenen": [
+        "verleenden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] treffen": [
+        "troffen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verliezen": [
+        "verloren"
+    ],
+    "V[type=trans,tense=inf] stoppen": [
+        "stoppen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vertellen": [
+        "vertelde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] springen": [
+        "sprong"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] trekken": [
+        "trok"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] weken": [
+        "week"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beginnen": [
+        "begonnen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] lanceren": [
+        "gelanceerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontstaan": [
+        "ontstaan"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bevestigen": [
+        "bevestigt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] asfallen": [
+        "asfalt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ongedeerden": [
+        "ongedeerd"
+    ],
+    "V[type=intrans,tense=inf] keren": [
+        "keren"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] proberen": [
+        "probeerden"
+    ],
+    "V[type=trans,tense=inf] dwingen": [
+        "dwingen"
+    ],
+    "V[type=intrans,tense=inf] springen": [
+        "springen"
+    ],
+    "V[type=trans,tense=inf,person=subst] kenteken": [
+        "kenteken"
+    ],
+    "V[type=trans,tense=inf] geven": [
+        "geven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] weten": [
+        "wist"
+    ],
+    "V[type=trans,tense=inf] houden": [
+        "houden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] innemen": [
+        "ingenomen"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] moeten": [
+        "moet"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toestaan": [
+        "toegestaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] stoppen": [
+        "stopte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] controleren": [
+        "controleerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zeggen": [
+        "zei"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stappen": [
+        "stapte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] herkennen": [
+        "herkenden"
+    ],
+    "V[type=hulp,tense=inf] gaan": [
+        "gaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] zeggen": [
+        "zeiden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] ontkennen": [
+        "ontkende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zetten": [
+        "zette"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verhogen": [
+        "verhoogde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] slingeren": [
+        "slingerend"
+    ],
+    "V[type=trans,tense=inf] drinken": [
+        "drinken"
+    ],
+    "V[type=hulp,tense=inf] hebben": [
+        "hebben"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] behoren": [
+        "behoort"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] betuigen": [
+        "betuigde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] spijten": [
+        "spijt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vragen": [
+        "vroeg"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] overtuigen": [
+        "overtuigend"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] wijzen": [
+        "wees"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] beginnen": [
+        "begon"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] slaan": [
+        "geslagen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] melden": [
+        "meldden"
+    ],
+    "V[type=trans,tense=inf] wijken": [
+        "wijken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zwaargewonnen": [
+        "zwaargewonde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] betreffen": [
+        "betrof"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verdenken": [
+        "verdacht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] omgeleiden": [
+        "omgeleid"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] weigeren": [
+        "weigerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] naderen": [
+        "naderde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] lopen": [
+        "liepen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] surveillerennen": [
+        "surveillerende"
+    ],
+    "V[type=trans,tense=inf,person=subst] stopteken": [
+        "stopteken"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] reageren": [
+        "gereageerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] oprijden": [
+        "oprijdt"
+    ],
+    "V[type=trans,tense=imp] doren": [
+        "door"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bijstaan": [
+        "bijgestaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] grijpen": [
+        "gegrepen"
+    ],
+    "V[type=trans,tense=imp] uiten": [
+        "uit"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] ontdekken": [
+        "ontdekt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stappen": [
+        "gestapt"
+    ],
+    "V[type=intrans,tense=inf] lopen": [
+        "lopen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verlenen": [
+        "verleend"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] mogen": [
+        "mag"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afronden": [
+        "afgerond"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zeggen": [
+        "zeggen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verklaren": [
+        "verklaart"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] treffen": [
+        "trof"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] sterven": [
+        "stierf"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] geven": [
+        "gaf"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geparkeren": [
+        "geparkeerde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stilstaan": [
+        "stilstond"
+    ],
+    "V[type=trans,tense=inf] afhandelingen": [
+        "afhandelingen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] plaatsvinden": [
+        "plaatsvonden"
+    ],
+    "V[type=trans,tense=imp] tegen": [
+        "tegen"
+    ],
+    "V[type=trans,tense=imp] bijjen": [
+        "bij"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gedragen": [
+        "gedragen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] doorgeredden": [
+        "doorgereden"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] haren": [
+        "haar"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] betreffen": [
+        "betreft"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] plaatsvinden": [
+        "plaatsvond"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] krijgen": [
+        "kreeg"
+    ],
+    "V[type=intrans,tense=inf] passeren": [
+        "passeren"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] beginnen": [
+        "begonnen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] wijzen": [
+        "wijst"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] veroorzaken": [
+        "veroorzaakt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afgeraken": [
+        "afgeraakt"
+    ],
+    "V[type=trans,tense=inf] corrigeren": [
+        "corrigeren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ontdekken": [
+        "ontdekte"
+    ],
+    "V[type=trans,tense=inf,person=subst] vaststellen": [
+        "vaststellen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] liggen": [
+        "liggen"
+    ],
+    "V[type=refl,tense=verl_dw,person=onverv] voordoen": [
+        "voorgedaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] krijgen": [
+        "gekregen"
+    ],
+    "V[type=trans,tense=inf] maken": [
+        "maken"
+    ],
+    "V[type=trans,tense=inf] sturen": [
+        "sturen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] stelen": [
+        "gestolen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] registreren": [
+        "geregistreerd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] geven": [
+        "gaven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] negeren": [
+        "negerde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] volgennen": [
+        "volgende"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] zullen": [
+        "zal"
+    ],
+    "V[type=hulp,tense=inf] moeten": [
+        "moeten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] bebouwen": [
+        "bebouwde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] halen": [
+        "haalden"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_mv] gehandicappen": [
+        "gehandicapten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] wonen": [
+        "woonde"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] wijten": [
+        "weten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] instellen": [
+        "instelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] brengen": [
+        "bracht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overreden": [
+        "overreden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vastleggen": [
+        "vastgelegd"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] zullen": [
+        "zouden"
+    ],
+    "V[type=intrans,tense=inf] zitten": [
+        "zitten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schieten": [
+        "geschoten"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] bleken": [
+        "bleken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] hartslaggen": [
+        "hartslag"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] onbekennen": [
+        "onbekende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] zetten": [
+        "gezet"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zetten": [
+        "zet"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] rennen": [
+        "rende"
+    ],
+    "V[type=trans,tense=inf] horen": [
+        "horen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] horen": [
+        "hoorden"
+    ],
+    "V[type=intrans,tense=inf] kijken": [
+        "kijken"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zien": [
+        "zagen",
+        "zien"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] worden": [
+        "worden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] behandelen": [
+        "behandeld"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] krijgen": [
+        "kregen"
+    ],
+    "V[type=trans,tense=inf] doen": [
+        "doen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] tillen": [
+        "getild"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vervoeren": [
+        "vervoerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] liggen": [
+        "gelegen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] benadrukken": [
+        "benadrukt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ontvangen": [
+        "ontving"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] brandennen": [
+        "brandende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] bevestigen": [
+        "bevestigden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] trekken": [
+        "trokken"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] bevinden": [
+        "bevond"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] trekken": [
+        "getrokken",
+        "trek"
+    ],
+    "V[type=trans,tense=inf] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] reanimeren": [
+        "gereanimeerd"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] beuren": [
+        "gebeurd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] carnavallen": [
+        "carnaval"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vieren": [
+        "gevierd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] nemen": [
+        "nam"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schrikken": [
+        "geschrokken"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] betrokkeneen": [
+        "betrokkene"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] anderen": [
+        "anderen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] breken": [
+        "brak"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] genoemen": [
+        "genoemde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] wonen": [
+        "gewoond"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] hebbennen": [
+        "hebbende"
+    ],
+    "V[type=intrans,tense=inf] onderzoeken": [
+        "onderzoeken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] schrikken": [
+        "schrok"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] remmen": [
+        "remde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kunnen": [
+        "kon"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitsluiten": [
+        "uitgesloten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inlichten": [
+        "ingelicht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] houden": [
+        "gehouden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bevestigen": [
+        "bevestigd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] wijzen": [
+        "wijzen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efdentificeren": [
+        "ge\u00efdentificeerd"
+    ],
+    "V[type=hulp_of_kopp,tense=verl_dw,person=onverv] geworden": [
+        "geworden"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] liggen": [
+        "ligt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] halen": [
+        "haalde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geco\u00f6rdineren": [
+        "geco\u00f6rdineerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] meenemen": [
+        "meegenomen"
+    ],
+    "V[type=intrans,tense=inf] bevrijden": [
+        "bevrijden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] leven": [
+        "leefde"
+    ],
+    "V[type=intrans,tense=inf] beginnen": [
+        "beginnen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] verkeren": [
+        "verkeert"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verslechteren": [
+        "verslechterde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] stabiliseren": [
+        "gestabiliseerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overleven": [
+        "overleefd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kosten": [
+        "gekost"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] botsen": [
+        "gebotst"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kantelen": [
+        "gekanteld"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] verwijderen": [
+        "verwijderen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geopereren": [
+        "geopereerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] meerijden": [
+        "meegereden"
+    ],
+    "V[type=trans,tense=inf] assisteren": [
+        "assisteren"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] overledeneen": [
+        "overledene"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] vaststaan": [
+        "vaststaat"
+    ],
+    "V[type=trans,tense=teg_dw,person=onverv] rijden": [
+        "rijdend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kruisen": [
+        "kruiste"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] horen": [
+        "gehoord"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kwijtraken": [
+        "kwijtraakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontslaan": [
+        "ontslagen"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] struikelen": [
+        "gestruikeld"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] terechtkomen": [
+        "terechtgekomen"
+    ],
+    "V[type=trans,tense=inf] ziekenhuizen": [
+        "ziekenhuizen"
+    ],
+    "V[type=trans,tense=inf] overlijden": [
+        "overlijden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] staken": [
+        "staken"
+    ],
+    "V[type=trans,tense=inf,person=subst] betekenen": [
+        "betekenen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verongelukken": [
+        "verongelukt"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] verongelukken": [
+        "verongelukt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] krijgen": [
+        "kregen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] doodgeredden": [
+        "doodgereden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanmerken": [
+        "aangemerkt"
+    ],
+    "V[type=trans,tense=inf] afwachten": [
+        "afwachten"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] belanden": [
+        "belandden"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] toegestaneen": [
+        "toegestane"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] veroordelen": [
+        "veroordeelde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] slingerennen": [
+        "slingerende"
+    ],
+    "V[type=trans,tense=inf] inleveren": [
+        "inleveren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verongelukken": [
+        "verongelukte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] pogen": [
+        "gepoogd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afnemen": [
+        "afgenomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afvoeren": [
+        "afgevoerd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] benarren": [
+        "benarde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_mv] winden": [
+        "gewonden"
+    ],
+    "V[type=trans,tense=inf] betekenen": [
+        "betekenen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inroepen": [
+        "ingeroepen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] leggen": [
+        "gelegd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] assisteren": [
+        "geassisteerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] struikelen": [
+        "gestruikeld"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] passerennen": [
+        "passerende"
+    ],
+    "V[type=intrans,tense=inf] wandelen": [
+        "wandelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beveiligden": [
+        "beveiligd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] luiden": [
+        "luidt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] naderen": [
+        "nadert"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] benauwen": [
+        "benauwde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] boeken": [
+        "geboekt"
+    ],
+    "V[type=intrans,tense=inf] denken": [
+        "denken"
+    ],
+    "V[type=trans,tense=inf] brengen": [
+        "brengen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zorgen": [
+        "zorgde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] sparen": [
+        "spaarde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bezorgen": [
+        "bezorgde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] opeenvolgennen": [
+        "opeenvolgende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] trakteren": [
+        "getrakteerd"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] blijven": [
+        "blijven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verzorgen": [
+        "verzorgde"
+    ],
+    "V[type=trans,tense=inf] merken": [
+        "merken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] cre\u00eberen": [
+        "cre\u00eberde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] keren": [
+        "gekeerd"
+    ],
+    "V[type=refl,tense=inf] zien": [
+        "zien"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] tonen": [
+        "toonde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] teruggekeren": [
+        "teruggekeerde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] invallen": [
+        "ingevallen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] lepelen": [
+        "lepelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] spelen": [
+        "speelde"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] kunnen": [
+        "kunnen"
+    ],
+    "V[type=trans,tense=inf] gooien": [
+        "gooien"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] debuterennen": [
+        "debuterende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] winnen": [
+        "won"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] streven": [
+        "streeft"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] bijbehorennen": [
+        "bijbehorende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kennen": [
+        "kende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] scoren": [
+        "scoorde"
+    ],
+    "V[type=refl,tense=inf] revancheren": [
+        "revancheren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] wissen": [
+        "wisten"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zakken": [
+        "zakt"
+    ],
+    "V[type=trans,tense=inf] missen": [
+        "missen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] missennen": [
+        "missende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schorsen": [
+        "geschorst"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] eindigen": [
+        "eindigde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bezetten": [
+        "bezet"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] staan": [
+        "staat"
+    ],
+    "V[type=intrans,tense=inf] gaan": [
+        "gaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] stichten": [
+        "stichtte"
+    ],
+    "V[type=intrans,tense=inf] ingrijpen": [
+        "ingrijpen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] redden": [
+        "redde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] eindigen": [
+        "eindigde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] scoren": [
+        "scoort"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] maken": [
+        "maakte"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] leken": [
+        "leek"
+    ],
+    "V[type=intrans,tense=inf] eindigen": [
+        "eindigen"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] wachten": [
+        "wacht"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] aanvallen": [
+        "aanvallend"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] zorgen": [
+        "zorgden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] houden": [
+        "hield"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] winnen": [
+        "won"
+    ],
+    "V[type=intrans,tense=inf] punten": [
+        "punten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vergeten": [
+        "vergeten"
+    ],
+    "V[type=trans,tense=inf] noemen": [
+        "noemen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kraken": [
+        "gekraakt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] openen": [
+        "opende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ronden": [
+        "rondde"
+    ],
+    "V[type=trans,tense=inf] drukken": [
+        "drukken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zakken": [
+        "zakte"
+    ],
+    "V[type=intrans,tense=inf] genieten": [
+        "genieten"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zetten": [
+        "zetten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] loeren": [
+        "loerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] invallen": [
+        "ingevallen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vloeren": [
+        "gevloerd"
+    ],
+    "V[type=trans,tense=inf] aantekenen": [
+        "aantekenen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] dringen": [
+        "drong"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] verzuimen": [
+        "verzuimde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zien": [
+        "zag"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zijnetten": [
+        "zijnet"
+    ],
+    "V[type=trans,tense=inf] verschalken": [
+        "verschalken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] benutten": [
+        "benutte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] pakken": [
+        "pakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afgestraffen": [
+        "afgestraft"
+    ],
+    "V[type=trans,tense=inf] wegspoelen": [
+        "wegspoelen"
+    ],
+    "V[type=trans,tense=inf] bouwen": [
+        "bouwen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] besteden": [
+        "besteed"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] prolongeren": [
+        "geprolongeerd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] profiteren": [
+        "profiteerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] speelronnen": [
+        "speelronde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zegevieren": [
+        "zegevierde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] geloven": [
+        "geloof"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] willen": [
+        "wil"
+    ],
+    "V[type=trans,tense=inf] leggen": [
+        "leggen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] brengen": [
+        "bracht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] concentreren": [
+        "geconcentreerd"
+    ],
+    "V[type=intrans,tense=inf] strijden": [
+        "strijden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] rennen": [
+        "renden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] denken": [
+        "dacht"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] keren": [
+        "keerde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] mogen": [
+        "mochten"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] gaan": [
+        "gaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bestempelen": [
+        "bestempelde"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] niemand": [
+        "niemand"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] opkomen": [
+        "opgekomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] breken": [
+        "gebroken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] klimmen": [
+        "klimt"
+    ],
+    "V[type=trans,tense=inf] cre\u00ebren": [
+        "cre\u00ebren"
+    ],
+    "V[type=trans,tense=inf] onderscheppen": [
+        "onderscheppen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] pakken": [
+        "gepakt"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] verstrijken": [
+        "verstreken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] klimmen": [
+        "klom"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bewijzen": [
+        "bewezen"
+    ],
+    "V[type=trans,tense=inf] winnen": [
+        "winnen"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] blijven": [
+        "blijven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] nalaten": [
+        "naliet"
+    ],
+    "V[type=trans,tense=inf,person=subst] verdedigen": [
+        "verdedigen"
+    ],
+    "V[type=refl,tense=inf] beperken": [
+        "beperken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] betekenen": [
+        "betekent"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] noteren": [
+        "genoteerd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] dateren": [
+        "dateerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gewinnen": [
+        "gewonnen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] spelen": [
+        "gespeeld"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] tekenen": [
+        "tekende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] krijgen": [
+        "kreeg"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verdienen": [
+        "verdiende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] verliezen": [
+        "verloor"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gevieren": [
+        "gevierde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] liggen": [
+        "gelegen"
+    ],
+    "V[type=trans,tense=inf] verdubbelen": [
+        "verdubbelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vragen": [
+        "gevraagd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] zorgen": [
+        "zorgt"
+    ],
+    "V[type=trans,tense=inf] vinden": [
+        "vinden"
+    ],
+    "V[type=trans,tense=inf] verwerken": [
+        "verwerken"
+    ],
+    "V[type=trans,tense=inf] glippen": [
+        "glippen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] naderennen": [
+        "naderende"
+    ],
+    "V[type=intrans,tense=inf] uitvallen": [
+        "uitvallen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verkleinen": [
+        "verkleind"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] trefzekeren": [
+        "trefzeker"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] flitsen": [
+        "flitsend"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] aangeven": [
+        "aangeven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vorderen": [
+        "vorderde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verzorgen": [
+        "verzorgd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] hanteren": [
+        "hanteerde"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] uitblijven": [
+        "uitblijven"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] verlopen": [
+        "verliep"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] vallen": [
+        "vallen"
+    ],
+    "V[type=trans,tense=imp] naan": [
+        "na"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stoppen": [
+        "stopt"
+    ],
+    "V[type=trans,tense=inf,person=subst] danken": [
+        "danken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toekennen": [
+        "toegekend"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] timennen": [
+        "timende"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] verdienen": [
+        "verdiend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] binnenhalen": [
+        "binnengehaald"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] leveren": [
+        "leverde"
+    ],
+    "V[type=trans,tense=inf] inrukken": [
+        "inrukken"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] willen": [
+        "wilden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] ploffen": [
+        "plofte"
+    ],
+    "V[type=trans,tense=inf,person=subst] zoeken": [
+        "zoeken"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] gewinnen": [
+        "gewonnen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] leggen": [
+        "legde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zoeken": [
+        "zocht"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] koppen": [
+        "kopte"
+    ],
+    "V[type=trans,tense=inf] incasseren": [
+        "incasseren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] wisselen": [
+        "gewisseld"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] missen": [
+        "miste"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] teisteren": [
+        "teisterde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] falen": [
+        "faalde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bieden": [
+        "bood"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] blijven": [
+        "blijft"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] helpen": [
+        "hielp"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] treffen": [
+        "getroffen"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] voltrekken": [
+        "voltrok"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] spelen": [
+        "speelt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] moeten": [
+        "moeten"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] laten": [
+        "lieten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verzilveren": [
+        "verzilverde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] grijpen": [
+        "greep"
+    ],
+    "V[type=trans,tense=inf] noteren": [
+        "noteren"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] niets": [
+        "niets"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] komen": [
+        "kwam"
+    ],
+    "V[type=intrans,tense=inf] spelen": [
+        "spelen"
+    ],
+    "V[type=trans,tense=inf] verzilveren": [
+        "verzilveren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] slagen": [
+        "geslaagd"
+    ],
+    "V[type=trans,tense=inf] scoren": [
+        "scoren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] wachten": [
+        "wachtte"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zorgen": [
+        "zorgde"
+    ],
+    "V[type=intrans,tense=inf] voetballen": [
+        "voetballen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] passeren": [
+        "passeerde"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] spreken": [
+        "spreken"
+    ],
+    "V[type=trans,tense=inf] danken": [
+        "danken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] dragen": [
+        "draagt"
+    ],
+    "V[type=intrans,tense=inf] sprokkelen": [
+        "sprokkelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bezorgen": [
+        "bezorgd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] raken": [
+        "raakte"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] aflopen": [
+        "afgelopen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aankondigen": [
+        "aangekondigd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] voorhoeen": [
+        "voorhoede"
+    ],
+    "V[type=trans,tense=inf] verbijten": [
+        "verbijten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] weten": [
+        "wist"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] uitgespelen": [
+        "uitgespeelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inleveren": [
+        "ingeleverd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] stellen": [
+        "stelde"
+    ],
+    "V[type=trans,tense=inf] openen": [
+        "openen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] drijven": [
+        "gedreven"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] willen": [
+        "willen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] spelen": [
+        "speelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] neerhalen": [
+        "neerhaalde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] samenspelennen": [
+        "samenspelende"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] keren": [
+        "keren"
+    ],
+    "V[type=trans,tense=inf] steken": [
+        "steken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] beleven": [
+        "beleefden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ombuigen": [
+        "omgebogen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] kijken": [
+        "kijkt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] veelbeloven": [
+        "veelbelovend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] roepen": [
+        "riep"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] blesseren": [
+        "geblesseerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vervangen": [
+        "vervangen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] zoeken": [
+        "zochten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geblesseren": [
+        "geblesseerde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] kennen": [
+        "kent"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bezorgen": [
+        "bezorgt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] opvallen": [
+        "opvallend"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] bevallen": [
+        "beviel"
+    ],
+    "V[type=trans,tense=inf] verliezen": [
+        "verliezen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] onderscheiden": [
+        "onderscheidde"
+    ],
+    "V[type=trans,tense=inf] benen": [
+        "benen"
+    ],
+    "V[type=trans,tense=inf] ranselen": [
+        "ranselen"
+    ],
+    "V[type=trans,tense=inf] bijschrijven": [
+        "bijschrijven"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] leggen": [
+        "legde"
+    ],
+    "V[type=trans,tense=inf] binnentikken": [
+        "binnentikken"
+    ],
+    "V[type=trans,tense=inf] brokkelen": [
+        "brokkelen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] verschijnen": [
+        "verscheen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] opgeleven": [
+        "opgeleefde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] hielen": [
+        "hielden"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] uitgevoeren": [
+        "uitgevoerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] brengen": [
+        "brachten"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] acteren": [
+        "acterend"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] toezien": [
+        "toeziend"
+    ],
+    "V[type=trans,tense=inf] opvoeren": [
+        "opvoeren"
+    ],
+    "V[type=trans,tense=inf,person=subst] zeggen": [
+        "zeggen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] haken": [
+        "haakt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] cre\u00eberen": [
+        "gecre\u00eberd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ondernemen": [
+        "ondernam"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zeilen": [
+        "zeilde"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] zetten": [
+        "zetten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_mv] verontrusten": [
+        "verontrusten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] leiden": [
+        "leidde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanraken": [
+        "aangeraakt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] gooien": [
+        "gooide"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] schitterennen": [
+        "schitterende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] loslaten": [
+        "losgelaten"
+    ],
+    "V[type=intrans,tense=inf] werken": [
+        "werken"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=mv] stapelen": [
+        "stapelden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] springen": [
+        "sprongen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] uitrekenen": [
+        "uitgerekend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kappen": [
+        "kapte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verspelen": [
+        "verspeeld"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] starten": [
+        "starten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afkeuren": [
+        "afgekeurd"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] overkomen": [
+        "overgekomen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vervangen": [
+        "verving"
+    ],
+    "V[type=trans,tense=inf] forceren": [
+        "forceren"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] begeren": [
+        "begeerde"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] hoeven": [
+        "hoeven"
+    ],
+    "V[type=refl,tense=inf] noemen": [
+        "noemen"
+    ],
+    "V[type=trans,tense=ott,person=2,number=ev] redden": [
+        "red"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] misten": [
+        "gemist"
+    ],
+    "V[type=trans,tense=inf] zetten": [
+        "zetten"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] negennen": [
+        "negende"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] krijgen": [
+        "krijgt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] delen": [
+        "deelden"
+    ],
+    "V[type=intrans,tense=inf,person=subst] functioneren": [
+        "functioneren"
+    ],
+    "V[type=trans,tense=inf] schenken": [
+        "schenken"
+    ],
+    "V[type=trans,tense=inf] schuiven": [
+        "schuiven"
+    ],
+    "V[type=intrans,tense=inf] schieten": [
+        "schieten"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] doorbreken": [
+        "doorgebroken"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] bedienen": [
+        "bediende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] terugleggen": [
+        "teruglegde"
+    ],
+    "V[type=intrans,tense=inf] tikken": [
+        "tikken"
+    ],
+    "V[type=trans,tense=inf] pakken": [
+        "pakken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] laten": [
+        "gelaten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] slagen": [
+        "slaagden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] aanhoudennen": [
+        "aanhoudende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] getergen": [
+        "getergde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] geven": [
+        "geeft"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] duren": [
+        "duurde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] beduiden": [
+        "beduidend"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] voeren": [
+        "voerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] snakken": [
+        "snakte"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] leken": [
+        "leken"
+    ],
+    "V[type=intrans,tense=inf] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=trans,tense=inf] slijpen": [
+        "slepen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] dribbelen": [
+        "dribbelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] produceren": [
+        "produceerde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] mislukken": [
+        "mislukte"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] tergen": [
+        "tergend"
+    ],
+    "V[type=intrans,tense=inf] steken": [
+        "steken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] klimmen": [
+        "klommen"
+    ],
+    "V[type=intrans,tense=inf] eredivisieduelsen": [
+        "eredivisieduels"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] pakken": [
+        "pakten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] neerleggen": [
+        "neergelegd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verwerken": [
+        "verwerkte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanspelen": [
+        "aangespeeld"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] aarzelen": [
+        "aarzelend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] leveren": [
+        "leverden"
+    ],
+    "V[type=intrans,tense=inf,person=subst] aandringen": [
+        "aandringen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verlengen": [
+        "verlengd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] werken": [
+        "gewerkt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] mogen": [
+        "mocht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] benutten": [
+        "benut"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] neergehaalden": [
+        "neergehaald"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] zijn": [
+        "waren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] vergeten": [
+        "vergaten"
+    ],
+    "V[type=trans,tense=inf] stropen": [
+        "stropen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] knikken": [
+        "knikte"
+    ],
+    "V[type=trans,tense=inf] geloven": [
+        "geloven"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] blokken": [
+        "geblokt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bedragen": [
+        "bedraagt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bereiken": [
+        "bereikte"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] regenen": [
+        "regende"
+    ],
+    "V[type=trans,tense=ott,person=2,number=ev] tekenen": [
+        "teken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overkomen": [
+        "overgekomen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] breiden": [
+        "breidde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] kijken": [
+        "keek"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afhouden": [
+        "afgehouden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] werken": [
+        "werkte"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] onverdien": [
+        "onverdiend"
+    ],
+    "V[type=refl,tense=inf] beklagen": [
+        "beklagen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] aangeven": [
+        "aangeven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] hebben": [
+        "had"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opklimmen": [
+        "opgeklommen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] beheersen": [
+        "beheerst"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] staan": [
+        "staan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] veranderen": [
+        "veranderd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kloppen": [
+        "geklopt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] menen": [
+        "meende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verzekeren": [
+        "verzekerd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] meeslepennen": [
+        "meeslepende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] resulteren": [
+        "resulteerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] veroorzaken": [
+        "veroorzaakte"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] kruipen": [
+        "kroop"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verstevigen": [
+        "verstevigt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] aftrappen": [
+        "aftrapt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] uitgroeien": [
+        "uitgroeide"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] strijdennen": [
+        "strijdende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] omdraaien": [
+        "omdraaide"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] overhouden": [
+        "overhield"
+    ],
+    "V[type=intrans,tense=inf] vertrouwen": [
+        "vertrouwen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] komen": [
+        "komen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] gunnen": [
+        "gunde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] terugvinden": [
+        "terugvond"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] evenaren": [
+        "evenaarde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] houden": [
+        "houdt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] veroveren": [
+        "veroverde"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] iets": [
+        "iets"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] allemaal": [
+        "allemaal"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] betalen": [
+        "betaald"
+    ],
+    "V[type=intrans,tense=inf] twijfelen": [
+        "twijfelen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] volgen": [
+        "volgend"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] voetballen": [
+        "voetbalt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] horen": [
+        "hoort"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] doelpuntenmakeren": [
+        "doelpuntenmaker"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vloeren": [
+        "vloerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanslaan": [
+        "aangeslagen"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] herstellen": [
+        "herstelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] voorbereiden": [
+        "voorbereidde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afrekenen": [
+        "afgerekend"
+    ],
+    "V[type=trans,tense=inf] verspelen": [
+        "verspelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gebruiken": [
+        "gebruikt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] doen": [
+        "deden"
+    ],
+    "V[type=intrans,tense=inf,person=subst] treffen": [
+        "treffen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gemengen": [
+        "gemengde"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] moeten": [
+        "moeten"
+    ],
+    "V[type=trans,tense=inf] belen": [
+        "beelden"
+    ],
+    "V[type=intrans,tense=inf] zien": [
+        "zien"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] meenemen": [
+        "meeneemt"
+    ],
+    "V[type=intrans,tense=inf] beslissen": [
+        "beslissen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bivakkeren": [
+        "bivakkeert"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] nippen": [
+        "nipt"
+    ],
+    "V[type=intrans,tense=inf] belonen": [
+        "belonen"
+    ],
+    "V[type=trans,tense=inf] vangen": [
+        "vangen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] meten": [
+        "meet"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] spelennen": [
+        "spelende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verdubbelen": [
+        "verdubbelde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overgaan": [
+        "overging"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] spelen": [
+        "spelend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toegekennen": [
+        "toegekende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] meegereizen": [
+        "meegereisde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bedanken": [
+        "bedankt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] richten": [
+        "gericht"
+    ],
+    "V[type=refl,tense=ott,person=1_of_2_of_3,number=mv] bevinden": [
+        "bevinden"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] zullen": [
+        "zullen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] starten": [
+        "startte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] claimen": [
+        "claimde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gewagen": [
+        "gewaagd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] boeienen": [
+        "boeiende"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] leggen": [
+        "legden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] omspelen": [
+        "omspeelde"
+    ],
+    "V[type=trans,tense=inf] afspelen": [
+        "afspelen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] amusementswaren": [
+        "amusementswaarde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] dalen": [
+        "daalde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] beschimpen": [
+        "beschimpt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overhouden": [
+        "overgehouden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] geklungelen": [
+        "geklungel"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verdringen": [
+        "verdrongen"
+    ],
+    "V[type=trans,tense=inf] verkopen": [
+        "verkopen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] knappen": [
+        "knapte"
+    ],
+    "V[type=trans,tense=inf] varen": [
+        "voeren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] koppen": [
+        "gekopt"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=mv] herstellen": [
+        "herstelden"
+    ],
+    "V[type=trans,tense=inf] aangeven": [
+        "aangeven"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] behouden": [
+        "behoudt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] inleveren": [
+        "inleverde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] moeten": [
+        "moest"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] kennen": [
+        "kenden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] hoopgevennen": [
+        "hoopgevende"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] vertrekken": [
+        "vertrekken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ranselen": [
+        "ranselde"
+    ],
+    "V[type=hulp_of_kopp,tense=verl_dw,person=onverv] blijven": [
+        "gebleven"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] bevinden": [
+        "bevindt"
+    ],
+    "V[type=intrans,tense=inf] stijgen": [
+        "stijgen"
+    ],
+    "V[type=intrans,tense=inf] brengen": [
+        "brengen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] weekeinen": [
+        "weekeinde"
+    ],
+    "V[type=intrans,tense=inf] verrassen": [
+        "verrassen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] meemaken": [
+        "meegemaakt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] rekenen": [
+        "rekende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] voetballen": [
+        "voetbalde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] leiden": [
+        "leidde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] bekronen": [
+        "bekroonde"
+    ],
+    "V[type=intrans,tense=inf] profiteren": [
+        "profiteren"
+    ],
+    "V[type=refl,tense=verl_dw,person=onverv] nestelen": [
+        "genesteld"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] scoren": [
+        "scoorde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] staan": [
+        "stonden"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] heffen": [
+        "heft"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitlezen": [
+        "uitgelezen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] uitkiezen": [
+        "uitkiezen"
+    ],
+    "V[type=hulp,tense=inf] zeilen": [
+        "zeilen"
+    ],
+    "V[type=intrans,tense=inf] bijzetten": [
+        "bijzetten"
+    ],
+    "V[type=refl,tense=inf] nemen": [
+        "nemen"
+    ],
+    "V[type=trans,tense=inf] oplopen": [
+        "oplopen"
+    ],
+    "V[type=intrans,tense=ott,person=1,number=ev] schrikken": [
+        "schrik"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] slagen": [
+        "slaagde"
+    ],
+    "V[type=trans,tense=inf] produceren": [
+        "produceren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] frustreren": [
+        "frustreerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] controlleren": [
+        "controlleerde"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] wijten": [
+        "weet"
+    ],
+    "V[type=trans,tense=inf] juichen": [
+        "juichen"
+    ],
+    "V[type=intrans,tense=inf] verdwijnen": [
+        "verdwijnen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] betekenen": [
+        "betekende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] treuzelen": [
+        "treuzelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] opzetten": [
+        "opzette"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] wegdraaien": [
+        "wegdraaide"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gekkeren": [
+        "gekker"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] opgerukken": [
+        "opgerukte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] forceren": [
+        "geforceerd"
+    ],
+    "V[type=trans,tense=inf] aanhouden": [
+        "aanhouden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] eredivisie-weken": [
+        "eredivisie-weekend"
+    ],
+    "V[type=trans,tense=inf] schudden": [
+        "schudden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ondervinden": [
+        "ondervonden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] helpen": [
+        "geholpen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] weren": [
+        "weerde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] opererennen": [
+        "opererende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] bieden": [
+        "bood"
+    ],
+    "V[type=trans,tense=inf] helpen": [
+        "helpen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] voortvarren": [
+        "voortvarend"
+    ],
+    "V[type=hulp,tense=inf] dertien": [
+        "dertien"
+    ],
+    "V[type=intrans,tense=inf] wedstrijjen": [
+        "wedstrijden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] draaien": [
+        "draaide"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] schieten": [
+        "schieten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] putten": [
+        "geput"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vreugen": [
+        "vreugde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] begroeten": [
+        "begroet"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overkomen": [
+        "overkwam"
+    ],
+    "V[type=trans,tense=teg_dw,person=verv_neut] slopennen": [
+        "slopende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verwerken": [
+        "verwerkt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] herhalen": [
+        "herhaalde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aangeveren": [
+        "aangever"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] weifelen": [
+        "weifelend"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] optreden": [
+        "optreden"
+    ],
+    "V[type=trans,tense=inf] leveren": [
+        "leveren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] uitdelen": [
+        "uitdeelde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] hangennen": [
+        "hangende"
+    ],
+    "V[type=refl,tense=ott,person=1_of_2_of_3,number=mv] opstellen": [
+        "opstellen"
+    ],
+    "V[type=trans,tense=inf] beleven": [
+        "beleven"
+    ],
+    "V[type=trans,tense=inf,person=subst] intikken": [
+        "intikken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stichten": [
+        "stichtte"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] drijven": [
+        "dreef"
+    ],
+    "V[type=intrans,tense=inf] varen": [
+        "voeren"
+    ],
+    "V[type=intrans,tense=inf] inzetten": [
+        "inzetten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] karakteriseren": [
+        "gekarakteriseerd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] drukken": [
+        "drukte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] presenteren": [
+        "gepresenteerd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] zien": [
+        "zien"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ingaan": [
+        "ingaat"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efncasseren": [
+        "ge\u00efncasseerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ongehinderden": [
+        "ongehinderd"
+    ],
+    "V[type=intrans,tense=inf] opkomen": [
+        "opkomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] groeperen": [
+        "gegroepeerd"
+    ],
+    "V[type=trans,tense=inf] behalen": [
+        "behaalden",
+        "behalen"
+    ],
+    "V[type=trans,tense=inf,person=subst] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] slaapverwekkennen": [
+        "slaapverwekkende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ontbranden": [
+        "ontbrandde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verbeteren": [
+        "verbeterde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verschalken": [
+        "verschalkte"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] duren": [
+        "duurt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] onverminderden": [
+        "onverminderd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] domineren": [
+        "domineerde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] meekomen": [
+        "meegekomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontfutselen": [
+        "ontfutselen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] voeren": [
+        "voerde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] vermoeienen": [
+        "vermoeiende"
+    ],
+    "V[type=intrans,tense=inf] gelden": [
+        "gelden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] testen": [
+        "testte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] tonen": [
+        "toonden"
+    ],
+    "V[type=intrans,tense=inf] houden": [
+        "houden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] doen": [
+        "deed"
+    ],
+    "V[type=intrans,tense=inf] tekenen": [
+        "tekenen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] betreden": [
+        "betreden"
+    ],
+    "V[type=intrans,tense=inf] vechten": [
+        "vechten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bakken": [
+        "bakte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ploeteren": [
+        "ploeterde"
+    ],
+    "V[type=trans,tense=inf] cre\u00eberen": [
+        "cre\u00eberen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] openen": [
+        "geopend"
+    ],
+    "V[type=intrans,tense=inf] duelsen": [
+        "duels"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] schieten": [
+        "schoot"
+    ],
+    "V[type=trans,tense=inf] blokken": [
+        "blokken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] onderstrepen": [
+        "onderstreept"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] opzoeken": [
+        "opzochten"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] danken": [
+        "danken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] belemmeren": [
+        "belemmerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] nagelen": [
+        "genageld"
+    ],
+    "V[type=trans,tense=inf] snoeren": [
+        "snoeren"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gemissen": [
+        "gemiste"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] tegenvallennen": [
+        "tegenvallende"
+    ],
+    "V[type=trans,tense=inf] grijpen": [
+        "grijpen"
+    ],
+    "V[type=trans,tense=inf,person=subst] winnen": [
+        "winnen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] merken": [
+        "merkte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] volgen": [
+        "volgden"
+    ],
+    "V[type=trans,tense=inf] rondkomen": [
+        "rondkomen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ondergaan": [
+        "ondergaat"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] wegwerken": [
+        "weggewerkt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stijgen": [
+        "stijgt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] nemen": [
+        "neemt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] handhaven": [
+        "gehandhaafd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] tonen": [
+        "getoond"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] ogen": [
+        "oog"
+    ],
+    "V[type=trans,tense=inf,person=subst] bekijken": [
+        "bekijken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] punten": [
+        "punt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kronen": [
+        "kroonde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] resterennen": [
+        "resterende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gespelen": [
+        "gespeelde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] afwachten": [
+        "afwachtend"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] veranderen": [
+        "veranderde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] belegeren": [
+        "belegerde"
+    ],
+    "V[type=intrans,tense=inf] uitblijven": [
+        "uitblijven"
+    ],
+    "V[type=intrans,tense=inf] competitieduelsen": [
+        "competitieduels"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] beginnen": [
+        "begint"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] belonen": [
+        "beloonde"
+    ],
+    "V[type=trans,tense=inf] herstellen": [
+        "herstellen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verwijderen": [
+        "verwijderd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] opleveren": [
+        "opleverde"
+    ],
+    "V[type=intrans,tense=inf] nemen": [
+        "nemen"
+    ],
+    "V[type=trans,tense=inf] dirigeren": [
+        "dirigeren"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] beslissen": [
+        "beslisten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efnspireren": [
+        "ge\u00efnspireerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opduiken": [
+        "opgedoken"
+    ],
+    "V[type=intrans,tense=inf] behouden": [
+        "behouden"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] aansluiten": [
+        "aansloot"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] overhalen": [
+        "overhaalde"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] verwachten": [
+        "verwacht"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verrassennen": [
+        "verrassende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] terugkeren": [
+        "teruggekeerd"
+    ],
+    "V[type=trans,tense=inf] bespeuren": [
+        "bespeuren"
+    ],
+    "V[type=trans,tense=inf] plukken": [
+        "plukken"
+    ],
+    "V[type=trans,tense=inf] luien": [
+        "luiden"
+    ],
+    "V[type=hulp,tense=ott,person=1,number=ev] hebben": [
+        "heb"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] stellen": [
+        "stel"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verstannen": [
+        "verstande"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] ingezetten": [
+        "ingezette"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] stijgennen": [
+        "stijgende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vervolgen": [
+        "vervolgd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] vallen": [
+        "vallend"
+    ],
+    "V[type=trans,tense=inf] duchten": [
+        "duchten"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] hanteren": [
+        "hanteert"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] toenemen": [
+        "toenam"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] inglijdennen": [
+        "inglijdende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] wagen": [
+        "waagde"
+    ],
+    "V[type=intrans,tense=inf] doorgaan": [
+        "doorgaan"
+    ],
+    "V[type=trans,tense=inf] ronden": [
+        "ronden"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] bekomen": [
+        "bekomen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] dwingen": [
+        "dwongen"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] afgezakken": [
+        "afgezakt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] spannen": [
+        "spannen"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] spreken": [
+        "gesproken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] beschouwen": [
+        "beschouwt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verdedigennen": [
+        "verdedigende"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] verdelen": [
+        "verdelen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] vrijstanen": [
+        "vrijstaande"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] revancheren": [
+        "revancheerde"
+    ],
+    "V[type=trans,tense=inf] uitspelen": [
+        "uitspelen"
+    ],
+    "V[type=trans,tense=inf] doorbreken": [
+        "doorbreken"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] enerverennen": [
+        "enerverende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] smaken": [
+        "smaakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] waargemaken": [
+        "waargemaakt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] teleurstellennen": [
+        "teleurstellende"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] falen": [
+        "faalde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitspelen": [
+        "uitgespeeld"
+    ],
+    "V[type=trans,tense=imp] voren": [
+        "voor"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] sjokkennen": [
+        "sjokkende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kabbelen": [
+        "kabbelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bemachtigen": [
+        "bemachtigd"
+    ],
+    "V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] voelen": [
+        "voelde"
+    ],
+    "V[type=intrans,tense=inf] maken": [
+        "maken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] aflopen": [
+        "afliep"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] competitieronnen": [
+        "competitieronde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] caramboleren": [
+        "caramboleerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] pegelen": [
+        "pegelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] heroveren": [
+        "heroverde"
+    ],
+    "V[type=trans,tense=inf] passeren": [
+        "passeren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] huppelen": [
+        "huppelde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] belanden": [
+        "belandt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ontbreken": [
+        "ontbreekt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] roepen": [
+        "roepen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kiezen": [
+        "gekozen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] imponeren": [
+        "imponeerde"
+    ],
+    "V[type=trans,tense=inf] leunen": [
+        "leunen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] goochelen": [
+        "goochelde"
+    ],
+    "V[type=trans,tense=imp] totten": [
+        "tot"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beperken": [
+        "beperkt"
+    ],
+    "V[type=trans,tense=inf] belanden": [
+        "belanden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] huren": [
+        "gehuurd"
+    ],
+    "V[type=refl,tense=verl_dw,person=onverv] posteren": [
+        "geposteerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] steken": [
+        "steekt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] passen": [
+        "passen"
+    ],
+    "V[type=trans,tense=inf,person=subst] kweken": [
+        "kweken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beproeven": [
+        "beproefd"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gepasseren": [
+        "gepasseerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitgaan": [
+        "uitging",
+        "uitgegaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] naschoppen": [
+        "naschopte"
+    ],
+    "V[type=refl,tense=inf] maken": [
+        "maken"
+    ],
+    "V[type=trans,tense=inf] duren": [
+        "duren"
+    ],
+    "V[type=intrans,tense=inf] dromen": [
+        "dromen"
+    ],
+    "V[type=trans,tense=inf] beroeren": [
+        "beroeren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] permitteren": [
+        "permitteerde"
+    ],
+    "V[type=trans,tense=inf] vieren": [
+        "vieren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] wegleggen": [
+        "weggelegd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] gloren": [
+        "gloorde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] gooien": [
+        "gooide"
+    ],
+    "V[type=trans,tense=inf,person=subst] behalen": [
+        "behalen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] verdedigen": [
+        "verdedigend"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] ingestelen": [
+        "ingestelde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] gepromoveren": [
+        "gepromoveerde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] profiteren": [
+        "profiteerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitlopen": [
+        "uitgelopen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] belonen": [
+        "beloonde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] treden": [
+        "trad"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gewijzigen": [
+        "gewijzigde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] opvallennen": [
+        "opvallende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontbreken": [
+        "ontbraken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] combineren": [
+        "combineerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] pareren": [
+        "pareerde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] gaan": [
+        "gegaan"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bungelen": [
+        "bungelt"
+    ],
+    "V[type=trans,tense=inf] benutten": [
+        "benutten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] slepen": [
+        "gesleept"
+    ],
+    "V[type=trans,tense=inf] imponeren": [
+        "imponeren"
+    ],
+    "V[type=refl,tense=inf] horen": [
+        "horen"
+    ],
+    "V[type=trans,tense=inf] binnenschuiven": [
+        "binnenschuiven"
+    ],
+    "V[type=intrans,tense=inf] bijten": [
+        "bijten"
+    ],
+    "ART[form=bep,gender=zijd_of_mv,case=gen] der": [
+        "der"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] uithalen": [
+        "uithaalde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] fluiten": [
+        "floot"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] achterstonden": [
+        "achterstond"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] vrezen": [
+        "vrezen"
+    ],
+    "V[type=trans,tense=inf] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] dwingen": [
+        "gedwongen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] lijkennen": [
+        "lijkende"
+    ],
+    "V[type=trans,tense=inf] verkassen": [
+        "verkassen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] incasseren": [
+        "incasseerde"
+    ],
+    "V[type=intrans,tense=inf] oplopen": [
+        "oplopen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zessen": [
+        "zesde"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] dienen": [
+        "dient"
+    ],
+    "V[type=trans,tense=inf] kunnen": [
+        "kunnen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stijgen": [
+        "steeg"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] glippen": [
+        "glipte"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verbazen": [
+        "verbaast"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] ogen": [
+        "oogde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitschakelen": [
+        "uitgeschakeld"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] raken": [
+        "raakt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] oogstrelen": [
+        "oogstrelend"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] afganen": [
+        "afgaande"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] verlaten": [
+        "verlieten"
+    ],
+    "V[type=intrans,tense=inf,person=subst] ontbreken": [
+        "ontbreken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] delen": [
+        "deelde"
+    ],
+    "V[type=trans,tense=inf] terugbrengen": [
+        "terugbrengen"
+    ],
+    "V[type=intrans,tense=inf] breken": [
+        "breken"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] afgekeuren": [
+        "afgekeurde"
+    ],
+    "V[type=trans,tense=inf] breien": [
+        "breiden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] beginnen": [
+        "begon"
+    ],
+    "V[type=trans,tense=inf] laten": [
+        "laten"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] invliegennen": [
+        "invliegende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] bekijken": [
+        "bekeek"
+    ],
+    "ART[form=bep,gender=zijd_of_onzijd,case=gen] 's": [
+        "'s"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] accepteren": [
+        "accepteerde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] richten": [
+        "richtte"
+    ],
+    "V[type=trans,tense=inf,person=subst] missen": [
+        "missen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toevoegen": [
+        "toegevoegd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontsnappen": [
+        "ontsnapten"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verliezen": [
+        "verliest"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opleveren": [
+        "opgeleverd"
+    ],
+    "V[type=trans,tense=inf] heroveren": [
+        "heroveren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bereiken": [
+        "bereikt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] wegsturen": [
+        "weggestuurd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] beuren": [
+        "beurt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verstevigden": [
+        "verstevigd"
+    ],
+    "V[type=trans,tense=inf] schakelen": [
+        "schakelen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] profiteren": [
+        "profiteert"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] overnemen": [
+        "overnam"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gebruiken": [
+        "gebruikte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opjagen": [
+        "opgejaagd"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verzamelen": [
+        "verzamelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] duiken": [
+        "dook"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] schakelen": [
+        "schakelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geflatteren": [
+        "geflatteerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] lijden": [
+        "leed"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] grossieren": [
+        "grossierde"
+    ],
+    "V[type=trans,tense=inf] afhouden": [
+        "afhouden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] wanorren": [
+        "wanorde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] bevrijdennen": [
+        "bevrijdende"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] wegzakken": [
+        "wegzakt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] betalen": [
+        "betaalde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] kermen": [
+        "kermend"
+    ],
+    "V[type=intrans,tense=inf] optreden": [
+        "optreden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] vertrekken": [
+        "vertrokken"
+    ],
+    "V[type=trans,tense=inf] bekronen": [
+        "bekronen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] denken": [
+        "denken"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] hangen": [
+        "hangen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] opstomennen": [
+        "opstomende"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] hopen": [
+        "hopen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] opluisteren": [
+        "opluisterde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] bezorgen": [
+        "bezorgden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verrichten": [
+        "verrichtte"
+    ],
+    "V[type=intrans,tense=inf] reddingen": [
+        "reddingen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] treden": [
+        "traden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verkopen": [
+        "verkocht"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitkomen": [
+        "uitgekomen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] voorganen": [
+        "voorgaande"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toebrengen": [
+        "toegebracht"
+    ],
+    "V[type=refl,tense=verl_dw,person=onverv] opgewerken": [
+        "opgewerkt"
+    ],
+    "V[type=intrans,tense=inf] aangeven": [
+        "aangeven"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] doortasten": [
+        "doortastend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ongewijzigden": [
+        "ongewijzigd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] reageren": [
+        "reageerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afslaan": [
+        "afgeslagen"
+    ],
+    "V[type=trans,tense=inf] zoeken": [
+        "zoeken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] maken": [
+        "maakt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] leggen": [
+        "legt"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] gaan": [
+        "ging"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] behouden": [
+        "behielden"
+    ],
+    "V[type=intrans,tense=ott,person=2,number=ev] doelen": [
+        "doelt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] reizen": [
+        "reist"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opstomen": [
+        "opgestoomd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] stuiten": [
+        "stuitte"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] sprankelen": [
+        "sprankelend"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] groeien": [
+        "groeit"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] typeren": [
+        "typerend"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] beslissennen": [
+        "beslissende"
+    ],
+    "V[type=trans,tense=inf] aanpakken": [
+        "aanpakken"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] aantrekken": [
+        "aantrekken"
+    ],
+    "V[type=trans,tense=inf] weglopen": [
+        "weglopen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] dikverdienen": [
+        "dikverdiende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] keuren": [
+        "keurde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verlaten": [
+        "verliet"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] schrijven": [
+        "schrijven"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stormen": [
+        "stormt"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] iedereen": [
+        "iedereen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] presteren": [
+        "presteerde"
+    ],
+    "V[type=intrans,tense=inf] eisen": [
+        "eisen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] exploderen": [
+        "explodeerde"
+    ],
+    "V[type=trans,tense=inf] bekijken": [
+        "bekijken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] danken": [
+        "dankte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verdelen": [
+        "verdeeld",
+        "verdeelde"
+    ],
+    "V[type=intrans,tense=inf] klagen": [
+        "klagen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] scorennen": [
+        "scorende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geloven": [
+        "geloofde"
+    ],
+    "V[type=trans,tense=inf,person=subst] maken": [
+        "maken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] halen": [
+        "haalde"
+    ],
+    "V[type=trans,tense=inf] kiezen": [
+        "kiezen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] passeren": [
+        "passeert"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] verweren": [
+        "verweerde"
+    ],
+    "V[type=hulp,tense=inf] spelen": [
+        "spelen"
+    ],
+    "V[type=intrans,tense=inf] binnenzeilen": [
+        "binnenzeilen"
+    ],
+    "V[type=trans,tense=inf] voortsen": [
+        "voorts"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] afgaan": [
+        "afging"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] glijden": [
+        "gleden"
+    ],
+    "V[type=hulp_of_kopp,tense=teg_dw,person=verv_neut] zijnen": [
+        "zijnde"
+    ],
+    "V[type=intrans,tense=inf] lijden": [
+        "lijden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] heffen": [
+        "geheven"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aangeven": [
+        "aangaf",
+        "aangegeven"
+    ],
+    "V[type=hulp,tense=inf] mogen": [
+        "mogen"
+    ],
+    "V[type=intrans,tense=inf] vliegen": [
+        "vliegen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] aankondigen": [
+        "aankondigde"
+    ],
+    "V[type=refl,tense=inf] voorbereiden": [
+        "voorbereiden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] wegnemen": [
+        "weggenomen"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] dreigen": [
+        "dreigt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] kosten": [
+        "kost"
+    ],
+    "V[type=intrans,tense=inf] doen": [
+        "doen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] dalen": [
+        "dalen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] inschrijven": [
+        "inschrijft"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] sluiten": [
+        "gesloten"
+    ],
+    "V[type=hulp,tense=inf] willen": [
+        "willen"
+    ],
+    "V[type=intrans,tense=inf] hervatten": [
+        "hervatten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opbellen": [
+        "opgebeld"
+    ],
+    "V[type=intrans,tense=inf] praten": [
+        "praten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] aangekondigen": [
+        "aangekondigde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] escalerennen": [
+        "escalerende"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] noteren": [
+        "noteerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] ontvangen": [
+        "ontvingen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toenemen": [
+        "toegenomen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] volgen": [
+        "gevolgd"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] verscherpen": [
+        "verscherpt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] delen": [
+        "deelt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] doen": [
+        "doen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] volgen": [
+        "volgde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] concurrentiebeperken": [
+        "concurrentiebeperkend"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] aankondigen": [
+        "aankondigt"
+    ],
+    "V[type=hulp,tense=inf] kijken": [
+        "kijken"
+    ],
+    "V[type=intrans,tense=inf] beleggersen": [
+        "beleggers"
+    ],
+    "V[type=intrans,tense=inf] spreken": [
+        "spreken"
+    ],
+    "V[type=trans,tense=inf] loslaten": [
+        "loslaten"
+    ],
+    "V[type=trans,tense=inf] verwachten": [
+        "verwachten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] besluiten": [
+        "besloten"
+    ],
+    "V[type=trans,tense=inf] hangen": [
+        "hangen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] helpen": [
+        "helpt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vrezen": [
+        "vreest"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] indienen": [
+        "ingediend"
+    ],
+    "V[type=trans,tense=inf] verwerven": [
+        "verwerven"
+    ],
+    "V[type=trans,tense=inf] bestuderen": [
+        "bestuderen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitgiffen": [
+        "uitgifte"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] ophalen": [
+        "ophalen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] handelen": [
+        "handelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kennen": [
+        "gekend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] handelen": [
+        "handelde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bieden": [
+        "biedt"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] uitgebreien": [
+        "uitgebreide"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verwachen": [
+        "verwachte"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] houden": [
+        "hield"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gemelen": [
+        "gemelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] behoren": [
+        "behoorde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] sluiten": [
+        "sluit"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] handelen": [
+        "gehandeld"
+    ],
+    "V[type=trans,tense=inf] uitbreiden": [
+        "uitbreiden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanwakkeren": [
+        "aangewakkerd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] afzwakkennen": [
+        "afzwakkende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] omgekeren": [
+        "omgekeerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] obligatiemarken": [
+        "obligatiemarkt"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] verkorren": [
+        "verkorte"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] beloven": [
+        "beloofde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] jagen": [
+        "gejaagd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uiten": [
+        "geuit"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] groeienen": [
+        "groeiende"
+    ],
+    "V[type=hulp,tense=inf] behoren": [
+        "behoren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] oordelen": [
+        "oordeelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanspannen": [
+        "aangespannen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overspoelen": [
+        "overspoeld"
+    ],
+    "V[type=intrans,tense=inf] vergaan": [
+        "vergaan"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] vallen": [
+        "valt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] verkopen": [
+        "verkopen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] lijken": [
+        "lijken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verhogen": [
+        "verhoogd"
+    ],
+    "V[type=trans,tense=inf] overwegen": [
+        "overwegen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] noteren": [
+        "noteert"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] presteren": [
+        "gepresteerd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] waarschuwen": [
+        "waarschuwde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kondigen": [
+        "kondigde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] eindigen": [
+        "eindigden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schrijven": [
+        "geschreven"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] hopen": [
+        "hoopt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] wachten": [
+        "wachten"
+    ],
+    "V[type=trans,tense=inf] resultatten": [
+        "resultaten"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] dividden": [
+        "dividend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] kosten": [
+        "kostte"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] voeren": [
+        "voert"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aannemen": [
+        "aangenomen"
+    ],
+    "V[type=trans,tense=inf] beschermen": [
+        "beschermen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] geven": [
+        "gaf"
+    ],
+    "V[type=intrans,tense=inf] protesteren": [
+        "protesteren"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] kijken": [
+        "keken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] verwerken": [
+        "verwerkten"
+    ],
+    "V[type=trans,tense=inf] afnemen": [
+        "afnemen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] treffen": [
+        "treft"
+    ],
+    "V[type=intrans,tense=inf,person=subst] wegvallen": [
+        "wegvallen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vrijgemaken": [
+        "vrijgemaakt"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] uitvallen": [
+        "uitviel"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] spreken": [
+        "spraken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] benadrukken": [
+        "benadrukte"
+    ],
+    "V[type=intrans,tense=inf] voorzien": [
+        "voorzien"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vervangen": [
+        "vervangt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stemmen": [
+        "stemt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] verkopersen": [
+        "verkopers"
+    ],
+    "V[type=intrans,tense=inf] uitgaan": [
+        "uitgaan"
+    ],
+    "V[type=trans,tense=inf] naderen": [
+        "naderen"
+    ],
+    "V[type=refl,tense=inf] sluiten": [
+        "sluiten"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] kopen": [
+        "koopt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] schrappen": [
+        "schrapt",
+        "geschrapt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] reageren": [
+        "reageren"
+    ],
+    "V[type=intrans,tense=inf] openen": [
+        "openen"
+    ],
+    "V[type=trans,tense=inf] bekoren": [
+        "bekoren"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verkopen": [
+        "verkoopt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] betalen": [
+        "betalen"
+    ],
+    "V[type=refl,tense=inf] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] tillen": [
+        "tilden"
+    ],
+    "V[type=trans,tense=inf] prijsgeven": [
+        "prijsgeven"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] nemen": [
+        "nam"
+    ],
+    "V[type=intrans,tense=inf] luisteren": [
+        "luisteren"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] bezorgen": [
+        "bezorgen"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] bungelen": [
+        "bungelde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=verv_neut] versnellen": [
+        "versnelde"
+    ],
+    "V[type=trans,tense=inf] financieren": [
+        "financieren"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] slepen": [
+        "sleept"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] heersen": [
+        "heerst"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] steunen": [
+        "steunt"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stellen": [
+        "stelde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zullen": [
+        "zou"
+    ],
+    "V[type=refl,tense=inf] bemoeien": [
+        "bemoeien"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] protesteren": [
+        "geprotesteerd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reageren": [
+        "reageerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] besparen": [
+        "bespaard"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bekostigden": [
+        "bekostigd"
+    ],
+    "V[type=intrans,tense=inf] draaien": [
+        "draaien"
+    ],
+    "V[type=intrans,tense=inf] plaatsvinden": [
+        "plaatsvinden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] hervatten": [
+        "hervat"
+    ],
+    "V[type=trans,tense=imp] renteverlagingen": [
+        "renteverlaging"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] interim-dividden": [
+        "interim-dividend"
+    ],
+    "V[type=trans,tense=inf] vragen": [
+        "vragen"
+    ],
+    "V[type=intrans,tense=inf] groeien": [
+        "groeien"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] beurswaren": [
+        "beurswaarde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] onderhandelen": [
+        "onderhandelt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] groeien": [
+        "groeide"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] rekenen": [
+        "gerekend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] downgraan": [
+        "downgrade"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontkennen": [
+        "ontkenden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stranden": [
+        "strandde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] uitblijven": [
+        "uitbleef"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bundelen": [
+        "bundelt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] stemmen": [
+        "stemden"
+    ],
+    "V[type=intrans,tense=inf] dalen": [
+        "dalen"
+    ],
+    "V[type=intrans,tense=inf] verwerpen": [
+        "verwierpen"
+    ],
+    "V[type=intrans,tense=inf] tegengaan": [
+        "tegengaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] steunen": [
+        "gesteund"
+    ],
+    "V[type=trans,tense=inf] verlengen": [
+        "verlengen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] rekenen": [
+        "rekent"
+    ],
+    "V[type=hulp,tense=inf] zullen": [
+        "zullen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] betalen": [
+        "betaalden"
+    ],
+    "V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] uitsluiten": [
+        "uitsloot"
+    ],
+    "V[type=trans,tense=inf] ondervinden": [
+        "ondervinden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] rapporteren": [
+        "rapporteerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opschrijven": [
+        "opgeschreven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] uitgaan": [
+        "uitgingen"
+    ],
+    "V[type=intrans,tense=inf] onderuitganen": [
+        "onderuitgaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] gevoelen": [
+        "gevoeld"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] koersen": [
+        "koerst"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=mv] vervolgen": [
+        "vervolgden"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] vervroegen": [
+        "vervroegde"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] kondigen": [
+        "kondigde"
+    ],
+    "V[type=trans,tense=inf] rapporteren": [
+        "rapporteren"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gerelateren": [
+        "gerelateerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overleggen": [
+        "overlegd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] tonen": [
+        "toonde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] publiceren": [
+        "gepubliceerd"
+    ],
+    "V[type=hulp,tense=inf] wachten": [
+        "wachten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] plaatsen": [
+        "geplaatst"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] bemoedigennen": [
+        "bemoedigende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] praten": [
+        "gepraat"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gedelen": [
+        "gedeelde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verrijken": [
+        "verrijkt"
+    ],
+    "V[type=trans,tense=inf] kopen": [
+        "kopen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] doorverhuren": [
+        "doorverhuurde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] terughouden": [
+        "terughoudend"
+    ],
+    "V[type=trans,tense=inf] voorstellen": [
+        "voorstellen"
+    ],
+    "V[type=trans,tense=inf] bekennen": [
+        "bekennen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overnemen": [
+        "overgenomen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vertrekken": [
+        "vertrekt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opvolgen": [
+        "opgevolgd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schetsen": [
+        "schetst"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] vertrouwen": [
+        "vertrouwen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] stijgen": [
+        "stijgen"
+    ],
+    "V[type=trans,tense=inf] voorzien": [
+        "voorzien"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] aanvoeren": [
+        "aanvoert"
+    ],
+    "V[type=intrans,tense=inf] lijken": [
+        "lijken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opluchten": [
+        "opgelucht"
+    ],
+    "V[type=trans,tense=inf] strannen": [
+        "stranden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] toezeggen": [
+        "toezegde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] rekenen": [
+        "gerekend"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] staan": [
+        "gestaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afschaffen": [
+        "afgeschaft"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] beogen": [
+        "beoogde"
+    ],
+    "V[type=trans,tense=inf] betalen": [
+        "betalen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontbinden": [
+        "ontbinden"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] overwegen": [
+        "overweegt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] mengen": [
+        "gemengd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] ex-dividden": [
+        "ex-dividend"
+    ],
+    "V[type=trans,tense=inf,person=subst] houden": [
+        "houden"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] gebeuren": [
+        "gebeurt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] presenteren": [
+        "presenteerde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] driehonderdduizen": [
+        "driehonderdduizend"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] aanbieden": [
+        "aanbieden"
+    ],
+    "V[type=trans,tense=inf] benoemen": [
+        "benoemen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] zien": [
+        "ziet"
+    ],
+    "V[type=trans,tense=inf] ondertekenen": [
+        "ondertekenen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] staken": [
+        "staakte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitnodigen": [
+        "uitgenodigd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] profiteren": [
+        "profiteren"
+    ],
+    "V[type=trans,tense=inf] verlagen": [
+        "verlagen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] verlieslijdennen": [
+        "verlieslijdende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] spitsen": [
+        "gespitst"
+    ],
+    "V[type=intrans,tense=inf] jagen": [
+        "jagen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vinden": [
+        "vindt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] beschuldigen": [
+        "beschuldigde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] verlagen": [
+        "verlaagd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] stijgen": [
+        "gestegen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overwaarderen": [
+        "overgewaardeerd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] delen": [
+        "deelde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] promoveren": [
+        "promoveert"
+    ],
+    "V[type=trans,tense=inf] vervallen": [
+        "vervallen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] verdwijnen": [
+        "verdwijnt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opleggen": [
+        "opgelegd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] betalennen": [
+        "betalende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] thuismarken": [
+        "thuismarkt"
+    ],
+    "V[type=trans,tense=inf] schaffen": [
+        "schaffen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toegeven": [
+        "toegevend"
+    ],
+    "V[type=trans,tense=inf] handelsperikelen": [
+        "handelsperikelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] veroordelen": [
+        "veroordeeld"
+    ],
+    "V[type=trans,tense=inf,person=subst] betalen": [
+        "betalen"
+    ],
+    "V[type=trans,tense=inf] richten": [
+        "richten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bekendmaken": [
+        "bekendgemaakt"
+    ],
+    "V[type=trans,tense=inf] ontlopen": [
+        "ontlopen"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] dalen": [
+        "gedaald"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] snijden": [
+        "snijdt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] zeggen": [
+        "gezegd"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] bieden": [
+        "boden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitkijken": [
+        "uitgekeken"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] meevallennen": [
+        "meevallende"
+    ],
+    "V[type=trans,tense=imp] anen": [
+        "aan"
+    ],
+    "V[type=intrans,tense=inf] rekenen": [
+        "rekenen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] denken": [
+        "gedacht"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] vergevorderen": [
+        "vergevorderde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] speculeren": [
+        "gespeculeerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] voorzien": [
+        "voorziet"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beschuldigen": [
+        "beschuldigd"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] uitbreiden": [
+        "uitbreidt"
+    ],
+    "V[type=intrans,tense=inf] vallen": [
+        "vallen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] samengestelen": [
+        "samengestelde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] openen": [
+        "opent"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aangekondigd.innen": [
+        "aangekondigd.in"
+    ],
+    "V[type=trans,tense=imp] ontmoetingen": [
+        "ontmoeting"
+    ],
+    "V[type=trans,tense=inf] evacueren": [
+        "evacueren"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] wijten": [
+        "weten"
+    ],
+    "V[type=trans,tense=inf] accepteren": [
+        "accepteren"
+    ],
+    "V[type=trans,tense=inf] verhogen": [
+        "verhogen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geplannen": [
+        "geplande"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] hernieuwen": [
+        "hernieuwd"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] betalen": [
+        "betaalt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] omgerekken": [
+        "omgerekend"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] stemmen": [
+        "stemde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bijgestelden": [
+        "bijgesteld"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] publiceren": [
+        "publiceerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] voeren": [
+        "voerden"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] lagen": [
+        "lagen"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] durven": [
+        "durfde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verlagen": [
+        "verlaagt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitbreken": [
+        "uitbreekt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] hangen": [
+        "hangt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] \u00adpresenteren": [
+        "\u00adpresenteerde"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] overhebben": [
+        "overheeft"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efnteresseren": [
+        "ge\u00efnteresseerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ondervinden": [
+        "ondervindt"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] bezighouden": [
+        "bezighoudt"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] genoteren": [
+        "genoteerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] schrijven": [
+        "schreef"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geprijsen": [
+        "geprijsde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opschorten": [
+        "opgeschort"
+    ],
+    "V[type=trans,tense=inf,person=subst] bekendmaken": [
+        "bekendmaken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] merken": [
+        "merkt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overtuigen": [
+        "overtuigd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] verwachten": [
+        "verwacht"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] toenemen": [
+        "toenemen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] anticiperen": [
+        "geanticipeerd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] overheersen": [
+        "overheersen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] \u201eheven": [
+        "\u201eheeft"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] \u00fcberhaupen": [
+        "\u00fcberhaupt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] dreigen": [
+        "gedreigd"
+    ],
+    "V[type=trans,tense=inf] bedanken": [
+        "bedanken"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] noteren": [
+        "noteerden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] horen": [
+        "hoorde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] wakkeren": [
+        "wakkerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afgeven": [
+        "afgegeven"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] hernieuwen": [
+        "hernieuwde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanvoeren": [
+        "aangevoerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] vliegen": [
+        "gevlogen"
+    ],
+    "V[type=intrans,tense=inf] ticketprijzen": [
+        "ticketprijzen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] verwachten": [
+        "verwachten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitbrengen": [
+        "uitgebracht"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] instemmen": [
+        "ingestemd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] missen": [
+        "miste"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] richtinggeven": [
+        "richtinggevend"
+    ],
+    "V[type=trans,tense=imp] kwartaalcijfergewelden": [
+        "kwartaalcijfergeweld"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] vooruitloppen": [
+        "vooruitlopend"
+    ],
+    "V[type=intrans,tense=inf] vloeien": [
+        "vloeien"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] introduceren": [
+        "introduceerde"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] merken": [
+        "merken"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] verwachten": [
+        "verwachten"
+    ],
+    "V[type=trans,tense=inf] vervolgen": [
+        "vervolgen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitspreken": [
+        "uitgesproken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] meten": [
+        "gemeten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gecombineren": [
+        "gecombineerde"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] noteren": [
+        "noteren"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] rekeninghouden": [
+        "rekeninghoudend"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] slotdividden": [
+        "slotdividend"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] uitgekeren": [
+        "uitgekeerde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efnvesteren": [
+        "ge\u00efnvesteerd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] noteren": [
+        "noteren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] inlopen": [
+        "ingelopen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] fnuiken": [
+        "fnuikt"
+    ],
+    "V[type=trans,tense=inf] reageren": [
+        "reageren"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] toenemennen": [
+        "toenemende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] driehonderden": [
+        "driehonderd"
+    ],
+    "V[type=trans,tense=inf] verbieden": [
+        "verbieden"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] zijn": [
+        "zijn"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] beurswaren": [
+        "beurswaarde"
+    ],
+    "V[type=trans,tense=inf] beleggen": [
+        "beleggen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] benoemen": [
+        "benoemd"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vullen": [
+        "vult"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] voortgeborduurden": [
+        "voortgeborduurd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afgezegden": [
+        "afgezegd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] staan": [
+        "gestaan"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] behalen": [
+        "behaalde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] intekenen": [
+        "ingetekend"
+    ],
+    "V[type=trans,tense=inf] onderhandelen": [
+        "onderhandelen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] klagen": [
+        "klaagde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] tekenen": [
+        "getekend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bouwen": [
+        "gebouwd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] achtervolgennen": [
+        "achtervolgende"
+    ],
+    "V[type=trans,tense=inf] stuiten": [
+        "stuiten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] meevallen": [
+        "meeviel"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] denken": [
+        "denkt"
+    ],
+    "V[type=intrans,tense=inf] stuwen": [
+        "stuwen"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] uitspreken": [
+        "uitsprak"
+    ],
+    "V[type=intrans,tense=inf] toenemen": [
+        "toenemen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toegangen": [
+        "toegang"
+    ],
+    "V[type=intrans,tense=inf] verbeteren": [
+        "verbeteren"
+    ],
+    "V[type=intrans,tense=inf] aanzetten": [
+        "aanzetten"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] terugkeren": [
+        "terugkeerden"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitstellen": [
+        "uitgesteld"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] pompen": [
+        "pompt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afgeblazen": [
+        "afgeblazen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kelderen": [
+        "gekelderd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] werken": [
+        "werkt"
+    ],
+    "V[type=trans,tense=inf] duiden": [
+        "duiden"
+    ],
+    "V[type=intrans,tense=ott,person=1,number=ev] denken": [
+        "denk"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] zitten": [
+        "zittend"
+    ],
+    "V[type=trans,tense=inf] bestuurdersen": [
+        "bestuurders"
+    ],
+    "V[type=trans,tense=inf] uitkomen": [
+        "uitkomen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] rollen": [
+        "rolt"
+    ],
+    "V[type=trans,tense=inf] bestellen": [
+        "bestellen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] smachten": [
+        "smachtend"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] beloven": [
+        "beloofd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] \u00efmponeren": [
+        "ge\u00efmponeerd"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gestemmen": [
+        "gestemde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] geloven": [
+        "geloofden"
+    ],
+    "V[type=trans,tense=inf] overwaaien": [
+        "overwaaien"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] schudden": [
+        "geschud"
+    ],
+    "V[type=trans,tense=inf] voortzetten": [
+        "voortzetten"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geachen": [
+        "geachte"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] toekeren": [
+        "toegekeerd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] onheilspellennen": [
+        "onheilspellende"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] sturen": [
+        "stuurt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] afwijzen": [
+        "afwijzen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] opwekken": [
+        "opgewekt"
+    ],
+    "V[type=intrans,tense=inf] afstevenen": [
+        "afstevenen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] meehelpen": [
+        "meehelpt"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] dippen": [
+        "dip"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] klagen": [
+        "klaagt"
+    ],
+    "V[type=trans,tense=inf,person=subst] installeren": [
+        "installeren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] voorschotelen": [
+        "voorgeschoteld"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontwikkelen": [
+        "ontwikkelen"
+    ],
+    "V[type=trans,tense=inf,person=subst] behandelen": [
+        "behandelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aantrekken": [
+        "aangetrokken"
+    ],
+    "V[type=trans,tense=inf] adviseren": [
+        "adviseren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] oprichten": [
+        "opgericht"
+    ],
+    "V[type=trans,tense=inf] veroorzaken": [
+        "veroorzaken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] uitlaten": [
+        "uitliet"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] overwegen": [
+        "overwegend"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] investeren": [
+        "investeert"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zetten": [
+        "zette"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] schommelennen": [
+        "schommelende"
+    ],
+    "V[type=trans,tense=inf] verwerpen": [
+        "verworpen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] strannen": [
+        "stranden"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] steunen": [
+        "steunde"
+    ],
+    "V[type=intrans,tense=inf] regeren": [
+        "regeren"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verdienen": [
+        "verdient"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] voeden": [
+        "voedde"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] invoeren": [
+        "ingevoerd"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] afkoelennen": [
+        "afkoelende"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] gemaken": [
+        "gemaakte"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] lijden": [
+        "leed"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] belonen": [
+        "beloond"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bezien": [
+        "bezien"
+    ],
+    "V[type=trans,tense=inf] doorschemeren": [
+        "doorschemeren"
+    ],
+    "V[type=intrans,tense=inf] samengaan": [
+        "samengaan"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] stijgen": [
+        "stegen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] uitvallen": [
+        "uitgevallen"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] kankerverwekkennen": [
+        "kankerverwekkende"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] overschrijden": [
+        "overschreden"
+    ],
+    "V[type=intrans,tense=inf] voelen": [
+        "voelen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] voelen": [
+        "voelt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] lampenmarken": [
+        "lampenmarkt"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] trekken": [
+        "trok"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] merken": [
+        "merk"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verwachten": [
+        "verwachtte"
+    ],
+    "V[type=trans,tense=inf] behoeden": [
+        "behoeden"
+    ],
+    "V[type=trans,tense=inf] zwengelen": [
+        "zwengelen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] kopen": [
+        "gekocht"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] introduceren": [
+        "introduceert"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] mislukken": [
+        "mislukt"
+    ],
+    "V[type=intrans,tense=inf] ingaan": [
+        "ingaan"
+    ],
+    "V[type=intrans,tense=inf] meebetalen": [
+        "meebetalen"
+    ],
+    "V[type=trans,tense=inf] blazen": [
+        "blazen"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] geplagen": [
+        "geplaagde"
+    ],
+    "V[type=trans,tense=inf,person=subst] afwijzen": [
+        "afwijzen"
+    ],
+    "V[type=trans,tense=inf] compenseren": [
+        "compenseren"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] arbeidsmarken": [
+        "arbeidsmarkt"
+    ],
+    "V[type=trans,tense=inf] stapelen": [
+        "stapelen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] beloven": [
+        "beloven"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] denken": [
+        "dachten"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] dreigen": [
+        "dreigde"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] draaien": [
+        "draait"
+    ],
+    "V[type=trans,tense=imp] onderhandelen": [
+        "onderhandelden"
+    ],
+    "V[type=intrans,tense=inf] verzachten": [
+        "verzachten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] voortzetten": [
+        "voortgezet"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] springennen": [
+        "springende"
+    ],
+    "V[type=intrans,tense=inf] belasten": [
+        "belasten"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] noemen": [
+        "genoemd"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stabiliseren": [
+        "stabiliseerde"
+    ],
+    "V[type=trans,tense=inf] verzwakken": [
+        "verzwakken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] wachten": [
+        "wachtten"
+    ],
+    "V[type=trans,tense=imp] slaan": [
+        "sla"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] je": [
+        "je"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] suggereren": [
+        "suggereerde"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] willen": [
+        "gewild"
+    ],
+    "V[type=trans,tense=inf,person=subst] stimuleren": [
+        "stimuleren"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] heroverwegen": [
+        "heroverweegt"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] chipgerelateren": [
+        "chipgerelateerde"
+    ],
+    "V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] realiseren": [
+        "realiseerde"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] uitdagennen": [
+        "uitdagende"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] noemen": [
+        "noemt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ongefundeerden": [
+        "ongefundeerd"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] dringen": [
+        "dringt"
+    ],
+    "V[type=trans,tense=verl_dw,person=verv_neut] ingedienen": [
+        "ingediende"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] betalen": [
+        "betalen"
+    ],
+    "V[type=intrans,tense=inf] bieden": [
+        "bieden"
+    ],
+    "V[type=trans,tense=inf] behandelingen": [
+        "behandelingen"
+    ],
+    "V[type=trans,tense=imp] kijken": [
+        "kijk"
+    ],
+    "V[type=trans,tense=inf,person=subst] intrekken": [
+        "intrekken"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zullen": [
+        "zullen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] degraderen": [
+        "degradeert"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] borduren": [
+        "borduurde"
+    ],
+    "V[type=refl,tense=inf] bezighouden": [
+        "bezighouden"
+    ],
+    "V[type=intrans,tense=inf] aangaan": [
+        "aangaan"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] uitkijken": [
+        "uitgekeken"
+    ],
+    "V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] zeggen": [
+        "zei"
+    ],
+    "V[type=trans,tense=inf,person=subst] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] paren": [
+        "gepaard"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] uitkomen": [
+        "uitkomt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] breken": [
+        "breekt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] lopen": [
+        "lopen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] trekken": [
+        "trekt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] verkeersbelemmeren": [
+        "verkeersbelemmerend"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] volgen": [
+        "volgt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afwisselen": [
+        "afgewisseld"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verlopen": [
+        "verloopt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] varieren": [
+        "varieert"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] volgen": [
+        "volgen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] onstuimigen": [
+        "onstuimig"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ontstaan": [
+        "ontstaat"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] drijven": [
+        "drijft"
+    ],
+    "V[type=hulp,tense=inf] wisselen": [
+        "wisselen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] volgen": [
+        "volgen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] trekken": [
+        "trekken"
+    ],
+    "V[type=hulp,tense=inf] komen": [
+        "komen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] lossen": [
+        "lost"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] langsen": [
+        "langst"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] ontstaan": [
+        "ontstaan"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] wisselen": [
+        "wisselen"
+    ],
+    "V[type=intrans,tense=inf] wisselen": [
+        "wisselen"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] schijnen": [
+        "schijnt"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] breiden": [
+        "breidt"
+    ],
+    "V[type=trans,tense=inf,person=subst] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] temperen": [
+        "getemperd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] lossen": [
+        "lossen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=inf] volgen": [
+        "volgen"
+    ],
+    "V[type=intrans,tense=inf] drijven": [
+        "drijven"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] regelen": [
+        "geregeld"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] drijven": [
+        "drijven"
+    ],
+    "V[type=intrans,tense=inf] uiteenlopen": [
+        "uiteenlopen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] krijgen": [
+        "krijgen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=inf,person=subst] optrekken": [
+        "optrekken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] kunnen": [
+        "kan"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] overgaan": [
+        "overgaat"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] klaren": [
+        "klaart"
+    ],
+    "V[type=intrans,tense=inf] binnendrijven": [
+        "binnendrijven"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] mistbanken": [
+        "mistbanken"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] doorstaan": [
+        "doorstaan"
+    ],
+    "V[type=intrans,tense=inf] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=inf,person=subst] uitkomen": [
+        "uitkomen"
+    ],
+    "V[type=intrans,tense=inf] bestaan": [
+        "bestaan"
+    ],
+    "V[type=trans,tense=inf] uitpakken": [
+        "uitpakken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] uiteenlopen": [
+        "uiteenloopt"
+    ],
+    "V[type=intrans,tense=inf] volgen": [
+        "volgen"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=intrans,tense=inf] waaien": [
+        "waaien"
+    ],
+    "V[type=refl,tense=inf] verplaatsen": [
+        "verplaatsen"
+    ],
+    "V[type=trans,tense=inf] sneeuwressen": [
+        "sneeuwresten"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] bewegen": [
+        "beweegt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stromen": [
+        "stroomt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] breien": [
+        "breiden"
+    ],
+    "V[type=trans,tense=inf] uitgroeien": [
+        "uitgroeien"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vormen": [
+        "vormt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afschermen": [
+        "afgeschermd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ca..en": [
+        "ca."
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] schijnen": [
+        "schijnen"
+    ]
+}

@@ -1,0 +1,2170 @@
+{
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] say": [
+        "say"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be": [
+        "is"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] follow": [
+        "following"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be": [
+        "are"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] search": [
+        "searching"
+    ],
+    "DT[form=undefined] a": [
+        "a",
+        "An",
+        "A",
+        "an"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] find": [
+        "were found"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be": [
+        "were"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be": [
+        "was"
+    ],
+    "DT[form=defined] the": [
+        "the",
+        "The"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] need": [
+        "need"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] find": [
+        "finding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] stand": [
+        "stands"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] weigh": [
+        "weighs"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have": [
+        "has"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] die": [
+        "died"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] rush": [
+        "were rushed"
+    ],
+    "DT[form=demonstrative] this": [
+        "this",
+        "This"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] remain": [
+        "remained"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ask": [
+        "asked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] believe": [
+        "believe"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] 's": [
+        "'s"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] release": [
+        "release"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] report": [
+        "reported"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] find": [
+        "found"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] lie": [
+        "lying"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] transport": [
+        "was transported"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] discover": [
+        "discovered"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] check": [
+        "had checked"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] investigate": [
+        "are investigating"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] call": [
+        "were called"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] say": [
+        "said"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] take": [
+        "were taken"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] do": [
+        "do"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] know": [
+        "know"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] start": [
+        "started"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] conduct": [
+        "are conducting"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] continue": [
+        "continues"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] respond": [
+        "responded"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fire": [
+        "fired"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] become": [
+        "became"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] refuse": [
+        "refused"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] consider": [
+        "considered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] threaten": [
+        "threatening"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] provide": [
+        "provided"
+    ],
+    "DT[form=defined] no": [
+        "No",
+        "no"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] make": [
+        "were made"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] remain": [
+        "remains"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] hospitalize": [
+        "were hospitalized"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] erupt": [
+        "erupted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] take": [
+        "took",
+        "taken"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] write": [
+        "written"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] suspect": [
+        "suspected"
+    ],
+    "DT[form=defined] all": [
+        "All",
+        "all"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] fly": [
+        "were flown"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] list": [
+        "were listed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fly": [
+        "flew"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] increase": [
+        "increased"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] think": [
+        "thought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rock": [
+        "rocked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] include": [
+        "include"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] arrive": [
+        "arrived"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] shoot": [
+        "were shot"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] accord": [
+        "according",
+        "According"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sustain": [
+        "sustained"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] pronounce": [
+        "were pronounced"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] kill": [
+        "were killed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] kill": [
+        "was killed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] identify": [
+        "have identified"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] send": [
+        "were sent"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] seek": [
+        "seek"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] identify": [
+        "identifying"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] suspect": [
+        "suspects"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] occur": [
+        "occurred"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] list": [
+        "listed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] locate": [
+        "located"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] seek": [
+        "sought"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] transport": [
+        "were transported"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] stand": [
+        "was standing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] gather": [
+        "were gathered"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] celebrate": [
+        "celebrate"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] travel": [
+        "traveling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] drive": [
+        "drove"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] begin": [
+        "began"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] fire": [
+        "firing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] take": [
+        "was taken"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] treat": [
+        "were treated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] expect": [
+        "are expected"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] survive": [
+        "survive"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] relate": [
+        "be related"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fue": [
+        "fued"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] kill": [
+        "killed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tell": [
+        "told"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] be": [
+        "be"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] walk": [
+        "walk"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] try": [
+        "tried"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] run": [
+        "run"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] be": [
+        "being"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] fall": [
+        "fell"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] feel": [
+        "feel"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] expect": [
+        "is expected"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] have": [
+        "have"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] set": [
+        "set"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] say": [
+        "says"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] have": [
+        "had"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pick": [
+        "picked"
+    ],
+    "DT[form=defined] some": [
+        "some",
+        "Some"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] head": [
+        "was headed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] come": [
+        "came"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] see": [
+        "saw",
+        "seen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] suffer": [
+        "suffered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] regard": [
+        "regarding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] transport": [
+        "transported"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] receive": [
+        "received"
+    ],
+    "DT[form=defined] both": [
+        "both",
+        "Both"
+    ],
+    "DT[form=demonstrative] that": [
+        "that",
+        "That"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] identify": [
+        "identified"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] base": [
+        "Based",
+        "based"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] think": [
+        "think"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] involve": [
+        "involved"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] connect": [
+        "connected"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] catch": [
+        "caught"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] open": [
+        "opened"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pull": [
+        "pulled"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] blast": [
+        "blasting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] get": [
+        "getting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] speed": [
+        "speeding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] avoid": [
+        "avoided"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tear": [
+        "tore"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] strike": [
+        "struck"
+    ],
+    "DT[form=defined] another": [
+        "Another",
+        "another"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] shoot": [
+        "was shot"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have": [
+        "have",
+        "do have"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] accuse": [
+        "accused"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] turn": [
+        "turned"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] leave": [
+        "left"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] wound": [
+        "wounded"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] shoot": [
+        "being shot"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] obtain": [
+        "obtained"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] charge": [
+        "charging"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] be": [
+        "have been"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] relate": [
+        "related"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] release": [
+        "released"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] show": [
+        "showing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] connect": [
+        "were connected"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] show": [
+        "show"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] involve": [
+        "involving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] plead": [
+        "pleaded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] receive": [
+        "receiving",
+        "Receiving"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] carry": [
+        "carrying",
+        "Carrying"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] conceal": [
+        "concealed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] be": [
+        "have been",
+        "'ve been"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] happen": [
+        "happened"
+    ],
+    "DT[form=defined] any": [
+        "any"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] connect": [
+        "is connected"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] crash": [
+        "crashed"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] be": [
+        "had been"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] identify": [
+        "were identified"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] find": [
+        "was found"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] determine": [
+        "determined"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] target": [
+        "were targeted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] engage": [
+        "engaged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] range": [
+        "ranging"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pull": [
+        "pulling"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] circle": [
+        "circled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] flee": [
+        "fled"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] include": [
+        "including",
+        "Including"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] face": [
+        "face"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] attempt": [
+        "attempted"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] charge": [
+        "is charged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] temper": [
+        "tempering"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] go": [
+        "going"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] fire": [
+        "were fired"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] get": [
+        "got"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] call": [
+        "called"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak": [
+        "spoke"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] make": [
+        "making"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] tell": [
+        "tells"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] grow": [
+        "grew"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] graduate": [
+        "graduated"
+    ],
+    "DT[form=demonstrative] those": [
+        "those"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] airlift": [
+        "airlifted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] make": [
+        "have made"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] arrest": [
+        "arrested"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] hold": [
+        "being held"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] face": [
+        "faces"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] do": [
+        "did"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] suffer": [
+        "suffer"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] injure": [
+        "injured"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] attend": [
+        "attended"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slay": [
+        "slain"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] shoot": [
+        "shot"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] charge": [
+        "charged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] result": [
+        "resulted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] enter": [
+        "entered"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] make": [
+        "was made"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] ride": [
+        "was riding"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bind": [
+        "was bound"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] present": [
+        "were presented"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] sentence": [
+        "be sentenced"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=null,number=null] drop": [
+        "have been dropped"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] drop": [
+        "have been dropped"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] fight": [
+        "were fighting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] encounter": [
+        "encountered"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] identify": [
+        "has been identified"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] be": [
+        "was"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] treat": [
+        "being treated"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] slay": [
+        "was slain"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] be": [
+        "has been"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] face": [
+        "face"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] believe": [
+        "is believed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] kill": [
+        "killing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] arrest": [
+        "was arrested"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] see": [
+        "be seen"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] cite": [
+        "citing",
+        "Citing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow": [
+        "followed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] see": [
+        "was seen"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] hit": [
+        "were hit"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] injure": [
+        "were injured"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] report": [
+        "was reported"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] die": [
+        "had died"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tweet": [
+        "tweeted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] escalate": [
+        "escalated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] lead": [
+        "leading"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] remain": [
+        "remain"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] notify": [
+        "notified"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] suffer": [
+        "suffering"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] reveal": [
+        "revealed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] approach": [
+        "approached"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] shoot": [
+        "shooting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] investigate": [
+        "is investigating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rent": [
+        "rented"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] identify": [
+        "been identified",
+        "being identified"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] consider": [
+        "is considered"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] charge": [
+        "was charged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] aggravate": [
+        "aggravated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] order": [
+        "ordered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hold": [
+        "held"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] decide": [
+        "is deciding"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] transfer": [
+        "transfer"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] accuse": [
+        "are accused"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] take": [
+        "taking"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] help": [
+        "was helping"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] rival": [
+        "rivals"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stand": [
+        "stood"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] walk": [
+        "walked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hear": [
+        "heard"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] save": [
+        "save"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] survive": [
+        "have survived"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] conduct": [
+        "conducting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] observe": [
+        "observed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] operate": [
+        "be operating",
+        "Operating"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] revoke": [
+        "revoked",
+        "Revoked"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] conduct": [
+        "conducted"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] place": [
+        "placing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] recover": [
+        "recovered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] load": [
+        "loaded",
+        "Loaded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] feed": [
+        "Feeding"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] charge": [
+        "has been charged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] discharge": [
+        "discharging"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] identify": [
+        "was identified"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] identify": [
+        "has identified"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] say": [
+        "say"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] argue": [
+        "were arguing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] list": [
+        "was listed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] add": [
+        "added"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] tape": [
+        "was taped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] seal": [
+        "sealed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] litter": [
+        "was littered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] connect": [
+        "Connecting"
+    ],
+    "DT[form=defined] each": [
+        "each"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] complicate": [
+        "complicated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] injure": [
+        "are injured"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] approach": [
+        "were approached"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] slay": [
+        "has been slain"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] treat": [
+        "have been treated"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] do": [
+        "does"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] appear": [
+        "appear"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] arrest": [
+        "has been arrested"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] murder": [
+        "murder"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] praise": [
+        "praised"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] capture": [
+        "captured"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] respond": [
+        "responding"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] graze": [
+        "graze"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] remember": [
+        "remember"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] end": [
+        "ended"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] break": [
+        "Breaking",
+        "breaking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bring": [
+        "brought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] rush": [
+        "rushed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] gather": [
+        "gathered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] occupy": [
+        "occupied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] steal": [
+        "stolen",
+        "stole"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] slam": [
+        "slammed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] assign": [
+        "assigned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] serve": [
+        "serve"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] tape": [
+        "taped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] work": [
+        "worked"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] treat": [
+        "treat"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] look": [
+        "are looking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] wear": [
+        "wearing",
+        "was wearing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] report": [
+        "reporting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] break": [
+        "broke"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] arrive": [
+        "had arrived"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] transfer": [
+        "being transferred"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] determine": [
+        "was determined"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pay": [
+        "paid"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=null] mark": [
+        "'s marked"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] park": [
+        "is parked"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] sentence": [
+        "has been sentenced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] announce": [
+        "announced"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] face": [
+        "is facing"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] interview": [
+        "were interviewing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] release": [
+        "been released"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] toss": [
+        "was tossed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] make": [
+        "make"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=null] be": [
+        "'s been"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] live": [
+        "live"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] promote": [
+        "was promoted"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] live": [
+        "lives"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] arrive": [
+        "arriving"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] pronounce": [
+        "was pronounced"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] believe": [
+        "are believed"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] release": [
+        "has been released"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pronounce": [
+        "pronounced"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] walk": [
+        "walking"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] be": [
+        "'s"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] know": [
+        "known"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] call": [
+        "is calling"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] believe": [
+        "were believed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] drive": [
+        "be driving",
+        "driving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] degenerate": [
+        "degenerated"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] leave": [
+        "leaving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hospitalize": [
+        "hospitalized"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] wing": [
+        "winged"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] consider": [
+        "were considered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] investigate": [
+        "investigating"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] fire": [
+        "was fired"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] ask": [
+        "is asked"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] call": [
+        "call"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] connect": [
+        "be connected"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] argue": [
+        "argue"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] stand": [
+        "were standing"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] detain": [
+        "has been detained"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] wait": [
+        "waiting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] go": [
+        "go"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] list": [
+        "is listed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] undergo": [
+        "is undergoing"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] exchange": [
+        "exchanged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] confront": [
+        "confronted"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] work": [
+        "was working"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] look": [
+        "were looking"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] accuse": [
+        "was accused"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] report": [
+        "reports"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spot": [
+        "spotted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ensue": [
+        "ensued"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] win": [
+        "won"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] crawl": [
+        "crawled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hide": [
+        "hid"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] keep": [
+        "keeping"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] surpass": [
+        "surpass"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] face": [
+        "are facing"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] shoot": [
+        "were shooting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] join": [
+        "join"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] rake": [
+        "raking"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] allege": [
+        "alleges"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] secure": [
+        "have secured"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] wound": [
+        "were wounded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] act": [
+        "Acting"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] declare": [
+        "was declared"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] disclose": [
+        "disclose"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] make": [
+        "has been made"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] be": [
+        "is being"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] range": [
+        "ranged"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] arraign": [
+        "be arraigned"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] theaten": [
+        "theatening"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] assist": [
+        "assisting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] commit": [
+        "committed"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] serve": [
+        "be served"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] agree": [
+        "agreed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] plead": [
+        "plead"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] get": [
+        "has gotten"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] kick": [
+        "kicked"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] get": [
+        "was getting"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] drive": [
+        "was driving"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] strike": [
+        "were struck"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] pend": [
+        "are pending"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ring": [
+        "rang"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] build": [
+        "building"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] go": [
+        "went"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] retrieve": [
+        "retrieved"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] hospitalize": [
+        "was hospitalized"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] live": [
+        "lived"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] address": [
+        "address"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] provide": [
+        "provide"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] return": [
+        "returned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] find": [
+        "find"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] offer": [
+        "offers"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] speak": [
+        "speaking"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] yell": [
+        "yelling"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] bang": [
+        "banging"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] neighbor": [
+        "neighboring"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] involve": [
+        "are involved"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] confirm": [
+        "confirmed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] offer": [
+        "offered"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] continue": [
+        "continue"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] investigate": [
+        "investigate"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] ask": [
+        "ask"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pass": [
+        "passed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hear": [
+        "hearing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] appear": [
+        "appears"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] ask": [
+        "are asking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] step": [
+        "step"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] contact": [
+        "contact"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] ask": [
+        "were asked"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] leave": [
+        "leave"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] precede": [
+        "preceded"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] hold": [
+        "was holding"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] set": [
+        "was set"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] end": [
+        "end"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] emerge": [
+        "emerged"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] bring": [
+        "being brought"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stabilize": [
+        "stabilized"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] fire": [
+        "fire"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] be": [
+        "was being"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] elaborate": [
+        "elaborate"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] expect": [
+        "were expected"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] state": [
+        "stated"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] investigate": [
+        "be investigated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] appear": [
+        "appeared"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] surrender": [
+        "surrendered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] administer": [
+        "administered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] buy": [
+        "buying"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] enter": [
+        "entering"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] request": [
+        "requested"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] leave": [
+        "has left"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] take": [
+        "been taken",
+        "being taken"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] detain": [
+        "have detained"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] question": [
+        "questioning"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] reveal": [
+        "reveals"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] unload": [
+        "unloaded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] injure": [
+        "injuring"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] unfold": [
+        "unfolded"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] hear": [
+        "are heard"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] hear": [
+        "be heard"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] learn": [
+        "has learned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] mean": [
+        "mean"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] dispatch": [
+        "were dispatched"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] charge": [
+        "have been charged"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] elude": [
+        "eluding"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] claim": [
+        "claims"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] go": [
+        "were going"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] shoot": [
+        "shoot"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] scare": [
+        "was scared"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] believe": [
+        "believes"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] accuse": [
+        "is accused"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] make": [
+        "made"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] contact": [
+        "were contacted"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] stay": [
+        "was staying"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] burst": [
+        "burst"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] run": [
+        "running"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] be": [
+        "were",
+        "been"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] work": [
+        "are working"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] estimate": [
+        "estimated"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] search": [
+        "were searching"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] target": [
+        "targeted"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] arrive": [
+        "arrived"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] decline": [
+        "declined"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] compromise": [
+        "compromise"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] use": [
+        "used"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] track": [
+        "track"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] survive": [
+        "surviving"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] undergo": [
+        "underwent"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] remain": [
+        "remaining"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] look": [
+        "looking"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] occupy": [
+        "was occupied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] want": [
+        "wanted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] relieve": [
+        "relieved"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] pack": [
+        "was packing"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] track": [
+        "had tracked"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] drive": [
+        "had driven"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] figure": [
+        "figuring"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] charge": [
+        "charge"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] charge": [
+        "did charge"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] confirm": [
+        "have confirmed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] range": [
+        "range"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] search": [
+        "are searching"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] arm": [
+        "armed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] own": [
+        "Owned"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] help": [
+        "help"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] keep": [
+        "keep"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] assist": [
+        "assisted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] show": [
+        "showed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] stem": [
+        "stemmed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spill": [
+        "spilled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] deny": [
+        "denied"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] remain": [
+        "remain"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] seem": [
+        "seemed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] fire": [
+        "being fired"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] withhold": [
+        "are withholding"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pend": [
+        "pending"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] expect": [
+        "expected"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] transport": [
+        "transporting"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] kill": [
+        "kill"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] inflict": [
+        "inflicting"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] unleash": [
+        "unleashed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] fly": [
+        "flying"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] hit": [
+        "was hit"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] look": [
+        "is looking"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] disperse": [
+        "disperse"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] use": [
+        "were used"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] fly": [
+        "was flown"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] run": [
+        "ran"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] recognize": [
+        "recognize"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spend": [
+        "spent"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] possess": [
+        "possessing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] have": [
+        "having"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] sentence": [
+        "was sentenced"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] hurt": [
+        "was hurt"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] report": [
+        "report"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] identify": [
+        "identify"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] read": [
+        "reads"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] send": [
+        "sending"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] investigate": [
+        "were investigating"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] determine": [
+        "determine"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] park": [
+        "parked"
+    ],
+    "DT[form=demonstrative] these": [
+        "these"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] ask": [
+        "asked"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] detective": [
+        "Detective"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] post": [
+        "posted"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] link": [
+        "has been linked"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] suspect": [
+        "is suspected"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] drive": [
+        "is driving"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] describe": [
+        "is described"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] stand": [
+        "standing"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] weigh": [
+        "weighing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=singular] seek": [
+        "sought"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] state": [
+        "state"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] walk": [
+        "were walking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] send": [
+        "sent"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] close": [
+        "has been closed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] comment": [
+        "comment"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lead": [
+        "led"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] give": [
+        "give"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] sound": [
+        "sounded"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] strike": [
+        "striking"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] become": [
+        "has become"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] leave": [
+        "leaves"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] mourn": [
+        "mourned"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] sit": [
+        "were sitting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] hide": [
+        "hiding"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] believe": [
+        "believe"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] lead": [
+        "have led"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] listen": [
+        "listen"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] huddle": [
+        "huddled"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] come": [
+        "come"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] die": [
+        "'d die"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] drag": [
+        "dragged"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] move": [
+        "moved"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] treat": [
+        "was treated"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] congregate": [
+        "were congregating"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] appear": [
+        "appear"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] be": [
+        "were being"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=plural] treat": [
+        "treated"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] locate": [
+        "was located"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] identify": [
+        "identify"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=null,number=null] spray": [
+        "have been sprayed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] race": [
+        "raced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] give": [
+        "gave"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] lodge": [
+        "lodged"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] wear": [
+        "wears"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] realize": [
+        "realize"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] notice": [
+        "noticed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] seep": [
+        "seeping"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] go": [
+        "have gone"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] remain": [
+        "has remained"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] calm": [
+        "calmed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] hospitalz": [
+        "were hospitalzed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hurt": [
+        "hurt"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] surround": [
+        "surrounding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] investigate": [
+        "investigated"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] carry": [
+        "carried"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] describe": [
+        "described"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] scream": [
+        "screamed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] die": [
+        "died"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] transfer": [
+        "be transferred"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] locate": [
+        "locating"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] see": [
+        "see"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=null] ask": [
+        "'re asked"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] recover": [
+        "are recovering"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] stop": [
+        "Stop"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] confirm": [
+        "confirm"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] connect": [
+        "are connected"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=singular] bring": [
+        "brought"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] report": [
+        "are reporting"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] treat": [
+        "treating"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] confirm": [
+        "is confirming"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] confirm": [
+        "are confirmed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] indicate": [
+        "indicate"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] injure": [
+        "was injured"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] recall": [
+        "recalled"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] last": [
+        "lasted"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] transfer": [
+        "were transferred"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] try": [
+        "are trying"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] hope": [
+        "hope"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] shed": [
+        "shed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] hit": [
+        "hit"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] organize": [
+        "organized"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] release": [
+        "have released"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] spark": [
+        "sparked"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] release": [
+        "have been released"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] classify": [
+        "is classified"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] inflict": [
+        "inflicted"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] recover": [
+        "was recovered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] sit": [
+        "sitting"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] shatter": [
+        "was shattered"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] shoot": [
+        "be shot"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] involve": [
+        "was involved"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] consider": [
+        "was considered"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] note": [
+        "noted"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] relate": [
+        "were related"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] receive": [
+        "receive"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] file": [
+        "filed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] claim": [
+        "claiming"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] know": [
+        "have known"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] incur": [
+        "incurred"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] bring": [
+        "were brought"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] upgrade": [
+        "been upgraded"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] hit": [
+        "be hit"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] pass": [
+        "passing"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] gather": [
+        "were gathering"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] do": [
+        "has done"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] make": [
+        "have been made"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] learn": [
+        "learned"
+    ],
+    "VP[aspect=perfect,tense=past,voice=active,person=null,number=null] open": [
+        "had opened"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] describe": [
+        "were described"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] face": [
+        "facing"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] tell": [
+        "were told"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] pump": [
+        "pumped"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] manage": [
+        "managed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] spot": [
+        "was spotted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] suspend": [
+        "suspended"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] brandish": [
+        "brandished"
+    ],
+    "VP[aspect=perfect,tense=present,voice=passive,person=non-3rd,number=null] transport": [
+        "have been transported"
+    ],
+    "VP[aspect=perfect,tense=present,voice=active,person=null,number=null] witness": [
+        "have witnessed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] email": [
+        "email"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=non-3rd,number=plural] feel": [
+        "are feeling"
+    ],
+    "VP[aspect=perfect-progressive,tense=past,voice=active,person=null,number=null] date": [
+        "had been dating"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] locate": [
+        "were located"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] include": [
+        "included"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] book": [
+        "was booked"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] book": [
+        "booking"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] end": [
+        "ends"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] involve": [
+        "be involved"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] seek": [
+        "seeking"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] disarm": [
+        "disarmed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] hospitalize": [
+        "remained hospitalized"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] think": [
+        "were thought"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=plural] be": [
+        "were"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] halt": [
+        "halted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] secure": [
+        "secured"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] gather": [
+        "was gathered"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] pull": [
+        "pulled"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] indicate": [
+        "indicate"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] surround": [
+        "surround"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] catch": [
+        "got caught",
+        "being caught"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] indicate": [
+        "indicates"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] involve": [
+        "were involved"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] leave": [
+        "were leaving"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] relate": [
+        "was related"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] station": [
+        "were stationed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] prevent": [
+        "prevent"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] seek": [
+        "seeks"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] succumb": [
+        "succumbed"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] burn": [
+        "burning"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] tamper": [
+        "tampering"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] find": [
+        "being found"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] return": [
+        "was returned"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] steal": [
+        "stealing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] suffer": [
+        "suffered"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=3rd,number=singular] withhold": [
+        "is withholding"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] produce": [
+        "produced"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] retreat": [
+        "retreated"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] wear": [
+        "were wearing"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] discover": [
+        "discover"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] tip": [
+        "Tip"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] hit": [
+        "being hit"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] ricochet": [
+        "ricocheted"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] claim": [
+        "claimed"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] get": [
+        "get"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] list": [
+        "are listed"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] bloody": [
+        "bloodied"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] disclose": [
+        "disclosed"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] rush": [
+        "was rushed"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=null,number=null] withhold": [
+        "being withheld"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] consider": [
+        "consider"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] scream": [
+        "screaming"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] treat": [
+        "treated"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] treat": [
+        "were treating"
+    ],
+    "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] bring": [
+        "bringing"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] look": [
+        "looks"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] treat": [
+        "be treated"
+    ],
+    "VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] discuss": [
+        "discusses"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] give": [
+        "were given"
+    ],
+    "VP[aspect=simple,tense=present,voice=passive,person=null,number=null] charge": [
+        "be charged"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] drive": [
+        "was driven"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] plan": [
+        "planned"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=plural] participate": [
+        "were participating"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] let": [
+        "let"
+    ],
+    "VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] report": [
+        "report"
+    ],
+    "VP[aspect=simple,tense=past,voice=active,person=null,number=null] link": [
+        "linked"
+    ],
+    "VP[aspect=progressive,tense=past,voice=active,person=null,number=singular] come": [
+        "was coming"
+    ],
+    "VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] arrest": [
+        "were arrested"
+    ]
+}

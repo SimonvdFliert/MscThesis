@@ -1,0 +1,434 @@
+{
+    "V[type=trans,tense=inf,person=subst] trekken": [
+        "trekken"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] kunnen": [
+        "kan"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] vallen": [
+        "vallen"
+    ],
+    "ART[form=bep,gender=zijd_of_mv,case=neut] de": [
+        "de"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] liggen": [
+        "ligt"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn": [
+        "is"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] blijven": [
+        "blijft"
+    ],
+    "V[type=intrans,tense=inf] lopen": [
+        "lopen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] staan": [
+        "staat"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] worden": [
+        "wordt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] gaten": [
+        "gaat"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] het": [
+        "het"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] komen": [
+        "komt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] lopen": [
+        "loopt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] nemen": [
+        "neemt"
+    ],
+    "ART[form=onbep,gender=zijd_of_onzijd,case=neut] een": [
+        "een"
+    ],
+    "V[type=trans,tense=inf] steken": [
+        "steken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] draaien": [
+        "draait"
+    ],
+    "V[type=trans,tense=inf] trekken": [
+        "trekken"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] kunnen": [
+        "kunnen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ontstaan": [
+        "ontstaan"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] komen": [
+        "komen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] paren": [
+        "gepaard"
+    ],
+    "V[type=hulp,tense=inf] kunnen": [
+        "kunnen"
+    ],
+    "V[type=intrans,tense=inf] gaan": [
+        "gaan"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aanvoeren": [
+        "aangevoerd"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] uitkomen": [
+        "uitkomt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] breken": [
+        "breekt"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] liggen": [
+        "liggen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] beginnen": [
+        "begint"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] lopen": [
+        "lopen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] vallen": [
+        "valt"
+    ],
+    "V[type=intrans,tense=inf] komen": [
+        "komen"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] laten": [
+        "laat"
+    ],
+    "V[type=refl,tense=inf] zien": [
+        "zien"
+    ],
+    "V[type=trans,tense=inf] varen": [
+        "voeren"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] zijn": [
+        "zijn"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] trekken": [
+        "trekt"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] verkeersbelemmeren": [
+        "verkeersbelemmerend"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] zijn": [
+        "zijn"
+    ],
+    "V[type=trans,tense=ott,person=1,number=ev] verwachten": [
+        "verwacht"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] blijven": [
+        "blijven"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] volgen": [
+        "volgt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afwisselen": [
+        "afgewisseld"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] trekken": [
+        "trekken"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] gaan": [
+        "gaan"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] hebben": [
+        "heeft"
+    ],
+    "V[type=intrans,tense=inf] maken": [
+        "maken"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] verlopen": [
+        "verloopt"
+    ],
+    "V[type=trans,tense=inf] zien": [
+        "zien"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] varieren": [
+        "varieert"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] volgen": [
+        "volgen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] onstuimigen": [
+        "onstuimig"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] bereiken": [
+        "bereikt"
+    ],
+    "V[type=trans,tense=inf] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] ontstaan": [
+        "ontstaat"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] drijven": [
+        "drijft"
+    ],
+    "V[type=intrans,tense=teg_dw,person=onverv] overwegen": [
+        "overwegend"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] zullen": [
+        "zullen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] bedragen": [
+        "bedraagt"
+    ],
+    "V[type=hulp,tense=inf] wisselen": [
+        "wisselen"
+    ],
+    "ART[form=bep,gender=onzijd,case=neut] iets": [
+        "iets"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] volgen": [
+        "volgen"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] raken": [
+        "raakt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] trekken": [
+        "trekken"
+    ],
+    "V[type=hulp,tense=inf] komen": [
+        "komen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] lossen": [
+        "lost"
+    ],
+    "V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] zullen": [
+        "zou"
+    ],
+    "V[type=intrans,tense=inf] vallen": [
+        "vallen"
+    ],
+    "V[type=trans,tense=ott,person=2,number=ev] stellen": [
+        "stelt"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zullen": [
+        "zullen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] langsen": [
+        "langst"
+    ],
+    "V[type=intrans,tense=verl_dw,person=onverv] ontstaan": [
+        "ontstaan"
+    ],
+    "V[type=trans,tense=inf] doorbreken": [
+        "doorbreken"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] zijn": [
+        "zijn"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] zien": [
+        "zien"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] wisselen": [
+        "wisselen"
+    ],
+    "V[type=intrans,tense=inf] wisselen": [
+        "wisselen"
+    ],
+    "V[type=hulp,tense=ott,person=3,number=ev] zullen": [
+        "zal"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=3,number=ev] schijnen": [
+        "schijnt"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] blijven": [
+        "blijven"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] krijgen": [
+        "krijgt"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] breiden": [
+        "breidt"
+    ],
+    "V[type=hulp_of_kopp,tense=inf] worden": [
+        "worden"
+    ],
+    "V[type=trans,tense=inf,person=subst] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] temperen": [
+        "getemperd"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] lossen": [
+        "lossen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] voelen": [
+        "voelt"
+    ],
+    "V[type=trans,tense=inf] geven": [
+        "geven"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=inf] nemen": [
+        "nemen"
+    ],
+    "V[type=trans,tense=inf] houden": [
+        "houden"
+    ],
+    "V[type=trans,tense=inf] volgen": [
+        "volgen"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] volgen": [
+        "gevolgd"
+    ],
+    "V[type=intrans,tense=inf] drijven": [
+        "drijven"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] regelen": [
+        "geregeld"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] drijven": [
+        "drijven"
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] worden": [
+        "worden"
+    ],
+    "V[type=intrans,tense=inf] uiteenlopen": [
+        "uiteenlopen"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] krijgen": [
+        "krijgen"
+    ],
+    "V[type=trans,tense=inf] maken": [
+        "maken"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] bereiken": [
+        "bereiken"
+    ],
+    "V[type=trans,tense=inf,person=subst] optrekken": [
+        "optrekken"
+    ],
+    "V[type=hulp,tense=ott,person=1_of_2_of_3,number=mv] hebben": [
+        "hebben"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] kunnen": [
+        "kan"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] overgaan": [
+        "overgaat"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] gebeuren": [
+        "gebeurt"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] verdwijnen": [
+        "verdwijnt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] klaren": [
+        "klaart"
+    ],
+    "V[type=intrans,tense=inf] binnendrijven": [
+        "binnendrijven"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] mistbanken": [
+        "mistbanken"
+    ],
+    "V[type=hulp_of_kopp,tense=verl_dw,person=onverv] geworden": [
+        "geworden"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] doorstaan": [
+        "doorstaan"
+    ],
+    "V[type=intrans,tense=inf] trekken": [
+        "trekken"
+    ],
+    "V[type=trans,tense=inf,person=subst] uitkomen": [
+        "uitkomen"
+    ],
+    "V[type=refl,tense=ott,person=3,number=ev] bevinden": [
+        "bevindt"
+    ],
+    "V[type=intrans,tense=inf] liggen": [
+        "liggen"
+    ],
+    "V[type=intrans,tense=inf] bestaan": [
+        "bestaan"
+    ],
+    "V[type=trans,tense=imp] innen": [
+        "in"
+    ],
+    "V[type=trans,tense=inf] uitpakken": [
+        "uitpakken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] uiteenlopen": [
+        "uiteenloopt"
+    ],
+    "V[type=intrans,tense=inf] volgen": [
+        "volgen"
+    ],
+    "ART[form=onbep,gender=zijd_of_onzijd,case=neut] 'n": [
+        "'n"
+    ],
+    "V[type=trans,tense=ott,person=1_of_2_of_3,number=mv] voorkomen": [
+        "voorkomen"
+    ],
+    "V[type=hulp,tense=inf] gaan": [
+        "gaan"
+    ],
+    "V[type=intrans,tense=inf] waaien": [
+        "waaien"
+    ],
+    "V[type=refl,tense=inf] verplaatsen": [
+        "verplaatsen"
+    ],
+    "V[type=trans,tense=inf] sneeuwressen": [
+        "sneeuwresten"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] bewegen": [
+        "beweegt"
+    ],
+    "V[type=intrans,tense=inf] gebeuren": [
+        "gebeuren"
+    ],
+    "V[type=trans,tense=inf] bereiken": [
+        "bereiken"
+    ],
+    "V[type=intrans,tense=ott,person=3,number=ev] stromen": [
+        "stroomt"
+    ],
+    "V[type=trans,tense=inf] breien": [
+        "breiden"
+    ],
+    "V[type=intrans,tense=ott,person=1_of_2_of_3,number=mv] breien": [
+        "breiden"
+    ],
+    "V[type=intrans,tense=teg_dw,person=verv_neut] komennen": [
+        "komende"
+    ],
+    "V[type=intrans,tense=inf] dalen": [
+        "dalen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] houden": [
+        "houdt"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] maken": [
+        "maakt"
+    ],
+    "V[type=trans,tense=inf] uitgroeien": [
+        "uitgroeien"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] aflopen": [
+        "afgelopen"
+    ],
+    "V[type=trans,tense=ott,person=3,number=ev] vormen": [
+        "vormt"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] afschermen": [
+        "afgeschermd"
+    ],
+    "V[type=trans,tense=verl_dw,person=onverv] ca..en": [
+        "ca."
+    ],
+    "V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] schijnen": [
+        "schijnen"
+    ]
+}
