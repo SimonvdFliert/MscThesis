@@ -98,16 +98,7 @@ def _table_reader(table_file):
     for line in f:
       entries = line.lower().split("\t")
       # pylint: disable=g-complex-comprehension
-      # for entry in entries:
-      #   #print(f'entry:    {entry}')
-      #   for member in entry.split(", "):
-      #     #print(f'member.split():   {member.split()}\n')
-      
-      # overlap_probability(["michael", "dahlquist"],
-      #                       [(["name"], ["michael", "dahlquist"])])
-      
       table = []
-
           #[member.split() for member in entry.split("|||")] for entry in entries
       for entry in entries:
         entry_tab = []
@@ -196,9 +187,7 @@ def overlap_probability(ngram, table, smoothing=0.0, stopwords=None):
     prob: Float probability of ngram being entailed by the table.
   """
   # pylint: disable=g-complex-comprehension
-  # if len(table[0]) == 2:
-  # print(f'table:  {table}')
-  # print(f'len table:  {len(table)}')
+
   table_values = set([tok for _, value in table for tok in value])
   # print(f'table_values:  {table_values}')
   # else:
@@ -337,6 +326,7 @@ def parent(predictions,
     c_prec, c_rec, c_f = [], [], []
     ref_rec, table_rec = [], []
     for reference in list_of_references:
+      #print(f'reference:  {reference}   prediction:  {prediction}')
       # Weighted ngram precisions and recalls for each order.
       ngram_prec, ngram_rec = [], []
       for order in range(1, max_order + 1):
@@ -431,15 +421,17 @@ def parent(predictions,
     table_recalls.append(table_rec[max_i])
 
   avg_precision = sum(precisions) / len(precisions)
+  print(f'sum(precisions):  {sum(precisions)}    len(precisions  {len(precisions)})')
   avg_recall = sum(recalls) / len(recalls)
+  print(f'sum(recalls):  {sum(recalls)}    len(recalls) {len(recalls)})')
   avg_f_score = sum(all_f_scores) / len(all_f_scores)
+  print(f'sum(all_f_scores) :  {sum(all_f_scores)}    len(all_f_scores)  {len(all_f_scores)})')
 
   return avg_precision, avg_recall, avg_f_score, all_f_scores
 
 
 def main(_):
   reference_it = _text_reader(FLAGS.references, multiple=True)
-  #print(f'reference_it:   {reference_it} \n\n')
   generation_it = _text_reader(FLAGS.generations)
   table_it = _table_reader(FLAGS.tables)
 

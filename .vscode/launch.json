@@ -11,8 +11,8 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true,
-            "args":["--references", "Testingdata/DecodedArticlesT51Epoch.txt" , "--generations", "Testingdata/DecodedPredsT51Epoch.txt", "--tables", "Testingdata/test.txt"]
+            "justMyCode": true
+            //"args":["--references", "Testingdata/DecodedArticlesT51Epoch.txt" , "--generations", "Testingdata/DecodedPredsT51Epoch.txt", "--tables", "Testingdata/test.txt"]
         }
     ]
 }
