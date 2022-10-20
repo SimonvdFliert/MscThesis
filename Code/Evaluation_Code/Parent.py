@@ -456,6 +456,16 @@ def main(_):
   logging.info("Precision = %.4f Recall = %.4f F-score = %.4f",
                precision, recall, f_score)
 
+  ## Own code to extend results json
+  with open('E:/ArriaThesis/MscThesis/Logging_Results/logResults.json', "r") as json_data_file:
+      data = json.load(json_data_file)
+
+  data.update({'Parent_Precison': precision, 'Parent_recall': recall,  'Parent_f_score': f_score, 'Parent_all_f': all_f, })
+
+  with open('E:/ArriaThesis/MscThesis/Logging_Results/logResults.json', "w") as file:
+    json.dump(data, file)
+          
+
 if __name__ == "__main__":
   flags.mark_flags_as_required(["references", "generations", "tables"])
   app.run(main)
