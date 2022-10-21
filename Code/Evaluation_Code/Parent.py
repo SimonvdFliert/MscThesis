@@ -80,7 +80,7 @@ def _text_reader(text_file, multiple=False):
     text_file: String filename.
     multiple: Whether multiple references / generations are expected in a line.
   """
-  with io.open(text_file) as f:
+  with io.open(text_file, encoding='utf-8') as f:
     for line in f:
       if multiple:
         yield [item.lower().split() for item in line.strip().split("\t")]
@@ -94,20 +94,19 @@ def _table_reader(table_file):
   Args:
     table_file: String filename.
   """
-  with io.open(table_file) as f:
+  with io.open(table_file, encoding='utf-8') as f:
     for line in f:
       entries = line.lower().split("\t")
       # pylint: disable=g-complex-comprehension
       table = []
           #[member.split() for member in entry.split("|||")] for entry in entries
-      for entry in entries:
+      for entry_string in entries:
         entry_tab = []
-        for member in entry.split(", "):
-          split_member = member.split(' | ') 
-          value_pair = ([split_member[0]], [split_member[1]])
+        entry_list = literal_eval(entry_string)
+        for member in entry_list:
+          value_pair = ([member[0]], [member[1]])
           table.append(value_pair)
 
-      #]
       yield table
 
 
@@ -326,7 +325,6 @@ def parent(predictions,
     c_prec, c_rec, c_f = [], [], []
     ref_rec, table_rec = [], []
     for reference in list_of_references:
-      #print(f'reference:  {reference}   prediction:  {prediction}')
       # Weighted ngram precisions and recalls for each order.
       ngram_prec, ngram_rec = [], []
       for order in range(1, max_order + 1):
@@ -457,13 +455,13 @@ def main(_):
                precision, recall, f_score)
 
   ## Own code to extend results json
-  with open('E:/ArriaThesis/MscThesis/Logging_Results/logResults.json', "r") as json_data_file:
+  with open(f'E:/ArriaThesis/MscThesis/Logging_Results/{model_name}_logResults.json', "r",encoding='utf-8') as json_data_file:
       data = json.load(json_data_file)
 
   data.update({'Parent_Precison': precision, 'Parent_recall': recall,  'Parent_f_score': f_score, 'Parent_all_f': all_f, })
 
-  with open('E:/ArriaThesis/MscThesis/Logging_Results/logResults.json', "w") as file:
-    json.dump(data, file)
+  with open(f'E:/ArriaThesis/MscThesis/Logging_Results/{model_name}_logResults.json', "w",encoding='utf-8') as f:
+    json.dump(data, f)
           
 
 if __name__ == "__main__":
