@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="DutchIncidents" eid="Id1" size="4">
+    <entry category="DutchWeather" eid="Id1" size="4">
       <originaltripleset>
         <otriple>cloudAmount | vrijwel_onbewolkt</otriple>
         <otriple>locationArea | in_de_noordelijke_helft</otriple>
@@ -40,7 +40,7 @@
         <entity>PATIENT-4 | nevelig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id2" size="3">
+    <entry category="DutchWeather" eid="Id2" size="3">
       <originaltripleset>
         <otriple>cloudAmount | enkele_wolkenvelden</otriple>
         <otriple>locationArea | Verder_naar_het_zuiden</otriple>
@@ -79,7 +79,7 @@
         <entity>PATIENT-4 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id3" size="3">
+    <entry category="DutchWeather" eid="Id3" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_uiterste_zuiden</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -113,7 +113,7 @@
         <entity>PATIENT-3 | mist</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id4" size="2">
+    <entry category="DutchWeather" eid="Id4" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_noordoosten</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -152,7 +152,7 @@
         <entity>PATIENT-4 | in_het_zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id5" size="3">
+    <entry category="DutchWeather" eid="Id5" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_uiterste_zuiden</otriple>
         <otriple>windAmount | zwak_tot_matig</otriple>
@@ -191,7 +191,7 @@
         <entity>PATIENT-4 | in_het_uiterste_zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id6" size="3">
+    <entry category="DutchWeather" eid="Id6" size="3">
       <originaltripleset>
         <otriple>locationArea | op_de_meeste_plaatsen</otriple>
         <otriple>timePoint | Overdag</otriple>
@@ -225,7 +225,7 @@
         <entity>PATIENT-3 | zonnig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id7" size="5">
+    <entry category="DutchWeather" eid="Id7" size="5">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | In_het_zuiden</otriple>
@@ -274,7 +274,7 @@
         <entity>PATIENT-6 | mist</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id8" size="5">
+    <entry category="DutchWeather" eid="Id8" size="5">
       <originaltripleset>
         <otriple>locationArea | In_het_zuiden</otriple>
         <otriple>locationArea | in_het_uiterste_zuiden</otriple>
@@ -328,7 +328,7 @@
         <entity>PATIENT-7 | niet_uitgesloten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id9" size="3">
+    <entry category="DutchWeather" eid="Id9" size="3">
       <originaltripleset>
         <otriple>locationArea | vlak_aan_zee</otriple>
         <otriple>temperatureCelsius | 18</otriple>
@@ -372,7 +372,7 @@
         <entity>PATIENT-5 | vlak_aan_zee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id10" size="3">
+    <entry category="DutchWeather" eid="Id10" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_zuiden</otriple>
         <otriple>locationArea | elders</otriple>
@@ -421,7 +421,7 @@
         <entity>PATIENT-6 | oost_tot_noordoost</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id11" size="3">
+    <entry category="DutchWeather" eid="Id11" size="3">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>compassDirection | noordwaarts</otriple>
@@ -465,7 +465,7 @@
         <entity>PATIENT-5 | noordwaarts</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id12" size="3">
+    <entry category="DutchWeather" eid="Id12" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_uiterste_zuiden</otriple>
         <otriple>weatherOccurringChance | kans</otriple>
@@ -499,7 +499,7 @@
         <entity>PATIENT-3 | bui</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id13" size="3">
+    <entry category="DutchWeather" eid="Id13" size="3">
       <originaltripleset>
         <otriple>cloudType | hoge_bewolking</otriple>
         <otriple>locationArea | Elders</otriple>
@@ -533,7 +533,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id14" size="3">
+    <entry category="DutchWeather" eid="Id14" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_noordoosten</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -577,7 +577,7 @@
         <entity>PATIENT-5 | in_het_zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id15" size="5">
+    <entry category="DutchWeather" eid="Id15" size="5">
       <originaltripleset>
         <otriple>locationArea | in_het_Waddengebied</otriple>
         <otriple>locationArea | vlak_aan_zee</otriple>
@@ -636,7 +636,7 @@
         <entity>PATIENT-8 | mogelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id16" size="2">
+    <entry category="DutchWeather" eid="Id16" size="2">
       <originaltripleset>
         <otriple>locationArea | In_het_uiterste_zuiden</otriple>
         <otriple>windAmount | veranderlijk</otriple>
@@ -670,7 +670,7 @@
         <entity>PATIENT-3 | veranderlijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id17" size="2">
+    <entry category="DutchWeather" eid="Id17" size="2">
       <originaltripleset>
         <otriple>timePoint | Dinsdag_overdag</otriple>
         <otriple>weatherChange | weinig</otriple>
@@ -699,7 +699,7 @@
         <entity>PATIENT-2 | weinig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id18" size="5">
+    <entry category="DutchWeather" eid="Id18" size="5">
       <originaltripleset>
         <otriple>cloudChange | meer</otriple>
         <otriple>cloudType | sluierbewolking</otriple>
@@ -743,7 +743,7 @@
         <entity>PATIENT-5 | sluierbewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id19" size="4">
+    <entry category="DutchWeather" eid="Id19" size="4">
       <originaltripleset>
         <otriple>cloudAmount | dikst</otriple>
         <otriple>locationArea | In_het_zuiden</otriple>
@@ -782,7 +782,7 @@
         <entity>PATIENT-4 | (buiige)_regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id20" size="3">
+    <entry category="DutchWeather" eid="Id20" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_midden_en_zuiden</otriple>
         <otriple>locationArea | op_de_Wadden</otriple>
@@ -826,7 +826,7 @@
         <entity>PATIENT-5 | in_het_midden_en_zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id21" size="4">
+    <entry category="DutchWeather" eid="Id21" size="4">
       <originaltripleset>
         <otriple>locationArea | in_de_kustgebieden</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -885,7 +885,7 @@
         <entity>PATIENT-8 | vrij_krachtig_tot_krachtig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id22" size="3">
+    <entry category="DutchWeather" eid="Id22" size="3">
       <originaltripleset>
         <otriple>locationArea | op_veel_plaatsen</otriple>
         <otriple>locationArea | overal</otriple>
@@ -934,7 +934,7 @@
         <entity>PATIENT-6 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id23" size="2">
+    <entry category="DutchWeather" eid="Id23" size="2">
       <originaltripleset>
         <otriple>locationArea | vrijwel_overal</otriple>
         <otriple>weatherType | zonnig</otriple>
@@ -963,7 +963,7 @@
         <entity>PATIENT-2 | zonnig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id24" size="3">
+    <entry category="DutchWeather" eid="Id24" size="3">
       <originaltripleset>
         <otriple>cloudChange | meer</otriple>
         <otriple>cloudType | sluierbewolking</otriple>
@@ -1002,7 +1002,7 @@
         <entity>PATIENT-4 | sluierbewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id25" size="5">
+    <entry category="DutchWeather" eid="Id25" size="5">
       <originaltripleset>
         <otriple>cloudChange | langzaam_dikker</otriple>
         <otriple>compassDirection | westen</otriple>
@@ -1051,7 +1051,7 @@
         <entity>PATIENT-6 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id26" size="5">
+    <entry category="DutchWeather" eid="Id26" size="5">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>timePoint | In_de_avond</otriple>
@@ -1095,7 +1095,7 @@
         <entity>PATIENT-5 | toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id27" size="4">
+    <entry category="DutchWeather" eid="Id27" size="4">
       <originaltripleset>
         <otriple>locationArea | in_het_uiterste_oosten</otriple>
         <otriple>locationArea | op_de_Wadden</otriple>
@@ -1149,7 +1149,7 @@
         <entity>PATIENT-7 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id28" size="5">
+    <entry category="DutchWeather" eid="Id28" size="5">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>timePoint | in_de_loop_van_de_avond</otriple>
@@ -1193,7 +1193,7 @@
         <entity>PATIENT-5 | noordelijke</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id29" size="2">
+    <entry category="DutchWeather" eid="Id29" size="2">
       <originaltripleset>
         <otriple>locationArea | Aan_de_noordwestkust</otriple>
         <otriple>windAmount | krachtig_of_hard</otriple>
@@ -1222,7 +1222,7 @@
         <entity>PATIENT-2 | krachtig_of_hard</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id30" size="5">
+    <entry category="DutchWeather" eid="Id30" size="5">
       <originaltripleset>
         <otriple>cloudAmount | veel_bewolking</otriple>
         <otriple>locationArea | verspreid_over_het_land</otriple>
@@ -1266,7 +1266,7 @@
         <entity>PATIENT-5 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id31" size="2">
+    <entry category="DutchWeather" eid="Id31" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>locationArea | in_het_zuidwesten</otriple>
@@ -1305,7 +1305,7 @@
         <entity>PATIENT-4 | in_het_zuidwesten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id32" size="4">
+    <entry category="DutchWeather" eid="Id32" size="4">
       <originaltripleset>
         <otriple>locationArea | aan_de_zuidwestkust</otriple>
         <otriple>locationArea | in_de_kustgebieden</otriple>
@@ -1359,7 +1359,7 @@
         <entity>PATIENT-7 | aan_de_zuidwestkust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id33" size="6">
+    <entry category="DutchWeather" eid="Id33" size="6">
       <originaltripleset>
         <otriple>compassDirection | noordwesten</otriple>
         <otriple>locationArea | op_de_meeste_plaatsen</otriple>
@@ -1413,7 +1413,7 @@
         <entity>PATIENT-7 | steeds_vaker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id34" size="6">
+    <entry category="DutchWeather" eid="Id34" size="6">
       <originaltripleset>
         <otriple>cloudAmount | bewolkt</otriple>
         <otriple>locationArea | In_het_zuidoosten</otriple>
@@ -1462,7 +1462,7 @@
         <entity>PATIENT-6 | druilerig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id35" size="5">
+    <entry category="DutchWeather" eid="Id35" size="5">
       <originaltripleset>
         <otriple>locationArea | Elders</otriple>
         <otriple>timePoint | in_de_middag</otriple>
@@ -1511,7 +1511,7 @@
         <entity>PATIENT-6 | perioden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id36" size="5">
+    <entry category="DutchWeather" eid="Id36" size="5">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>maximumTemperature | 16°C</otriple>
@@ -1565,7 +1565,7 @@
         <entity>PATIENT-7 | af</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id37" size="3">
+    <entry category="DutchWeather" eid="Id37" size="3">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>timePoint | vannacht</otriple>
@@ -1599,7 +1599,7 @@
         <entity>PATIENT-3 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id38" size="5">
+    <entry category="DutchWeather" eid="Id38" size="5">
       <originaltripleset>
         <otriple>minimumTemperature | -2°C</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -1638,7 +1638,7 @@
         <entity>PATIENT-4 | mogelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id39" size="5">
+    <entry category="DutchWeather" eid="Id39" size="5">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -1683,7 +1683,7 @@
         <entity>PATIENT-5 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id40" size="4">
+    <entry category="DutchWeather" eid="Id40" size="4">
       <originaltripleset>
         <otriple>locationArea | vrijwel_overal</otriple>
         <otriple>timePoint | Overdag</otriple>
@@ -1722,7 +1722,7 @@
         <entity>PATIENT-4 | vrijwel_overal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id41" size="2">
+    <entry category="DutchWeather" eid="Id41" size="2">
       <originaltripleset>
         <otriple>cloudType | sluierbewolking</otriple>
         <otriple>locationArea | In_het_uiterste_zuiden</otriple>
@@ -1751,7 +1751,7 @@
         <entity>PATIENT-2 | sluierbewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id42" size="2">
+    <entry category="DutchWeather" eid="Id42" size="2">
       <originaltripleset>
         <otriple>timePoint | 's_middags</otriple>
       </originaltripleset>
@@ -1775,7 +1775,7 @@
         <entity>PATIENT-1 | 's_middags</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id43" size="2">
+    <entry category="DutchWeather" eid="Id43" size="2">
       <originaltripleset>
         <otriple>windAmount | matige</otriple>
         <otriple>windDirection | (zuid)oostenwind</otriple>
@@ -1805,7 +1805,7 @@
         <entity>PATIENT-2 | (zuid)oostenwind</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id44" size="4">
+    <entry category="DutchWeather" eid="Id44" size="4">
       <originaltripleset>
         <otriple>locationArea | in_het_noordoosten</otriple>
         <otriple>timePoint | In_de_nacht_naar_zondag</otriple>
@@ -1844,7 +1844,7 @@
         <entity>PATIENT-4 | enkele</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id45" size="2">
+    <entry category="DutchWeather" eid="Id45" size="2">
       <originaltripleset>
         <otriple>minimumTemperature | -3°C</otriple>
       </originaltripleset>
@@ -1868,7 +1868,7 @@
         <entity>PATIENT-1 | -3°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id46" size="3">
+    <entry category="DutchWeather" eid="Id46" size="3">
       <originaltripleset>
         <otriple>locationArea | in_de_kustgebieden</otriple>
         <otriple>windAmount | zwak</otriple>
@@ -1903,7 +1903,7 @@
         <entity>PATIENT-3 | in_de_kustgebieden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id47" size="2">
+    <entry category="DutchWeather" eid="Id47" size="2">
       <originaltripleset>
         <otriple>timePoint | Zondag_overdag</otriple>
         <otriple>weatherType | zonnig</otriple>
@@ -1932,7 +1932,7 @@
         <entity>PATIENT-2 | zonnig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id48" size="3">
+    <entry category="DutchWeather" eid="Id48" size="3">
       <originaltripleset>
         <otriple>maximumTemperature | net_boven_het_vriespunt</otriple>
         <otriple>temperatureChange | kouder</otriple>
@@ -1966,7 +1966,7 @@
         <entity>PATIENT-3 | kouder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id49" size="2">
+    <entry category="DutchWeather" eid="Id49" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windChange | noordoost</otriple>
@@ -1995,7 +1995,7 @@
         <entity>PATIENT-2 | noordoost</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id50" size="6">
+    <entry category="DutchWeather" eid="Id50" size="6">
       <originaltripleset>
         <otriple>compassDirection | zuidwesten</otriple>
         <otriple>locationArea | in_het_noordoosten</otriple>
@@ -2039,7 +2039,7 @@
         <entity>PATIENT-5 | steeds_vaker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id51" size="5">
+    <entry category="DutchWeather" eid="Id51" size="5">
       <originaltripleset>
         <otriple>cloudType | stapelwolken</otriple>
         <otriple>locationArea | verspreid_over_het_land</otriple>
@@ -2083,7 +2083,7 @@
         <entity>PATIENT-5 | mogelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id52" size="3">
+    <entry category="DutchWeather" eid="Id52" size="3">
       <originaltripleset>
         <otriple>locationArea | op_veel_plaatsen</otriple>
         <otriple>timePoint | In_de_loop_van_de_avond</otriple>
@@ -2117,7 +2117,7 @@
         <entity>PATIENT-3 | op_veel_plaatsen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id53" size="2">
+    <entry category="DutchWeather" eid="Id53" size="2">
       <originaltripleset>
         <otriple>temperatureCelsius | 17°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -2146,7 +2146,7 @@
         <entity>PATIENT-2 | 17°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id54" size="2">
+    <entry category="DutchWeather" eid="Id54" size="2">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windDirection | zuidwestelijk</otriple>
@@ -2175,7 +2175,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id55" size="2">
+    <entry category="DutchWeather" eid="Id55" size="2">
       <originaltripleset>
         <otriple>timePoint | In_de_avond</otriple>
         <otriple>windChange | zuid</otriple>
@@ -2205,7 +2205,7 @@
         <entity>PATIENT-2 | zuid</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id56" size="7">
+    <entry category="DutchWeather" eid="Id56" size="7">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>cloudChange | toe</otriple>
@@ -2264,7 +2264,7 @@
         <entity>PATIENT-8 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id57" size="1">
+    <entry category="DutchWeather" eid="Id57" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 8°C</otriple>
       </originaltripleset>
@@ -2288,7 +2288,7 @@
         <entity>PATIENT-1 | 8°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id58" size="2">
+    <entry category="DutchWeather" eid="Id58" size="2">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windDirection | zuid-_tot_zuidwestelijke</otriple>
@@ -2317,7 +2317,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id59" size="6">
+    <entry category="DutchWeather" eid="Id59" size="6">
       <originaltripleset>
         <otriple>locationArea | in_het_westen</otriple>
         <otriple>timePoint | In_de_loop_van_de_nacht</otriple>
@@ -2367,7 +2367,7 @@
         <entity>PATIENT-6 | 6</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id60" size="4">
+    <entry category="DutchWeather" eid="Id60" size="4">
       <originaltripleset>
         <otriple>cloudAmount | half_tot_zwaar_bewolkt</otriple>
         <otriple>timePoint | Op_Koningsdag</otriple>
@@ -2406,7 +2406,7 @@
         <entity>PATIENT-4 | buien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id61" size="1">
+    <entry category="DutchWeather" eid="Id61" size="1">
       <originaltripleset>
         <otriple>maximumTemperature | 13°C</otriple>
       </originaltripleset>
@@ -2430,7 +2430,7 @@
         <entity>PATIENT-1 | 13°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id62" size="5">
+    <entry category="DutchWeather" eid="Id62" size="5">
       <originaltripleset>
         <otriple>weatherOccurringChance | mogelijk</otriple>
         <otriple>windAmount | krachtig</otriple>
@@ -2474,7 +2474,7 @@
         <entity>PATIENT-5 | 7</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id63" size="4">
+    <entry category="DutchWeather" eid="Id63" size="4">
       <originaltripleset>
         <otriple>gustAmount | zware_windstoten</otriple>
         <otriple>gustVelocity | 75</otriple>
@@ -2513,7 +2513,7 @@
         <entity>PATIENT-4 | 75</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id64" size="2">
+    <entry category="DutchWeather" eid="Id64" size="2">
       <originaltripleset>
         <otriple>timePoint | In_de_loop_van_de_middag</otriple>
         <otriple>windChange | west-_tot_zuidwestelijke</otriple>
@@ -2542,7 +2542,7 @@
         <entity>PATIENT-2 | west-_tot_zuidwestelijke</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id65" size="6">
+    <entry category="DutchWeather" eid="Id65" size="6">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>cloudChange | dikker</otriple>
@@ -2591,7 +2591,7 @@
         <entity>PATIENT-6 | buien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id66" size="3">
+    <entry category="DutchWeather" eid="Id66" size="3">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>weatherFrequency | perioden</otriple>
@@ -2625,7 +2625,7 @@
         <entity>PATIENT-3 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id67" size="3">
+    <entry category="DutchWeather" eid="Id67" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_westen</otriple>
         <otriple>timePoint | Later_vannacht</otriple>
@@ -2659,7 +2659,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id68" size="1">
+    <entry category="DutchWeather" eid="Id68" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 7°C</otriple>
       </originaltripleset>
@@ -2683,7 +2683,7 @@
         <entity>PATIENT-1 | 7°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id69" size="3">
+    <entry category="DutchWeather" eid="Id69" size="3">
       <originaltripleset>
         <otriple>locationArea | boven_land</otriple>
         <otriple>windDirection | zuidwesten</otriple>
@@ -2712,7 +2712,7 @@
         <entity>PATIENT-2 | boven_land</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id70" size="5">
+    <entry category="DutchWeather" eid="Id70" size="5">
       <originaltripleset>
         <otriple>timePoint | vannacht</otriple>
         <otriple>windAmount | matig_tot_vrij_krachtig</otriple>
@@ -2751,7 +2751,7 @@
         <entity>PATIENT-4 | 6_tot_7</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id71" size="2">
+    <entry category="DutchWeather" eid="Id71" size="2">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>windChange | westen</otriple>
@@ -2781,7 +2781,7 @@
         <entity>PATIENT-2 | westen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id72" size="4">
+    <entry category="DutchWeather" eid="Id72" size="4">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>timePoint | Morgen_overdag</otriple>
@@ -2820,7 +2820,7 @@
         <entity>PATIENT-4 | buien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id73" size="3">
+    <entry category="DutchWeather" eid="Id73" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_noorden</otriple>
         <otriple>locationArea | oosten</otriple>
@@ -2854,7 +2854,7 @@
         <entity>PATIENT-3 | kans</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id74" size="2">
+    <entry category="DutchWeather" eid="Id74" size="2">
       <originaltripleset>
         <otriple>weatherFrequency | Van_tijd_tot_tijd</otriple>
         <otriple>weatherType | zon</otriple>
@@ -2883,7 +2883,7 @@
         <entity>PATIENT-2 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id75" size="4">
+    <entry category="DutchWeather" eid="Id75" size="4">
       <originaltripleset>
         <otriple>temperatureCelsius | 10°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -2917,7 +2917,7 @@
         <entity>PATIENT-3 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id76" size="4">
+    <entry category="DutchWeather" eid="Id76" size="4">
       <originaltripleset>
         <otriple>weatherFrequency | af_en_toe</otriple>
         <otriple>windAmount | krachtig</otriple>
@@ -2956,7 +2956,7 @@
         <entity>PATIENT-4 | af_en_toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id77" size="5">
+    <entry category="DutchWeather" eid="Id77" size="5">
       <originaltripleset>
         <otriple>gustAmount | windstoten</otriple>
         <otriple>locationArea | in_het_noordelijk_kustgebied</otriple>
@@ -2995,7 +2995,7 @@
         <entity>PATIENT-4 | in_het_noordelijk_kustgebied</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id78" size="4">
+    <entry category="DutchWeather" eid="Id78" size="4">
       <originaltripleset>
         <otriple>locationArea | Aan_de_kust</otriple>
         <otriple>locationArea | boven_het_IJsselmeer</otriple>
@@ -3039,7 +3039,7 @@
         <entity>PATIENT-5 | 8</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id79" size="4">
+    <entry category="DutchWeather" eid="Id79" size="4">
       <originaltripleset>
         <otriple>cloudType | hoge_bewolking</otriple>
         <otriple>timePoint | Vannacht</otriple>
@@ -3078,7 +3078,7 @@
         <entity>PATIENT-4 | hoge_bewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id80" size="4">
+    <entry category="DutchWeather" eid="Id80" size="4">
       <originaltripleset>
         <otriple>cloudAmount | bewolking_dikker</otriple>
         <otriple>locationArea | In_het_noorden</otriple>
@@ -3117,7 +3117,7 @@
         <entity>PATIENT-4 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id81" size="3">
+    <entry category="DutchWeather" eid="Id81" size="3">
       <originaltripleset>
         <otriple>minimumTemperature | 13°C</otriple>
         <otriple>weatherArea | plaatselijk</otriple>
@@ -3146,7 +3146,7 @@
         <entity>PATIENT-2 | plaatselijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id82" size="3">
+    <entry category="DutchWeather" eid="Id82" size="3">
       <originaltripleset>
         <otriple>windAmount | zwak</otriple>
         <otriple>windDirection | zuidwestelijk</otriple>
@@ -3176,7 +3176,7 @@
         <entity>PATIENT-2 | zuidwestelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id83" size="4">
+    <entry category="DutchWeather" eid="Id83" size="4">
       <originaltripleset>
         <otriple>cloudType | hoge_bewolking</otriple>
         <otriple>compassDirection | westen</otriple>
@@ -3215,7 +3215,7 @@
         <entity>PATIENT-4 | zonniger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id84" size="4">
+    <entry category="DutchWeather" eid="Id84" size="4">
       <originaltripleset>
         <otriple>temperatureCelsius | 23°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -3249,7 +3249,7 @@
         <entity>PATIENT-3 | 23°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id85" size="3">
+    <entry category="DutchWeather" eid="Id85" size="3">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windDirection | zuidwest_tot_west</otriple>
@@ -3278,7 +3278,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id86" size="3">
+    <entry category="DutchWeather" eid="Id86" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_noordwestelijk_kustgebied</otriple>
         <otriple>timePoint | 's_ochtends</otriple>
@@ -3312,7 +3312,7 @@
         <entity>PATIENT-3 | krachtig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id87" size="4">
+    <entry category="DutchWeather" eid="Id87" size="4">
       <originaltripleset>
         <otriple>locationArea | landinwaarts</otriple>
         <otriple>timePoint | In_de_avond</otriple>
@@ -3347,7 +3347,7 @@
         <entity>PATIENT-3 | af</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id88" size="2">
+    <entry category="DutchWeather" eid="Id88" size="2">
       <originaltripleset>
         <otriple>timePoint | In_de_nacht_naar_dinsdag</otriple>
         <otriple>weatherType | opklaringen</otriple>
@@ -3376,7 +3376,7 @@
         <entity>PATIENT-2 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id89" size="2">
+    <entry category="DutchWeather" eid="Id89" size="2">
       <originaltripleset>
         <otriple>weatherIntensity | ondiepe</otriple>
         <otriple>weatherType | nevel</otriple>
@@ -3405,7 +3405,7 @@
         <entity>PATIENT-2 | ondiepe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id90" size="2">
+    <entry category="DutchWeather" eid="Id90" size="2">
       <originaltripleset>
         <otriple>temperatureCelsius | 16°C</otriple>
         <otriple>temperatureChange | dalen</otriple>
@@ -3434,7 +3434,7 @@
         <entity>PATIENT-2 | 16°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id91" size="2">
+    <entry category="DutchWeather" eid="Id91" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windDirection | zuidelijke</otriple>
@@ -3464,7 +3464,7 @@
         <entity>PATIENT-2 | zuidelijke</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id92" size="5">
+    <entry category="DutchWeather" eid="Id92" size="5">
       <originaltripleset>
         <otriple>locationArea | op_veel_plaatsen</otriple>
         <otriple>temperatureCelsius | 30</otriple>
@@ -3508,7 +3508,7 @@
         <entity>PATIENT-5 | op_veel_plaatsen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id93" size="2">
+    <entry category="DutchWeather" eid="Id93" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>temperatureCelsius | 28°C</otriple>
@@ -3537,7 +3537,7 @@
         <entity>PATIENT-2 | 28°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id94" size="2">
+    <entry category="DutchWeather" eid="Id94" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak</otriple>
         <otriple>windDirection | uiteenlopende</otriple>
@@ -3566,7 +3566,7 @@
         <entity>PATIENT-2 | uiteenlopende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id95" size="5">
+    <entry category="DutchWeather" eid="Id95" size="5">
       <originaltripleset>
         <otriple>locationArea | Aan_zee</otriple>
         <otriple>temperatureCelsius | enkele_graden</otriple>
@@ -3610,7 +3610,7 @@
         <entity>PATIENT-5 | enkele_graden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id96" size="3">
+    <entry category="DutchWeather" eid="Id96" size="3">
       <originaltripleset>
         <otriple>cloudType | sluierbewolking</otriple>
         <otriple>timePoint | Vannacht</otriple>
@@ -3644,7 +3644,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id97" size="1">
+    <entry category="DutchWeather" eid="Id97" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 15°C</otriple>
       </originaltripleset>
@@ -3668,7 +3668,7 @@
         <entity>PATIENT-1 | 15°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id98" size="2">
+    <entry category="DutchWeather" eid="Id98" size="2">
       <originaltripleset>
         <otriple>windAmount | matige</otriple>
         <otriple>windDirection | zuid_tot_zuidoost</otriple>
@@ -3698,7 +3698,7 @@
         <entity>PATIENT-2 | zuid_tot_zuidoost</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id99" size="3">
+    <entry category="DutchWeather" eid="Id99" size="3">
       <originaltripleset>
         <otriple>timePoint | Overdag</otriple>
         <otriple>weatherIntensity | veel</otriple>
@@ -3732,7 +3732,7 @@
         <entity>PATIENT-3 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id100" size="5">
+    <entry category="DutchWeather" eid="Id100" size="5">
       <originaltripleset>
         <otriple>cloudChange | dikker</otriple>
         <otriple>cloudType | sluierbewolking</otriple>
@@ -3776,7 +3776,7 @@
         <entity>PATIENT-5 | dikker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id101" size="5">
+    <entry category="DutchWeather" eid="Id101" size="5">
       <originaltripleset>
         <otriple>temperatureCelsius | 20°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -3815,7 +3815,7 @@
         <entity>PATIENT-4 | plaatselijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id102" size="4">
+    <entry category="DutchWeather" eid="Id102" size="4">
       <originaltripleset>
         <otriple>locationArea | aan_de_westkust</otriple>
         <otriple>weatherOccurringChance | mogelijk</otriple>
@@ -3855,7 +3855,7 @@
         <entity>PATIENT-4 | mogelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id103" size="6">
+    <entry category="DutchWeather" eid="Id103" size="6">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>cloudChange | dikker</otriple>
@@ -3904,7 +3904,7 @@
         <entity>PATIENT-6 | (buiige)_regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id104" size="3">
+    <entry category="DutchWeather" eid="Id104" size="3">
       <originaltripleset>
         <otriple>locationArea | In_de_rest_van_het_land</otriple>
         <otriple>weatherOccurringChance | waarschijnlijk</otriple>
@@ -3938,7 +3938,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id105" size="1">
+    <entry category="DutchWeather" eid="Id105" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 14°C</otriple>
       </originaltripleset>
@@ -3962,7 +3962,7 @@
         <entity>PATIENT-1 | 14°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id106" size="2">
+    <entry category="DutchWeather" eid="Id106" size="2">
       <originaltripleset>
         <otriple>windAmount | zwakke_tot_matige</otriple>
         <otriple>windDirection | zuid_tot_zuidoost</otriple>
@@ -3992,7 +3992,7 @@
         <entity>PATIENT-2 | zuid_tot_zuidoost</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id107" size="2">
+    <entry category="DutchWeather" eid="Id107" size="2">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>timePoint | Maandag_overdag</otriple>
@@ -4021,7 +4021,7 @@
         <entity>PATIENT-2 | wolkenvelden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id108" size="4">
+    <entry category="DutchWeather" eid="Id108" size="4">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>locationArea | In_het_zuidoosten</otriple>
@@ -4060,7 +4060,7 @@
         <entity>PATIENT-4 | zonneschijn</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id109" size="6">
+    <entry category="DutchWeather" eid="Id109" size="6">
       <originaltripleset>
         <otriple>cloudAmount | bewolking_dikker</otriple>
         <otriple>locationArea | Elders</otriple>
@@ -4109,7 +4109,7 @@
         <entity>PATIENT-6 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id110" size="2">
+    <entry category="DutchWeather" eid="Id110" size="2">
       <originaltripleset>
         <otriple>maximumTemperature | 17°C</otriple>
       </originaltripleset>
@@ -4133,7 +4133,7 @@
         <entity>PATIENT-1 | 17°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id111" size="2">
+    <entry category="DutchWeather" eid="Id111" size="2">
       <originaltripleset>
         <otriple>windAmount | zwakke_tot_matige</otriple>
         <otriple>windDirection | zuid-_tot_zuidwestenwind</otriple>
@@ -4162,7 +4162,7 @@
         <entity>PATIENT-2 | zuid-_tot_zuidwestenwind</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id112" size="3">
+    <entry category="DutchWeather" eid="Id112" size="3">
       <originaltripleset>
         <otriple>cloudAmount | bewolkt</otriple>
         <otriple>locationArea | op_veel_plaatsen</otriple>
@@ -4196,7 +4196,7 @@
         <entity>PATIENT-3 | op_veel_plaatsen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id113" size="4">
+    <entry category="DutchWeather" eid="Id113" size="4">
       <originaltripleset>
         <otriple>cloudAmount | veel_bewolking</otriple>
         <otriple>compassDirection | zuidwesten</otriple>
@@ -4235,7 +4235,7 @@
         <entity>PATIENT-4 | veel_bewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id114" size="3">
+    <entry category="DutchWeather" eid="Id114" size="3">
       <originaltripleset>
         <otriple>temperatureCelsius | 9°C</otriple>
         <otriple>timePoint | middagtemperaturen</otriple>
@@ -4264,7 +4264,7 @@
         <entity>PATIENT-2 | 9°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id115" size="4">
+    <entry category="DutchWeather" eid="Id115" size="4">
       <originaltripleset>
         <otriple>windAmount | (vrij)_krachtig</otriple>
         <otriple>windChange | fors_toe</otriple>
@@ -4298,7 +4298,7 @@
         <entity>PATIENT-3 | (vrij)_krachtig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id116" size="3">
+    <entry category="DutchWeather" eid="Id116" size="3">
       <originaltripleset>
         <otriple>gustAmount | zware_windstoten</otriple>
         <otriple>gustVelocity | 75-90</otriple>
@@ -4337,7 +4337,7 @@
         <entity>PATIENT-4 | 75-90</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id117" size="4">
+    <entry category="DutchWeather" eid="Id117" size="4">
       <originaltripleset>
         <otriple>locationArea | landinwaarts</otriple>
         <otriple>timePoint | In_de_avond</otriple>
@@ -4377,7 +4377,7 @@
         <entity>PATIENT-4 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id118" size="3">
+    <entry category="DutchWeather" eid="Id118" size="3">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>timePoint | In_de_nacht_naar_zondag</otriple>
@@ -4411,7 +4411,7 @@
         <entity>PATIENT-3 | westen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id119" size="6">
+    <entry category="DutchWeather" eid="Id119" size="6">
       <originaltripleset>
         <otriple>weatherFrequency | even</otriple>
         <otriple>weatherOccurringChance | mogelijk</otriple>
@@ -4460,7 +4460,7 @@
         <entity>PATIENT-6 | 8</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id120" size="5">
+    <entry category="DutchWeather" eid="Id120" size="5">
       <originaltripleset>
         <otriple>compassDirection | westen</otriple>
         <otriple>locationArea | vlak_aan_zee</otriple>
@@ -4499,7 +4499,7 @@
         <entity>PATIENT-4 | vlak_aan_zee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id121" size="1">
+    <entry category="DutchWeather" eid="Id121" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 6°C</otriple>
       </originaltripleset>
@@ -4524,7 +4524,7 @@
         <entity>PATIENT-1 | 6°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id122" size="3">
+    <entry category="DutchWeather" eid="Id122" size="3">
       <originaltripleset>
         <otriple>compassDirection | oosten</otriple>
         <otriple>timePoint | Zondagochtend</otriple>
@@ -4558,7 +4558,7 @@
         <entity>PATIENT-3 | oosten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id123" size="2">
+    <entry category="DutchWeather" eid="Id123" size="2">
       <originaltripleset>
         <otriple>weatherFrequency | even</otriple>
         <otriple>weatherType | buien</otriple>
@@ -4587,7 +4587,7 @@
         <entity>PATIENT-2 | even</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id124" size="4">
+    <entry category="DutchWeather" eid="Id124" size="4">
       <originaltripleset>
         <otriple>timePoint | In_de_avond</otriple>
         <otriple>weatherChange | af</otriple>
@@ -4626,7 +4626,7 @@
         <entity>PATIENT-4 | tijdelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id125" size="2">
+    <entry category="DutchWeather" eid="Id125" size="2">
       <originaltripleset>
         <otriple>temperatureCelsius | 7_à_8°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -4655,7 +4655,7 @@
         <entity>PATIENT-2 | 7_à_8°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id126" size="3">
+    <entry category="DutchWeather" eid="Id126" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_zee</otriple>
         <otriple>windAmount | matig</otriple>
@@ -4689,7 +4689,7 @@
         <entity>PATIENT-3 | aan_zee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id127" size="5">
+    <entry category="DutchWeather" eid="Id127" size="5">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -4733,7 +4733,7 @@
         <entity>PATIENT-5 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id128" size="2">
+    <entry category="DutchWeather" eid="Id128" size="2">
       <originaltripleset>
         <otriple>locationArea | overal</otriple>
         <otriple>weatherType | droog</otriple>
@@ -4762,7 +4762,7 @@
         <entity>PATIENT-2 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id129" size="3">
+    <entry category="DutchWeather" eid="Id129" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>locationArea | in_het_zuidoosten</otriple>
@@ -4806,7 +4806,7 @@
         <entity>PATIENT-5 | plaatselijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id130" size="3">
+    <entry category="DutchWeather" eid="Id130" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>windAmount | matig</otriple>
@@ -4845,7 +4845,7 @@
         <entity>PATIENT-4 | aan_de_kust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id131" size="4">
+    <entry category="DutchWeather" eid="Id131" size="4">
       <originaltripleset>
         <otriple>cloudAmount | veel_wolkenvelden</otriple>
         <otriple>locationArea | op_veel_plaatsen</otriple>
@@ -4884,7 +4884,7 @@
         <entity>PATIENT-4 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id132" size="4">
+    <entry category="DutchWeather" eid="Id132" size="4">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>compassDirection | zee</otriple>
@@ -4923,7 +4923,7 @@
         <entity>PATIENT-4 | zee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id133" size="3">
+    <entry category="DutchWeather" eid="Id133" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_Waddengebied</otriple>
         <otriple>locationArea | in_het_zuidoosten</otriple>
@@ -4967,7 +4967,7 @@
         <entity>PATIENT-5 | plaatselijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id134" size="3">
+    <entry category="DutchWeather" eid="Id134" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_de_westkust</otriple>
         <otriple>locationArea | langs_de_Zeeuwse_kust</otriple>
@@ -5016,7 +5016,7 @@
         <entity>PATIENT-6 | langs_de_Zeeuwse_kust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id135" size="4">
+    <entry category="DutchWeather" eid="Id135" size="4">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | in_het_noorden</otriple>
@@ -5060,7 +5060,7 @@
         <entity>PATIENT-5 | wolkenvelden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id136" size="2">
+    <entry category="DutchWeather" eid="Id136" size="2">
       <originaltripleset>
         <otriple>locationArea | overal</otriple>
         <otriple>weatherType | droog</otriple>
@@ -5089,7 +5089,7 @@
         <entity>PATIENT-2 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id137" size="1">
+    <entry category="DutchWeather" eid="Id137" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 12°C</otriple>
       </originaltripleset>
@@ -5113,7 +5113,7 @@
         <entity>PATIENT-1 | 12°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id138" size="2">
+    <entry category="DutchWeather" eid="Id138" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windDirection | noord_tot_noordoostelijke</otriple>
@@ -5142,7 +5142,7 @@
         <entity>PATIENT-2 | zwak_tot_matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id139" size="3">
+    <entry category="DutchWeather" eid="Id139" size="3">
       <originaltripleset>
         <otriple>timePoint | Vrijdag_overdag</otriple>
         <otriple>weatherFrequency | flinke_perioden</otriple>
@@ -5176,7 +5176,7 @@
         <entity>PATIENT-3 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id140" size="3">
+    <entry category="DutchWeather" eid="Id140" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>locationArea | in_het_zuidoosten_van_het_land</otriple>
@@ -5220,7 +5220,7 @@
         <entity>PATIENT-5 | in_het_zuidoosten_van_het_land</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id141" size="2">
+    <entry category="DutchWeather" eid="Id141" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windDirection | noordoosten</otriple>
@@ -5249,7 +5249,7 @@
         <entity>PATIENT-2 | noordoosten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id142" size="3">
+    <entry category="DutchWeather" eid="Id142" size="3">
       <originaltripleset>
         <otriple>cloudAmount | vrij_veel_bewolking</otriple>
         <otriple>weatherArea | hier_en_daar</otriple>
@@ -5283,7 +5283,7 @@
         <entity>PATIENT-3 | regent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id143" size="2">
+    <entry category="DutchWeather" eid="Id143" size="2">
       <originaltripleset>
         <otriple>locationArea | In_het_zuiden</otriple>
         <otriple>weatherType | zon</otriple>
@@ -5312,7 +5312,7 @@
         <entity>PATIENT-2 | zon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id144" size="2">
+    <entry category="DutchWeather" eid="Id144" size="2">
       <originaltripleset>
         <otriple>locationArea | In_het_noordelijk_kustgebied</otriple>
         <otriple>locationArea | in_Limburg</otriple>
@@ -5351,7 +5351,7 @@
         <entity>PATIENT-4 | 26°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id145" size="4">
+    <entry category="DutchWeather" eid="Id145" size="4">
       <originaltripleset>
         <otriple>locationArea | in_het_Waddengebied</otriple>
         <otriple>weatherFrequency | af_en_toe</otriple>
@@ -5395,7 +5395,7 @@
         <entity>PATIENT-5 | af_en_toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id146" size="5">
+    <entry category="DutchWeather" eid="Id146" size="5">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -5439,7 +5439,7 @@
         <entity>PATIENT-5 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id147" size="2">
+    <entry category="DutchWeather" eid="Id147" size="2">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>locationArea | dieper_landinwaarts</otriple>
@@ -5478,7 +5478,7 @@
         <entity>PATIENT-4 | dieper_landinwaarts</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id148" size="3">
+    <entry category="DutchWeather" eid="Id148" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_noordelijk_kustgebied</otriple>
         <otriple>windAmount | matig</otriple>
@@ -5517,7 +5517,7 @@
         <entity>PATIENT-4 | in_het_noordelijk_kustgebied</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id149" size="5">
+    <entry category="DutchWeather" eid="Id149" size="5">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | op_de_meeste_plaatsen</otriple>
@@ -5566,7 +5566,7 @@
         <entity>PATIENT-6 | op_de_meeste_plaatsen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id150" size="2">
+    <entry category="DutchWeather" eid="Id150" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -5605,7 +5605,7 @@
         <entity>PATIENT-4 | in_het_zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id151" size="2">
+    <entry category="DutchWeather" eid="Id151" size="2">
       <originaltripleset>
         <otriple>windAmount | matige</otriple>
         <otriple>windDirection | noord_tot_noordwest</otriple>
@@ -5634,7 +5634,7 @@
         <entity>PATIENT-2 | noord_tot_noordwest</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id152" size="3">
+    <entry category="DutchWeather" eid="Id152" size="3">
       <originaltripleset>
         <otriple>locationArea | In_het_noordelijk_kustgebied</otriple>
         <otriple>locationArea | boven_het_IJsselmeer</otriple>
@@ -5673,7 +5673,7 @@
         <entity>PATIENT-4 | vrij_krachtig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id153" size="4">
+    <entry category="DutchWeather" eid="Id153" size="4">
       <originaltripleset>
         <otriple>cloudAmount | Meest_bewolkt</otriple>
         <otriple>weatherArea | plaatselijk</otriple>
@@ -5712,7 +5712,7 @@
         <entity>PATIENT-4 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id154" size="2">
+    <entry category="DutchWeather" eid="Id154" size="2">
       <originaltripleset>
         <otriple>compassDirection | zuiden</otriple>
         <otriple>weatherType | opklarend</otriple>
@@ -5741,7 +5741,7 @@
         <entity>PATIENT-2 | opklarend</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id155" size="8">
+    <entry category="DutchWeather" eid="Id155" size="8">
       <originaltripleset>
         <otriple>gustAmount | (zeer)_zware_windstoten</otriple>
         <otriple>timePoint | Vanavond</otriple>
@@ -5785,7 +5785,7 @@
         <entity>PATIENT-5 | zeer_lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id156" size="3">
+    <entry category="DutchWeather" eid="Id156" size="3">
       <originaltripleset>
         <otriple>precipitationAmount | veel</otriple>
         <otriple>timePoint | in_korte_tijd</otriple>
@@ -5819,7 +5819,7 @@
         <entity>PATIENT-3 | in_korte_tijd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id157" size="3">
+    <entry category="DutchWeather" eid="Id157" size="3">
       <originaltripleset>
         <otriple>maximumTemperature | 21°C</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -5848,7 +5848,7 @@
         <entity>PATIENT-2 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id158" size="2">
+    <entry category="DutchWeather" eid="Id158" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windDirection | zuidoostelijk</otriple>
@@ -5877,7 +5877,7 @@
         <entity>PATIENT-2 | zwak_tot_matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id159" size="2">
+    <entry category="DutchWeather" eid="Id159" size="2">
       <originaltripleset>
         <otriple>timePoint | Later_op_de_dag</otriple>
         <otriple>windDirection | uiteenlopende</otriple>
@@ -5907,7 +5907,7 @@
         <entity>PATIENT-2 | uiteenlopende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id160" size="4">
+    <entry category="DutchWeather" eid="Id160" size="4">
       <originaltripleset>
         <otriple>locationArea | in_het_noordoosten</otriple>
         <otriple>timePoint | Vannacht</otriple>
@@ -5946,7 +5946,7 @@
         <entity>PATIENT-4 | onweersbuien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id161" size="2">
+    <entry category="DutchWeather" eid="Id161" size="2">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>minimumTemperature | 15°C</otriple>
@@ -5975,7 +5975,7 @@
         <entity>PATIENT-2 | 15°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id162" size="2">
+    <entry category="DutchWeather" eid="Id162" size="2">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windChange | zuid_tot_zuidwest</otriple>
@@ -6005,7 +6005,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id163" size="4">
+    <entry category="DutchWeather" eid="Id163" size="4">
       <originaltripleset>
         <otriple>locationArea | in_het_oosten</otriple>
         <otriple>timePoint | Woensdag_overdag</otriple>
@@ -6044,7 +6044,7 @@
         <entity>PATIENT-4 | af_en_toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id164" size="4">
+    <entry category="DutchWeather" eid="Id164" size="4">
       <originaltripleset>
         <otriple>cloudAmount | meer_bewolking</otriple>
         <otriple>locationArea | In_het_westen</otriple>
@@ -6083,7 +6083,7 @@
         <entity>PATIENT-4 | buien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id165" size="4">
+    <entry category="DutchWeather" eid="Id165" size="4">
       <originaltripleset>
         <otriple>temperatureCelsius | 17°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -6117,7 +6117,7 @@
         <entity>PATIENT-3 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id166" size="5">
+    <entry category="DutchWeather" eid="Id166" size="5">
       <originaltripleset>
         <otriple>compassDirection | België</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -6161,7 +6161,7 @@
         <entity>PATIENT-5 | België</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id167" size="2">
+    <entry category="DutchWeather" eid="Id167" size="2">
       <originaltripleset>
         <otriple>windAmount | zwakke_tot_matige</otriple>
         <otriple>windDirection | uiteenlopende</otriple>
@@ -6190,7 +6190,7 @@
         <entity>PATIENT-2 | uiteenlopende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id168" size="3">
+    <entry category="DutchWeather" eid="Id168" size="3">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | op_de_meeste_plaatsen</otriple>
@@ -6224,7 +6224,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id169" size="3">
+    <entry category="DutchWeather" eid="Id169" size="3">
       <originaltripleset>
         <otriple>temperatureCelsius | 13°C</otriple>
         <otriple>windAmount | zwak_tot_matig</otriple>
@@ -6258,7 +6258,7 @@
         <entity>PATIENT-3 | westelijke</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id170" size="6">
+    <entry category="DutchWeather" eid="Id170" size="6">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | in_het_noordwesten</otriple>
@@ -6307,7 +6307,7 @@
         <entity>PATIENT-6 | niet_uit_te_sluiten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id171" size="2">
+    <entry category="DutchWeather" eid="Id171" size="2">
       <originaltripleset>
         <otriple>cloudAmount | weinig_bewolking</otriple>
         <otriple>locationArea | Elders</otriple>
@@ -6336,7 +6336,7 @@
         <entity>PATIENT-2 | weinig_bewolking</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id172" size="3">
+    <entry category="DutchWeather" eid="Id172" size="3">
       <originaltripleset>
         <otriple>locationArea | Landinwaarts</otriple>
         <otriple>weatherIntensity | enkele</otriple>
@@ -6370,7 +6370,7 @@
         <entity>PATIENT-3 | mistbank</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id173" size="2">
+    <entry category="DutchWeather" eid="Id173" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_oosten</otriple>
         <otriple>locationArea | vlak_aan_zee</otriple>
@@ -6414,7 +6414,7 @@
         <entity>PATIENT-5 | vlak_aan_zee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id174" size="3">
+    <entry category="DutchWeather" eid="Id174" size="3">
       <originaltripleset>
         <otriple>locationArea | langs_de_kust</otriple>
         <otriple>windAmount | matig</otriple>
@@ -6453,7 +6453,7 @@
         <entity>PATIENT-4 | langs_de_kust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id175" size="6">
+    <entry category="DutchWeather" eid="Id175" size="6">
       <originaltripleset>
         <otriple>cloudChange | toe</otriple>
         <otriple>compassDirection | westen</otriple>
@@ -6502,7 +6502,7 @@
         <entity>PATIENT-6 | toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id176" size="3">
+    <entry category="DutchWeather" eid="Id176" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_westen</otriple>
         <otriple>timePoint | In_de_loop_van_de_ochtend</otriple>
@@ -6536,7 +6536,7 @@
         <entity>PATIENT-3 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id177" size="4">
+    <entry category="DutchWeather" eid="Id177" size="4">
       <originaltripleset>
         <otriple>locationArea | over_de_rest_van_het_land</otriple>
         <otriple>timePoint | in_de_middag</otriple>
@@ -6575,7 +6575,7 @@
         <entity>PATIENT-4 | over_de_rest_van_het_land</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id178" size="2">
+    <entry category="DutchWeather" eid="Id178" size="2">
       <originaltripleset>
         <otriple>locationArea | In_het_zuidoosten</otriple>
         <otriple>locationArea | elders</otriple>
@@ -6619,7 +6619,7 @@
         <entity>PATIENT-5 | 17°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id179" size="6">
+    <entry category="DutchWeather" eid="Id179" size="6">
       <originaltripleset>
         <otriple>locationArea | langs_de_kust</otriple>
         <otriple>locationArea | op_het_IJsselmeer</otriple>
@@ -6683,7 +6683,7 @@
         <entity>PATIENT-9 | 7</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id180" size="3">
+    <entry category="DutchWeather" eid="Id180" size="3">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | In_het_noordoosten</otriple>
@@ -6717,7 +6717,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id181" size="4">
+    <entry category="DutchWeather" eid="Id181" size="4">
       <originaltripleset>
         <otriple>locationArea | In_de_rest_van_het_land</otriple>
         <otriple>locationArea | in_het_noordoosten</otriple>
@@ -6771,7 +6771,7 @@
         <entity>PATIENT-7 | vanavond</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id182" size="4">
+    <entry category="DutchWeather" eid="Id182" size="4">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>locationArea | in_het_noorden</otriple>
@@ -6820,7 +6820,7 @@
         <entity>PATIENT-6 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id183" size="5">
+    <entry category="DutchWeather" eid="Id183" size="5">
       <originaltripleset>
         <otriple>cloudAmount | zwaar_bewolkt</otriple>
         <otriple>locationArea | in_het_zuidwesten</otriple>
@@ -6864,7 +6864,7 @@
         <entity>PATIENT-5 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id184" size="4">
+    <entry category="DutchWeather" eid="Id184" size="4">
       <originaltripleset>
         <otriple>locationArea | In_het_noorden</otriple>
         <otriple>locationArea | elders</otriple>
@@ -6918,7 +6918,7 @@
         <entity>PATIENT-7 | meest</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id185" size="1">
+    <entry category="DutchWeather" eid="Id185" size="1">
       <originaltripleset>
         <otriple>temperatureCelsius | 9°C</otriple>
       </originaltripleset>
@@ -6942,7 +6942,7 @@
         <entity>PATIENT-1 | 9°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id186" size="2">
+    <entry category="DutchWeather" eid="Id186" size="2">
       <originaltripleset>
         <otriple>windAmount | zwakke_tot_matige</otriple>
         <otriple>windDirection | tussen_west_en_zuidwest</otriple>
@@ -6971,7 +6971,7 @@
         <entity>PATIENT-2 | tussen_west_en_zuidwest</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id187" size="4">
+    <entry category="DutchWeather" eid="Id187" size="4">
       <originaltripleset>
         <otriple>locationArea | elders</otriple>
         <otriple>locationArea | in_het_noordoosten</otriple>
@@ -7025,7 +7025,7 @@
         <entity>PATIENT-7 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id188" size="5">
+    <entry category="DutchWeather" eid="Id188" size="5">
       <originaltripleset>
         <otriple>cloudAmount | stapelwolken</otriple>
         <otriple>locationArea | in_het_noorden</otriple>
@@ -7074,7 +7074,7 @@
         <entity>PATIENT-6 | bui</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id189" size="1">
+    <entry category="DutchWeather" eid="Id189" size="1">
       <originaltripleset>
         <otriple>weatherType | hagel</otriple>
         <otriple>weatherType | onweer</otriple>
@@ -7103,7 +7103,7 @@
         <entity>PATIENT-2 | hagel</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id190" size="3">
+    <entry category="DutchWeather" eid="Id190" size="3">
       <originaltripleset>
         <otriple>locationArea | op_veel_plaatsen</otriple>
         <otriple>timePoint | In_de_loop_van_de_avond</otriple>
@@ -7142,7 +7142,7 @@
         <entity>PATIENT-4 | op_veel_plaatsen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id191" size="1">
+    <entry category="DutchWeather" eid="Id191" size="1">
       <originaltripleset>
         <otriple>temperatureCelsius | 17°C</otriple>
       </originaltripleset>
@@ -7166,7 +7166,7 @@
         <entity>PATIENT-1 | 17°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id192" size="2">
+    <entry category="DutchWeather" eid="Id192" size="2">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windDirection | zuidwestelijk</otriple>
@@ -7195,7 +7195,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id193" size="3">
+    <entry category="DutchWeather" eid="Id193" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>timePoint | In_de_avond</otriple>
@@ -7234,7 +7234,7 @@
         <entity>PATIENT-4 | in_het_noorden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id194" size="5">
+    <entry category="DutchWeather" eid="Id194" size="5">
       <originaltripleset>
         <otriple>cloudAmount | veel_bewolking</otriple>
         <otriple>locationArea | in_het_zuidoosten</otriple>
@@ -7278,7 +7278,7 @@
         <entity>PATIENT-5 | (mot)regenen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id195" size="2">
+    <entry category="DutchWeather" eid="Id195" size="2">
       <originaltripleset>
         <otriple>locationArea | Elders</otriple>
         <otriple>weatherType | opklaringen</otriple>
@@ -7307,7 +7307,7 @@
         <entity>PATIENT-2 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id196" size="5">
+    <entry category="DutchWeather" eid="Id196" size="5">
       <originaltripleset>
         <otriple>cloudAmount | bewolkt</otriple>
         <otriple>locationArea | in_het_zuiden</otriple>
@@ -7351,7 +7351,7 @@
         <entity>PATIENT-5 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id197" size="3">
+    <entry category="DutchWeather" eid="Id197" size="3">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | In_het_noorden</otriple>
@@ -7385,7 +7385,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id198" size="2">
+    <entry category="DutchWeather" eid="Id198" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_midden</otriple>
       </originaltripleset>
@@ -7409,7 +7409,7 @@
         <entity>PATIENT-1 | in_het_midden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id199" size="3">
+    <entry category="DutchWeather" eid="Id199" size="3">
       <originaltripleset>
         <otriple>minimumTemperature | -2°C</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -7438,7 +7438,7 @@
         <entity>PATIENT-2 | lokaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id200" size="3">
+    <entry category="DutchWeather" eid="Id200" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_zuidoosten</otriple>
         <otriple>windAmount | matige</otriple>
@@ -7472,7 +7472,7 @@
         <entity>PATIENT-3 | in_het_zuidoosten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id201" size="2">
+    <entry category="DutchWeather" eid="Id201" size="2">
       <originaltripleset>
         <otriple>windAmount | zwak</otriple>
         <otriple>windChange | af</otriple>
@@ -7502,7 +7502,7 @@
         <entity>PATIENT-2 | zwak</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id202" size="6">
+    <entry category="DutchWeather" eid="Id202" size="6">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>cloudChange | weg</otriple>
@@ -7551,7 +7551,7 @@
         <entity>PATIENT-6 | overal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id203" size="3">
+    <entry category="DutchWeather" eid="Id203" size="3">
       <originaltripleset>
         <otriple>weatherType | droog</otriple>
         <otriple>windAmount | zwakke_tot_matige</otriple>
@@ -7585,7 +7585,7 @@
         <entity>PATIENT-3 | west-_tot_noordwestenwind</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id204" size="3">
+    <entry category="DutchWeather" eid="Id204" size="3">
       <originaltripleset>
         <otriple>temperatureCelsius | 9°C</otriple>
         <otriple>timePoint | middagtemperaturen</otriple>
@@ -7614,7 +7614,7 @@
         <entity>PATIENT-2 | 9°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id205" size="4">
+    <entry category="DutchWeather" eid="Id205" size="4">
       <originaltripleset>
         <otriple>cloudAmount | wisselend_bewolkt</otriple>
         <otriple>weatherArea | lokaal</otriple>
@@ -7653,7 +7653,7 @@
         <entity>PATIENT-4 | niet_uitgesloten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id206" size="3">
+    <entry category="DutchWeather" eid="Id206" size="3">
       <originaltripleset>
         <otriple>compassDirection | noorden</otriple>
         <otriple>timePoint | In_de_loop_van_de_middag</otriple>
@@ -7687,7 +7687,7 @@
         <entity>PATIENT-3 | noorden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id207" size="5">
+    <entry category="DutchWeather" eid="Id207" size="5">
       <originaltripleset>
         <otriple>locationArea | langs_de_kust</otriple>
         <otriple>maximumTemperature | 11°C</otriple>
@@ -7732,7 +7732,7 @@
         <entity>PATIENT-5 | noord-_tot_noordwestenwind</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id208" size="5">
+    <entry category="DutchWeather" eid="Id208" size="5">
       <originaltripleset>
         <otriple>cloudAmount | wolkenvelden</otriple>
         <otriple>locationArea | in_de_kustprovincies</otriple>
@@ -7776,7 +7776,7 @@
         <entity>PATIENT-5 | enkele</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id209" size="3">
+    <entry category="DutchWeather" eid="Id209" size="3">
       <originaltripleset>
         <otriple>minimumTemperature | rond_het_vriespunt</otriple>
         <otriple>weatherType | opklaringen</otriple>
@@ -7805,7 +7805,7 @@
         <entity>PATIENT-2 | opklaringen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id210" size="3">
+    <entry category="DutchWeather" eid="Id210" size="3">
       <originaltripleset>
         <otriple>windAmount | zwak_tot_matig</otriple>
         <otriple>windDirection | westelijke</otriple>
@@ -7835,7 +7835,7 @@
         <entity>PATIENT-2 | zwak_tot_matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id211" size="4">
+    <entry category="DutchWeather" eid="Id211" size="4">
       <originaltripleset>
         <otriple>cloudAmount | bewolking</otriple>
         <otriple>locationArea | het_noorden_van_het_land</otriple>
@@ -7874,7 +7874,7 @@
         <entity>PATIENT-4 | het_noorden_van_het_land</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id212" size="2">
+    <entry category="DutchWeather" eid="Id212" size="2">
       <originaltripleset>
         <otriple>compassDirection | zuidwaarts</otriple>
         <otriple>timePoint | in_de_loop_van_de_middag_en_avond</otriple>
@@ -7903,7 +7903,7 @@
         <entity>PATIENT-2 | zuidwaarts</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id213" size="3">
+    <entry category="DutchWeather" eid="Id213" size="3">
       <originaltripleset>
         <otriple>locationArea | In_de_zuidelijke_helft_van_het_land</otriple>
         <otriple>weatherIntensity | enkele</otriple>
@@ -7937,7 +7937,7 @@
         <entity>PATIENT-3 | enkele</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id214" size="3">
+    <entry category="DutchWeather" eid="Id214" size="3">
       <originaltripleset>
         <otriple>compassDirection | noorden</otriple>
         <otriple>timePoint | Later_in_de_middag_en_in_de_avond</otriple>
@@ -7971,7 +7971,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id215" size="2">
+    <entry category="DutchWeather" eid="Id215" size="2">
       <originaltripleset>
         <otriple>maximumTemperature | 12°C</otriple>
         <otriple>temperatureHotCold | frisse</otriple>
@@ -8000,7 +8000,7 @@
         <entity>PATIENT-2 | 12°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id216" size="3">
+    <entry category="DutchWeather" eid="Id216" size="3">
       <originaltripleset>
         <otriple>locationArea | boven_land</otriple>
         <otriple>windDirection | west_tot_noordwest</otriple>
@@ -8029,7 +8029,7 @@
         <entity>PATIENT-2 | boven_land</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id217" size="4">
+    <entry category="DutchWeather" eid="Id217" size="4">
       <originaltripleset>
         <otriple>cloudAmount | enkele_stapelwolken</otriple>
         <otriple>locationArea | in_de_noordelijke_helft</otriple>
@@ -8068,7 +8068,7 @@
         <entity>PATIENT-4 | enkele_stapelwolken</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id218" size="2">
+    <entry category="DutchWeather" eid="Id218" size="2">
       <originaltripleset>
         <otriple>locationArea | overal</otriple>
         <otriple>weatherType | droog</otriple>
@@ -8097,7 +8097,7 @@
         <entity>PATIENT-2 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id219" size="2">
+    <entry category="DutchWeather" eid="Id219" size="2">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>locationArea | in_het_zuidoosten</otriple>
@@ -8136,7 +8136,7 @@
         <entity>PATIENT-4 | in_het_zuidoosten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id220" size="2">
+    <entry category="DutchWeather" eid="Id220" size="2">
       <originaltripleset>
         <otriple>windAmount | matige</otriple>
         <otriple>windDirection | noord-_tot_noordoostelijke</otriple>
@@ -8165,7 +8165,7 @@
         <entity>PATIENT-2 | noord-_tot_noordoostelijke</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id221" size="3">
+    <entry category="DutchWeather" eid="Id221" size="3">
       <originaltripleset>
         <otriple>cloudType | hoge_bewolking</otriple>
         <otriple>timePoint | Vannacht</otriple>
@@ -8199,7 +8199,7 @@
         <entity>PATIENT-3 | droog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id222" size="3">
+    <entry category="DutchWeather" eid="Id222" size="3">
       <originaltripleset>
         <otriple>weatherArea | Lokaal</otriple>
         <otriple>weatherIntensity | ondiepe</otriple>
@@ -8233,7 +8233,7 @@
         <entity>PATIENT-3 | mistbanken</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id223" size="3">
+    <entry category="DutchWeather" eid="Id223" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>locationArea | in_het_binnenland</otriple>
@@ -8277,7 +8277,7 @@
         <entity>PATIENT-5 | in_het_binnenland</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id224" size="3">
+    <entry category="DutchWeather" eid="Id224" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_oosten</otriple>
         <otriple>temperatureCelsius | net_onder_nul</otriple>
@@ -8311,7 +8311,7 @@
         <entity>PATIENT-3 | net_onder_nul</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id225" size="2">
+    <entry category="DutchWeather" eid="Id225" size="2">
       <originaltripleset>
         <otriple>windAmount | zwakke</otriple>
         <otriple>windDirection | noord-_tot_noordoostenwind</otriple>
@@ -8340,7 +8340,7 @@
         <entity>PATIENT-2 | noord-_tot_noordoostenwind</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id226" size="3">
+    <entry category="DutchWeather" eid="Id226" size="3">
       <originaltripleset>
         <otriple>timePoint | Morgen_overdag</otriple>
         <otriple>weatherFrequency | overwegend</otriple>
@@ -8379,7 +8379,7 @@
         <entity>PATIENT-4 | overwegend</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id227" size="3">
+    <entry category="DutchWeather" eid="Id227" size="3">
       <originaltripleset>
         <otriple>locationArea | in_het_noorden</otriple>
         <otriple>locationArea | in_het_zuidoosten</otriple>
@@ -8423,7 +8423,7 @@
         <entity>PATIENT-5 | in_het_zuidoosten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id228" size="2">
+    <entry category="DutchWeather" eid="Id228" size="2">
       <originaltripleset>
         <otriple>windAmount | matig</otriple>
         <otriple>windDirection | noordoosten</otriple>
@@ -8452,7 +8452,7 @@
         <entity>PATIENT-2 | matig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id229" size="1">
+    <entry category="DutchWeather" eid="Id229" size="1">
       <originaltripleset>
         <otriple>weatherType | Bewolkt</otriple>
         <otriple>weatherType | regen</otriple>
@@ -8481,7 +8481,7 @@
         <entity>PATIENT-2 | regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id230" size="4">
+    <entry category="DutchWeather" eid="Id230" size="4">
       <originaltripleset>
         <otriple>compassDirection | zuidwesten</otriple>
         <otriple>timePoint | Vanmiddag</otriple>
@@ -8520,7 +8520,7 @@
         <entity>PATIENT-4 | regenen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id231" size="2">
+    <entry category="DutchWeather" eid="Id231" size="2">
       <originaltripleset>
         <otriple>precipitationAmount | 10-20</otriple>
       </originaltripleset>
@@ -8544,7 +8544,7 @@
         <entity>PATIENT-1 | 10-20</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id232" size="3">
+    <entry category="DutchWeather" eid="Id232" size="3">
       <originaltripleset>
         <otriple>compassDirection | zuiden</otriple>
         <otriple>timePoint | Later_vanavond</otriple>
@@ -8578,7 +8578,7 @@
         <entity>PATIENT-3 | klaart</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id233" size="6">
+    <entry category="DutchWeather" eid="Id233" size="6">
       <originaltripleset>
         <otriple>compassDirection | zuidwesten</otriple>
         <otriple>locationArea | Waddengebied</otriple>
@@ -8622,7 +8622,7 @@
         <entity>PATIENT-5 | Waddengebied</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id234" size="4">
+    <entry category="DutchWeather" eid="Id234" size="4">
       <originaltripleset>
         <otriple>timePoint | halverwege_de_middag</otriple>
         <otriple>windChange | fors_toe</otriple>
@@ -8661,7 +8661,7 @@
         <entity>PATIENT-4 | vlagerig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id235" size="3">
+    <entry category="DutchWeather" eid="Id235" size="3">
       <originaltripleset>
         <otriple>locationArea | Boven_land</otriple>
         <otriple>locationArea | langs_de_kust</otriple>
@@ -8695,7 +8695,7 @@
         <entity>PATIENT-3 | toe</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id236" size="3">
+    <entry category="DutchWeather" eid="Id236" size="3">
       <originaltripleset>
         <otriple>gustAmount | zware</otriple>
         <otriple>locationArea | kustgebieden</otriple>
@@ -8725,7 +8725,7 @@
         <entity>PATIENT-2 | zware</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id237" size="4">
+    <entry category="DutchWeather" eid="Id237" size="4">
       <originaltripleset>
         <otriple>compassDirection | zuiden</otriple>
         <otriple>locationArea | noordelijke_helft_van_het_land</otriple>
@@ -8764,7 +8764,7 @@
         <entity>PATIENT-4 | zuiden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id238" size="1">
+    <entry category="DutchWeather" eid="Id238" size="1">
       <originaltripleset>
         <otriple>minimumTemperature | 4°C</otriple>
       </originaltripleset>
@@ -8788,7 +8788,7 @@
         <entity>PATIENT-1 | 4°C</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id239" size="5">
+    <entry category="DutchWeather" eid="Id239" size="5">
       <originaltripleset>
         <otriple>gustAmount | zware</otriple>
         <otriple>gustVelocity | 80</otriple>
@@ -8827,7 +8827,7 @@
         <entity>PATIENT-4 | 80</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id240" size="3">
+    <entry category="DutchWeather" eid="Id240" size="3">
       <originaltripleset>
         <otriple>compassDirection | zuiden</otriple>
         <otriple>timePoint | In_de_loop_van_de_nacht</otriple>
@@ -8862,7 +8862,7 @@
         <entity>PATIENT-3 | af</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id241" size="2">
+    <entry category="DutchWeather" eid="Id241" size="2">
       <originaltripleset>
         <otriple>timePoint | Woensdag_overdag</otriple>
         <otriple>timePoint | halverwege_de_middag</otriple>
@@ -8891,7 +8891,7 @@
         <entity>PATIENT-2 | halverwege_de_middag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id242" size="3">
+    <entry category="DutchWeather" eid="Id242" size="3">
       <originaltripleset>
         <otriple>compassDirection | zuiden</otriple>
         <otriple>timePoint | Aan_het_eind_van_de_middag</otriple>
@@ -8925,7 +8925,7 @@
         <entity>PATIENT-3 | lichte_regen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id243" size="2">
+    <entry category="DutchWeather" eid="Id243" size="2">
       <originaltripleset>
         <otriple>temperatureCelsius | 10°C</otriple>
         <otriple>timePoint | middagtemperatuur</otriple>
@@ -8954,7 +8954,7 @@
         <entity>PATIENT-2 | middagtemperatuur</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id244" size="3">
+    <entry category="DutchWeather" eid="Id244" size="3">
       <originaltripleset>
         <otriple>locationArea | aan_de_kust</otriple>
         <otriple>windAmount | matig</otriple>

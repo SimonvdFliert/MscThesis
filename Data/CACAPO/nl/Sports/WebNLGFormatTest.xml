@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="DutchIncidents" eid="Id1" size="2">
+    <entry category="DutchSports" eid="Id1" size="2">
       <originaltripleset>
         <otriple>coachName | Jurgen_Streppel</otriple>
         <otriple>hasWonTeam | sc_Heerenveen</otriple>
@@ -30,7 +30,7 @@
         <entity>PATIENT-2 | sc_Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id2" size="5">
+    <entry category="DutchSports" eid="Id2" size="5">
       <originaltripleset>
         <otriple>finalScore | 0-3</otriple>
         <otriple>hasLostTeam | ADO_Den_Haag</otriple>
@@ -74,7 +74,7 @@
         <entity>PATIENT-5 | 0-3</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id3" size="4">
+    <entry category="DutchSports" eid="Id3" size="4">
       <originaltripleset>
         <otriple>numberOfMatchesPlayed | drie</otriple>
         <otriple>numberOfPoints | negen</otriple>
@@ -114,7 +114,7 @@
         <entity>PATIENT-4 | drie</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id4" size="2">
+    <entry category="DutchSports" eid="Id4" size="2">
       <originaltripleset>
         <otriple>coachName | Zeljko_Petrovic</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -148,7 +148,7 @@
         <entity>PATIENT-3 | Zeljko_Petrovic</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id5" size="4">
+    <entry category="DutchSports" eid="Id5" size="4">
       <originaltripleset>
         <otriple>chanceForName | Sheraldo_Becker</otriple>
         <otriple>goalkeeperName | Erwin_Mulder</otriple>
@@ -187,7 +187,7 @@
         <entity>PATIENT-4 | binnen_een_halve_minuut</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id6" size="3">
+    <entry category="DutchSports" eid="Id6" size="3">
       <originaltripleset>
         <otriple>chanceForType | schoot</otriple>
         <otriple>positionOfPlayer | vleugelspits</otriple>
@@ -222,7 +222,7 @@
         <entity>PATIENT-3 | ADO</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id7" size="2">
+    <entry category="DutchSports" eid="Id7" size="2">
       <originaltripleset>
         <otriple>playerName | aanvoerder_Stijn_Schaars</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -251,7 +251,7 @@
         <entity>PATIENT-2 | Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id8" size="6">
+    <entry category="DutchSports" eid="Id8" size="6">
       <originaltripleset>
         <otriple>assistName | Pelle_van_Amersfoort</otriple>
         <otriple>assistType | slimme_kopbal</otriple>
@@ -300,7 +300,7 @@
         <entity>PATIENT-6 | Pelle_van_Amersfoort</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id9" size="4">
+    <entry category="DutchSports" eid="Id9" size="4">
       <originaltripleset>
         <otriple>goalkeeperName | Ernestas_Setkus</otriple>
         <otriple>matchTime | Twee_minuten_later</otriple>
@@ -340,7 +340,7 @@
         <entity>PATIENT-4 | Ernestas_Setkus</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id10" size="4">
+    <entry category="DutchSports" eid="Id10" size="4">
       <originaltripleset>
         <otriple>assistName | Sam_Larsson</otriple>
         <otriple>assistType | hoekschop</otriple>
@@ -379,7 +379,7 @@
         <entity>PATIENT-4 | Sam_Larsson</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id11" size="4">
+    <entry category="DutchSports" eid="Id11" size="4">
       <originaltripleset>
         <otriple>goalkeeperName | Setkus</otriple>
         <otriple>playerName | Stefano_Marzo</otriple>
@@ -418,7 +418,7 @@
         <entity>PATIENT-4 | verdediger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id12" size="2">
+    <entry category="DutchSports" eid="Id12" size="2">
       <originaltripleset>
         <otriple>goalScore | 0-1</otriple>
         <otriple>goalType | rolde</otriple>
@@ -447,7 +447,7 @@
         <entity>PATIENT-2 | 0-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id13" size="1">
+    <entry category="DutchSports" eid="Id13" size="1">
       <originaltripleset>
         <otriple>disallowedGoalName | Marzo</otriple>
       </originaltripleset>
@@ -471,7 +471,7 @@
         <entity>PATIENT-1 | Marzo</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id14" size="2">
+    <entry category="DutchSports" eid="Id14" size="2">
       <originaltripleset>
         <otriple>goalName | Kanon</otriple>
         <otriple>goalType | eigen_doelpunt</otriple>
@@ -501,7 +501,7 @@
         <entity>PATIENT-2 | eigen_doelpunt</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id15" size="2">
+    <entry category="DutchSports" eid="Id15" size="2">
       <originaltripleset>
         <otriple>matchTime | In_de_tweede_helft</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -530,7 +530,7 @@
         <entity>PATIENT-2 | Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id16" size="4">
+    <entry category="DutchSports" eid="Id16" size="4">
       <originaltripleset>
         <otriple>goalScore | 0-3</otriple>
         <otriple>matchTime | in_het_'Haags_Kwartiertje'</otriple>
@@ -569,7 +569,7 @@
         <entity>PATIENT-4 | 0-3</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id17" size="2">
+    <entry category="DutchSports" eid="Id17" size="2">
       <originaltripleset>
         <otriple>teamName | Ajax</otriple>
         <otriple>teamName | Feyenoord</otriple>
@@ -603,7 +603,7 @@
         <entity>PATIENT-3 | koploper</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id18" size="4">
+    <entry category="DutchSports" eid="Id18" size="4">
       <originaltripleset>
         <otriple>finalScore | 4-1</otriple>
         <otriple>hasLostTeam | AZ_Alkmaar</otriple>
@@ -643,7 +643,7 @@
         <entity>PATIENT-4 | 4-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id19" size="3">
+    <entry category="DutchSports" eid="Id19" size="3">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>matchTime | na_een_kwartier_spelen</otriple>
@@ -677,7 +677,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id20" size="4">
+    <entry category="DutchSports" eid="Id20" size="4">
       <originaltripleset>
         <otriple>assistName | Justin_Kluivert</otriple>
         <otriple>assistType | zette_voor</otriple>
@@ -717,7 +717,7 @@
         <entity>PATIENT-4 | binnenlopen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id21" size="2">
+    <entry category="DutchSports" eid="Id21" size="2">
       <originaltripleset>
         <otriple>playerName | Kluivert</otriple>
         <otriple>teamName | AZ-defensie</otriple>
@@ -746,7 +746,7 @@
         <entity>PATIENT-2 | AZ-defensie</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id22" size="2">
+    <entry category="DutchSports" eid="Id22" size="2">
       <originaltripleset>
         <otriple>matchTime | na_de_thee</otriple>
         <otriple>teamName | AZ</otriple>
@@ -775,7 +775,7 @@
         <entity>PATIENT-2 | na_de_thee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id23" size="7">
+    <entry category="DutchSports" eid="Id23" size="7">
       <originaltripleset>
         <otriple>assistName | Tim_Krul</otriple>
         <otriple>assistType | pass</otriple>
@@ -830,7 +830,7 @@
         <entity>PATIENT-7 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id24" size="3">
+    <entry category="DutchSports" eid="Id24" size="3">
       <originaltripleset>
         <otriple>goalName | Davinson_Sánchez</otriple>
         <otriple>goalType | prachtig_doelpunt</otriple>
@@ -864,7 +864,7 @@
         <entity>PATIENT-3 | prachtig_doelpunt</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id25" size="2">
+    <entry category="DutchSports" eid="Id25" size="2">
       <originaltripleset>
         <otriple>goalType | omhaal</otriple>
         <otriple>positionOfPlayer | verdediger</otriple>
@@ -893,7 +893,7 @@
         <entity>PATIENT-2 | omhaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id26" size="2">
+    <entry category="DutchSports" eid="Id26" size="2">
       <originaltripleset>
         <otriple>goalName | Lasse_Schöne</otriple>
         <otriple>goalType | penalty</otriple>
@@ -923,7 +923,7 @@
         <entity>PATIENT-2 | penalty</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id27" size="3">
+    <entry category="DutchSports" eid="Id27" size="3">
       <originaltripleset>
         <otriple>finalScore | 4-1</otriple>
         <otriple>goalName | Amin_Younes</otriple>
@@ -957,7 +957,7 @@
         <entity>PATIENT-3 | 4-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id28" size="2">
+    <entry category="DutchSports" eid="Id28" size="2">
       <originaltripleset>
         <otriple>hasLostTeam | De_Graafschap</otriple>
         <otriple>numberOfMatchesPlayed | twee</otriple>
@@ -986,7 +986,7 @@
         <entity>PATIENT-2 | De_Graafschap</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id29" size="4">
+    <entry category="DutchSports" eid="Id29" size="4">
       <originaltripleset>
         <otriple>hasLostTeam | promovendus</otriple>
         <otriple>hasWonTeam | PEC_Zwolle</otriple>
@@ -1025,7 +1025,7 @@
         <entity>PATIENT-4 | sc_Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id30" size="3">
+    <entry category="DutchSports" eid="Id30" size="3">
       <originaltripleset>
         <otriple>finalScore | 3-0</otriple>
         <otriple>hasWonTeam | PEC</otriple>
@@ -1060,7 +1060,7 @@
         <entity>PATIENT-3 | 3-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id31" size="4">
+    <entry category="DutchSports" eid="Id31" size="4">
       <originaltripleset>
         <otriple>finalScore | 3-1</otriple>
         <otriple>hasLostTeam | De_Graafschap</otriple>
@@ -1099,7 +1099,7 @@
         <entity>PATIENT-4 | 3-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id32" size="2">
+    <entry category="DutchSports" eid="Id32" size="2">
       <originaltripleset>
         <otriple>matchTime | in_het_eerste_uur</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -1128,7 +1128,7 @@
         <entity>PATIENT-2 | Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id33" size="1">
+    <entry category="DutchSports" eid="Id33" size="1">
       <originaltripleset>
         <otriple>hasWonTeam | Heerenveen</otriple>
       </originaltripleset>
@@ -1153,7 +1153,7 @@
         <entity>PATIENT-1 | Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id34" size="4">
+    <entry category="DutchSports" eid="Id34" size="4">
       <originaltripleset>
         <otriple>finalScore | 2-2</otriple>
         <otriple>hasTiedTeam | SC_Cambuur</otriple>
@@ -1192,7 +1192,7 @@
         <entity>PATIENT-4 | in_de_eerste_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id35" size="2">
+    <entry category="DutchSports" eid="Id35" size="2">
       <originaltripleset>
         <otriple>stadiumPlayed | Vijverberg</otriple>
         <otriple>teamName | thuisploeg</otriple>
@@ -1221,7 +1221,7 @@
         <entity>PATIENT-2 | Vijverberg</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id36" size="3">
+    <entry category="DutchSports" eid="Id36" size="3">
       <originaltripleset>
         <otriple>coachName | Jan_Vreman</otriple>
         <otriple>goalkeeperName | Kevin_Begois</otriple>
@@ -1256,7 +1256,7 @@
         <entity>PATIENT-3 | Kevin_Begois</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id37" size="5">
+    <entry category="DutchSports" eid="Id37" size="5">
       <originaltripleset>
         <otriple>chanceForName | Vincent_Vermeij</otriple>
         <otriple>chanceForType | simpel_binnen_leek_te_tikken</otriple>
@@ -1300,7 +1300,7 @@
         <entity>PATIENT-5 | simpel_binnen_leek_te_tikken</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id38" size="1">
+    <entry category="DutchSports" eid="Id38" size="1">
       <originaltripleset>
         <otriple>substituteName | Dean_Koolhof</otriple>
         <otriple>substituteName | Vermeij</otriple>
@@ -1329,7 +1329,7 @@
         <entity>PATIENT-2 | Dean_Koolhof</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id39" size="2">
+    <entry category="DutchSports" eid="Id39" size="2">
       <originaltripleset>
         <otriple>injuryType | zware_liesblessure</otriple>
         <otriple>positionOfPlayer | middenvelder</otriple>
@@ -1358,7 +1358,7 @@
         <entity>PATIENT-2 | zware_liesblessure</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id40" size="2">
+    <entry category="DutchSports" eid="Id40" size="2">
       <originaltripleset>
         <otriple>matchTime | in_de_eerste_helft</otriple>
         <otriple>teamName | De_Graafschap</otriple>
@@ -1387,7 +1387,7 @@
         <entity>PATIENT-2 | in_de_eerste_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id41" size="2">
+    <entry category="DutchSports" eid="Id41" size="2">
       <originaltripleset>
         <otriple>goalName | Bart_van_Hintum</otriple>
         <otriple>goalName | Wouter_Marinus</otriple>
@@ -1421,7 +1421,7 @@
         <entity>PATIENT-3 | 0-3</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id42" size="3">
+    <entry category="DutchSports" eid="Id42" size="3">
       <originaltripleset>
         <otriple>goalName | Becker</otriple>
         <otriple>goalType | treffer</otriple>
@@ -1455,7 +1455,7 @@
         <entity>PATIENT-3 | treffer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id43" size="2">
+    <entry category="DutchSports" eid="Id43" size="2">
       <originaltripleset>
         <otriple>goalkeeperName | Hidde_Jurjus</otriple>
         <otriple>positionOfPlayer | doelman</otriple>
@@ -1484,7 +1484,7 @@
         <entity>PATIENT-2 | Hidde_Jurjus</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id44" size="1">
+    <entry category="DutchSports" eid="Id44" size="1">
       <originaltripleset>
         <otriple>teamName | Superboeren</otriple>
       </originaltripleset>
@@ -1508,7 +1508,7 @@
         <entity>PATIENT-1 | Superboeren</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id45" size="1">
+    <entry category="DutchSports" eid="Id45" size="1">
       <originaltripleset>
         <otriple>hasTiedTeam | AZ</otriple>
         <otriple>hasTiedTeam | Excelsior</otriple>
@@ -1537,7 +1537,7 @@
         <entity>PATIENT-2 | AZ</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id46" size="2">
+    <entry category="DutchSports" eid="Id46" size="2">
       <originaltripleset>
         <otriple>finalScore | 2-2</otriple>
         <otriple>stadiumPlayed | Woudestein</otriple>
@@ -1567,7 +1567,7 @@
         <entity>PATIENT-2 | 2-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id47" size="2">
+    <entry category="DutchSports" eid="Id47" size="2">
       <originaltripleset>
         <otriple>goalScore | voorsprong</otriple>
         <otriple>teamName | Excelsior</otriple>
@@ -1596,7 +1596,7 @@
         <entity>PATIENT-2 | voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id48" size="1">
+    <entry category="DutchSports" eid="Id48" size="1">
       <originaltripleset>
         <otriple>goalName | Jeff_Stans</otriple>
       </originaltripleset>
@@ -1620,7 +1620,7 @@
         <entity>PATIENT-1 | Jeff_Stans</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id49" size="3">
+    <entry category="DutchSports" eid="Id49" size="3">
       <originaltripleset>
         <otriple>goalName | Markus_Henriksen</otriple>
         <otriple>goalName | invaller_Robert_Mühren</otriple>
@@ -1659,7 +1659,7 @@
         <entity>PATIENT-4 | gelijkmaker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id50" size="4">
+    <entry category="DutchSports" eid="Id50" size="4">
       <originaltripleset>
         <otriple>finalScore | 2-2</otriple>
         <otriple>hasTiedTeam | PSV</otriple>
@@ -1698,7 +1698,7 @@
         <entity>PATIENT-4 | eerder_deze_week</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id51" size="4">
+    <entry category="DutchSports" eid="Id51" size="4">
       <originaltripleset>
         <otriple>finalScore | 4-1</otriple>
         <otriple>hasLostTeam | FC_Twente</otriple>
@@ -1738,7 +1738,7 @@
         <entity>PATIENT-4 | FC_Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id52" size="4">
+    <entry category="DutchSports" eid="Id52" size="4">
       <originaltripleset>
         <otriple>chanceForName | Hidde_ter_Avest</otriple>
         <otriple>chanceForType | fraaie_volley</otriple>
@@ -1777,7 +1777,7 @@
         <entity>PATIENT-4 | fraaie_volley</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id53" size="2">
+    <entry category="DutchSports" eid="Id53" size="2">
       <originaltripleset>
         <otriple>goalScore | achterstand</otriple>
         <otriple>teamName | gasten</otriple>
@@ -1806,7 +1806,7 @@
         <entity>PATIENT-2 | achterstand</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id54" size="4">
+    <entry category="DutchSports" eid="Id54" size="4">
       <originaltripleset>
         <otriple>goalName | Mike_Havenaar</otriple>
         <otriple>matchTime | slechts_twaalf_minuten</otriple>
@@ -1845,7 +1845,7 @@
         <entity>PATIENT-4 | slechts_twaalf_minuten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id55" size="4">
+    <entry category="DutchSports" eid="Id55" size="4">
       <originaltripleset>
         <otriple>assistName | Edouard_Duplan</otriple>
         <otriple>assistType | bekeken_voorzet</otriple>
@@ -1885,7 +1885,7 @@
         <entity>PATIENT-4 | 0-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id56" size="3">
+    <entry category="DutchSports" eid="Id56" size="3">
       <originaltripleset>
         <otriple>goalName | Ruben_Schaken</otriple>
         <otriple>goalScore | 0-2</otriple>
@@ -1924,7 +1924,7 @@
         <entity>PATIENT-4 | Ruben_Schaken</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id57" size="2">
+    <entry category="DutchSports" eid="Id57" size="2">
       <originaltripleset>
         <otriple>goalkeeperName | Nick_Marsman</otriple>
         <otriple>positionOfPlayer | Twente-doelman</otriple>
@@ -1958,7 +1958,7 @@
         <entity>PATIENT-3 | Nick_Marsman</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id58" size="3">
+    <entry category="DutchSports" eid="Id58" size="3">
       <originaltripleset>
         <otriple>goalName | Schaken</otriple>
         <otriple>goalType | de_bal_binnen_te_werken</otriple>
@@ -1993,7 +1993,7 @@
         <entity>PATIENT-3 | de_bal_binnen_te_werken</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id59" size="2">
+    <entry category="DutchSports" eid="Id59" size="2">
       <originaltripleset>
         <otriple>matchTime | in_het_begin_van_de_tweede_helft</otriple>
         <otriple>teamName | Twente</otriple>
@@ -2022,7 +2022,7 @@
         <entity>PATIENT-2 | Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id60" size="3">
+    <entry category="DutchSports" eid="Id60" size="3">
       <originaltripleset>
         <otriple>chanceForName | Jesús_Corona</otriple>
         <otriple>chanceForNumber | twee</otriple>
@@ -2056,7 +2056,7 @@
         <entity>PATIENT-3 | vlak_voor_rust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id61" size="4">
+    <entry category="DutchSports" eid="Id61" size="4">
       <originaltripleset>
         <otriple>goalName | Hakim_Ziyech</otriple>
         <otriple>goalScore | 1-2</otriple>
@@ -2096,7 +2096,7 @@
         <entity>PATIENT-4 | vrije_trap_binnen_te_krullen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id62" size="1">
+    <entry category="DutchSports" eid="Id62" size="1">
       <originaltripleset>
         <otriple>teamName | ADO</otriple>
       </originaltripleset>
@@ -2120,7 +2120,7 @@
         <entity>PATIENT-1 | ADO</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id63" size="3">
+    <entry category="DutchSports" eid="Id63" size="3">
       <originaltripleset>
         <otriple>chanceForName | Schaken</otriple>
         <otriple>chanceForName | Timothy_Derijck</otriple>
@@ -2154,7 +2154,7 @@
         <entity>PATIENT-3 | even_later</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id64" size="5">
+    <entry category="DutchSports" eid="Id64" size="5">
       <originaltripleset>
         <otriple>goalName | Martin_Hansen</otriple>
         <otriple>matchDate | eerder_in_de_week</otriple>
@@ -2198,7 +2198,7 @@
         <entity>PATIENT-5 | eerder_in_de_week</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id65" size="5">
+    <entry category="DutchSports" eid="Id65" size="5">
       <originaltripleset>
         <otriple>chanceForName | Derijck</otriple>
         <otriple>chanceForType | raakte</otriple>
@@ -2243,7 +2243,7 @@
         <entity>PATIENT-5 | raakte</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id66" size="1">
+    <entry category="DutchSports" eid="Id66" size="1">
       <originaltripleset>
         <otriple>goalScore | 1-3</otriple>
       </originaltripleset>
@@ -2267,7 +2267,7 @@
         <entity>PATIENT-1 | 1-3</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id67" size="3">
+    <entry category="DutchSports" eid="Id67" size="3">
       <originaltripleset>
         <otriple>goalName | Vito_Wormgoor</otriple>
         <otriple>goalType | mocht_bij_een_hoekschop_helemaal_vrij_inkoppen</otriple>
@@ -2301,7 +2301,7 @@
         <entity>PATIENT-3 | Renato_Tapia</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id68" size="4">
+    <entry category="DutchSports" eid="Id68" size="4">
       <originaltripleset>
         <otriple>goalName | Duplan</otriple>
         <otriple>goalScore | 1-4</otriple>
@@ -2340,7 +2340,7 @@
         <entity>PATIENT-4 | 1-4</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id69" size="4">
+    <entry category="DutchSports" eid="Id69" size="4">
       <originaltripleset>
         <otriple>finalScore | 2-2</otriple>
         <otriple>hasTiedTeam | FC_Twente</otriple>
@@ -2384,7 +2384,7 @@
         <entity>PATIENT-5 | 2-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id70" size="2">
+    <entry category="DutchSports" eid="Id70" size="2">
       <originaltripleset>
         <otriple>coachName | Ron_Jans</otriple>
         <otriple>stadiumPlayed | Enschede</otriple>
@@ -2413,7 +2413,7 @@
         <entity>PATIENT-2 | Enschede</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id71" size="7">
+    <entry category="DutchSports" eid="Id71" size="7">
       <originaltripleset>
         <otriple>finalScore | 2-1</otriple>
         <otriple>hasLostTeam | ADO_Den_Haag</otriple>
@@ -2467,7 +2467,7 @@
         <entity>PATIENT-7 | onderin</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id72" size="2">
+    <entry category="DutchSports" eid="Id72" size="2">
       <originaltripleset>
         <otriple>teamName | Twente</otriple>
         <otriple>teamStandings | bovenin_de_middenmoot</otriple>
@@ -2497,7 +2497,7 @@
         <entity>PATIENT-2 | bovenin_de_middenmoot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id73" size="5">
+    <entry category="DutchSports" eid="Id73" size="5">
       <originaltripleset>
         <otriple>coachName | Ron_Jans</otriple>
         <otriple>injuredName | Bram_van_Polen</otriple>
@@ -2541,7 +2541,7 @@
         <entity>PATIENT-5 | verdedigers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id74" size="3">
+    <entry category="DutchSports" eid="Id74" size="3">
       <originaltripleset>
         <otriple>playerAge | negentienjarige</otriple>
         <otriple>playerName | Philippe_Sandler</otriple>
@@ -2575,7 +2575,7 @@
         <entity>PATIENT-3 | centraal_achterin</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id75" size="2">
+    <entry category="DutchSports" eid="Id75" size="2">
       <originaltripleset>
         <otriple>matchTime | vroeg</otriple>
         <otriple>teamName | Ajax</otriple>
@@ -2604,7 +2604,7 @@
         <entity>PATIENT-2 | vroeg</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id76" size="1">
+    <entry category="DutchSports" eid="Id76" size="1">
       <originaltripleset>
         <otriple>tackleRecipientName | Kamohelo_Mokotjo</otriple>
       </originaltripleset>
@@ -2628,7 +2628,7 @@
         <entity>PATIENT-1 | Kamohelo_Mokotjo</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id77" size="3">
+    <entry category="DutchSports" eid="Id77" size="3">
       <originaltripleset>
         <otriple>goalName | Mateusz_Klich</otriple>
         <otriple>goalScore | 1-0</otriple>
@@ -2663,7 +2663,7 @@
         <entity>PATIENT-3 | 1-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id78" size="3">
+    <entry category="DutchSports" eid="Id78" size="3">
       <originaltripleset>
         <otriple>goalScore | kwam</otriple>
         <otriple>matchTime | vlak_voor_rust</otriple>
@@ -2697,7 +2697,7 @@
         <entity>PATIENT-3 | kwam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id79" size="2">
+    <entry category="DutchSports" eid="Id79" size="2">
       <originaltripleset>
         <otriple>tackleGiverName | Ted_van_de_Pavert</otriple>
         <otriple>teamName | Twente</otriple>
@@ -2726,7 +2726,7 @@
         <entity>PATIENT-2 | Ted_van_de_Pavert</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id80" size="5">
+    <entry category="DutchSports" eid="Id80" size="5">
       <originaltripleset>
         <otriple>goalName | Youness_Mokhtar</otriple>
         <otriple>goalScore | 1-1</otriple>
@@ -2771,7 +2771,7 @@
         <entity>PATIENT-5 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id81" size="4">
+    <entry category="DutchSports" eid="Id81" size="4">
       <originaltripleset>
         <otriple>chanceForName | invaller_Dylan_Seys</otriple>
         <otriple>goalScore | 2-1</otriple>
@@ -2810,7 +2810,7 @@
         <entity>PATIENT-4 | 2-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id82" size="2">
+    <entry category="DutchSports" eid="Id82" size="2">
       <originaltripleset>
         <otriple>chanceForType | maaide</otriple>
         <otriple>playerNationality | Belg</otriple>
@@ -2839,7 +2839,7 @@
         <entity>PATIENT-2 | maaide</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id83" size="1">
+    <entry category="DutchSports" eid="Id83" size="1">
       <originaltripleset>
         <otriple>chanceForName | Enes_Ünal</otriple>
       </originaltripleset>
@@ -2863,7 +2863,7 @@
         <entity>PATIENT-1 | Enes_Ünal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id84" size="2">
+    <entry category="DutchSports" eid="Id84" size="2">
       <originaltripleset>
         <otriple>chanceForType | kopte_tegen_de_lat</otriple>
         <otriple>playerNationality | Turkse</otriple>
@@ -2893,7 +2893,7 @@
         <entity>PATIENT-2 | kopte_tegen_de_lat</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id85" size="4">
+    <entry category="DutchSports" eid="Id85" size="4">
       <originaltripleset>
         <otriple>chanceForType | kopkans</otriple>
         <otriple>goalName | Ünal</otriple>
@@ -2932,7 +2932,7 @@
         <entity>PATIENT-4 | dertien_minuten_voor_tijd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id86" size="4">
+    <entry category="DutchSports" eid="Id86" size="4">
       <originaltripleset>
         <otriple>assistName | Bersant_Celina</otriple>
         <otriple>assistType | fraaie_steekpass</otriple>
@@ -2971,7 +2971,7 @@
         <entity>PATIENT-4 | zevende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id87" size="5">
+    <entry category="DutchSports" eid="Id87" size="5">
       <originaltripleset>
         <otriple>goalName | Django_Warmerdam</otriple>
         <otriple>goalScore | gelijkmaker</otriple>
@@ -3015,7 +3015,7 @@
         <entity>PATIENT-5 | gelijkmaker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id88" size="3">
+    <entry category="DutchSports" eid="Id88" size="3">
       <originaltripleset>
         <otriple>stadiumPlayed | Enschede</otriple>
         <otriple>teamName | Arnhemmers</otriple>
@@ -3054,7 +3054,7 @@
         <entity>PATIENT-4 | dertiende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id89" size="5">
+    <entry category="DutchSports" eid="Id89" size="5">
       <originaltripleset>
         <otriple>goalName | Bruno_Uvini</otriple>
         <otriple>goalType | eigen_doelpunt</otriple>
@@ -3098,7 +3098,7 @@
         <entity>PATIENT-5 | Bruno_Uvini</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id90" size="6">
+    <entry category="DutchSports" eid="Id90" size="6">
       <originaltripleset>
         <otriple>goalName | Zakaria_El_Azzouzi</otriple>
         <otriple>goalScore | trok_de_stand</otriple>
@@ -3148,7 +3148,7 @@
         <entity>PATIENT-6 | Eloy_Room</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id91" size="6">
+    <entry category="DutchSports" eid="Id91" size="6">
       <originaltripleset>
         <otriple>goalName | Yuning_Zhang</otriple>
         <otriple>goalScore | opnieuw_op_voorsprong</otriple>
@@ -3197,7 +3197,7 @@
         <entity>PATIENT-6 | tweede</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id92" size="4">
+    <entry category="DutchSports" eid="Id92" size="4">
       <originaltripleset>
         <otriple>goalName | Chinedu_Ede</otriple>
         <otriple>goalScore | keerde</otriple>
@@ -3236,7 +3236,7 @@
         <entity>PATIENT-4 | Chinedu_Ede</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id93" size="2">
+    <entry category="DutchSports" eid="Id93" size="2">
       <originaltripleset>
         <otriple>teamName | Vitesse</otriple>
         <otriple>teamStandings | negende</otriple>
@@ -3265,7 +3265,7 @@
         <entity>PATIENT-2 | negende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id94" size="3">
+    <entry category="DutchSports" eid="Id94" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | Vitesse</otriple>
         <otriple>hasWonTeam | FC_Twente</otriple>
@@ -3299,7 +3299,7 @@
         <entity>PATIENT-3 | Vitesse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id95" size="2">
+    <entry category="DutchSports" eid="Id95" size="2">
       <originaltripleset>
         <otriple>finalScore | 2-1</otriple>
         <otriple>hasWonTeam | Tukkers</otriple>
@@ -3329,7 +3329,7 @@
         <entity>PATIENT-2 | 2-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id96" size="4">
+    <entry category="DutchSports" eid="Id96" size="4">
       <originaltripleset>
         <otriple>goalName | Enes_Ünal</otriple>
         <otriple>goalScore | op_voorsprong</otriple>
@@ -3368,7 +3368,7 @@
         <entity>PATIENT-4 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id97" size="3">
+    <entry category="DutchSports" eid="Id97" size="3">
       <originaltripleset>
         <otriple>assistName | Dejan_Trajkovski</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -3403,7 +3403,7 @@
         <entity>PATIENT-3 | schoot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id98" size="5">
+    <entry category="DutchSports" eid="Id98" size="5">
       <originaltripleset>
         <otriple>disallowedGoalName | Yaw_Yeboah</otriple>
         <otriple>goalScore | voorsprong_te_verdubbelen</otriple>
@@ -3447,7 +3447,7 @@
         <entity>PATIENT-5 | Jeroen_Manschot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id99" size="2">
+    <entry category="DutchSports" eid="Id99" size="2">
       <originaltripleset>
         <otriple>matchTime | Vlak_na_de_thee</otriple>
         <otriple>refereeName | Manschot</otriple>
@@ -3477,7 +3477,7 @@
         <entity>PATIENT-2 | Manschot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id100" size="2">
+    <entry category="DutchSports" eid="Id100" size="2">
       <originaltripleset>
         <otriple>tackleGiverName | Navarone_Foor</otriple>
         <otriple>tackleRecipientName | Yeboah</otriple>
@@ -3506,7 +3506,7 @@
         <entity>PATIENT-2 | Navarone_Foor</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id101" size="3">
+    <entry category="DutchSports" eid="Id101" size="3">
       <originaltripleset>
         <otriple>goalScore | verdubbelden</otriple>
         <otriple>matchTime | laat_in_de_tweede_helft</otriple>
@@ -3540,7 +3540,7 @@
         <entity>PATIENT-3 | Tukkers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id102" size="3">
+    <entry category="DutchSports" eid="Id102" size="3">
       <originaltripleset>
         <otriple>assistName | Chinedu_Ede</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -3575,7 +3575,7 @@
         <entity>PATIENT-3 | Chinedu_Ede</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id103" size="1">
+    <entry category="DutchSports" eid="Id103" size="1">
       <originaltripleset>
         <otriple>goalName | Lewis_Baker</otriple>
       </originaltripleset>
@@ -3599,7 +3599,7 @@
         <entity>PATIENT-1 | Lewis_Baker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id104" size="3">
+    <entry category="DutchSports" eid="Id104" size="3">
       <originaltripleset>
         <otriple>goalType | prachtig_schot</otriple>
         <otriple>goalkeeperName | Nick_Marsman</otriple>
@@ -3638,7 +3638,7 @@
         <entity>PATIENT-4 | prachtig_schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id105" size="4">
+    <entry category="DutchSports" eid="Id105" size="4">
       <originaltripleset>
         <otriple>hasWonTeam | NEC</otriple>
         <otriple>matchDate | woensdagavond</otriple>
@@ -3677,7 +3677,7 @@
         <entity>PATIENT-4 | zege</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id106" size="4">
+    <entry category="DutchSports" eid="Id106" size="4">
       <originaltripleset>
         <otriple>finalScore | 2-0</otriple>
         <otriple>hasLostTeam | FC_Twente</otriple>
@@ -3717,7 +3717,7 @@
         <entity>PATIENT-4 | FC_Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id107" size="6">
+    <entry category="DutchSports" eid="Id107" size="6">
       <originaltripleset>
         <otriple>coachName | Ernest_Faber</otriple>
         <otriple>goalName | Anthony_Limbombe</otriple>
@@ -3771,7 +3771,7 @@
         <entity>PATIENT-7 | Ernest_Faber</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id108" size="4">
+    <entry category="DutchSports" eid="Id108" size="4">
       <originaltripleset>
         <otriple>matchStreakNumber | derde</otriple>
         <otriple>matchStreakType | nul</otriple>
@@ -3811,7 +3811,7 @@
         <entity>PATIENT-4 | nul</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id109" size="4">
+    <entry category="DutchSports" eid="Id109" size="4">
       <originaltripleset>
         <otriple>hasWonTeam | NEC</otriple>
         <otriple>numberOfMatchesPlayed | twintig</otriple>
@@ -3850,7 +3850,7 @@
         <entity>PATIENT-4 | vierde</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id110" size="3">
+    <entry category="DutchSports" eid="Id110" size="3">
       <originaltripleset>
         <otriple>numberOfPoints | zestien</otriple>
         <otriple>teamName | Twente</otriple>
@@ -3885,7 +3885,7 @@
         <entity>PATIENT-3 | zestiende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id111" size="2">
+    <entry category="DutchSports" eid="Id111" size="2">
       <originaltripleset>
         <otriple>playerName | Renato_Tapia</otriple>
         <otriple>teamName | Tukkers</otriple>
@@ -3914,7 +3914,7 @@
         <entity>PATIENT-2 | Renato_Tapia</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id112" size="3">
+    <entry category="DutchSports" eid="Id112" size="3">
       <originaltripleset>
         <otriple>matchDate | eerder_op_woensdag</otriple>
         <otriple>positionOfPlayer | middenvelder</otriple>
@@ -3948,7 +3948,7 @@
         <entity>PATIENT-3 | Feyenoord</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id113" size="2">
+    <entry category="DutchSports" eid="Id113" size="2">
       <originaltripleset>
         <otriple>playerName | Zakaria_El_Azzouzi</otriple>
         <otriple>teamName | FC_Twente</otriple>
@@ -3977,7 +3977,7 @@
         <entity>PATIENT-2 | FC_Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id114" size="3">
+    <entry category="DutchSports" eid="Id114" size="3">
       <originaltripleset>
         <otriple>playerName | Jari_Oosterwijk</otriple>
         <otriple>positionOfPlayer | spits</otriple>
@@ -4012,7 +4012,7 @@
         <entity>PATIENT-3 | Jari_Oosterwijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id115" size="2">
+    <entry category="DutchSports" eid="Id115" size="2">
       <originaltripleset>
         <otriple>matchTime | In_de_eerste_helft</otriple>
         <otriple>teamName | Twente</otriple>
@@ -4041,7 +4041,7 @@
         <entity>PATIENT-2 | Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id116" size="6">
+    <entry category="DutchSports" eid="Id116" size="6">
       <originaltripleset>
         <otriple>chanceForName | Hakim_Ziyech</otriple>
         <otriple>chanceForNumber | aantal_keer</otriple>
@@ -4091,7 +4091,7 @@
         <entity>PATIENT-6 | doelman</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id117" size="1">
+    <entry category="DutchSports" eid="Id117" size="1">
       <originaltripleset>
         <otriple>chanceForName | Christian_Santos</otriple>
       </originaltripleset>
@@ -4116,7 +4116,7 @@
         <entity>PATIENT-1 | Christian_Santos</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id118" size="2">
+    <entry category="DutchSports" eid="Id118" size="2">
       <originaltripleset>
         <otriple>matchTime | Na_rust</otriple>
         <otriple>stadiumPlayed | Nijmegen</otriple>
@@ -4145,7 +4145,7 @@
         <entity>PATIENT-2 | Nijmegen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id119" size="4">
+    <entry category="DutchSports" eid="Id119" size="4">
       <originaltripleset>
         <otriple>chanceForName | Jerson_Cabral</otriple>
         <otriple>chanceForName | Ziyech</otriple>
@@ -4189,7 +4189,7 @@
         <entity>PATIENT-5 | Tukkers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id120" size="2">
+    <entry category="DutchSports" eid="Id120" size="2">
       <originaltripleset>
         <otriple>chanceForType | snelle_counter</otriple>
         <otriple>goalkeeperName | Jones</otriple>
@@ -4219,7 +4219,7 @@
         <entity>PATIENT-2 | Jones</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id121" size="4">
+    <entry category="DutchSports" eid="Id121" size="4">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>hasScored | True</otriple>
@@ -4256,7 +4256,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id122" size="4">
+    <entry category="DutchSports" eid="Id122" size="4">
       <originaltripleset>
         <otriple>goalName | Limbombe</otriple>
         <otriple>goalType | lobje</otriple>
@@ -4295,7 +4295,7 @@
         <entity>PATIENT-4 | lobje</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id123" size="5">
+    <entry category="DutchSports" eid="Id123" size="5">
       <originaltripleset>
         <otriple>goalScore | besliste</otriple>
         <otriple>matchTime | In_de_slotfase</otriple>
@@ -4339,7 +4339,7 @@
         <entity>PATIENT-5 | besliste</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id124" size="4">
+    <entry category="DutchSports" eid="Id124" size="4">
       <originaltripleset>
         <otriple>goalName | Siem_de_Jong</otriple>
         <otriple>goalScore | 1-0</otriple>
@@ -4378,7 +4378,7 @@
         <entity>PATIENT-4 | Siem_de_Jong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id125" size="2">
+    <entry category="DutchSports" eid="Id125" size="2">
       <originaltripleset>
         <otriple>coachName | Phillip_Cocu</otriple>
         <otriple>hasLostTeam | ADO_Den_Haag</otriple>
@@ -4407,7 +4407,7 @@
         <entity>PATIENT-2 | ADO_Den_Haag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id126" size="1">
+    <entry category="DutchSports" eid="Id126" size="1">
       <originaltripleset>
         <otriple>teamName | Go_Ahead</otriple>
       </originaltripleset>
@@ -4432,7 +4432,7 @@
         <entity>PATIENT-1 | Go_Ahead</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id127" size="3">
+    <entry category="DutchSports" eid="Id127" size="3">
       <originaltripleset>
         <otriple>matchDate | zondag</otriple>
         <otriple>numberOfPoints | drie</otriple>
@@ -4471,7 +4471,7 @@
         <entity>PATIENT-4 | drie</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id128" size="3">
+    <entry category="DutchSports" eid="Id128" size="3">
       <originaltripleset>
         <otriple>matchDate | Volgende_week</otriple>
         <otriple>stadiumPlayed | Amsterdam</otriple>
@@ -4505,7 +4505,7 @@
         <entity>PATIENT-3 | Amsterdam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id129" size="5">
+    <entry category="DutchSports" eid="Id129" size="5">
       <originaltripleset>
         <otriple>finalScore | 4-0</otriple>
         <otriple>hasLostTeam | sc_Heerenveen</otriple>
@@ -4549,7 +4549,7 @@
         <entity>PATIENT-5 | 4-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id130" size="2">
+    <entry category="DutchSports" eid="Id130" size="2">
       <originaltripleset>
         <otriple>stadiumPlayed | Friesland</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -4583,7 +4583,7 @@
         <entity>PATIENT-3 | Friesland</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id131" size="1">
+    <entry category="DutchSports" eid="Id131" size="1">
       <originaltripleset>
         <otriple>hasWonTeam | ADO</otriple>
       </originaltripleset>
@@ -4607,7 +4607,7 @@
         <entity>PATIENT-1 | ADO</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id132" size="6">
+    <entry category="DutchSports" eid="Id132" size="6">
       <originaltripleset>
         <otriple>coachName | Henk_Fraser</otriple>
         <otriple>finalScore | 1-0-zege</otriple>
@@ -4656,7 +4656,7 @@
         <entity>PATIENT-6 | AZ</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id133" size="3">
+    <entry category="DutchSports" eid="Id133" size="3">
       <originaltripleset>
         <otriple>numberOfPoints | twintig</otriple>
         <otriple>teamName | Hagenaars</otriple>
@@ -4696,7 +4696,7 @@
         <entity>PATIENT-4 | twintig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id134" size="2">
+    <entry category="DutchSports" eid="Id134" size="2">
       <originaltripleset>
         <otriple>matchTime | in_de_eerste_helft</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -4725,7 +4725,7 @@
         <entity>PATIENT-2 | in_de_eerste_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id135" size="2">
+    <entry category="DutchSports" eid="Id135" size="2">
       <originaltripleset>
         <otriple>coachName | Foppe_de_Haan</otriple>
         <otriple>teamName | Friese</otriple>
@@ -4754,7 +4754,7 @@
         <entity>PATIENT-2 | Friese</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id136" size="3">
+    <entry category="DutchSports" eid="Id136" size="3">
       <originaltripleset>
         <otriple>hasScored | True</otriple>
         <otriple>matchTime | na_twintig_minuten_spelen</otriple>
@@ -4786,7 +4786,7 @@
         <entity>PATIENT-3 | ADO_Den_Haag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id137" size="3">
+    <entry category="DutchSports" eid="Id137" size="3">
       <originaltripleset>
         <otriple>assistName | Danny_Bakker</otriple>
         <otriple>goalName | Aaron_Meijers</otriple>
@@ -4821,7 +4821,7 @@
         <entity>PATIENT-3 | schoot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id138" size="4">
+    <entry category="DutchSports" eid="Id138" size="4">
       <originaltripleset>
         <otriple>goalScore | 0-2</otriple>
         <otriple>hasScored | True</otriple>
@@ -4858,7 +4858,7 @@
         <entity>PATIENT-3 | 0-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id139" size="3">
+    <entry category="DutchSports" eid="Id139" size="3">
       <originaltripleset>
         <otriple>assistName | Kevin_Jansen</otriple>
         <otriple>goalName | Bakker</otriple>
@@ -4893,7 +4893,7 @@
         <entity>PATIENT-3 | keeper</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id140" size="8">
+    <entry category="DutchSports" eid="Id140" size="8">
       <originaltripleset>
         <otriple>assistName | Edouard_Duplan</otriple>
         <otriple>assistType | fraaie_assist</otriple>
@@ -4952,7 +4952,7 @@
         <entity>PATIENT-8 | doelman</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id141" size="5">
+    <entry category="DutchSports" eid="Id141" size="5">
       <originaltripleset>
         <otriple>chanceForName | Vito_Wormgoor</otriple>
         <otriple>chanceForType | kopbal</otriple>
@@ -4994,7 +4994,7 @@
         <entity>PATIENT-4 | 3-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id142" size="2">
+    <entry category="DutchSports" eid="Id142" size="2">
       <originaltripleset>
         <otriple>goalName | Tom_Beugelsdijk</otriple>
         <otriple>goalType | kapte_zijn_tegenstander_uit_en_joeg_de_bal_tegen_de_touwen</otriple>
@@ -5024,7 +5024,7 @@
         <entity>PATIENT-2 | kapte_zijn_tegenstander_uit_en_joeg_de_bal_tegen_de_touwen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id143" size="2">
+    <entry category="DutchSports" eid="Id143" size="2">
       <originaltripleset>
         <otriple>matchTime | Haags_Kwartiertje</otriple>
         <otriple>teamName | ADO</otriple>
@@ -5053,7 +5053,7 @@
         <entity>PATIENT-2 | ADO</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id144" size="3">
+    <entry category="DutchSports" eid="Id144" size="3">
       <originaltripleset>
         <otriple>goalName | Jansen</otriple>
         <otriple>goalScore | 4-0</otriple>
@@ -5087,7 +5087,7 @@
         <entity>PATIENT-3 | 4-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id145" size="2">
+    <entry category="DutchSports" eid="Id145" size="2">
       <originaltripleset>
         <otriple>finalScore | 2-2</otriple>
         <otriple>hasTiedTeam | FC_Utrecht</otriple>
@@ -5121,7 +5121,7 @@
         <entity>PATIENT-3 | 2-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id146" size="3">
+    <entry category="DutchSports" eid="Id146" size="3">
       <originaltripleset>
         <otriple>playerName | Stijn_Schaars</otriple>
         <otriple>stadiumPlayed | Abe_Lenstra_Stadion</otriple>
@@ -5155,7 +5155,7 @@
         <entity>PATIENT-3 | Stijn_Schaars</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id147" size="6">
+    <entry category="DutchSports" eid="Id147" size="6">
       <originaltripleset>
         <otriple>finalScore | 1-2</otriple>
         <otriple>hasLostTeam | FC_Utrecht</otriple>
@@ -5204,7 +5204,7 @@
         <entity>PATIENT-6 | rechtsback</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id148" size="1">
+    <entry category="DutchSports" eid="Id148" size="1">
       <originaltripleset>
         <otriple>playerName | Sean_Klaiber</otriple>
       </originaltripleset>
@@ -5228,7 +5228,7 @@
         <entity>PATIENT-1 | Sean_Klaiber</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id149" size="3">
+    <entry category="DutchSports" eid="Id149" size="3">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>matchTime | na_twaalf_minuten</otriple>
@@ -5262,7 +5262,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id150" size="3">
+    <entry category="DutchSports" eid="Id150" size="3">
       <originaltripleset>
         <otriple>goalName | Luciano_Slagveer</otriple>
         <otriple>goalScore | 1-0</otriple>
@@ -5296,7 +5296,7 @@
         <entity>PATIENT-3 | kon_van_dichtbij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id151" size="3">
+    <entry category="DutchSports" eid="Id151" size="3">
       <originaltripleset>
         <otriple>chanceForName | Arber_Zeneli</otriple>
         <otriple>coachName | Jurgen_Streppel</otriple>
@@ -5330,7 +5330,7 @@
         <entity>PATIENT-3 | 2-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id152" size="3">
+    <entry category="DutchSports" eid="Id152" size="3">
       <originaltripleset>
         <otriple>goalScore | op_gelijke_hoogte</otriple>
         <otriple>matchTime | na_32_minuten</otriple>
@@ -5364,7 +5364,7 @@
         <entity>PATIENT-3 | op_gelijke_hoogte</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id153" size="5">
+    <entry category="DutchSports" eid="Id153" size="5">
       <originaltripleset>
         <otriple>goalName | Sébastien_Haller</otriple>
         <otriple>goalScore | 1-1</otriple>
@@ -5408,7 +5408,7 @@
         <entity>PATIENT-5 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id154" size="3">
+    <entry category="DutchSports" eid="Id154" size="3">
       <originaltripleset>
         <otriple>goalScore | gelijkmaker</otriple>
         <otriple>matchTime | een_minuut_na</otriple>
@@ -5442,7 +5442,7 @@
         <entity>PATIENT-3 | gelijkmaker</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id155" size="4">
+    <entry category="DutchSports" eid="Id155" size="4">
       <originaltripleset>
         <otriple>goalName | Bart_Ramselaar</otriple>
         <otriple>goalType | afstandsschot</otriple>
@@ -5482,7 +5482,7 @@
         <entity>PATIENT-4 | 1-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id156" size="3">
+    <entry category="DutchSports" eid="Id156" size="3">
       <originaltripleset>
         <otriple>chanceForName | Haller</otriple>
         <otriple>matchTime | Na_rust</otriple>
@@ -5516,7 +5516,7 @@
         <entity>PATIENT-3 | Haller</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id157" size="2">
+    <entry category="DutchSports" eid="Id157" size="2">
       <originaltripleset>
         <otriple>goalkeeperName | Erwin_Mulder</otriple>
         <otriple>positionOfPlayer | spits</otriple>
@@ -5545,7 +5545,7 @@
         <entity>PATIENT-2 | Erwin_Mulder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id158" size="4">
+    <entry category="DutchSports" eid="Id158" size="4">
       <originaltripleset>
         <otriple>goalScore | langszij</otriple>
         <otriple>hasScored | True</otriple>
@@ -5582,7 +5582,7 @@
         <entity>PATIENT-3 | langszij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id159" size="5">
+    <entry category="DutchSports" eid="Id159" size="5">
       <originaltripleset>
         <otriple>goalName | Reza_Ghoochannejhad</otriple>
         <otriple>goalScore | 2-2</otriple>
@@ -5626,7 +5626,7 @@
         <entity>PATIENT-5 | 2-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id160" size="2">
+    <entry category="DutchSports" eid="Id160" size="2">
       <originaltripleset>
         <otriple>teamName | Friezen</otriple>
       </originaltripleset>
@@ -5650,7 +5650,7 @@
         <entity>PATIENT-1 | Friezen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id161" size="3">
+    <entry category="DutchSports" eid="Id161" size="3">
       <originaltripleset>
         <otriple>goalName | Davy_Klaassen</otriple>
         <otriple>goalScore | eerste</otriple>
@@ -5684,7 +5684,7 @@
         <entity>PATIENT-3 | middag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id162" size="2">
+    <entry category="DutchSports" eid="Id162" size="2">
       <originaltripleset>
         <otriple>stadiumPlayed | Gelredome</otriple>
         <otriple>teamName | Ajax</otriple>
@@ -5713,7 +5713,7 @@
         <entity>PATIENT-2 | Gelredome</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id163" size="3">
+    <entry category="DutchSports" eid="Id163" size="3">
       <originaltripleset>
         <otriple>goalScore | 0-1</otriple>
         <otriple>hasScored | True</otriple>
@@ -5745,7 +5745,7 @@
         <entity>PATIENT-2 | 0-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id164" size="3">
+    <entry category="DutchSports" eid="Id164" size="3">
       <originaltripleset>
         <otriple>goalName | Klaassen</otriple>
         <otriple>goalScore | op_voorsprong</otriple>
@@ -5780,7 +5780,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id165" size="3">
+    <entry category="DutchSports" eid="Id165" size="3">
       <originaltripleset>
         <otriple>assistName | Amin_Younes</otriple>
         <otriple>goalType | schoot</otriple>
@@ -5814,7 +5814,7 @@
         <entity>PATIENT-3 | schoot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id166" size="1">
+    <entry category="DutchSports" eid="Id166" size="1">
       <originaltripleset>
         <otriple>goalScore | voorsprong</otriple>
       </originaltripleset>
@@ -5838,7 +5838,7 @@
         <entity>PATIENT-1 | voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id167" size="3">
+    <entry category="DutchSports" eid="Id167" size="3">
       <originaltripleset>
         <otriple>playerName | Klaassen</otriple>
         <otriple>stadiumPlayed | Arnhem</otriple>
@@ -5872,7 +5872,7 @@
         <entity>PATIENT-3 | Arnhem</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id168" size="1">
+    <entry category="DutchSports" eid="Id168" size="1">
       <originaltripleset>
         <otriple>teamName | Ajax</otriple>
       </originaltripleset>
@@ -5896,7 +5896,7 @@
         <entity>PATIENT-1 | Ajax</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id169" size="1">
+    <entry category="DutchSports" eid="Id169" size="1">
       <originaltripleset>
         <otriple>teamName | Vitesse</otriple>
       </originaltripleset>
@@ -5921,7 +5921,7 @@
         <entity>PATIENT-1 | Vitesse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id170" size="2">
+    <entry category="DutchSports" eid="Id170" size="2">
       <originaltripleset>
         <otriple>playerName | Klaassen</otriple>
         <otriple>teamName | Ajax</otriple>
@@ -5950,7 +5950,7 @@
         <entity>PATIENT-2 | Ajax</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id171" size="1">
+    <entry category="DutchSports" eid="Id171" size="1">
       <originaltripleset>
         <otriple>chanceForName | Klaassen</otriple>
       </originaltripleset>
@@ -5975,7 +5975,7 @@
         <entity>PATIENT-1 | Klaassen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id172" size="3">
+    <entry category="DutchSports" eid="Id172" size="3">
       <originaltripleset>
         <otriple>chanceForType | miste</otriple>
         <otriple>matchTime | kwartier_voor_tijd</otriple>
@@ -6009,7 +6009,7 @@
         <entity>PATIENT-3 | Hakim_Ziyech</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id173" size="2">
+    <entry category="DutchSports" eid="Id173" size="2">
       <originaltripleset>
         <otriple>goalkeeperName | Eloy_Room</otriple>
         <otriple>positionOfPlayer | Keeper</otriple>
@@ -6038,7 +6038,7 @@
         <entity>PATIENT-2 | Eloy_Room</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id174" size="1">
+    <entry category="DutchSports" eid="Id174" size="1">
       <originaltripleset>
         <otriple>teamName | Vitesse</otriple>
       </originaltripleset>
@@ -6062,7 +6062,7 @@
         <entity>PATIENT-1 | Vitesse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id175" size="3">
+    <entry category="DutchSports" eid="Id175" size="3">
       <originaltripleset>
         <otriple>goalScore | voorsprong</otriple>
         <otriple>matchTime | slotfase</otriple>
@@ -6101,7 +6101,7 @@
         <entity>PATIENT-4 | voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id176" size="2">
+    <entry category="DutchSports" eid="Id176" size="2">
       <originaltripleset>
         <otriple>coachName | Peter_Bosz</otriple>
         <otriple>homeAway | uitzege</otriple>
@@ -6130,7 +6130,7 @@
         <entity>PATIENT-2 | Peter_Bosz</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id177" size="4">
+    <entry category="DutchSports" eid="Id177" size="4">
       <originaltripleset>
         <otriple>finalScore | 1-2</otriple>
         <otriple>hasLostTeam | ADO_Den_Haag</otriple>
@@ -6169,7 +6169,7 @@
         <entity>PATIENT-4 | ADO_Den_Haag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id178" size="2">
+    <entry category="DutchSports" eid="Id178" size="2">
       <originaltripleset>
         <otriple>finalScore | 1-2</otriple>
         <otriple>goalName | Dabney_dos_Santos</otriple>
@@ -6198,7 +6198,7 @@
         <entity>PATIENT-2 | 1-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id179" size="1">
+    <entry category="DutchSports" eid="Id179" size="1">
       <originaltripleset>
         <otriple>playerName | Henriksen</otriple>
       </originaltripleset>
@@ -6223,7 +6223,7 @@
         <entity>PATIENT-1 | Henriksen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id180" size="2">
+    <entry category="DutchSports" eid="Id180" size="2">
       <originaltripleset>
         <otriple>goalName | Henriksen</otriple>
         <otriple>goalScore | 1-2</otriple>
@@ -6252,7 +6252,7 @@
         <entity>PATIENT-2 | 1-2</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id181" size="1">
+    <entry category="DutchSports" eid="Id181" size="1">
       <originaltripleset>
         <otriple>teamName | AZ</otriple>
       </originaltripleset>
@@ -6276,7 +6276,7 @@
         <entity>PATIENT-1 | AZ</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id182" size="6">
+    <entry category="DutchSports" eid="Id182" size="6">
       <originaltripleset>
         <otriple>finalScore | 0-2</otriple>
         <otriple>finalScore | 2-2</otriple>
@@ -6325,7 +6325,7 @@
         <entity>PATIENT-6 | De_Graafschap</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id183" size="4">
+    <entry category="DutchSports" eid="Id183" size="4">
       <originaltripleset>
         <otriple>hasLostTeam | FC_Groningen</otriple>
         <otriple>hasWonTeam | FC_Utrecht</otriple>
@@ -6364,7 +6364,7 @@
         <entity>PATIENT-4 | FC_Utrecht</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id184" size="3">
+    <entry category="DutchSports" eid="Id184" size="3">
       <originaltripleset>
         <otriple>coachName | Erik_ten_Hag</otriple>
         <otriple>finalScore | 4-1</otriple>
@@ -6398,7 +6398,7 @@
         <entity>PATIENT-3 | Erik_ten_Hag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id185" size="2">
+    <entry category="DutchSports" eid="Id185" size="2">
       <originaltripleset>
         <otriple>goalName | Bart_Ramselaar</otriple>
         <otriple>teamName | Utrecht</otriple>
@@ -6427,7 +6427,7 @@
         <entity>PATIENT-2 | Bart_Ramselaar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id186" size="3">
+    <entry category="DutchSports" eid="Id186" size="3">
       <originaltripleset>
         <otriple>matchStreakNumber | eerste</otriple>
         <otriple>matchStreakType | thuisnederlaag</otriple>
@@ -6462,7 +6462,7 @@
         <entity>PATIENT-3 | thuisnederlaag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id187" size="3">
+    <entry category="DutchSports" eid="Id187" size="3">
       <originaltripleset>
         <otriple>goalName | Ramselaar</otriple>
         <otriple>goalScore | openingstreffer</otriple>
@@ -6496,7 +6496,7 @@
         <entity>PATIENT-3 | openingstreffer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id188" size="1">
+    <entry category="DutchSports" eid="Id188" size="1">
       <originaltripleset>
         <otriple>goalScore | trok_de_stand_gelijk</otriple>
       </originaltripleset>
@@ -6520,7 +6520,7 @@
         <entity>PATIENT-1 | trok_de_stand_gelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id189" size="4">
+    <entry category="DutchSports" eid="Id189" size="4">
       <originaltripleset>
         <otriple>goalName | Alexander_Sørloth</otriple>
         <otriple>playerNationality | Noors</otriple>
@@ -6559,7 +6559,7 @@
         <entity>PATIENT-4 | Groningen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id190" size="1">
+    <entry category="DutchSports" eid="Id190" size="1">
       <originaltripleset>
         <otriple>halfTimeScore | gelijk</otriple>
       </originaltripleset>
@@ -6584,7 +6584,7 @@
         <entity>PATIENT-1 | gelijk</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id191" size="2">
+    <entry category="DutchSports" eid="Id191" size="2">
       <originaltripleset>
         <otriple>matchTime | Na_de_pauze</otriple>
         <otriple>teamName | Utrecht</otriple>
@@ -6613,7 +6613,7 @@
         <entity>PATIENT-2 | Na_de_pauze</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id192" size="5">
+    <entry category="DutchSports" eid="Id192" size="5">
       <originaltripleset>
         <otriple>goalName | Chris_Kum</otriple>
         <otriple>goalName | Timo_Letschert</otriple>
@@ -6657,7 +6657,7 @@
         <entity>PATIENT-5 | collega-verdediger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id193" size="1">
+    <entry category="DutchSports" eid="Id193" size="1">
       <originaltripleset>
         <otriple>goalType | rondde_van_dichtbij_af</otriple>
       </originaltripleset>
@@ -6682,7 +6682,7 @@
         <entity>PATIENT-1 | rondde_van_dichtbij_af</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id194" size="2">
+    <entry category="DutchSports" eid="Id194" size="2">
       <originaltripleset>
         <otriple>goalName | Ludwig</otriple>
         <otriple>matchTime | In_de_slotfase</otriple>
@@ -6711,7 +6711,7 @@
         <entity>PATIENT-2 | Ludwig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id195" size="4">
+    <entry category="DutchSports" eid="Id195" size="4">
       <originaltripleset>
         <otriple>goalScore | 4-1</otriple>
         <otriple>matchTime | kort_daarop</otriple>
@@ -6750,7 +6750,7 @@
         <entity>PATIENT-4 | kort_daarop</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id196" size="1">
+    <entry category="DutchSports" eid="Id196" size="1">
       <originaltripleset>
         <otriple>teamName | Utrecht</otriple>
       </originaltripleset>
@@ -6774,7 +6774,7 @@
         <entity>PATIENT-1 | Utrecht</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id197" size="3">
+    <entry category="DutchSports" eid="Id197" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | Groningen</otriple>
         <otriple>hasWonTeam | Utrecht</otriple>
@@ -6808,7 +6808,7 @@
         <entity>PATIENT-3 | zes</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id198" size="2">
+    <entry category="DutchSports" eid="Id198" size="2">
       <originaltripleset>
         <otriple>numberOfPoints | drie</otriple>
         <otriple>teamName | Groningen</otriple>
@@ -6837,7 +6837,7 @@
         <entity>PATIENT-2 | drie</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id199" size="3">
+    <entry category="DutchSports" eid="Id199" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | FC_Twente</otriple>
         <otriple>hasWonTeam | FC_Utrecht</otriple>
@@ -6871,7 +6871,7 @@
         <entity>PATIENT-3 | FC_Twente</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id200" size="2">
+    <entry category="DutchSports" eid="Id200" size="2">
       <originaltripleset>
         <otriple>finalScore | 3-0</otriple>
         <otriple>stadiumPlayed | Galgenwaard</otriple>
@@ -6901,7 +6901,7 @@
         <entity>PATIENT-2 | 3-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id201" size="1">
+    <entry category="DutchSports" eid="Id201" size="1">
       <originaltripleset>
         <otriple>teamName | thuisploeg</otriple>
       </originaltripleset>
@@ -6925,7 +6925,7 @@
         <entity>PATIENT-1 | thuisploeg</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id202" size="4">
+    <entry category="DutchSports" eid="Id202" size="4">
       <originaltripleset>
         <otriple>chanceForName | Gyrano_Kerk</otriple>
         <otriple>chanceForType | gekeerd</otriple>
@@ -6964,7 +6964,7 @@
         <entity>PATIENT-4 | Nick_Marsman</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id203" size="2">
+    <entry category="DutchSports" eid="Id203" size="2">
       <originaltripleset>
         <otriple>chanceForName | Yassin_Ayoub</otriple>
         <otriple>positionOfPlayer | Twente-goalie</otriple>
@@ -6993,7 +6993,7 @@
         <entity>PATIENT-2 | Yassin_Ayoub</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id204" size="2">
+    <entry category="DutchSports" eid="Id204" size="2">
       <originaltripleset>
         <otriple>chanceForName | Enes_Ünal</otriple>
         <otriple>goalkeeperName | David_Jensen</otriple>
@@ -7023,7 +7023,7 @@
         <entity>PATIENT-2 | Enes_Ünal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id205" size="2">
+    <entry category="DutchSports" eid="Id205" size="2">
       <originaltripleset>
         <otriple>assistName | Nacer_Barazite</otriple>
         <otriple>matchTime | In_de_58e_minuut</otriple>
@@ -7052,7 +7052,7 @@
         <entity>PATIENT-2 | Nacer_Barazite</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id206" size="5">
+    <entry category="DutchSports" eid="Id206" size="5">
       <originaltripleset>
         <otriple>assistType | voorzet</otriple>
         <otriple>goalName | Kerk</otriple>
@@ -7096,7 +7096,7 @@
         <entity>PATIENT-5 | kopte</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id207" size="4">
+    <entry category="DutchSports" eid="Id207" size="4">
       <originaltripleset>
         <otriple>goalName | Barazite</otriple>
         <otriple>goalType | hard_schot</otriple>
@@ -7136,7 +7136,7 @@
         <entity>PATIENT-4 | Even_later</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id208" size="3">
+    <entry category="DutchSports" eid="Id208" size="3">
       <originaltripleset>
         <otriple>finalScore | 3-0</otriple>
         <otriple>goalName | Richairo_Zivkovic</otriple>
@@ -7170,7 +7170,7 @@
         <entity>PATIENT-3 | 3-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id209" size="4">
+    <entry category="DutchSports" eid="Id209" size="4">
       <originaltripleset>
         <otriple>hasWonTeam | NEC</otriple>
         <otriple>matchDate | volgend_weekeinde</otriple>
@@ -7209,7 +7209,7 @@
         <entity>PATIENT-4 | Vitesse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id210" size="4">
+    <entry category="DutchSports" eid="Id210" size="4">
       <originaltripleset>
         <otriple>coachName | Ernest_Faber</otriple>
         <otriple>matchDate | zondag</otriple>
@@ -7248,7 +7248,7 @@
         <entity>PATIENT-4 | won</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id211" size="3">
+    <entry category="DutchSports" eid="Id211" size="3">
       <originaltripleset>
         <otriple>finalScore | 1-0</otriple>
         <otriple>hasLostTeam | FC_Utrecht</otriple>
@@ -7282,7 +7282,7 @@
         <entity>PATIENT-3 | 1-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id212" size="2">
+    <entry category="DutchSports" eid="Id212" size="2">
       <originaltripleset>
         <otriple>goalScore | enige</otriple>
         <otriple>goalType | strafschop</otriple>
@@ -7311,7 +7311,7 @@
         <entity>PATIENT-2 | strafschop</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id213" size="2">
+    <entry category="DutchSports" eid="Id213" size="2">
       <originaltripleset>
         <otriple>goalName | Christian_Santos</otriple>
         <otriple>goalType | buitenkansje</otriple>
@@ -7341,7 +7341,7 @@
         <entity>PATIENT-2 | buitenkansje</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id214" size="5">
+    <entry category="DutchSports" eid="Id214" size="5">
       <originaltripleset>
         <otriple>assistName | Marcel_Ritzmaier</otriple>
         <otriple>assistType | doorkoppen</otriple>
@@ -7390,7 +7390,7 @@
         <entity>PATIENT-6 | Marcel_Ritzmaier</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id215" size="3">
+    <entry category="DutchSports" eid="Id215" size="3">
       <originaltripleset>
         <otriple>chanceForName | Santos</otriple>
         <otriple>matchTime | in_de_15e_minuut</otriple>
@@ -7424,7 +7424,7 @@
         <entity>PATIENT-3 | in_de_15e_minuut</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id216" size="4">
+    <entry category="DutchSports" eid="Id216" size="4">
       <originaltripleset>
         <otriple>assistName | Todd_Kane</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -7464,7 +7464,7 @@
         <entity>PATIENT-4 | Venezolaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id217" size="3">
+    <entry category="DutchSports" eid="Id217" size="3">
       <originaltripleset>
         <otriple>chanceForName | Sébastien_Haller</otriple>
         <otriple>chanceForNumber | paar</otriple>
@@ -7498,7 +7498,7 @@
         <entity>PATIENT-3 | paar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id218" size="5">
+    <entry category="DutchSports" eid="Id218" size="5">
       <originaltripleset>
         <otriple>assistName | Kevin_Conboy</otriple>
         <otriple>chanceForType | artistieke_omhaal_(over)</otriple>
@@ -7542,7 +7542,7 @@
         <entity>PATIENT-5 | Benjamin_Kirsten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id219" size="1">
+    <entry category="DutchSports" eid="Id219" size="1">
       <originaltripleset>
         <otriple>playerNationality | Duitser</otriple>
       </originaltripleset>
@@ -7566,7 +7566,7 @@
         <entity>PATIENT-1 | Duitser</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id220" size="3">
+    <entry category="DutchSports" eid="Id220" size="3">
       <originaltripleset>
         <otriple>chanceForName | Bart_Ramselaar</otriple>
         <otriple>chanceForType | schot</otriple>
@@ -7601,7 +7601,7 @@
         <entity>PATIENT-3 | schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id221" size="2">
+    <entry category="DutchSports" eid="Id221" size="2">
       <originaltripleset>
         <otriple>matchTime | Tien_minuten_na_rust</otriple>
         <otriple>refereeName | Pol_van_Boekel</otriple>
@@ -7630,7 +7630,7 @@
         <entity>PATIENT-2 | Pol_van_Boekel</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id222" size="3">
+    <entry category="DutchSports" eid="Id222" size="3">
       <originaltripleset>
         <otriple>tackleGiverName | Yassin_Ayoub</otriple>
         <otriple>tackleRecipientName | Foor</otriple>
@@ -7664,7 +7664,7 @@
         <entity>PATIENT-3 | thuisclub</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id223" size="1">
+    <entry category="DutchSports" eid="Id223" size="1">
       <originaltripleset>
         <otriple>goalName | Santos</otriple>
       </originaltripleset>
@@ -7689,7 +7689,7 @@
         <entity>PATIENT-1 | Santos</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id224" size="2">
+    <entry category="DutchSports" eid="Id224" size="2">
       <originaltripleset>
         <otriple>coachName | Erik_ten_Hag</otriple>
         <otriple>teamName | Utrecht</otriple>
@@ -7718,7 +7718,7 @@
         <entity>PATIENT-2 | Erik_ten_Hag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id225" size="1">
+    <entry category="DutchSports" eid="Id225" size="1">
       <originaltripleset>
         <otriple>goalkeeperName | Kirsten</otriple>
       </originaltripleset>
@@ -7742,7 +7742,7 @@
         <entity>PATIENT-1 | Kirsten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id226" size="2">
+    <entry category="DutchSports" eid="Id226" size="2">
       <originaltripleset>
         <otriple>hasTiedTeam | PSV</otriple>
         <otriple>numberOfPoints | twee</otriple>
@@ -7771,7 +7771,7 @@
         <entity>PATIENT-2 | twee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id227" size="5">
+    <entry category="DutchSports" eid="Id227" size="5">
       <originaltripleset>
         <otriple>coachName | Phillip_Cocu</otriple>
         <otriple>finalScore | 1-1</otriple>
@@ -7816,7 +7816,7 @@
         <entity>PATIENT-5 | twee_weken_geleden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id228" size="2">
+    <entry category="DutchSports" eid="Id228" size="2">
       <originaltripleset>
         <otriple>matchTime | in_de_eerste_helft</otriple>
         <otriple>teamName | PSV</otriple>
@@ -7845,7 +7845,7 @@
         <entity>PATIENT-2 | in_de_eerste_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id229" size="5">
+    <entry category="DutchSports" eid="Id229" size="5">
       <originaltripleset>
         <otriple>chanceForName | Gaston_Pereiro</otriple>
         <otriple>chanceForName | Luuk_de_Jong</otriple>
@@ -7889,7 +7889,7 @@
         <entity>PATIENT-5 | Bram_Castro</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id230" size="3">
+    <entry category="DutchSports" eid="Id230" size="3">
       <originaltripleset>
         <otriple>goalScore | score_opende</otriple>
         <otriple>hasScored | True</otriple>
@@ -7921,7 +7921,7 @@
         <entity>PATIENT-2 | score_opende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id231" size="4">
+    <entry category="DutchSports" eid="Id231" size="4">
       <originaltripleset>
         <otriple>goalName | Samuel_Armenteros</otriple>
         <otriple>playerName | Siem_de_Jong</otriple>
@@ -7961,7 +7961,7 @@
         <entity>PATIENT-4 | Samuel_Armenteros</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id232" size="3">
+    <entry category="DutchSports" eid="Id232" size="3">
       <originaltripleset>
         <otriple>goalScore | 0-1</otriple>
         <otriple>matchTime | kort_na</otriple>
@@ -7995,7 +7995,7 @@
         <entity>PATIENT-3 | 0-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id233" size="6">
+    <entry category="DutchSports" eid="Id233" size="6">
       <originaltripleset>
         <otriple>chanceForName | De_Jong</otriple>
         <otriple>chanceForType | kopbal</otriple>
@@ -8045,7 +8045,7 @@
         <entity>PATIENT-6 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id234" size="2">
+    <entry category="DutchSports" eid="Id234" size="2">
       <originaltripleset>
         <otriple>matchTime | voor_en_na_rust</otriple>
         <otriple>teamName | PSV</otriple>
@@ -8074,7 +8074,7 @@
         <entity>PATIENT-2 | voor_en_na_rust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id235" size="4">
+    <entry category="DutchSports" eid="Id235" size="4">
       <originaltripleset>
         <otriple>injuredName | Siem_de_Jong</otriple>
         <otriple>matchTime | In_de_laatste_twintig_minuten</otriple>
@@ -8108,7 +8108,7 @@
         <entity>PATIENT-3 | Siem_de_Jong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id236" size="4">
+    <entry category="DutchSports" eid="Id236" size="4">
       <originaltripleset>
         <otriple>homeAway | uit</otriple>
         <otriple>matchDate | zondag</otriple>
@@ -8147,7 +8147,7 @@
         <entity>PATIENT-4 | zondag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id237" size="1">
+    <entry category="DutchSports" eid="Id237" size="1">
       <originaltripleset>
         <otriple>hasWonTeam | PSV</otriple>
       </originaltripleset>
@@ -8171,7 +8171,7 @@
         <entity>PATIENT-1 | PSV</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id238" size="3">
+    <entry category="DutchSports" eid="Id238" size="3">
       <originaltripleset>
         <otriple>finalScore | 3-1</otriple>
         <otriple>hasLostTeam | NEC</otriple>
@@ -8205,7 +8205,7 @@
         <entity>PATIENT-3 | 3-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id239" size="3">
+    <entry category="DutchSports" eid="Id239" size="3">
       <originaltripleset>
         <otriple>matchDate | volgende_week_zondag</otriple>
         <otriple>stadiumPlayed | De_Kuip</otriple>
@@ -8240,7 +8240,7 @@
         <entity>PATIENT-3 | Feyenoord</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id240" size="1">
+    <entry category="DutchSports" eid="Id240" size="1">
       <originaltripleset>
         <otriple>teamName | NEC</otriple>
       </originaltripleset>
@@ -8264,7 +8264,7 @@
         <entity>PATIENT-1 | NEC</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id241" size="1">
+    <entry category="DutchSports" eid="Id241" size="1">
       <originaltripleset>
         <otriple>stadiumPlayed | Eindhoven</otriple>
       </originaltripleset>
@@ -8288,7 +8288,7 @@
         <entity>PATIENT-1 | Eindhoven</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id242" size="2">
+    <entry category="DutchSports" eid="Id242" size="2">
       <originaltripleset>
         <otriple>chanceForName | Andrés_Guardado</otriple>
         <otriple>matchTime | na_76_minuten</otriple>
@@ -8317,7 +8317,7 @@
         <entity>PATIENT-2 | na_76_minuten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id243" size="2">
+    <entry category="DutchSports" eid="Id243" size="2">
       <originaltripleset>
         <otriple>goalScore | 3-1</otriple>
         <otriple>playerNationality | Mexicaan</otriple>
@@ -8346,7 +8346,7 @@
         <entity>PATIENT-2 | 3-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id244" size="2">
+    <entry category="DutchSports" eid="Id244" size="2">
       <originaltripleset>
         <otriple>goalkeeperName | Delle</otriple>
         <otriple>positionOfPlayer | NEC-keeper</otriple>
@@ -8376,7 +8376,7 @@
         <entity>PATIENT-2 | Delle</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id245" size="3">
+    <entry category="DutchSports" eid="Id245" size="3">
       <originaltripleset>
         <otriple>goalName | Luuk_de_Jong</otriple>
         <otriple>goalScore | 3-1</otriple>
@@ -8410,7 +8410,7 @@
         <entity>PATIENT-3 | Luuk_de_Jong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id246" size="1">
+    <entry category="DutchSports" eid="Id246" size="1">
       <originaltripleset>
         <otriple>teamName | Feyenoord</otriple>
         <otriple>teamName | PSV</otriple>
@@ -8444,7 +8444,7 @@
         <entity>PATIENT-3 | PSV</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id247" size="2">
+    <entry category="DutchSports" eid="Id247" size="2">
       <originaltripleset>
         <otriple>finalScore | 0-2</otriple>
         <otriple>matchDate | Vorig_jaar</otriple>
@@ -8474,7 +8474,7 @@
         <entity>PATIENT-2 | Vorig_jaar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id248" size="2">
+    <entry category="DutchSports" eid="Id248" size="2">
       <originaltripleset>
         <otriple>coachName | Phillip_Cocu</otriple>
         <otriple>teamName | PSV</otriple>
@@ -8503,7 +8503,7 @@
         <entity>PATIENT-2 | PSV</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id249" size="1">
+    <entry category="DutchSports" eid="Id249" size="1">
       <originaltripleset>
         <otriple>teamName | NEC</otriple>
       </originaltripleset>
@@ -8527,7 +8527,7 @@
         <entity>PATIENT-1 | NEC</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id250" size="3">
+    <entry category="DutchSports" eid="Id250" size="3">
       <originaltripleset>
         <otriple>goalName | Ali_Messaoud</otriple>
         <otriple>goalScore | 1-1</otriple>
@@ -8561,7 +8561,7 @@
         <entity>PATIENT-3 | PSV</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id251" size="1">
+    <entry category="DutchSports" eid="Id251" size="1">
       <originaltripleset>
         <otriple>playerName | Guardado</otriple>
       </originaltripleset>
@@ -8586,7 +8586,7 @@
         <entity>PATIENT-1 | Guardado</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id252" size="1">
+    <entry category="DutchSports" eid="Id252" size="1">
       <originaltripleset>
         <otriple>coachName | Cocu</otriple>
       </originaltripleset>
@@ -8610,7 +8610,7 @@
         <entity>PATIENT-1 | Cocu</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id253" size="4">
+    <entry category="DutchSports" eid="Id253" size="4">
       <originaltripleset>
         <otriple>goalName | Marco_van_Ginkel</otriple>
         <otriple>goalScore | 1-0</otriple>
@@ -8649,7 +8649,7 @@
         <entity>PATIENT-4 | 1-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id254" size="3">
+    <entry category="DutchSports" eid="Id254" size="3">
       <originaltripleset>
         <otriple>matchDate | volgende_week</otriple>
         <otriple>stadiumPlayed | Kuip</otriple>
@@ -8683,7 +8683,7 @@
         <entity>PATIENT-3 | Kuip</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id255" size="3">
+    <entry category="DutchSports" eid="Id255" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | Excelsior</otriple>
         <otriple>hasWonTeam | SC_Heerenveen</otriple>
@@ -8717,7 +8717,7 @@
         <entity>PATIENT-3 | Excelsior</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id256" size="2">
+    <entry category="DutchSports" eid="Id256" size="2">
       <originaltripleset>
         <otriple>coachName | Foppe_de_Haan</otriple>
         <otriple>finalScore | 2-1</otriple>
@@ -8747,7 +8747,7 @@
         <entity>PATIENT-2 | 2-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id257" size="2">
+    <entry category="DutchSports" eid="Id257" size="2">
       <originaltripleset>
         <otriple>coachName | Foppe_de_Haan</otriple>
         <otriple>teamName | Excelsior</otriple>
@@ -8781,7 +8781,7 @@
         <entity>PATIENT-3 | Foppe_de_Haan</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id258" size="1">
+    <entry category="DutchSports" eid="Id258" size="1">
       <originaltripleset>
         <otriple>matchDate | vrijdagavond</otriple>
       </originaltripleset>
@@ -8805,7 +8805,7 @@
         <entity>PATIENT-1 | vrijdagavond</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id259" size="2">
+    <entry category="DutchSports" eid="Id259" size="2">
       <originaltripleset>
         <otriple>stadiumPlayed | Friesland</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -8834,7 +8834,7 @@
         <entity>PATIENT-2 | Friesland</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id260" size="3">
+    <entry category="DutchSports" eid="Id260" size="3">
       <originaltripleset>
         <otriple>goalName | Kenny_Otigba</otriple>
         <otriple>goalScore | opende_de_score</otriple>
@@ -8868,7 +8868,7 @@
         <entity>PATIENT-3 | na_22_minuten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id261" size="4">
+    <entry category="DutchSports" eid="Id261" size="4">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>goalType | van_dichtbij_binnen_te_frommelen</otriple>
@@ -8907,7 +8907,7 @@
         <entity>PATIENT-4 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id262" size="5">
+    <entry category="DutchSports" eid="Id262" size="5">
       <originaltripleset>
         <otriple>chanceForName | Sam_Larsson</otriple>
         <otriple>coachName | De_Haan</otriple>
@@ -8952,7 +8952,7 @@
         <entity>PATIENT-5 | voor_rust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id263" size="1">
+    <entry category="DutchSports" eid="Id263" size="1">
       <originaltripleset>
         <otriple>matchTime | kort_na_rust</otriple>
       </originaltripleset>
@@ -8976,7 +8976,7 @@
         <entity>PATIENT-1 | kort_na_rust</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id264" size="2">
+    <entry category="DutchSports" eid="Id264" size="2">
       <originaltripleset>
         <otriple>goalName | Larsson</otriple>
         <otriple>goalType | matig_schot</otriple>
@@ -9005,7 +9005,7 @@
         <entity>PATIENT-2 | matig_schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id265" size="3">
+    <entry category="DutchSports" eid="Id265" size="3">
       <originaltripleset>
         <otriple>goalScore | 2-0</otriple>
         <otriple>goalkeeperName | Tom_Muyters</otriple>
@@ -9039,7 +9039,7 @@
         <entity>PATIENT-3 | 2-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id266" size="3">
+    <entry category="DutchSports" eid="Id266" size="3">
       <originaltripleset>
         <otriple>hasScored | True</otriple>
         <otriple>matchTime | in_het_vervolg_van_het_duel</otriple>
@@ -9071,7 +9071,7 @@
         <entity>PATIENT-2 | in_het_vervolg_van_het_duel</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id267" size="4">
+    <entry category="DutchSports" eid="Id267" size="4">
       <originaltripleset>
         <otriple>goalName | Jeff_Stans</otriple>
         <otriple>goalScore | 2-1</otriple>
@@ -9111,7 +9111,7 @@
         <entity>PATIENT-4 | bezoekers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id268" size="4">
+    <entry category="DutchSports" eid="Id268" size="4">
       <originaltripleset>
         <otriple>hasWonTeam | Heerenveen</otriple>
         <otriple>numberOfMatchesPlayed | zestien</otriple>
@@ -9150,7 +9150,7 @@
         <entity>PATIENT-4 | zestien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id269" size="3">
+    <entry category="DutchSports" eid="Id269" size="3">
       <originaltripleset>
         <otriple>numberOfPoints | drie</otriple>
         <otriple>teamName | Excelsior</otriple>
@@ -9184,7 +9184,7 @@
         <entity>PATIENT-3 | twaalfde</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id270" size="1">
+    <entry category="DutchSports" eid="Id270" size="1">
       <originaltripleset>
         <otriple>hasTiedTeam | AZ</otriple>
         <otriple>hasTiedTeam | Willem_II</otriple>
@@ -9213,7 +9213,7 @@
         <entity>PATIENT-2 | AZ</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id271" size="2">
+    <entry category="DutchSports" eid="Id271" size="2">
       <originaltripleset>
         <otriple>finalScore | 1-1</otriple>
         <otriple>stadiumPlayed | Tilburg</otriple>
@@ -9243,7 +9243,7 @@
         <entity>PATIENT-2 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id272" size="2">
+    <entry category="DutchSports" eid="Id272" size="2">
       <originaltripleset>
         <otriple>matchTime | vanaf_het_eerste_fluitsignaal</otriple>
         <otriple>teamName | Alkmaarders</otriple>
@@ -9272,7 +9272,7 @@
         <entity>PATIENT-2 | vanaf_het_eerste_fluitsignaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id273" size="2">
+    <entry category="DutchSports" eid="Id273" size="2">
       <originaltripleset>
         <otriple>chanceForName | Ben_Rienstra</otriple>
         <otriple>chanceForName | Iliass_Bel_Hassani</otriple>
@@ -9307,7 +9307,7 @@
         <entity>PATIENT-3 | schoot_voorlangs</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id274" size="2">
+    <entry category="DutchSports" eid="Id274" size="2">
       <originaltripleset>
         <otriple>chanceForName | Mats_Seuntjes</otriple>
         <otriple>chanceForName | Wout_Weghorst</otriple>
@@ -9342,7 +9342,7 @@
         <entity>PATIENT-3 | 0-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id275" size="5">
+    <entry category="DutchSports" eid="Id275" size="5">
       <originaltripleset>
         <otriple>chanceForName | Fran_Sol</otriple>
         <otriple>chanceForType | schot</otriple>
@@ -9386,7 +9386,7 @@
         <entity>PATIENT-5 | Tim_Krul</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id276" size="4">
+    <entry category="DutchSports" eid="Id276" size="4">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>hasScored | True</otriple>
@@ -9424,7 +9424,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id277" size="7">
+    <entry category="DutchSports" eid="Id277" size="7">
       <originaltripleset>
         <otriple>assistName | Bel_Hassani</otriple>
         <otriple>assistType | corner</otriple>
@@ -9478,7 +9478,7 @@
         <entity>PATIENT-7 | Wout_Weghorst</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id278" size="1">
+    <entry category="DutchSports" eid="Id278" size="1">
       <originaltripleset>
         <otriple>refereeName | Higler</otriple>
       </originaltripleset>
@@ -9503,7 +9503,7 @@
         <entity>PATIENT-1 | Higler</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id279" size="2">
+    <entry category="DutchSports" eid="Id279" size="2">
       <originaltripleset>
         <otriple>matchTime | In_de_blessuretijd</otriple>
         <otriple>teamName | Willem_II</otriple>
@@ -9532,7 +9532,7 @@
         <entity>PATIENT-2 | Willem_II</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id280" size="4">
+    <entry category="DutchSports" eid="Id280" size="4">
       <originaltripleset>
         <otriple>assistName | Obbi_Oularé</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -9571,7 +9571,7 @@
         <entity>PATIENT-4 | Obbi_Oularé</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id281" size="2">
+    <entry category="DutchSports" eid="Id281" size="2">
       <originaltripleset>
         <otriple>goalScore | 1-1</otriple>
         <otriple>goalkeeperName | Krul</otriple>
@@ -9600,7 +9600,7 @@
         <entity>PATIENT-2 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id282" size="5">
+    <entry category="DutchSports" eid="Id282" size="5">
       <originaltripleset>
         <otriple>goalName | Mitchell_Te_Vrede</otriple>
         <otriple>goalScore | 0-1</otriple>
@@ -9645,7 +9645,7 @@
         <entity>PATIENT-5 | AZ</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id283" size="6">
+    <entry category="DutchSports" eid="Id283" size="6">
       <originaltripleset>
         <otriple>goalName | Mounir_El_Hamdaoui</otriple>
         <otriple>goalName | Vincent_Janssen</otriple>
@@ -9690,7 +9690,7 @@
         <entity>PATIENT-5 | Alkmaar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id284" size="3">
+    <entry category="DutchSports" eid="Id284" size="3">
       <originaltripleset>
         <otriple>goalName | Janssen</otriple>
         <otriple>goalScore | 3-1</otriple>
@@ -9725,7 +9725,7 @@
         <entity>PATIENT-3 | 3-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id285" size="6">
+    <entry category="DutchSports" eid="Id285" size="6">
       <originaltripleset>
         <otriple>hasWonTeam | AZ</otriple>
         <otriple>matchStreakNumber | vijfde</otriple>
@@ -9774,7 +9774,7 @@
         <entity>PATIENT-6 | dertien</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id286" size="4">
+    <entry category="DutchSports" eid="Id286" size="4">
       <originaltripleset>
         <otriple>coachName | Foppe_de_Haan</otriple>
         <otriple>hasLostTeam | Heerenveen</otriple>
@@ -9813,7 +9813,7 @@
         <entity>PATIENT-4 | twaalfde</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id287" size="3">
+    <entry category="DutchSports" eid="Id287" size="3">
       <originaltripleset>
         <otriple>hasWonTeam | Roda_JC</otriple>
         <otriple>matchDate | zondag</otriple>
@@ -9847,7 +9847,7 @@
         <entity>PATIENT-3 | laatste</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id288" size="4">
+    <entry category="DutchSports" eid="Id288" size="4">
       <originaltripleset>
         <otriple>matchDate | zondagmiddag</otriple>
         <otriple>numberOfPoints | op_in_punten_gelijke_hoogte</otriple>
@@ -9892,7 +9892,7 @@
         <entity>PATIENT-5 | op_in_punten_gelijke_hoogte</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id289" size="3">
+    <entry category="DutchSports" eid="Id289" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | Excelsior</otriple>
         <otriple>hasWonTeam | Kerkrade</otriple>
@@ -9926,7 +9926,7 @@
         <entity>PATIENT-3 | Excelsior</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id290" size="3">
+    <entry category="DutchSports" eid="Id290" size="3">
       <originaltripleset>
         <otriple>goalName | David_Boysen</otriple>
         <otriple>goalScore | enige</otriple>
@@ -9960,7 +9960,7 @@
         <entity>PATIENT-3 | enige</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id291" size="3">
+    <entry category="DutchSports" eid="Id291" size="3">
       <originaltripleset>
         <otriple>matchStreakNumber | 596_minuten</otriple>
         <otriple>matchStreakType | niet_gescoord</otriple>
@@ -9994,7 +9994,7 @@
         <entity>PATIENT-3 | niet_gescoord</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id292" size="5">
+    <entry category="DutchSports" eid="Id292" size="5">
       <originaltripleset>
         <otriple>finalScore | 1-0</otriple>
         <otriple>goalName | Andreas_Ludwig</otriple>
@@ -10038,7 +10038,7 @@
         <entity>PATIENT-5 | 1-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id293" size="2">
+    <entry category="DutchSports" eid="Id293" size="2">
       <originaltripleset>
         <otriple>playerNationality | Duitser</otriple>
         <otriple>stadiumPlayed | Galgenwaard</otriple>
@@ -10068,7 +10068,7 @@
         <entity>PATIENT-2 | Galgenwaard</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id294" size="1">
+    <entry category="DutchSports" eid="Id294" size="1">
       <originaltripleset>
         <otriple>matchTime | minuut_25</otriple>
       </originaltripleset>
@@ -10092,7 +10092,7 @@
         <entity>PATIENT-1 | minuut_25</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id295" size="3">
+    <entry category="DutchSports" eid="Id295" size="3">
       <originaltripleset>
         <otriple>assistName | Sofyan_Amrabat</otriple>
         <otriple>assistType | steekt</otriple>
@@ -10126,7 +10126,7 @@
         <entity>PATIENT-3 | Duitser</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id296" size="3">
+    <entry category="DutchSports" eid="Id296" size="3">
       <originaltripleset>
         <otriple>goalName | Lude</otriple>
         <otriple>goalkeeperName | Erwin_Mulder</otriple>
@@ -10160,7 +10160,7 @@
         <entity>PATIENT-3 | Erwin_Mulder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id297" size="1">
+    <entry category="DutchSports" eid="Id297" size="1">
       <originaltripleset>
         <otriple>playerNationality | Duitser</otriple>
       </originaltripleset>
@@ -10184,7 +10184,7 @@
         <entity>PATIENT-1 | Duitser</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id298" size="1">
+    <entry category="DutchSports" eid="Id298" size="1">
       <originaltripleset>
         <otriple>teamName | Utrechtse</otriple>
       </originaltripleset>
@@ -10208,7 +10208,7 @@
         <entity>PATIENT-1 | Utrechtse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id299" size="1">
+    <entry category="DutchSports" eid="Id299" size="1">
       <originaltripleset>
         <otriple>playerNationality | Duitser</otriple>
       </originaltripleset>
@@ -10233,7 +10233,7 @@
         <entity>PATIENT-1 | Duitser</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id300" size="1">
+    <entry category="DutchSports" eid="Id300" size="1">
       <originaltripleset>
         <otriple>teamName | Go_Ahead</otriple>
       </originaltripleset>
@@ -10257,7 +10257,7 @@
         <entity>PATIENT-1 | Go_Ahead</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id301" size="2">
+    <entry category="DutchSports" eid="Id301" size="2">
       <originaltripleset>
         <otriple>substituteName | Ludwig</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -10287,7 +10287,7 @@
         <entity>PATIENT-2 | Ludwig</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id302" size="1">
+    <entry category="DutchSports" eid="Id302" size="1">
       <originaltripleset>
         <otriple>stadiumPlayed | Galgenwaard</otriple>
       </originaltripleset>
@@ -10311,7 +10311,7 @@
         <entity>PATIENT-1 | Galgenwaard</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id303" size="2">
+    <entry category="DutchSports" eid="Id303" size="2">
       <originaltripleset>
         <otriple>goalName | Ludwig</otriple>
         <otriple>numberOfSeasonGoals | eerste</otriple>
@@ -10340,7 +10340,7 @@
         <entity>PATIENT-2 | eerste</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id304" size="2">
+    <entry category="DutchSports" eid="Id304" size="2">
       <originaltripleset>
         <otriple>numberOfMatchGoals | tweede</otriple>
         <otriple>numberOfSeasonGoals | vierde</otriple>
@@ -10370,7 +10370,7 @@
         <entity>PATIENT-2 | tweede</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id305" size="2">
+    <entry category="DutchSports" eid="Id305" size="2">
       <originaltripleset>
         <otriple>redCardName | Sam_Larsson</otriple>
         <otriple>refereeName | Kamphuis</otriple>
@@ -10399,7 +10399,7 @@
         <entity>PATIENT-2 | Sam_Larsson</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id306" size="1">
+    <entry category="DutchSports" eid="Id306" size="1">
       <originaltripleset>
         <otriple>teamName | PSV</otriple>
       </originaltripleset>
@@ -10423,7 +10423,7 @@
         <entity>PATIENT-1 | PSV</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id307" size="1">
+    <entry category="DutchSports" eid="Id307" size="1">
       <originaltripleset>
         <otriple>hasWonTeam | NEC</otriple>
       </originaltripleset>
@@ -10447,7 +10447,7 @@
         <entity>PATIENT-1 | NEC</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id308" size="3">
+    <entry category="DutchSports" eid="Id308" size="3">
       <originaltripleset>
         <otriple>finalScore | 2-0</otriple>
         <otriple>hasLostTeam | sc_Heerenveen</otriple>
@@ -10481,7 +10481,7 @@
         <entity>PATIENT-3 | 2-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id309" size="2">
+    <entry category="DutchSports" eid="Id309" size="2">
       <originaltripleset>
         <otriple>matchStreakNumber | derde</otriple>
         <otriple>matchStreakType | overwinning</otriple>
@@ -10511,7 +10511,7 @@
         <entity>PATIENT-2 | overwinning</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id310" size="4">
+    <entry category="DutchSports" eid="Id310" size="4">
       <originaltripleset>
         <otriple>goalName | Christian_Santos</otriple>
         <otriple>playerNationality | Venezolaanse</otriple>
@@ -10550,7 +10550,7 @@
         <entity>PATIENT-4 | Christian_Santos</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id311" size="2">
+    <entry category="DutchSports" eid="Id311" size="2">
       <originaltripleset>
         <otriple>goalType | rebound</otriple>
         <otriple>numberOfMatchGoals | beide</otriple>
@@ -10579,7 +10579,7 @@
         <entity>PATIENT-2 | beide</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id312" size="2">
+    <entry category="DutchSports" eid="Id312" size="2">
       <originaltripleset>
         <otriple>goalScore | 1-0</otriple>
         <otriple>teamName | Heerenveen</otriple>
@@ -10608,7 +10608,7 @@
         <entity>PATIENT-2 | 1-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id313" size="1">
+    <entry category="DutchSports" eid="Id313" size="1">
       <originaltripleset>
         <otriple>tackleGiverName | Luciano_Slagveer</otriple>
       </originaltripleset>
@@ -10633,7 +10633,7 @@
         <entity>PATIENT-1 | Luciano_Slagveer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id314" size="2">
+    <entry category="DutchSports" eid="Id314" size="2">
       <originaltripleset>
         <otriple>teamName | Heerenveen</otriple>
         <otriple>teamName | NEC</otriple>
@@ -10662,7 +10662,7 @@
         <entity>PATIENT-2 | Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id315" size="3">
+    <entry category="DutchSports" eid="Id315" size="3">
       <originaltripleset>
         <otriple>matchStreakNumber | één</otriple>
         <otriple>matchStreakType | gewonnen</otriple>
@@ -10696,7 +10696,7 @@
         <entity>PATIENT-3 | gewonnen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id316" size="3">
+    <entry category="DutchSports" eid="Id316" size="3">
       <originaltripleset>
         <otriple>hasTiedTeam | Roda_JC</otriple>
         <otriple>teamName | Go_Ahead_Eagles</otriple>
@@ -10730,7 +10730,7 @@
         <entity>PATIENT-3 | Go_Ahead_Eagles</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id317" size="3">
+    <entry category="DutchSports" eid="Id317" size="3">
       <originaltripleset>
         <otriple>finalScore | 0-0</otriple>
         <otriple>hasTiedTeam | Limburgers</otriple>
@@ -10770,7 +10770,7 @@
         <entity>PATIENT-4 | zeventiende</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id318" size="1">
+    <entry category="DutchSports" eid="Id318" size="1">
       <originaltripleset>
         <otriple>matchTime | drie</otriple>
         <otriple>matchTime | eerste_tien_minuten</otriple>
@@ -10799,7 +10799,7 @@
         <entity>PATIENT-2 | drie</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id319" size="2">
+    <entry category="DutchSports" eid="Id319" size="2">
       <originaltripleset>
         <otriple>chanceForName | Danny_Holla</otriple>
         <otriple>chanceForName | Queensy_Menig</otriple>
@@ -10828,7 +10828,7 @@
         <entity>PATIENT-2 | Danny_Holla</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id320" size="4">
+    <entry category="DutchSports" eid="Id320" size="4">
       <originaltripleset>
         <otriple>chanceForName | Menig</otriple>
         <otriple>chanceForNumber | tweede</otriple>
@@ -10868,7 +10868,7 @@
         <entity>PATIENT-4 | schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id321" size="4">
+    <entry category="DutchSports" eid="Id321" size="4">
       <originaltripleset>
         <otriple>chanceForName | Mustafa_Saymak</otriple>
         <otriple>chanceForType | snoeihard_schot</otriple>
@@ -10908,7 +10908,7 @@
         <entity>PATIENT-4 | snoeihard_schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id322" size="1">
+    <entry category="DutchSports" eid="Id322" size="1">
       <originaltripleset>
         <otriple>matchTime | In_de_tweede_helft</otriple>
       </originaltripleset>
@@ -10932,7 +10932,7 @@
         <entity>PATIENT-1 | In_de_tweede_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id323" size="4">
+    <entry category="DutchSports" eid="Id323" size="4">
       <originaltripleset>
         <otriple>chanceForName | Menig</otriple>
         <otriple>chanceForNumber | derde</otriple>
@@ -10971,7 +10971,7 @@
         <entity>PATIENT-4 | schot</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id324" size="3">
+    <entry category="DutchSports" eid="Id324" size="3">
       <originaltripleset>
         <otriple>chanceForName | Abdul_Ajagun</otriple>
         <otriple>chanceForType | afzwaaier</otriple>
@@ -11006,7 +11006,7 @@
         <entity>PATIENT-3 | afzwaaier</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id325" size="1">
+    <entry category="DutchSports" eid="Id325" size="1">
       <originaltripleset>
         <otriple>teamName | Roda</otriple>
       </originaltripleset>
@@ -11031,7 +11031,7 @@
         <entity>PATIENT-1 | Roda</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id326" size="1">
+    <entry category="DutchSports" eid="Id326" size="1">
       <originaltripleset>
         <otriple>teamName | PEC</otriple>
         <otriple>teamName | zwartgele</otriple>
@@ -11060,7 +11060,7 @@
         <entity>PATIENT-2 | zwartgele</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id327" size="2">
+    <entry category="DutchSports" eid="Id327" size="2">
       <originaltripleset>
         <otriple>disallowedGoalName | Nicolai_Brock-Madsen</otriple>
         <otriple>disallowedGoalType | overtreding</otriple>
@@ -11089,7 +11089,7 @@
         <entity>PATIENT-2 | overtreding</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id328" size="3">
+    <entry category="DutchSports" eid="Id328" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | FC_Groningen</otriple>
         <otriple>hasWonTeam | Roda_JC</otriple>
@@ -11123,7 +11123,7 @@
         <entity>PATIENT-3 | FC_Groningen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id329" size="2">
+    <entry category="DutchSports" eid="Id329" size="2">
       <originaltripleset>
         <otriple>finalScore | 3-1</otriple>
         <otriple>stadiumPlayed | Limburg</otriple>
@@ -11153,7 +11153,7 @@
         <entity>PATIENT-2 | 3-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id330" size="3">
+    <entry category="DutchSports" eid="Id330" size="3">
       <originaltripleset>
         <otriple>goalScore | op_voorsprong</otriple>
         <otriple>matchTime | vanaf_minuut_één</otriple>
@@ -11187,7 +11187,7 @@
         <entity>PATIENT-3 | op_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id331" size="6">
+    <entry category="DutchSports" eid="Id331" size="6">
       <originaltripleset>
         <otriple>assistName | Mikhail_Rosheuvel</otriple>
         <otriple>assistType | fraaie_voorzet</otriple>
@@ -11237,7 +11237,7 @@
         <entity>PATIENT-6 | Sergio_Padt</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id332" size="2">
+    <entry category="DutchSports" eid="Id332" size="2">
       <originaltripleset>
         <otriple>matchTime | Na_rust</otriple>
         <otriple>teamName | Roda</otriple>
@@ -11266,7 +11266,7 @@
         <entity>PATIENT-2 | Roda</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id333" size="6">
+    <entry category="DutchSports" eid="Id333" size="6">
       <originaltripleset>
         <otriple>assistType | hoekschop</otriple>
         <otriple>goalName | Christian_Kum</otriple>
@@ -11316,7 +11316,7 @@
         <entity>PATIENT-6 | 2-0</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id334" size="3">
+    <entry category="DutchSports" eid="Id334" size="3">
       <originaltripleset>
         <otriple>goalName | Dani_Schahin</otriple>
         <otriple>goalType | met_zijn_hoofd</otriple>
@@ -11350,7 +11350,7 @@
         <entity>PATIENT-3 | met_zijn_hoofd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id335" size="4">
+    <entry category="DutchSports" eid="Id335" size="4">
       <originaltripleset>
         <otriple>assistName | Mitchell_Paulissen</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -11389,7 +11389,7 @@
         <entity>PATIENT-4 | Mitchell_Paulissen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id336" size="1">
+    <entry category="DutchSports" eid="Id336" size="1">
       <originaltripleset>
         <otriple>goalName | Bryan_Linssen</otriple>
       </originaltripleset>
@@ -11414,7 +11414,7 @@
         <entity>PATIENT-1 | Bryan_Linssen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id337" size="1">
+    <entry category="DutchSports" eid="Id337" size="1">
       <originaltripleset>
         <otriple>redCardName | Linssen</otriple>
       </originaltripleset>
@@ -11438,7 +11438,7 @@
         <entity>PATIENT-1 | Linssen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id338" size="1">
+    <entry category="DutchSports" eid="Id338" size="1">
       <originaltripleset>
         <otriple>hasTiedTeam | SC_Cambuur</otriple>
       </originaltripleset>
@@ -11462,7 +11462,7 @@
         <entity>PATIENT-1 | SC_Cambuur</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id339" size="3">
+    <entry category="DutchSports" eid="Id339" size="3">
       <originaltripleset>
         <otriple>numberOfMatchesPlayed | vijf</otriple>
         <otriple>numberOfPoints | twee</otriple>
@@ -11496,7 +11496,7 @@
         <entity>PATIENT-3 | twee</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id340" size="3">
+    <entry category="DutchSports" eid="Id340" size="3">
       <originaltripleset>
         <otriple>finalScore | 1-1</otriple>
         <otriple>hasTiedTeam | AZ</otriple>
@@ -11530,7 +11530,7 @@
         <entity>PATIENT-3 | 1-1</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id341" size="2">
+    <entry category="DutchSports" eid="Id341" size="2">
       <originaltripleset>
         <otriple>hasTiedTeam | AZ</otriple>
         <otriple>nextMatchTeam | FC_Augsburg</otriple>
@@ -11560,7 +11560,7 @@
         <entity>PATIENT-2 | FC_Augsburg</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id342" size="2">
+    <entry category="DutchSports" eid="Id342" size="2">
       <originaltripleset>
         <otriple>hasWonTeam | Heracles_Almelo</otriple>
         <otriple>matchDate | zaterdagavond</otriple>
@@ -11589,7 +11589,7 @@
         <entity>PATIENT-2 | zaterdagavond</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id343" size="5">
+    <entry category="DutchSports" eid="Id343" size="5">
       <originaltripleset>
         <otriple>finalScore | 1-3</otriple>
         <otriple>hasLostTeam | Willem_II</otriple>
@@ -11633,7 +11633,7 @@
         <entity>PATIENT-5 | 1-3</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id344" size="1">
+    <entry category="DutchSports" eid="Id344" size="1">
       <originaltripleset>
         <otriple>teamName | Heracles</otriple>
         <otriple>teamName | Tilburgers</otriple>
@@ -11663,7 +11663,7 @@
         <entity>PATIENT-2 | Tilburgers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id345" size="5">
+    <entry category="DutchSports" eid="Id345" size="5">
       <originaltripleset>
         <otriple>goalkeeperName | Bram_Castro</otriple>
         <otriple>matchStreakNumber | eenmaal</otriple>
@@ -11707,7 +11707,7 @@
         <entity>PATIENT-5 | Bram_Castro</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id346" size="3">
+    <entry category="DutchSports" eid="Id346" size="3">
       <originaltripleset>
         <otriple>positionOfPlayer | doelman</otriple>
         <otriple>tackleRecipientName | Obbi_Oulare</otriple>
@@ -11741,7 +11741,7 @@
         <entity>PATIENT-3 | Obbi_Oulare</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id347" size="6">
+    <entry category="DutchSports" eid="Id347" size="6">
       <originaltripleset>
         <otriple>goalName | Frank_Sol</otriple>
         <otriple>goalScore | voorsprong</otriple>
@@ -11791,7 +11791,7 @@
         <entity>PATIENT-6 | voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id348" size="2">
+    <entry category="DutchSports" eid="Id348" size="2">
       <originaltripleset>
         <otriple>matchTime | in_het_vervolg_van_de_eerste_helft</otriple>
         <otriple>teamName | Heracles</otriple>
@@ -11820,7 +11820,7 @@
         <entity>PATIENT-2 | in_het_vervolg_van_de_eerste_helft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id349" size="6">
+    <entry category="DutchSports" eid="Id349" size="6">
       <originaltripleset>
         <otriple>chanceForName | Vincent_Vermeij</otriple>
         <otriple>chanceForNumber | tweemaal</otriple>
@@ -11869,7 +11869,7 @@
         <entity>PATIENT-6 | Kostas_Lamprou</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id350" size="5">
+    <entry category="DutchSports" eid="Id350" size="5">
       <originaltripleset>
         <otriple>chanceForName | Thom_Haye</otriple>
         <otriple>chanceForType | vrije_trap</otriple>
@@ -11914,7 +11914,7 @@
         <entity>PATIENT-5 | Fij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id351" size="2">
+    <entry category="DutchSports" eid="Id351" size="2">
       <originaltripleset>
         <otriple>matchTime | Na_rust</otriple>
         <otriple>matchTime | slechts_zes_minuten</otriple>
@@ -11948,7 +11948,7 @@
         <entity>PATIENT-3 | Heracles</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id352" size="5">
+    <entry category="DutchSports" eid="Id352" size="5">
       <originaltripleset>
         <otriple>goalName | Kristoffer_Peterson</otriple>
         <otriple>goalName | Peter_van_Ooijen</otriple>
@@ -11982,7 +11982,7 @@
         <entity>PATIENT-3 | bezoekers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id353" size="2">
+    <entry category="DutchSports" eid="Id353" size="2">
       <originaltripleset>
         <otriple>homeAway | in_eigen_stadion</otriple>
         <otriple>teamName | Heracles</otriple>
@@ -12016,7 +12016,7 @@
         <entity>PATIENT-3 | in_eigen_stadion</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id354" size="3">
+    <entry category="DutchSports" eid="Id354" size="3">
       <originaltripleset>
         <otriple>hasLostTeam | sc_Heerenveen</otriple>
         <otriple>hasWonTeam | Willem_II</otriple>
@@ -12050,7 +12050,7 @@
         <entity>PATIENT-3 | sc_Heerenveen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id355" size="4">
+    <entry category="DutchSports" eid="Id355" size="4">
       <originaltripleset>
         <otriple>finalScore | 2-1</otriple>
         <otriple>hasLostTeam | Friezen</otriple>
@@ -12090,7 +12090,7 @@
         <entity>PATIENT-4 | vierde</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id356" size="4">
+    <entry category="DutchSports" eid="Id356" size="4">
       <originaltripleset>
         <otriple>goalName | Fran_Sol</otriple>
         <otriple>goalScore | 1-0</otriple>
@@ -12134,7 +12134,7 @@
         <entity>PATIENT-5 | Fran_Sol</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id357" size="4">
+    <entry category="DutchSports" eid="Id357" size="4">
       <originaltripleset>
         <otriple>assistType | hoekschop</otriple>
         <otriple>goalType | kopte</otriple>
@@ -12174,7 +12174,7 @@
         <entity>PATIENT-4 | hoekschop</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id358" size="7">
+    <entry category="DutchSports" eid="Id358" size="7">
       <originaltripleset>
         <otriple>assistName | Arber_Zenelli</otriple>
         <otriple>assistType | voorgaf</otriple>
@@ -12228,7 +12228,7 @@
         <entity>PATIENT-7 | bal_in_eigen_doel_werkte</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id359" size="4">
+    <entry category="DutchSports" eid="Id359" size="4">
       <originaltripleset>
         <otriple>goalType | eigen_doelpunt</otriple>
         <otriple>matchStreakNumber | eerste</otriple>
@@ -12267,7 +12267,7 @@
         <entity>PATIENT-4 | Tilburgers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id360" size="3">
+    <entry category="DutchSports" eid="Id360" size="3">
       <originaltripleset>
         <otriple>chanceForName | Heerkens</otriple>
         <otriple>chanceForType | kopbal_op_de_buitenkant_van_de_paal</otriple>
@@ -12302,7 +12302,7 @@
         <entity>PATIENT-3 | kort_daarna</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id361" size="3">
+    <entry category="DutchSports" eid="Id361" size="3">
       <originaltripleset>
         <otriple>goalScore | 2-1_voorsprong</otriple>
         <otriple>matchTime | na_rust</otriple>
@@ -12336,7 +12336,7 @@
         <entity>PATIENT-3 | 2-1_voorsprong</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id362" size="5">
+    <entry category="DutchSports" eid="Id362" size="5">
       <originaltripleset>
         <otriple>assistName | Thom_Haye</otriple>
         <otriple>assistType | voorzet</otriple>
@@ -12380,7 +12380,7 @@
         <entity>PATIENT-5 | Thom_Haye</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id363" size="3">
+    <entry category="DutchSports" eid="Id363" size="3">
       <originaltripleset>
         <otriple>chanceForName | Erik_Falkenburg</otriple>
         <otriple>chanceForType | kopbal_die_rakelings_naast_ging</otriple>
@@ -12415,7 +12415,7 @@
         <entity>PATIENT-3 | kopbal_die_rakelings_naast_ging</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id364" size="2">
+    <entry category="DutchSports" eid="Id364" size="2">
       <originaltripleset>
         <otriple>playerName | Sam_Larsson</otriple>
         <otriple>teamName | Fries</otriple>

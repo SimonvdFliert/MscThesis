@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <benchmark>
 	<entries>
-		<entry category="DutchIncidents" eid="Id1" size="2">
+		<entry category="EnglishWeather" eid="Id1" size="2">
 			<originaltripleset>
 				<otriple>locationArea | metro_Detroit</otriple>
 				<otriple>temperatureHotCold | warm</otriple>
@@ -30,7 +30,7 @@
 				<entity>PATIENT-2 | metro_Detroit</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id2" size="2">
+		<entry category="EnglishWeather" eid="Id2" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | High</otriple>
 				<otriple>temperatureCelsius | mid-20s</otriple>
@@ -69,7 +69,7 @@
 				<entity>PATIENT-4 | through_the_rest_of_the_work_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id3" size="3">
+		<entry category="EnglishWeather" eid="Id3" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 20</otriple>
 				<otriple>temperatureCelsius | low_50s</otriple>
@@ -113,7 +113,7 @@
 				<entity>PATIENT-5 | warmer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id4" size="2">
+		<entry category="EnglishWeather" eid="Id4" size="2">
 			<originaltripleset>
 				<otriple>timePoint | during_the_day_Wednesday</otriple>
 				<otriple>weatherType | snow_showers</otriple>
@@ -142,7 +142,7 @@
 				<entity>PATIENT-2 | during_the_day_Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id5" size="2">
+		<entry category="EnglishWeather" eid="Id5" size="2">
 			<originaltripleset>
 				<otriple>temperatureChange | up</otriple>
 				<otriple>timePoint | this_weekend</otriple>
@@ -171,7 +171,7 @@
 				<entity>PATIENT-2 | this_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id6" size="3">
+		<entry category="EnglishWeather" eid="Id6" size="3">
 			<originaltripleset>
 				<otriple>temperatureChange | cool</otriple>
 				<otriple>temperatureHotCold | around_normal</otriple>
@@ -220,7 +220,7 @@
 				<entity>PATIENT-6 | for_a_few_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id7" size="3">
+		<entry category="EnglishWeather" eid="Id7" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_30s</otriple>
 				<otriple>minimumTemperature | upper_teens_to_low_20s</otriple>
@@ -254,7 +254,7 @@
 				<entity>PATIENT-3 | upper_teens_to_low_20s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id8" size="2">
+		<entry category="EnglishWeather" eid="Id8" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Upper_Peninsula</otriple>
 				<otriple>weatherType | snow</otriple>
@@ -288,7 +288,7 @@
 				<entity>PATIENT-3 | snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id9" size="3">
+		<entry category="EnglishWeather" eid="Id9" size="3">
 			<originaltripleset>
 				<otriple>locationArea | across_the_tip_of_the_Keweenaw_Peninsula</otriple>
 				<otriple>locationArea | in_the_central_and_eastern_U.P.</otriple>
@@ -327,7 +327,7 @@
 				<entity>PATIENT-4 | across_the_tip_of_the_Keweenaw_Peninsula</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id10" size="1">
+		<entry category="EnglishWeather" eid="Id10" size="1">
 			<originaltripleset>
 				<otriple>weatherType | blowing_snow</otriple>
 			</originaltripleset>
@@ -351,7 +351,7 @@
 				<entity>PATIENT-1 | blowing_snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id11" size="1">
+		<entry category="EnglishWeather" eid="Id11" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Tuesday</otriple>
 			</originaltripleset>
@@ -375,7 +375,7 @@
 				<entity>PATIENT-1 | Tuesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id12" size="1">
+		<entry category="EnglishWeather" eid="Id12" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Wednesday</otriple>
 			</originaltripleset>
@@ -399,7 +399,7 @@
 				<entity>PATIENT-1 | Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id13" size="2">
+		<entry category="EnglishWeather" eid="Id13" size="2">
 			<originaltripleset>
 				<otriple>timePoint | morning</otriple>
 				<otriple>weatherType | fog</otriple>
@@ -428,7 +428,7 @@
 				<entity>PATIENT-2 | fog</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id14" size="2">
+		<entry category="EnglishWeather" eid="Id14" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Colorado</otriple>
 				<otriple>locationArea | over_the_Midwest</otriple>
@@ -462,7 +462,7 @@
 				<entity>PATIENT-3 | chilly</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id15" size="3">
+		<entry category="EnglishWeather" eid="Id15" size="3">
 			<originaltripleset>
 				<otriple>locationArea | across_the_eastern_plains</otriple>
 				<otriple>locationArea | parts_of_the_Denver_Metro_area</otriple>
@@ -501,7 +501,7 @@
 				<entity>PATIENT-4 | parts_of_the_Denver_Metro_area</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id16" size="3">
+		<entry category="EnglishWeather" eid="Id16" size="3">
 			<originaltripleset>
 				<otriple>locationArea | east_of_Denver</otriple>
 				<otriple>locationArea | north</otriple>
@@ -540,7 +540,7 @@
 				<entity>PATIENT-4 | east_of_Denver</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id17" size="4">
+		<entry category="EnglishWeather" eid="Id17" size="4">
 			<originaltripleset>
 				<otriple>locationArea | over_the_mountains</otriple>
 				<otriple>timePoint | evening</otriple>
@@ -594,7 +594,7 @@
 				<entity>PATIENT-7 | evening</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id18" size="5">
+		<entry category="EnglishWeather" eid="Id18" size="5">
 			<originaltripleset>
 				<otriple>locationArea | Denver</otriple>
 				<otriple>locationArea | Front_Range</otriple>
@@ -643,7 +643,7 @@
 				<entity>PATIENT-6 | snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id19" size="6">
+		<entry category="EnglishWeather" eid="Id19" size="6">
 			<originaltripleset>
 				<otriple>locationArea | Denver</otriple>
 				<otriple>locationArea | plains</otriple>
@@ -707,7 +707,7 @@
 				<entity>PATIENT-9 | plains</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id20" size="3">
+		<entry category="EnglishWeather" eid="Id20" size="3">
 			<originaltripleset>
 				<otriple>compassDirection | southward_from_Canada</otriple>
 				<otriple>temperatureHotCold | cold</otriple>
@@ -741,7 +741,7 @@
 				<entity>PATIENT-3 | southward_from_Canada</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id21" size="3">
+		<entry category="EnglishWeather" eid="Id21" size="3">
 			<originaltripleset>
 				<otriple>timePoint | afternoon</otriple>
 				<otriple>timePoint | morning</otriple>
@@ -785,7 +785,7 @@
 				<entity>PATIENT-5 | some</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id22" size="5">
+		<entry category="EnglishWeather" eid="Id22" size="5">
 			<originaltripleset>
 				<otriple>locationArea | Denver_area</otriple>
 				<otriple>locationArea | mountains</otriple>
@@ -834,7 +834,7 @@
 				<entity>PATIENT-6 | for_the_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id23" size="1">
+		<entry category="EnglishWeather" eid="Id23" size="1">
 			<originaltripleset>
 				<otriple>temperatureHotCold | colder</otriple>
 			</originaltripleset>
@@ -858,7 +858,7 @@
 				<entity>PATIENT-1 | colder</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id24" size="2">
+		<entry category="EnglishWeather" eid="Id24" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 30s</otriple>
 				<otriple>maximumTemperature | teens_to_low_20s</otriple>
@@ -897,7 +897,7 @@
 				<entity>PATIENT-4 | Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id25" size="4">
+		<entry category="EnglishWeather" eid="Id25" size="4">
 			<originaltripleset>
 				<otriple>locationArea | mountains</otriple>
 				<otriple>snowAmount | 6_to_12</otriple>
@@ -936,7 +936,7 @@
 				<entity>PATIENT-4 | over_the_weekend_into_Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id26" size="4">
+		<entry category="EnglishWeather" eid="Id26" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Denver</otriple>
 				<otriple>locationArea | eastern_plains</otriple>
@@ -980,7 +980,7 @@
 				<entity>PATIENT-5 | Saturday_afternoon_through_Sunday_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id27" size="2">
+		<entry category="EnglishWeather" eid="Id27" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | Cold</otriple>
 				<otriple>timePoint | early_next_week</otriple>
@@ -1009,7 +1009,7 @@
 				<entity>PATIENT-2 | early_next_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id28" size="6">
+		<entry category="EnglishWeather" eid="Id28" size="6">
 			<originaltripleset>
 				<otriple>cloudAmount | cloudy</otriple>
 				<otriple>locationArea | San_Francisco</otriple>
@@ -1058,7 +1058,7 @@
 				<entity>PATIENT-6 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id29" size="3">
+		<entry category="EnglishWeather" eid="Id29" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>weatherOccurringChance | 39_percent</otriple>
@@ -1092,7 +1092,7 @@
 				<entity>PATIENT-3 | 39_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id30" size="2">
+		<entry category="EnglishWeather" eid="Id30" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 64_degrees</otriple>
 				<otriple>timePoint | until_the_middle_of_next_week</otriple>
@@ -1121,7 +1121,7 @@
 				<entity>PATIENT-2 | until_the_middle_of_next_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id31" size="4">
+		<entry category="EnglishWeather" eid="Id31" size="4">
 			<originaltripleset>
 				<otriple>maximumTemperature | 65</otriple>
 				<otriple>maximumTemperature | 68</otriple>
@@ -1170,7 +1170,7 @@
 				<entity>PATIENT-6 | 68</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id32" size="2">
+		<entry category="EnglishWeather" eid="Id32" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | mostly_cloudy</otriple>
 				<otriple>timePoint | for_the_next_few_days</otriple>
@@ -1199,7 +1199,7 @@
 				<entity>PATIENT-2 | for_the_next_few_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id33" size="3">
+		<entry category="EnglishWeather" eid="Id33" size="3">
 			<originaltripleset>
 				<otriple>timePoint | over_the_course_of_the_next_week</otriple>
 				<otriple>timePoint | tomorrow</otriple>
@@ -1238,7 +1238,7 @@
 				<entity>PATIENT-4 | 10_mph</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id34" size="3">
+		<entry category="EnglishWeather" eid="Id34" size="3">
 			<originaltripleset>
 				<otriple>locationArea | parts_of_the_UK</otriple>
 				<otriple>temperatureCelsius | 11C_above_average</otriple>
@@ -1272,7 +1272,7 @@
 				<entity>PATIENT-3 | this_Valentine's_Day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id35" size="5">
+		<entry category="EnglishWeather" eid="Id35" size="5">
 			<originaltripleset>
 				<otriple>locationArea | across_the_UK</otriple>
 				<otriple>temperatureChange | soaring</otriple>
@@ -1321,7 +1321,7 @@
 				<entity>PATIENT-6 | soaring</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id36" size="3">
+		<entry category="EnglishWeather" eid="Id36" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Malibu</otriple>
 				<otriple>locationArea | many_places_in__Britain</otriple>
@@ -1360,7 +1360,7 @@
 				<entity>PATIENT-4 | Valentine's_Day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id37" size="3">
+		<entry category="EnglishWeather" eid="Id37" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Scotland</otriple>
 				<otriple>locationArea | in_northern_areas</otriple>
@@ -1404,7 +1404,7 @@
 				<entity>PATIENT-5 | 11C_above_average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id38" size="3">
+		<entry category="EnglishWeather" eid="Id38" size="3">
 			<originaltripleset>
 				<otriple>compassDirection | from_Iberia_or_further_south_than_that</otriple>
 				<otriple>compassDirection | southern</otriple>
@@ -1443,7 +1443,7 @@
 				<entity>PATIENT-4 | soar</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id39" size="1">
+		<entry category="EnglishWeather" eid="Id39" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 15C</otriple>
 				<otriple>temperatureCelsius | 16C</otriple>
@@ -1472,7 +1472,7 @@
 				<entity>PATIENT-2 | 16C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id40" size="5">
+		<entry category="EnglishWeather" eid="Id40" size="5">
 			<originaltripleset>
 				<otriple>locationArea | across_England_and_Wales</otriple>
 				<otriple>temperatureHotCold | frosty</otriple>
@@ -1526,7 +1526,7 @@
 				<entity>PATIENT-7 | across_England_and_Wales</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id41" size="2">
+		<entry category="EnglishWeather" eid="Id41" size="2">
 			<originaltripleset>
 				<otriple>weatherIntensity | lot_of</otriple>
 				<otriple>weatherType | sunshine</otriple>
@@ -1555,7 +1555,7 @@
 				<entity>PATIENT-2 | sunshine</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id42" size="3">
+		<entry category="EnglishWeather" eid="Id42" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 15C</otriple>
 				<otriple>temperatureCelsius | 16C</otriple>
@@ -1594,7 +1594,7 @@
 				<entity>PATIENT-4 | certainly_not_out_of_the_question</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id43" size="2">
+		<entry category="EnglishWeather" eid="Id43" size="2">
 			<originaltripleset>
 				<otriple>locationArea | central_belt</otriple>
 				<otriple>temperatureCelsius | 13C.</otriple>
@@ -1623,7 +1623,7 @@
 				<entity>PATIENT-2 | 13C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id44" size="3">
+		<entry category="EnglishWeather" eid="Id44" size="3">
 			<originaltripleset>
 				<otriple>compassDirection | 2,000_miles_from_Africa</otriple>
 				<otriple>locationArea | UK</otriple>
@@ -1657,7 +1657,7 @@
 				<entity>PATIENT-3 | UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id45" size="2">
+		<entry category="EnglishWeather" eid="Id45" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 19.1C</otriple>
 				<otriple>timePoint | February_14</otriple>
@@ -1686,7 +1686,7 @@
 				<entity>PATIENT-2 | 19.1C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id46" size="1">
+		<entry category="EnglishWeather" eid="Id46" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Valentine’s_Day</otriple>
 			</originaltripleset>
@@ -1710,7 +1710,7 @@
 				<entity>PATIENT-1 | Valentine’s_Day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id47" size="3">
+		<entry category="EnglishWeather" eid="Id47" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Malibu_Beach,_California</otriple>
 				<otriple>locationArea | Paris</otriple>
@@ -1769,7 +1769,7 @@
 				<entity>PATIENT-8 | 8C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id48" size="4">
+		<entry category="EnglishWeather" eid="Id48" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | Balmy</otriple>
 				<otriple>temperatureHotCold | warm</otriple>
@@ -1823,7 +1823,7 @@
 				<entity>PATIENT-7 | 10-day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id49" size="2">
+		<entry category="EnglishWeather" eid="Id49" size="2">
 			<originaltripleset>
 				<otriple>weatherOccurringChance | unlikely</otriple>
 				<otriple>weatherType | Rain</otriple>
@@ -1857,7 +1857,7 @@
 				<entity>PATIENT-3 | unlikely</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id50" size="2">
+		<entry category="EnglishWeather" eid="Id50" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | heat</otriple>
 				<otriple>timePoint | later_this_weekend</otriple>
@@ -1886,7 +1886,7 @@
 				<entity>PATIENT-2 | later_this_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id51" size="3">
+		<entry category="EnglishWeather" eid="Id51" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | clouds</otriple>
 				<otriple>cloudChange | clear_out</otriple>
@@ -1925,7 +1925,7 @@
 				<entity>PATIENT-4 | clear_out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id52" size="1">
+		<entry category="EnglishWeather" eid="Id52" size="1">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cool</otriple>
 			</originaltripleset>
@@ -1949,7 +1949,7 @@
 				<entity>PATIENT-1 | cool</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id53" size="1">
+		<entry category="EnglishWeather" eid="Id53" size="1">
 			<originaltripleset>
 				<otriple>minimumTemperature | near_64</otriple>
 			</originaltripleset>
@@ -1973,7 +1973,7 @@
 				<entity>PATIENT-1 | near_64</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id54" size="2">
+		<entry category="EnglishWeather" eid="Id54" size="2">
 			<originaltripleset>
 				<otriple>timePoint | FRIDAY</otriple>
 				<otriple>weatherType | Sunny</otriple>
@@ -2007,7 +2007,7 @@
 				<entity>PATIENT-3 | low_humidity</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id55" size="2">
+		<entry category="EnglishWeather" eid="Id55" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | upper_80s</otriple>
 				<otriple>minimumTemperature | mid_60s</otriple>
@@ -2036,7 +2036,7 @@
 				<entity>PATIENT-2 | upper_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id56" size="2">
+		<entry category="EnglishWeather" eid="Id56" size="2">
 			<originaltripleset>
 				<otriple>timePoint | SATURDAY</otriple>
 				<otriple>weatherType | Sunny</otriple>
@@ -2065,7 +2065,7 @@
 				<entity>PATIENT-2 | Sunny</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id57" size="2">
+		<entry category="EnglishWeather" eid="Id57" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | upper_80s</otriple>
 				<otriple>minimumTemperature | upper_60s</otriple>
@@ -2094,7 +2094,7 @@
 				<entity>PATIENT-2 | upper_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id58" size="4">
+		<entry category="EnglishWeather" eid="Id58" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | hotter</otriple>
 				<otriple>timePoint | SUNDAY</otriple>
@@ -2138,7 +2138,7 @@
 				<entity>PATIENT-5 | more</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id59" size="2">
+		<entry category="EnglishWeather" eid="Id59" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | around_90</otriple>
 				<otriple>minimumTemperature | upper_60s</otriple>
@@ -2167,7 +2167,7 @@
 				<entity>PATIENT-2 | around_90</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id60" size="2">
+		<entry category="EnglishWeather" eid="Id60" size="2">
 			<originaltripleset>
 				<otriple>timePoint | MONDAY</otriple>
 				<otriple>weatherType | Sunny</otriple>
@@ -2196,7 +2196,7 @@
 				<entity>PATIENT-2 | Sunny</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id61" size="2">
+		<entry category="EnglishWeather" eid="Id61" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_90s</otriple>
 				<otriple>minimumTemperature | near_70</otriple>
@@ -2225,7 +2225,7 @@
 				<entity>PATIENT-2 | low_90s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id62" size="3">
+		<entry category="EnglishWeather" eid="Id62" size="3">
 			<originaltripleset>
 				<otriple>timePoint | TUESDAY</otriple>
 				<otriple>weatherIntensity | Mostly</otriple>
@@ -2259,7 +2259,7 @@
 				<entity>PATIENT-3 | sunny</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id63" size="2">
+		<entry category="EnglishWeather" eid="Id63" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_90s</otriple>
 				<otriple>minimumTemperature | near_70</otriple>
@@ -2288,7 +2288,7 @@
 				<entity>PATIENT-2 | low_90s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id64" size="5">
+		<entry category="EnglishWeather" eid="Id64" size="5">
 			<originaltripleset>
 				<otriple>timePoint | WEDNESDAY</otriple>
 				<otriple>timePoint | late_day</otriple>
@@ -2337,7 +2337,7 @@
 				<entity>PATIENT-6 | storms</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id65" size="2">
+		<entry category="EnglishWeather" eid="Id65" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | near_90</otriple>
 				<otriple>minimumTemperature | lower_70s</otriple>
@@ -2366,7 +2366,7 @@
 				<entity>PATIENT-2 | near_90</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id66" size="2">
+		<entry category="EnglishWeather" eid="Id66" size="2">
 			<originaltripleset>
 				<otriple>weatherOccurringChance | 40%</otriple>
 				<otriple>weatherType | Rain</otriple>
@@ -2395,7 +2395,7 @@
 				<entity>PATIENT-2 | 40%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id67" size="5">
+		<entry category="EnglishWeather" eid="Id67" size="5">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cooler</otriple>
 				<otriple>timePoint | THURSDAY</otriple>
@@ -2444,7 +2444,7 @@
 				<entity>PATIENT-6 | chance</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id68" size="4">
+		<entry category="EnglishWeather" eid="Id68" size="4">
 			<originaltripleset>
 				<otriple>maximumTemperature | mid_80s</otriple>
 				<otriple>minimumTemperature | upper_60s</otriple>
@@ -2483,7 +2483,7 @@
 				<entity>PATIENT-4 | 50%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id69" size="2">
+		<entry category="EnglishWeather" eid="Id69" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Thursday's</otriple>
 				<otriple>windChange | calm_down_a_little</otriple>
@@ -2512,7 +2512,7 @@
 				<entity>PATIENT-2 | calm_down_a_little</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id70" size="2">
+		<entry category="EnglishWeather" eid="Id70" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Friday</otriple>
 				<otriple>timePoint | Thursday</otriple>
@@ -2546,7 +2546,7 @@
 				<entity>PATIENT-3 | breezy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id71" size="3">
+		<entry category="EnglishWeather" eid="Id71" size="3">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>gustVelocity | 20_or_30_miles_per_hour</otriple>
@@ -2580,7 +2580,7 @@
 				<entity>PATIENT-3 | 60_degrees</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id72" size="4">
+		<entry category="EnglishWeather" eid="Id72" size="4">
 			<originaltripleset>
 				<otriple>cloudType | cumulus_clouds</otriple>
 				<otriple>timePoint | during_the_day</otriple>
@@ -2624,7 +2624,7 @@
 				<entity>PATIENT-5 | during_the_day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id73" size="6">
+		<entry category="EnglishWeather" eid="Id73" size="6">
 			<originaltripleset>
 				<otriple>locationArea | downtown_Boston</otriple>
 				<otriple>temperatureCelsius | lower_40’s</otriple>
@@ -2683,7 +2683,7 @@
 				<entity>PATIENT-8 | downtown_Boston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id74" size="2">
+		<entry category="EnglishWeather" eid="Id74" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Outside_of_the_city</otriple>
 				<otriple>temperatureCelsius | lower_to_middle_30’s</otriple>
@@ -2712,7 +2712,7 @@
 				<entity>PATIENT-2 | lower_to_middle_30’s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id75" size="6">
+		<entry category="EnglishWeather" eid="Id75" size="6">
 			<originaltripleset>
 				<otriple>cloudAmount | cloudy</otriple>
 				<otriple>locationArea | In_the_east</otriple>
@@ -2766,7 +2766,7 @@
 				<entity>PATIENT-7 | most_likely</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id76" size="3">
+		<entry category="EnglishWeather" eid="Id76" size="3">
 			<originaltripleset>
 				<otriple>locationArea | from_most_places</otriple>
 				<otriple>timePoint | later_this_afternoon</otriple>
@@ -2800,7 +2800,7 @@
 				<entity>PATIENT-3 | later_this_afternoon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id77" size="4">
+		<entry category="EnglishWeather" eid="Id77" size="4">
 			<originaltripleset>
 				<otriple>locationArea | along_the_coast</otriple>
 				<otriple>temperatureHotCold | Chilly</otriple>
@@ -2839,7 +2839,7 @@
 				<entity>PATIENT-4 | along_the_coast</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id78" size="1">
+		<entry category="EnglishWeather" eid="Id78" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 11°C</otriple>
 			</originaltripleset>
@@ -2863,7 +2863,7 @@
 				<entity>PATIENT-1 | 11°C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id79" size="4">
+		<entry category="EnglishWeather" eid="Id79" size="4">
 			<originaltripleset>
 				<otriple>locationArea | In_the_west</otriple>
 				<otriple>weatherIntensity | heavy</otriple>
@@ -2912,7 +2912,7 @@
 				<entity>PATIENT-6 | risk</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id80" size="4">
+		<entry category="EnglishWeather" eid="Id80" size="4">
 			<originaltripleset>
 				<otriple>timePoint | rest_of_the_day</otriple>
 				<otriple>weatherFrequency | persistent</otriple>
@@ -2951,7 +2951,7 @@
 				<entity>PATIENT-4 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id81" size="1">
+		<entry category="EnglishWeather" eid="Id81" size="1">
 			<originaltripleset>
 				<otriple>windAmount | breezy</otriple>
 			</originaltripleset>
@@ -2975,7 +2975,7 @@
 				<entity>PATIENT-1 | breezy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id82" size="1">
+		<entry category="EnglishWeather" eid="Id82" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 9°C</otriple>
 			</originaltripleset>
@@ -2999,7 +2999,7 @@
 				<entity>PATIENT-1 | 9°C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id83" size="4">
+		<entry category="EnglishWeather" eid="Id83" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>weatherFrequency | spells</otriple>
@@ -3043,7 +3043,7 @@
 				<entity>PATIENT-5 | heavy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id84" size="4">
+		<entry category="EnglishWeather" eid="Id84" size="4">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | 9pm_tonight_until_3pm_on_Wednesday</otriple>
@@ -3087,7 +3087,7 @@
 				<entity>PATIENT-5 | UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id85" size="2">
+		<entry category="EnglishWeather" eid="Id85" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | this_morning</otriple>
@@ -3116,7 +3116,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id86" size="3">
+		<entry category="EnglishWeather" eid="Id86" size="3">
 			<originaltripleset>
 				<otriple>timePoint | This_morning</otriple>
 				<otriple>timePoint | throughout_the_morning</otriple>
@@ -3155,7 +3155,7 @@
 				<entity>PATIENT-4 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id87" size="2">
+		<entry category="EnglishWeather" eid="Id87" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 6C</otriple>
 				<otriple>timePoint | 12pm</otriple>
@@ -3184,7 +3184,7 @@
 				<entity>PATIENT-2 | 12pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id88" size="1">
+		<entry category="EnglishWeather" eid="Id88" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Overnight_Tuesday_Night</otriple>
 			</originaltripleset>
@@ -3208,7 +3208,7 @@
 				<entity>PATIENT-1 | Overnight_Tuesday_Night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id89" size="2">
+		<entry category="EnglishWeather" eid="Id89" size="2">
 			<originaltripleset>
 				<otriple>locationArea | north</otriple>
 				<otriple>minimumTemperature | 60s</otriple>
@@ -3242,7 +3242,7 @@
 				<entity>PATIENT-3 | north</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id90" size="4">
+		<entry category="EnglishWeather" eid="Id90" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | clouds</otriple>
 				<otriple>temperatureHotCold | Sultry</otriple>
@@ -3291,7 +3291,7 @@
 				<entity>PATIENT-6 | clouds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id91" size="1">
+		<entry category="EnglishWeather" eid="Id91" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 90</otriple>
 				<otriple>maximumTemperature | mid_90s</otriple>
@@ -3320,7 +3320,7 @@
 				<entity>PATIENT-2 | mid_90s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id92" size="3">
+		<entry category="EnglishWeather" eid="Id92" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>timePoint | throughout_the_day</otriple>
@@ -3359,7 +3359,7 @@
 				<entity>PATIENT-4 | cloud</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id93" size="2">
+		<entry category="EnglishWeather" eid="Id93" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_morning</otriple>
@@ -3388,7 +3388,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id94" size="3">
+		<entry category="EnglishWeather" eid="Id94" size="3">
 			<originaltripleset>
 				<otriple>timePoint | This_morning</otriple>
 				<otriple>timePoint | throughout_most_of_the_morning</otriple>
@@ -3427,7 +3427,7 @@
 				<entity>PATIENT-4 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id95" size="2">
+		<entry category="EnglishWeather" eid="Id95" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 6C</otriple>
 				<otriple>timePoint | by_12pm</otriple>
@@ -3456,7 +3456,7 @@
 				<entity>PATIENT-2 | by_12pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id96" size="2">
+		<entry category="EnglishWeather" eid="Id96" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_afternoon</otriple>
@@ -3485,7 +3485,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id97" size="3">
+		<entry category="EnglishWeather" eid="Id97" size="3">
 			<originaltripleset>
 				<otriple>timePoint | This_afternoon</otriple>
 				<otriple>timePoint | from_4pm_onwards</otriple>
@@ -3529,7 +3529,7 @@
 				<entity>PATIENT-5 | light</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id98" size="3">
+		<entry category="EnglishWeather" eid="Id98" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 9C</otriple>
 				<otriple>temperatureChange | climb</otriple>
@@ -3563,7 +3563,7 @@
 				<entity>PATIENT-3 | by_4pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id99" size="2">
+		<entry category="EnglishWeather" eid="Id99" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_evening_and_tonight</otriple>
@@ -3592,7 +3592,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id100" size="3">
+		<entry category="EnglishWeather" eid="Id100" size="3">
 			<originaltripleset>
 				<otriple>timePoint | throughout_the_evening</otriple>
 				<otriple>weatherIntensity | Light</otriple>
@@ -3626,7 +3626,7 @@
 				<entity>PATIENT-3 | throughout_the_evening</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id101" size="3">
+		<entry category="EnglishWeather" eid="Id101" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 8C</otriple>
 				<otriple>temperatureChange | dip</otriple>
@@ -3660,7 +3660,7 @@
 				<entity>PATIENT-3 | 10pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id102" size="2">
+		<entry category="EnglishWeather" eid="Id102" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 6C.</otriple>
 				<otriple>timePoint | Overnight</otriple>
@@ -3689,7 +3689,7 @@
 				<entity>PATIENT-2 | 6C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id103" size="2">
+		<entry category="EnglishWeather" eid="Id103" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | tomorrow</otriple>
@@ -3718,7 +3718,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id104" size="4">
+		<entry category="EnglishWeather" eid="Id104" size="4">
 			<originaltripleset>
 				<otriple>timePoint | Tomorrow</otriple>
 				<otriple>timePoint | by_lunchtime</otriple>
@@ -3772,7 +3772,7 @@
 				<entity>PATIENT-7 | light</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id105" size="1">
+		<entry category="EnglishWeather" eid="Id105" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 13C.</otriple>
 			</originaltripleset>
@@ -3796,7 +3796,7 @@
 				<entity>PATIENT-1 | 13C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id106" size="2">
+		<entry category="EnglishWeather" eid="Id106" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | long-term</otriple>
@@ -3825,7 +3825,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id107" size="5">
+		<entry category="EnglishWeather" eid="Id107" size="5">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | Tuesday_14_May_to_Thursday_23_May</otriple>
@@ -3889,7 +3889,7 @@
 				<entity>PATIENT-9 | light</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id108" size="7">
+		<entry category="EnglishWeather" eid="Id108" size="7">
 			<originaltripleset>
 				<otriple>cloudAmount | clear</otriple>
 				<otriple>temperatureHotCold | chilly</otriple>
@@ -3963,7 +3963,7 @@
 				<entity>PATIENT-9 | frost</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id109" size="2">
+		<entry category="EnglishWeather" eid="Id109" size="2">
 			<originaltripleset>
 				<otriple>timePoint | from_late_Wednesday_night_to_Thursday_morning</otriple>
 				<otriple>weatherType | Freeze</otriple>
@@ -3992,7 +3992,7 @@
 				<entity>PATIENT-2 | from_late_Wednesday_night_to_Thursday_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id110" size="3">
+		<entry category="EnglishWeather" eid="Id110" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cold</otriple>
 				<otriple>timePoint | next_few_days</otriple>
@@ -4026,7 +4026,7 @@
 				<entity>PATIENT-3 | next_few_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id111" size="3">
+		<entry category="EnglishWeather" eid="Id111" size="3">
 			<originaltripleset>
 				<otriple>timePoint | during_the_afternoon_and_evening</otriple>
 				<otriple>timePoint | for_much_of_Tuesday</otriple>
@@ -4070,7 +4070,7 @@
 				<entity>PATIENT-5 | steady</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id112" size="2">
+		<entry category="EnglishWeather" eid="Id112" size="2">
 			<originaltripleset>
 				<otriple>timePoint | into_Wednesday</otriple>
 				<otriple>weatherType | rain</otriple>
@@ -4099,7 +4099,7 @@
 				<entity>PATIENT-2 | into_Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id113" size="4">
+		<entry category="EnglishWeather" eid="Id113" size="4">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 40s</otriple>
 				<otriple>temperatureCelsius | 50s</otriple>
@@ -4143,7 +4143,7 @@
 				<entity>PATIENT-5 | severe</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id114" size="3">
+		<entry category="EnglishWeather" eid="Id114" size="3">
 			<originaltripleset>
 				<otriple>weatherIntensity | below_severe</otriple>
 				<otriple>weatherIntensity | few</otriple>
@@ -4182,7 +4182,7 @@
 				<entity>PATIENT-4 | likely</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id115" size="3">
+		<entry category="EnglishWeather" eid="Id115" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cold</otriple>
 				<otriple>timePoint | late_Wednesday</otriple>
@@ -4216,7 +4216,7 @@
 				<entity>PATIENT-3 | freeze</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id116" size="2">
+		<entry category="EnglishWeather" eid="Id116" size="2">
 			<originaltripleset>
 				<otriple>timePoint | from_late_Wednesday_night_to_Thursday_morning</otriple>
 				<otriple>weatherType | Freeze</otriple>
@@ -4245,7 +4245,7 @@
 				<entity>PATIENT-2 | from_late_Wednesday_night_to_Thursday_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id117" size="3">
+		<entry category="EnglishWeather" eid="Id117" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | close_to_freezing</otriple>
 				<otriple>temperatureHotCold | cold</otriple>
@@ -4279,7 +4279,7 @@
 				<entity>PATIENT-3 | close_to_freezing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id118" size="4">
+		<entry category="EnglishWeather" eid="Id118" size="4">
 			<originaltripleset>
 				<otriple>timePoint | for_most_of_the_day</otriple>
 				<otriple>timePoint | trick-or-treating_hours</otriple>
@@ -4323,7 +4323,7 @@
 				<entity>PATIENT-5 | diminish</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id119" size="3">
+		<entry category="EnglishWeather" eid="Id119" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | lower_40s</otriple>
 				<otriple>temperatureCelsius | upper_40s</otriple>
@@ -4362,7 +4362,7 @@
 				<entity>PATIENT-4 | drop</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id120" size="1">
+		<entry category="EnglishWeather" eid="Id120" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | upper_30s_to_lower_40s</otriple>
 			</originaltripleset>
@@ -4386,7 +4386,7 @@
 				<entity>PATIENT-1 | upper_30s_to_lower_40s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id121" size="3">
+		<entry category="EnglishWeather" eid="Id121" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cool</otriple>
 				<otriple>timePoint | The_rest_of_the_week</otriple>
@@ -4420,7 +4420,7 @@
 				<entity>PATIENT-3 | cool</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id122" size="2">
+		<entry category="EnglishWeather" eid="Id122" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | Slightly_warmer</otriple>
 				<otriple>timePoint | by_the_weekend</otriple>
@@ -4449,7 +4449,7 @@
 				<entity>PATIENT-2 | by_the_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id123" size="4">
+		<entry category="EnglishWeather" eid="Id123" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Lower_Mainland</otriple>
 				<otriple>temperatureHotCold | toasty</otriple>
@@ -4488,7 +4488,7 @@
 				<entity>PATIENT-4 | toasty</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id124" size="3">
+		<entry category="EnglishWeather" eid="Id124" size="3">
 			<originaltripleset>
 				<otriple>timePoint | June_10</otriple>
 				<otriple>weatherOccurringChance | 30_per_cent</otriple>
@@ -4522,7 +4522,7 @@
 				<entity>PATIENT-3 | June_10</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id125" size="4">
+		<entry category="EnglishWeather" eid="Id125" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | clear</otriple>
 				<otriple>cloudAmount | clear</otriple>
@@ -4571,7 +4571,7 @@
 				<entity>PATIENT-6 | soaring</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id126" size="3">
+		<entry category="EnglishWeather" eid="Id126" size="3">
 			<originaltripleset>
 				<otriple>locationArea | closer_to_the_water</otriple>
 				<otriple>locationArea | inland</otriple>
@@ -4620,7 +4620,7 @@
 				<entity>PATIENT-6 | 27_C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id127" size="4">
+		<entry category="EnglishWeather" eid="Id127" size="4">
 			<originaltripleset>
 				<otriple>locationArea | by_the_water</otriple>
 				<otriple>locationArea | inland</otriple>
@@ -4669,7 +4669,7 @@
 				<entity>PATIENT-6 | by_the_water</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id128" size="3">
+		<entry category="EnglishWeather" eid="Id128" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | clear</otriple>
 				<otriple>temperatureHotCold | mild</otriple>
@@ -4713,7 +4713,7 @@
 				<entity>PATIENT-5 | clear</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id129" size="4">
+		<entry category="EnglishWeather" eid="Id129" size="4">
 			<originaltripleset>
 				<otriple>locationArea | B.C.</otriple>
 				<otriple>locationArea | Pitt_Meadows</otriple>
@@ -4777,7 +4777,7 @@
 				<entity>PATIENT-9 | toasty</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id130" size="1">
+		<entry category="EnglishWeather" eid="Id130" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | above_average</otriple>
 			</originaltripleset>
@@ -4801,7 +4801,7 @@
 				<entity>PATIENT-1 | above_average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id131" size="1">
+		<entry category="EnglishWeather" eid="Id131" size="1">
 			<originaltripleset>
 				<otriple>locationArea | ORLANDO,_Fla.</otriple>
 			</originaltripleset>
@@ -4825,7 +4825,7 @@
 				<entity>PATIENT-1 | ORLANDO,_Fla.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id132" size="4">
+		<entry category="EnglishWeather" eid="Id132" size="4">
 			<originaltripleset>
 				<otriple>locationArea | into_the_Carolinas</otriple>
 				<otriple>weatherChange | decrease</otriple>
@@ -4869,7 +4869,7 @@
 				<entity>PATIENT-5 | decrease</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id133" size="3">
+		<entry category="EnglishWeather" eid="Id133" size="3">
 			<originaltripleset>
 				<otriple>minimumTemperature | low_70s</otriple>
 				<otriple>timePoint | overnight_tonight</otriple>
@@ -4903,7 +4903,7 @@
 				<entity>PATIENT-3 | low_70s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id134" size="3">
+		<entry category="EnglishWeather" eid="Id134" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>weatherIntensity | very_isolated</otriple>
@@ -4937,7 +4937,7 @@
 				<entity>PATIENT-3 | Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id135" size="4">
+		<entry category="EnglishWeather" eid="Id135" size="4">
 			<originaltripleset>
 				<otriple>timePoint | Monday_and_Tuesday</otriple>
 				<otriple>weatherIntensity | Scattered</otriple>
@@ -4976,7 +4976,7 @@
 				<entity>PATIENT-4 | Monday_and_Tuesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id136" size="3">
+		<entry category="EnglishWeather" eid="Id136" size="3">
 			<originaltripleset>
 				<otriple>timePoint | close_the_weekend</otriple>
 				<otriple>weatherIntensity | much</otriple>
@@ -5010,7 +5010,7 @@
 				<entity>PATIENT-3 | better</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id137" size="3">
+		<entry category="EnglishWeather" eid="Id137" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | clouds</otriple>
 				<otriple>locationArea | into_the_area</otriple>
@@ -5054,7 +5054,7 @@
 				<entity>PATIENT-5 | clouds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id138" size="2">
+		<entry category="EnglishWeather" eid="Id138" size="2">
 			<originaltripleset>
 				<otriple>weatherIntensity | Just_a_few_very_isolated</otriple>
 				<otriple>weatherType | dry</otriple>
@@ -5088,7 +5088,7 @@
 				<entity>PATIENT-3 | dry</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id139" size="2">
+		<entry category="EnglishWeather" eid="Id139" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | mid_to_upper_80s</otriple>
 				<otriple>timePoint | Sunday</otriple>
@@ -5117,7 +5117,7 @@
 				<entity>PATIENT-2 | mid_to_upper_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id140" size="2">
+		<entry category="EnglishWeather" eid="Id140" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | Rain</otriple>
 				<otriple>timePoint | to_start_next_week</otriple>
@@ -5146,7 +5146,7 @@
 				<entity>PATIENT-2 | to_start_next_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id141" size="5">
+		<entry category="EnglishWeather" eid="Id141" size="5">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cold</otriple>
 				<otriple>timePoint | both_Monday_and_Tuesday</otriple>
@@ -5195,7 +5195,7 @@
 				<entity>PATIENT-6 | both_Monday_and_Tuesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id142" size="2">
+		<entry category="EnglishWeather" eid="Id142" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | mid_to_upper_80s</otriple>
 				<otriple>timePoint | to_start_the_week</otriple>
@@ -5224,7 +5224,7 @@
 				<entity>PATIENT-2 | mid_to_upper_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id143" size="3">
+		<entry category="EnglishWeather" eid="Id143" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cooler</otriple>
 				<otriple>timePoint | Wednesday</otriple>
@@ -5258,7 +5258,7 @@
 				<entity>PATIENT-3 | cooler</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id144" size="2">
+		<entry category="EnglishWeather" eid="Id144" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_80s</otriple>
 				<otriple>timePoint | Wednesday</otriple>
@@ -5287,7 +5287,7 @@
 				<entity>PATIENT-2 | low_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id145" size="3">
+		<entry category="EnglishWeather" eid="Id145" size="3">
 			<originaltripleset>
 				<otriple>timePoint | to_close_the_week</otriple>
 				<otriple>weatherOccurringChance | higher</otriple>
@@ -5321,7 +5321,7 @@
 				<entity>PATIENT-3 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id146" size="2">
+		<entry category="EnglishWeather" eid="Id146" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | mid_80s</otriple>
 				<otriple>timePoint | to_close_the_week</otriple>
@@ -5350,7 +5350,7 @@
 				<entity>PATIENT-2 | mid_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id147" size="2">
+		<entry category="EnglishWeather" eid="Id147" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Carolinas</otriple>
 				<otriple>weatherType | Nestor</otriple>
@@ -5379,7 +5379,7 @@
 				<entity>PATIENT-2 | Carolinas</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id148" size="1">
+		<entry category="EnglishWeather" eid="Id148" size="1">
 			<originaltripleset>
 				<otriple>timePoint | over_the_next_five_days</otriple>
 			</originaltripleset>
@@ -5403,7 +5403,7 @@
 				<entity>PATIENT-1 | over_the_next_five_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id149" size="3">
+		<entry category="EnglishWeather" eid="Id149" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Atlantic</otriple>
 				<otriple>timePoint | through_November_30</otriple>
@@ -5437,7 +5437,7 @@
 				<entity>PATIENT-3 | through_November_30</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id150" size="4">
+		<entry category="EnglishWeather" eid="Id150" size="4">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>weatherIntensity | just_a_few_isolated</otriple>
@@ -5476,7 +5476,7 @@
 				<entity>PATIENT-4 | westerly</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id151" size="2">
+		<entry category="EnglishWeather" eid="Id151" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>windAmount | moderate</otriple>
@@ -5505,7 +5505,7 @@
 				<entity>PATIENT-2 | Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id152" size="1">
+		<entry category="EnglishWeather" eid="Id152" size="1">
 			<originaltripleset>
 				<otriple>locationArea | ORLANDO,_Fla.</otriple>
 			</originaltripleset>
@@ -5529,7 +5529,7 @@
 				<entity>PATIENT-1 | ORLANDO,_Fla.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id153" size="5">
+		<entry category="EnglishWeather" eid="Id153" size="5">
 			<originaltripleset>
 				<otriple>locationArea | all_over_Central_Florida</otriple>
 				<otriple>temperatureCelsius | mid_to_upper_80s</otriple>
@@ -5573,7 +5573,7 @@
 				<entity>PATIENT-5 | all_over_Central_Florida</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id154" size="1">
+		<entry category="EnglishWeather" eid="Id154" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Saturday_and_Sunday</otriple>
 				<otriple>timePoint | this_weekend</otriple>
@@ -5602,7 +5602,7 @@
 				<entity>PATIENT-2 | Saturday_and_Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id155" size="5">
+		<entry category="EnglishWeather" eid="Id155" size="5">
 			<originaltripleset>
 				<otriple>temperatureCelsius | a_degree_or_two_higher</otriple>
 				<otriple>temperatureChange | climb</otriple>
@@ -5646,7 +5646,7 @@
 				<entity>PATIENT-5 | Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id156" size="2">
+		<entry category="EnglishWeather" eid="Id156" size="2">
 			<originaltripleset>
 				<otriple>timePoint | weekend</otriple>
 				<otriple>weatherType | quiet</otriple>
@@ -5680,7 +5680,7 @@
 				<entity>PATIENT-3 | weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id157" size="2">
+		<entry category="EnglishWeather" eid="Id157" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | Mostly_clear</otriple>
 				<otriple>timePoint | through_the_overnight_hours</otriple>
@@ -5709,7 +5709,7 @@
 				<entity>PATIENT-2 | through_the_overnight_hours</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id158" size="2">
+		<entry category="EnglishWeather" eid="Id158" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | mid_to_low_60s</otriple>
 				<otriple>temperatureHotCold | comfortable</otriple>
@@ -5738,7 +5738,7 @@
 				<entity>PATIENT-2 | mid_to_low_60s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id159" size="4">
+		<entry category="EnglishWeather" eid="Id159" size="4">
 			<originaltripleset>
 				<otriple>temperatureCelsius | upper_80s_to_low_90s</otriple>
 				<otriple>temperatureChange | climb</otriple>
@@ -5777,7 +5777,7 @@
 				<entity>PATIENT-4 | upper_80s_to_low_90s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id160" size="2">
+		<entry category="EnglishWeather" eid="Id160" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 89_degrees</otriple>
 				<otriple>temperatureCelsius | Pretty_close_to_the_average</otriple>
@@ -5811,7 +5811,7 @@
 				<entity>PATIENT-3 | May</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id161" size="3">
+		<entry category="EnglishWeather" eid="Id161" size="3">
 			<originaltripleset>
 				<otriple>weatherIntensity | no</otriple>
 				<otriple>weatherType | humid</otriple>
@@ -5855,7 +5855,7 @@
 				<entity>PATIENT-5 | no</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id162" size="5">
+		<entry category="EnglishWeather" eid="Id162" size="5">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>timePoint | during_the_afternoon</otriple>
@@ -5914,7 +5914,7 @@
 				<entity>PATIENT-8 | west</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id163" size="1">
+		<entry category="EnglishWeather" eid="Id163" size="1">
 			<originaltripleset>
 				<otriple>weatherOccurringChance | slim</otriple>
 			</originaltripleset>
@@ -5938,7 +5938,7 @@
 				<entity>PATIENT-1 | slim</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id164" size="4">
+		<entry category="EnglishWeather" eid="Id164" size="4">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 90_degrees</otriple>
 				<otriple>timePoint | Next_week</otriple>
@@ -5977,7 +5977,7 @@
 				<entity>PATIENT-4 | 90_degrees</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id165" size="3">
+		<entry category="EnglishWeather" eid="Id165" size="3">
 			<originaltripleset>
 				<otriple>locationArea | low_south_of_Bermuda</otriple>
 				<otriple>timePoint | early_next_week</otriple>
@@ -6016,7 +6016,7 @@
 				<entity>PATIENT-4 | low_south_of_Bermuda</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id166" size="2">
+		<entry category="EnglishWeather" eid="Id166" size="2">
 			<originaltripleset>
 				<otriple>compassDirection | north-northeast</otriple>
 				<otriple>locationArea | United_States</otriple>
@@ -6045,7 +6045,7 @@
 				<entity>PATIENT-2 | United_States</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id167" size="2">
+		<entry category="EnglishWeather" eid="Id167" size="2">
 			<originaltripleset>
 				<otriple>timePoint | June_1st</otriple>
 				<otriple>timePoint | November_30th</otriple>
@@ -6079,7 +6079,7 @@
 				<entity>PATIENT-3 | November_30th</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id168" size="1">
+		<entry category="EnglishWeather" eid="Id168" size="1">
 			<originaltripleset>
 				<otriple>windAmount | bit_breezy</otriple>
 			</originaltripleset>
@@ -6103,7 +6103,7 @@
 				<entity>PATIENT-1 | bit_breezy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id169" size="4">
+		<entry category="EnglishWeather" eid="Id169" size="4">
 			<originaltripleset>
 				<otriple>timePoint | in_the_upcoming_week</otriple>
 				<otriple>weatherIntensity | Nasty</otriple>
@@ -6157,7 +6157,7 @@
 				<entity>PATIENT-7 | in_the_upcoming_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id170" size="4">
+		<entry category="EnglishWeather" eid="Id170" size="4">
 			<originaltripleset>
 				<otriple>timePoint | early_this_morning</otriple>
 				<otriple>weatherIntensity | sheets</otriple>
@@ -6206,7 +6206,7 @@
 				<entity>PATIENT-6 | early_this_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id171" size="2">
+		<entry category="EnglishWeather" eid="Id171" size="2">
 			<originaltripleset>
 				<otriple>weatherOccurringChance | possible</otriple>
 				<otriple>weatherType | Thunder</otriple>
@@ -6235,7 +6235,7 @@
 				<entity>PATIENT-2 | possible</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id172" size="2">
+		<entry category="EnglishWeather" eid="Id172" size="2">
 			<originaltripleset>
 				<otriple>locationArea | along_&amp;_south_of_the_warm_front</otriple>
 				<otriple>weatherIntensity | Severe</otriple>
@@ -6264,7 +6264,7 @@
 				<entity>PATIENT-2 | along_&amp;_south_of_the_warm_front</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id173" size="1">
+		<entry category="EnglishWeather" eid="Id173" size="1">
 			<originaltripleset>
 				<otriple>timePoint | this_evening-tonight_&amp;_into_Sunday</otriple>
 			</originaltripleset>
@@ -6288,7 +6288,7 @@
 				<entity>PATIENT-1 | this_evening-tonight_&amp;_into_Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id174" size="2">
+		<entry category="EnglishWeather" eid="Id174" size="2">
 			<originaltripleset>
 				<otriple>timePoint | late_afternoon-evening</otriple>
 				<otriple>weatherType | Rain</otriple>
@@ -6322,7 +6322,7 @@
 				<entity>PATIENT-3 | late_afternoon-evening</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id175" size="1">
+		<entry category="EnglishWeather" eid="Id175" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Now-6_a.m._Sunday</otriple>
 			</originaltripleset>
@@ -6346,7 +6346,7 @@
 				<entity>PATIENT-1 | Now-6_a.m._Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id176" size="4">
+		<entry category="EnglishWeather" eid="Id176" size="4">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>gustVelocity | 40-50_mph</otriple>
@@ -6385,7 +6385,7 @@
 				<entity>PATIENT-4 | evening-tonight_&amp;_into_part_of_tomorrow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id177" size="3">
+		<entry category="EnglishWeather" eid="Id177" size="3">
 			<originaltripleset>
 				<otriple>gustAmount | couple/few_isolated</otriple>
 				<otriple>gustAmount | gusts</otriple>
@@ -6424,7 +6424,7 @@
 				<entity>PATIENT-4 | not_be_ruled_out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id178" size="2">
+		<entry category="EnglishWeather" eid="Id178" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>timePoint | early_part_of_the_day</otriple>
@@ -6463,7 +6463,7 @@
 				<entity>PATIENT-4 | windy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id179" size="4">
+		<entry category="EnglishWeather" eid="Id179" size="4">
 			<originaltripleset>
 				<otriple>precipitationAmount | +1.20&quot;</otriple>
 				<otriple>precipitationAmount | 0.60-1.20&quot;</otriple>
@@ -6507,7 +6507,7 @@
 				<entity>PATIENT-5 | isolated</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id180" size="2">
+		<entry category="EnglishWeather" eid="Id180" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 30s</otriple>
 				<otriple>temperatureCelsius | 30s</otriple>
@@ -6556,7 +6556,7 @@
 				<entity>PATIENT-6 | tomorrow_morning-tomorrow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id181" size="4">
+		<entry category="EnglishWeather" eid="Id181" size="4">
 			<originaltripleset>
 				<otriple>locationArea | parts_of_the_area</otriple>
 				<otriple>weatherIntensity | few</otriple>
@@ -6600,7 +6600,7 @@
 				<entity>PATIENT-5 | parts_of_the_area</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id182" size="2">
+		<entry category="EnglishWeather" eid="Id182" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | mostly_cloudy_to_cloudy</otriple>
 				<otriple>cloudChange | some_later_clearing</otriple>
@@ -6629,7 +6629,7 @@
 				<entity>PATIENT-2 | some_later_clearing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id183" size="5">
+		<entry category="EnglishWeather" eid="Id183" size="5">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 20s</otriple>
 				<otriple>timePoint | tomorrow_night</otriple>
@@ -6673,7 +6673,7 @@
 				<entity>PATIENT-5 | breezy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id184" size="6">
+		<entry category="EnglishWeather" eid="Id184" size="6">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 30s</otriple>
 				<otriple>temperatureCelsius | 40s</otriple>
@@ -6747,7 +6747,7 @@
 				<entity>PATIENT-9 | round_or_two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id185" size="4">
+		<entry category="EnglishWeather" eid="Id185" size="4">
 			<originaltripleset>
 				<otriple>maximumTemperature | 30s</otriple>
 				<otriple>timePoint | Friday-Saturday</otriple>
@@ -6791,7 +6791,7 @@
 				<entity>PATIENT-5 | 30s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id186" size="2">
+		<entry category="EnglishWeather" eid="Id186" size="2">
 			<originaltripleset>
 				<otriple>locationArea | EDMONTON</otriple>
 				<otriple>timePoint | today</otriple>
@@ -6820,7 +6820,7 @@
 				<entity>PATIENT-2 | today</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id187" size="2">
+		<entry category="EnglishWeather" eid="Id187" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | handful_of_degrees_above_zero</otriple>
 				<otriple>timePoint | Thursday_afternoon_(Halloween)</otriple>
@@ -6849,7 +6849,7 @@
 				<entity>PATIENT-2 | Thursday_afternoon_(Halloween)</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id188" size="3">
+		<entry category="EnglishWeather" eid="Id188" size="3">
 			<originaltripleset>
 				<otriple>temperatureChange | started_dropping</otriple>
 				<otriple>timePoint | late_Sunday</otriple>
@@ -6883,7 +6883,7 @@
 				<entity>PATIENT-3 | late_Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id189" size="3">
+		<entry category="EnglishWeather" eid="Id189" size="3">
 			<originaltripleset>
 				<otriple>timePoint | this_morning</otriple>
 				<otriple>weatherIntensity | some_scattered</otriple>
@@ -6917,7 +6917,7 @@
 				<entity>PATIENT-3 | this_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id190" size="1">
+		<entry category="EnglishWeather" eid="Id190" size="1">
 			<originaltripleset>
 				<otriple>locationArea | in_the_Edmonton_area</otriple>
 			</originaltripleset>
@@ -6941,7 +6941,7 @@
 				<entity>PATIENT-1 | in_the_Edmonton_area</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id191" size="2">
+		<entry category="EnglishWeather" eid="Id191" size="2">
 			<originaltripleset>
 				<otriple>timePoint | this_morning</otriple>
 				<otriple>weatherType | dusting</otriple>
@@ -6975,7 +6975,7 @@
 				<entity>PATIENT-3 | this_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id192" size="3">
+		<entry category="EnglishWeather" eid="Id192" size="3">
 			<originaltripleset>
 				<otriple>locationArea | North-Central_AB</otriple>
 				<otriple>locationArea | in_Central</otriple>
@@ -7019,7 +7019,7 @@
 				<entity>PATIENT-5 | today</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id193" size="2">
+		<entry category="EnglishWeather" eid="Id193" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -4</otriple>
 				<otriple>temperatureCelsius | -7</otriple>
@@ -7053,7 +7053,7 @@
 				<entity>PATIENT-3 | this_afternoon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id194" size="5">
+		<entry category="EnglishWeather" eid="Id194" size="5">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>timePoint | this_evening</otriple>
@@ -7102,7 +7102,7 @@
 				<entity>PATIENT-6 | tapering_off</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id195" size="5">
+		<entry category="EnglishWeather" eid="Id195" size="5">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -10</otriple>
 				<otriple>temperatureCelsius | -15</otriple>
@@ -7156,7 +7156,7 @@
 				<entity>PATIENT-7 | -15</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id196" size="3">
+		<entry category="EnglishWeather" eid="Id196" size="3">
 			<originaltripleset>
 				<otriple>locationArea | in_North-Central_AB</otriple>
 				<otriple>maximumTemperature | -5</otriple>
@@ -7200,7 +7200,7 @@
 				<entity>PATIENT-5 | in_North-Central_AB</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id197" size="3">
+		<entry category="EnglishWeather" eid="Id197" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | 4</otriple>
 				<otriple>maximumTemperature | 8_degree</otriple>
@@ -7244,7 +7244,7 @@
 				<entity>PATIENT-5 | 8_degree</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id198" size="1">
+		<entry category="EnglishWeather" eid="Id198" size="1">
 			<originaltripleset>
 				<otriple>locationArea | Edmonton</otriple>
 			</originaltripleset>
@@ -7268,7 +7268,7 @@
 				<entity>PATIENT-1 | Edmonton</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id199" size="5">
+		<entry category="EnglishWeather" eid="Id199" size="5">
 			<originaltripleset>
 				<otriple>cloudAmount | Cloudy</otriple>
 				<otriple>locationArea | in_the_area</otriple>
@@ -7317,7 +7317,7 @@
 				<entity>PATIENT-6 | in_the_area</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id200" size="2">
+		<entry category="EnglishWeather" eid="Id200" size="2">
 			<originaltripleset>
 				<otriple>timePoint | this_afternoon</otriple>
 				<otriple>weatherType | Sunny</otriple>
@@ -7346,7 +7346,7 @@
 				<entity>PATIENT-2 | this_afternoon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id201" size="2">
+		<entry category="EnglishWeather" eid="Id201" size="2">
 			<originaltripleset>
 				<otriple>windDirection | NW</otriple>
 				<otriple>windSpeedBft | 20-30_km/h</otriple>
@@ -7375,7 +7375,7 @@
 				<entity>PATIENT-2 | 20-30_km/h</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id202" size="2">
+		<entry category="EnglishWeather" eid="Id202" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -15</otriple>
 				<otriple>timePoint | much_of_the_day</otriple>
@@ -7404,7 +7404,7 @@
 				<entity>PATIENT-2 | much_of_the_day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id203" size="1">
+		<entry category="EnglishWeather" eid="Id203" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | -5</otriple>
 			</originaltripleset>
@@ -7428,7 +7428,7 @@
 				<entity>PATIENT-1 | -5</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id204" size="2">
+		<entry category="EnglishWeather" eid="Id204" size="2">
 			<originaltripleset>
 				<otriple>cloudChange | Clearing</otriple>
 				<otriple>timePoint | Evening</otriple>
@@ -7462,7 +7462,7 @@
 				<entity>PATIENT-3 | Clearing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id205" size="1">
+		<entry category="EnglishWeather" eid="Id205" size="1">
 			<originaltripleset>
 				<otriple>windChange | easing</otriple>
 			</originaltripleset>
@@ -7486,7 +7486,7 @@
 				<entity>PATIENT-1 | easing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id206" size="2">
+		<entry category="EnglishWeather" eid="Id206" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -8</otriple>
 				<otriple>timePoint | 9pm</otriple>
@@ -7515,7 +7515,7 @@
 				<entity>PATIENT-2 | -8</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id207" size="3">
+		<entry category="EnglishWeather" eid="Id207" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | few_clouds</otriple>
 				<otriple>timePoint | Tuesday</otriple>
@@ -7549,7 +7549,7 @@
 				<entity>PATIENT-3 | few_clouds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id208" size="1">
+		<entry category="EnglishWeather" eid="Id208" size="1">
 			<originaltripleset>
 				<otriple>windAmount | Light</otriple>
 			</originaltripleset>
@@ -7573,7 +7573,7 @@
 				<entity>PATIENT-1 | Light</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id209" size="2">
+		<entry category="EnglishWeather" eid="Id209" size="2">
 			<originaltripleset>
 				<otriple>minimumTemperature | -12</otriple>
 				<otriple>timePoint | Morning</otriple>
@@ -7602,7 +7602,7 @@
 				<entity>PATIENT-2 | -12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id210" size="2">
+		<entry category="EnglishWeather" eid="Id210" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | -2</otriple>
 				<otriple>timePoint | Afternoon</otriple>
@@ -7631,7 +7631,7 @@
 				<entity>PATIENT-2 | -2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id211" size="2">
+		<entry category="EnglishWeather" eid="Id211" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | Partly_cloudy</otriple>
 				<otriple>timePoint | Wednesday</otriple>
@@ -7660,7 +7660,7 @@
 				<entity>PATIENT-2 | Partly_cloudy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id212" size="2">
+		<entry category="EnglishWeather" eid="Id212" size="2">
 			<originaltripleset>
 				<otriple>minimumTemperature | -8</otriple>
 				<otriple>timePoint | Morning</otriple>
@@ -7689,7 +7689,7 @@
 				<entity>PATIENT-2 | -8</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id213" size="2">
+		<entry category="EnglishWeather" eid="Id213" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 5</otriple>
 				<otriple>timePoint | Afternoon</otriple>
@@ -7718,7 +7718,7 @@
 				<entity>PATIENT-2 | 5</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id214" size="2">
+		<entry category="EnglishWeather" eid="Id214" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | Partly_cloudy</otriple>
 				<otriple>timePoint | Thursday_(Halloween)</otriple>
@@ -7747,7 +7747,7 @@
 				<entity>PATIENT-2 | Partly_cloudy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id215" size="2">
+		<entry category="EnglishWeather" eid="Id215" size="2">
 			<originaltripleset>
 				<otriple>minimumTemperature | -1</otriple>
 				<otriple>timePoint | Morning</otriple>
@@ -7776,7 +7776,7 @@
 				<entity>PATIENT-2 | -1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id216" size="2">
+		<entry category="EnglishWeather" eid="Id216" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 6</otriple>
 				<otriple>timePoint | Afternoon</otriple>
@@ -7805,7 +7805,7 @@
 				<entity>PATIENT-2 | 6</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id217" size="2">
+		<entry category="EnglishWeather" eid="Id217" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | Partly_cloudy</otriple>
 				<otriple>timePoint | Friday</otriple>
@@ -7834,7 +7834,7 @@
 				<entity>PATIENT-2 | Partly_cloudy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id218" size="2">
+		<entry category="EnglishWeather" eid="Id218" size="2">
 			<originaltripleset>
 				<otriple>minimumTemperature | -3</otriple>
 				<otriple>timePoint | Morning</otriple>
@@ -7863,7 +7863,7 @@
 				<entity>PATIENT-2 | -3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id219" size="2">
+		<entry category="EnglishWeather" eid="Id219" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 6</otriple>
 				<otriple>timePoint | Afternoon</otriple>
@@ -7892,7 +7892,7 @@
 				<entity>PATIENT-2 | 6</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id220" size="2">
+		<entry category="EnglishWeather" eid="Id220" size="2">
 			<originaltripleset>
 				<otriple>cloudAmount | Mostly_cloudy</otriple>
 				<otriple>timePoint | Saturday</otriple>
@@ -7921,7 +7921,7 @@
 				<entity>PATIENT-2 | Mostly_cloudy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id221" size="2">
+		<entry category="EnglishWeather" eid="Id221" size="2">
 			<originaltripleset>
 				<otriple>weatherOccurringChance | 40%</otriple>
 				<otriple>weatherType | showers</otriple>
@@ -7950,7 +7950,7 @@
 				<entity>PATIENT-2 | showers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id222" size="2">
+		<entry category="EnglishWeather" eid="Id222" size="2">
 			<originaltripleset>
 				<otriple>minimumTemperature | 0</otriple>
 				<otriple>timePoint | Morning</otriple>
@@ -7979,7 +7979,7 @@
 				<entity>PATIENT-2 | 0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id223" size="2">
+		<entry category="EnglishWeather" eid="Id223" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | 7</otriple>
 				<otriple>timePoint | Afternoon</otriple>
@@ -8008,7 +8008,7 @@
 				<entity>PATIENT-2 | 7</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id224" size="1">
+		<entry category="EnglishWeather" eid="Id224" size="1">
 			<originaltripleset>
 				<otriple>locationArea | Northeast_Ohio</otriple>
 			</originaltripleset>
@@ -8032,7 +8032,7 @@
 				<entity>PATIENT-1 | Northeast_Ohio</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id225" size="6">
+		<entry category="EnglishWeather" eid="Id225" size="6">
 			<originaltripleset>
 				<otriple>locationArea | CLEVELAND,_Ohio</otriple>
 				<otriple>locationArea | across_Northeast_Ohio</otriple>
@@ -8091,7 +8091,7 @@
 				<entity>PATIENT-8 | much_colder</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id226" size="4">
+		<entry category="EnglishWeather" eid="Id226" size="4">
 			<originaltripleset>
 				<otriple>maximumTemperature | upper_30s</otriple>
 				<otriple>timePoint | Friday</otriple>
@@ -8130,7 +8130,7 @@
 				<entity>PATIENT-4 | upper_30s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id227" size="3">
+		<entry category="EnglishWeather" eid="Id227" size="3">
 			<originaltripleset>
 				<otriple>timePoint | overnight_Friday</otriple>
 				<otriple>timePoint | through_Sunday</otriple>
@@ -8169,7 +8169,7 @@
 				<entity>PATIENT-4 | through_Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id228" size="3">
+		<entry category="EnglishWeather" eid="Id228" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | middle_30s</otriple>
 				<otriple>minimumTemperature | teens</otriple>
@@ -8213,7 +8213,7 @@
 				<entity>PATIENT-5 | teens</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id229" size="1">
+		<entry category="EnglishWeather" eid="Id229" size="1">
 			<originaltripleset>
 				<otriple>timePoint | next_week</otriple>
 			</originaltripleset>
@@ -8237,7 +8237,7 @@
 				<entity>PATIENT-1 | next_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id230" size="3">
+		<entry category="EnglishWeather" eid="Id230" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | upper_teens</otriple>
 				<otriple>timePoint | Monday</otriple>
@@ -8271,7 +8271,7 @@
 				<entity>PATIENT-3 | upper_teens</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id231" size="4">
+		<entry category="EnglishWeather" eid="Id231" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | Cold</otriple>
 				<otriple>timePoint | Tuesday</otriple>
@@ -8310,7 +8310,7 @@
 				<entity>PATIENT-4 | snow_showers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id232" size="3">
+		<entry category="EnglishWeather" eid="Id232" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Philadelphia</otriple>
 				<otriple>temperatureHotCold | extreme_heat</otriple>
@@ -8344,7 +8344,7 @@
 				<entity>PATIENT-3 | Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id233" size="3">
+		<entry category="EnglishWeather" eid="Id233" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | Tuesday_27_August</otriple>
@@ -8383,7 +8383,7 @@
 				<entity>PATIENT-4 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id234" size="2">
+		<entry category="EnglishWeather" eid="Id234" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_morning</otriple>
@@ -8412,7 +8412,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id235" size="3">
+		<entry category="EnglishWeather" eid="Id235" size="3">
 			<originaltripleset>
 				<otriple>timePoint | This_morning</otriple>
 				<otriple>timePoint | throughout</otriple>
@@ -8451,7 +8451,7 @@
 				<entity>PATIENT-4 | sunshine</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id236" size="2">
+		<entry category="EnglishWeather" eid="Id236" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 23C</otriple>
 				<otriple>timePoint | 12pm</otriple>
@@ -8480,7 +8480,7 @@
 				<entity>PATIENT-2 | 12pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id237" size="2">
+		<entry category="EnglishWeather" eid="Id237" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_afternoon</otriple>
@@ -8509,7 +8509,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id238" size="4">
+		<entry category="EnglishWeather" eid="Id238" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>timePoint | Early_afternoon</otriple>
@@ -8553,7 +8553,7 @@
 				<entity>PATIENT-5 | cloud</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id239" size="2">
+		<entry category="EnglishWeather" eid="Id239" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 27C</otriple>
 				<otriple>timePoint | 4pm</otriple>
@@ -8582,7 +8582,7 @@
 				<entity>PATIENT-2 | 4pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id240" size="2">
+		<entry category="EnglishWeather" eid="Id240" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_evening_and_tonight</otriple>
@@ -8611,7 +8611,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id241" size="4">
+		<entry category="EnglishWeather" eid="Id241" size="4">
 			<originaltripleset>
 				<otriple>timePoint | This_evening</otriple>
 				<otriple>timePoint | around_9pm</otriple>
@@ -8660,7 +8660,7 @@
 				<entity>PATIENT-6 | easing_off</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id242" size="2">
+		<entry category="EnglishWeather" eid="Id242" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 16C.</otriple>
 				<otriple>timePoint | Overnight</otriple>
@@ -8689,7 +8689,7 @@
 				<entity>PATIENT-2 | 16C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id243" size="2">
+		<entry category="EnglishWeather" eid="Id243" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | tomorrow</otriple>
@@ -8718,7 +8718,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id244" size="3">
+		<entry category="EnglishWeather" eid="Id244" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>timePoint | Tomorrow</otriple>
@@ -8757,7 +8757,7 @@
 				<entity>PATIENT-4 | cloud</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id245" size="1">
+		<entry category="EnglishWeather" eid="Id245" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 20C.</otriple>
 			</originaltripleset>
@@ -8781,7 +8781,7 @@
 				<entity>PATIENT-1 | 20C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id246" size="2">
+		<entry category="EnglishWeather" eid="Id246" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | long-term</otriple>
@@ -8810,7 +8810,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id247" size="2">
+		<entry category="EnglishWeather" eid="Id247" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Saturday_31_August_to_Monday_9_September</otriple>
 				<otriple>timePoint | this_weekend</otriple>
@@ -8844,7 +8844,7 @@
 				<entity>PATIENT-3 | unsettled</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id248" size="4">
+		<entry category="EnglishWeather" eid="Id248" size="4">
 			<originaltripleset>
 				<otriple>locationArea | for_much_of_the_country</otriple>
 				<otriple>locationArea | southeast</otriple>
@@ -8903,7 +8903,7 @@
 				<entity>PATIENT-8 | for_much_of_the_country</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id249" size="4">
+		<entry category="EnglishWeather" eid="Id249" size="4">
 			<originaltripleset>
 				<otriple>locationArea | in_the_north</otriple>
 				<otriple>locationArea | west</otriple>
@@ -8957,7 +8957,7 @@
 				<entity>PATIENT-7 | risk</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id250" size="5">
+		<entry category="EnglishWeather" eid="Id250" size="5">
 			<originaltripleset>
 				<otriple>locationArea | in_the_far_northwest</otriple>
 				<otriple>temperatureHotCold | cool</otriple>
@@ -9001,7 +9001,7 @@
 				<entity>PATIENT-5 | for_the_time_of_year</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id251" size="4">
+		<entry category="EnglishWeather" eid="Id251" size="4">
 			<originaltripleset>
 				<otriple>locationArea | nationwide</otriple>
 				<otriple>locationArea | south</otriple>
@@ -9055,7 +9055,7 @@
 				<entity>PATIENT-7 | fairly</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id252" size="1">
+		<entry category="EnglishWeather" eid="Id252" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_80s</otriple>
 			</originaltripleset>
@@ -9079,7 +9079,7 @@
 				<entity>PATIENT-1 | low_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id253" size="1">
+		<entry category="EnglishWeather" eid="Id253" size="1">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 			</originaltripleset>
@@ -9103,7 +9103,7 @@
 				<entity>PATIENT-1 | Sunday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id254" size="1">
+		<entry category="EnglishWeather" eid="Id254" size="1">
 			<originaltripleset>
 				<otriple>timePoint | for_the_first_couple_of_days_this_week</otriple>
 			</originaltripleset>
@@ -9127,7 +9127,7 @@
 				<entity>PATIENT-1 | for_the_first_couple_of_days_this_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id255" size="3">
+		<entry category="EnglishWeather" eid="Id255" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | warm</otriple>
 				<otriple>weatherChange | down</otriple>
@@ -9166,7 +9166,7 @@
 				<entity>PATIENT-4 | warm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id256" size="4">
+		<entry category="EnglishWeather" eid="Id256" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | cloudy</otriple>
 				<otriple>temperatureChange | cooler</otriple>
@@ -9215,7 +9215,7 @@
 				<entity>PATIENT-6 | cooler</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id257" size="2">
+		<entry category="EnglishWeather" eid="Id257" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 60s</otriple>
 				<otriple>timePoint | early_morning</otriple>
@@ -9244,7 +9244,7 @@
 				<entity>PATIENT-2 | early_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id258" size="1">
+		<entry category="EnglishWeather" eid="Id258" size="1">
 			<originaltripleset>
 				<otriple>sunRiseTime | 6:04_a.m._ET</otriple>
 			</originaltripleset>
@@ -9268,7 +9268,7 @@
 				<entity>PATIENT-1 | 6:04_a.m._ET</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id259" size="4">
+		<entry category="EnglishWeather" eid="Id259" size="4">
 			<originaltripleset>
 				<otriple>cloudAmount | Clouds</otriple>
 				<otriple>cloudChange | break_and_depart</otriple>
@@ -9312,7 +9312,7 @@
 				<entity>PATIENT-5 | clearer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id260" size="3">
+		<entry category="EnglishWeather" eid="Id260" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | middle_and_upper_70s</otriple>
 				<otriple>temperatureChange | warmer</otriple>
@@ -9346,7 +9346,7 @@
 				<entity>PATIENT-3 | middle_and_upper_70s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id261" size="5">
+		<entry category="EnglishWeather" eid="Id261" size="5">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_80s</otriple>
 				<otriple>temperatureHotCold | warm</otriple>
@@ -9390,7 +9390,7 @@
 				<entity>PATIENT-5 | low_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id262" size="1">
+		<entry category="EnglishWeather" eid="Id262" size="1">
 			<originaltripleset>
 				<otriple>timePoint | 1:10_p.m._ET</otriple>
 			</originaltripleset>
@@ -9414,7 +9414,7 @@
 				<entity>PATIENT-1 | 1:10_p.m._ET</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id263" size="3">
+		<entry category="EnglishWeather" eid="Id263" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | clear</otriple>
 				<otriple>temperatureHotCold | mild</otriple>
@@ -9448,7 +9448,7 @@
 				<entity>PATIENT-3 | mild</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id264" size="1">
+		<entry category="EnglishWeather" eid="Id264" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 70s</otriple>
 			</originaltripleset>
@@ -9472,7 +9472,7 @@
 				<entity>PATIENT-1 | 70s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id265" size="1">
+		<entry category="EnglishWeather" eid="Id265" size="1">
 			<originaltripleset>
 				<otriple>sunSetTime | 9:12_p.m._ET</otriple>
 			</originaltripleset>
@@ -9496,7 +9496,7 @@
 				<entity>PATIENT-1 | 9:12_p.m._ET</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id266" size="3">
+		<entry category="EnglishWeather" eid="Id266" size="3">
 			<originaltripleset>
 				<otriple>cloudAmount | clear</otriple>
 				<otriple>temperatureHotCold | cool</otriple>
@@ -9530,7 +9530,7 @@
 				<entity>PATIENT-3 | cool</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id267" size="2">
+		<entry category="EnglishWeather" eid="Id267" size="2">
 			<originaltripleset>
 				<otriple>timePoint | one_hour_after_sunset</otriple>
 				<otriple>windDirection | north-northwestern</otriple>
@@ -9559,7 +9559,7 @@
 				<entity>PATIENT-2 | one_hour_after_sunset</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id268" size="3">
+		<entry category="EnglishWeather" eid="Id268" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Monday_and_Tuesday</otriple>
 				<otriple>weatherIntensity | abundant</otriple>
@@ -9593,7 +9593,7 @@
 				<entity>PATIENT-3 | sunshine</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id269" size="2">
+		<entry category="EnglishWeather" eid="Id269" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | low_80s</otriple>
 				<otriple>temperatureCelsius | mid_80s</otriple>
@@ -9637,7 +9637,7 @@
 				<entity>PATIENT-5 | mid_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id270" size="4">
+		<entry category="EnglishWeather" eid="Id270" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | hotter</otriple>
 				<otriple>timePoint | Wednesday</otriple>
@@ -9681,7 +9681,7 @@
 				<entity>PATIENT-5 | showers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id271" size="1">
+		<entry category="EnglishWeather" eid="Id271" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 90_degrees</otriple>
 			</originaltripleset>
@@ -9705,7 +9705,7 @@
 				<entity>PATIENT-1 | 90_degrees</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id272" size="3">
+		<entry category="EnglishWeather" eid="Id272" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Thursday</otriple>
 				<otriple>timePoint | by_the_afternoon</otriple>
@@ -9749,7 +9749,7 @@
 				<entity>PATIENT-5 | slowly_clear</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id273" size="2">
+		<entry category="EnglishWeather" eid="Id273" size="2">
 			<originaltripleset>
 				<otriple>maximumTemperature | low_80s</otriple>
 				<otriple>temperatureHotCold | Not_as_hot</otriple>
@@ -9778,7 +9778,7 @@
 				<entity>PATIENT-2 | low_80s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id274" size="5">
+		<entry category="EnglishWeather" eid="Id274" size="5">
 			<originaltripleset>
 				<otriple>locationArea | Most_of_North_Jersey</otriple>
 				<otriple>timePoint | Wednesday_into_Thursday</otriple>
@@ -9827,7 +9827,7 @@
 				<entity>PATIENT-6 | Wednesday_into_Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id275" size="4">
+		<entry category="EnglishWeather" eid="Id275" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Bergen</otriple>
 				<otriple>locationArea | Essex_counties</otriple>
@@ -9891,7 +9891,7 @@
 				<entity>PATIENT-9 | Essex_counties</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id276" size="3">
+		<entry category="EnglishWeather" eid="Id276" size="3">
 			<originaltripleset>
 				<otriple>timePoint | 2_p.m.</otriple>
 				<otriple>timePoint | overnight_into_Thursday</otriple>
@@ -9930,7 +9930,7 @@
 				<entity>PATIENT-4 | taper_off</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id277" size="4">
+		<entry category="EnglishWeather" eid="Id277" size="4">
 			<originaltripleset>
 				<otriple>gustAmount | wind_gusts</otriple>
 				<otriple>gustVelocity | 40_mph</otriple>
@@ -9969,7 +9969,7 @@
 				<entity>PATIENT-4 | over_the_next_24_hours</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id278" size="4">
+		<entry category="EnglishWeather" eid="Id278" size="4">
 			<originaltripleset>
 				<otriple>gustAmount | wind_gusts</otriple>
 				<otriple>gustVelocity | 25-30_mph</otriple>
@@ -10008,7 +10008,7 @@
 				<entity>PATIENT-4 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id279" size="4">
+		<entry category="EnglishWeather" eid="Id279" size="4">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>gustChange | increase</otriple>
@@ -10057,7 +10057,7 @@
 				<entity>PATIENT-6 | 40_mph</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id280" size="6">
+		<entry category="EnglishWeather" eid="Id280" size="6">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>gustVelocity | 40_mph</otriple>
@@ -10116,7 +10116,7 @@
 				<entity>PATIENT-8 | dissipating</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id281" size="4">
+		<entry category="EnglishWeather" eid="Id281" size="4">
 			<originaltripleset>
 				<otriple>locationArea | vast_swathes_of_the_UK</otriple>
 				<otriple>temperatureChange | dramatic_plunge</otriple>
@@ -10155,7 +10155,7 @@
 				<entity>PATIENT-4 | dramatic_plunge</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id282" size="2">
+		<entry category="EnglishWeather" eid="Id282" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>locationArea | in_the_North</otriple>
@@ -10189,7 +10189,7 @@
 				<entity>PATIENT-3 | gale-force</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id283" size="4">
+		<entry category="EnglishWeather" eid="Id283" size="4">
 			<originaltripleset>
 				<otriple>locationArea | vast_swathes_of_the_UK</otriple>
 				<otriple>temperatureChange | dramatic_plunge</otriple>
@@ -10233,7 +10233,7 @@
 				<entity>PATIENT-5 | dramatic_plunge</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id284" size="4">
+		<entry category="EnglishWeather" eid="Id284" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Balmoral,_Aberdeenshire</otriple>
 				<otriple>temperatureCelsius | -6.3C</otriple>
@@ -10272,7 +10272,7 @@
 				<entity>PATIENT-4 | over_the_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id285" size="4">
+		<entry category="EnglishWeather" eid="Id285" size="4">
 			<originaltripleset>
 				<otriple>locationArea | in_some_parts_of_the_country</otriple>
 				<otriple>temperatureCelsius | -10C</otriple>
@@ -10316,7 +10316,7 @@
 				<entity>PATIENT-5 | next_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id286" size="4">
+		<entry category="EnglishWeather" eid="Id286" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Scotland</otriple>
 				<otriple>temperatureCelsius | -10.5C.</otriple>
@@ -10360,7 +10360,7 @@
 				<entity>PATIENT-5 | -10.5C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id287" size="3">
+		<entry category="EnglishWeather" eid="Id287" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | chill</otriple>
 				<otriple>timePoint | Monday_and_Tuesday</otriple>
@@ -10399,7 +10399,7 @@
 				<entity>PATIENT-4 | Monday_and_Tuesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id288" size="3">
+		<entry category="EnglishWeather" eid="Id288" size="3">
 			<originaltripleset>
 				<otriple>compassDirection | north</otriple>
 				<otriple>maximumTemperature | 11C</otriple>
@@ -10433,7 +10433,7 @@
 				<entity>PATIENT-3 | north</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id289" size="3">
+		<entry category="EnglishWeather" eid="Id289" size="3">
 			<originaltripleset>
 				<otriple>locationArea | in_the_north</otriple>
 				<otriple>timePoint | Monday</otriple>
@@ -10467,7 +10467,7 @@
 				<entity>PATIENT-3 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id290" size="5">
+		<entry category="EnglishWeather" eid="Id290" size="5">
 			<originaltripleset>
 				<otriple>gustAmount | gusts</otriple>
 				<otriple>locationArea | England</otriple>
@@ -10521,7 +10521,7 @@
 				<entity>PATIENT-7 | England</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id291" size="1">
+		<entry category="EnglishWeather" eid="Id291" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -10C</otriple>
 			</originaltripleset>
@@ -10545,7 +10545,7 @@
 				<entity>PATIENT-1 | -10C</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id292" size="2">
+		<entry category="EnglishWeather" eid="Id292" size="2">
 			<originaltripleset>
 				<otriple>compassDirection | East</otriple>
 				<otriple>timePoint | from_the_second_half_of_January</otriple>
@@ -10574,7 +10574,7 @@
 				<entity>PATIENT-2 | from_the_second_half_of_January</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id293" size="3">
+		<entry category="EnglishWeather" eid="Id293" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | very_cold</otriple>
 				<otriple>weatherIntensity | significant</otriple>
@@ -10608,7 +10608,7 @@
 				<entity>PATIENT-3 | snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id294" size="5">
+		<entry category="EnglishWeather" eid="Id294" size="5">
 			<originaltripleset>
 				<otriple>locationArea | western_South_Dakota</otriple>
 				<otriple>snowAmount | 6_inches</otriple>
@@ -10652,7 +10652,7 @@
 				<entity>PATIENT-5 | western_South_Dakota</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id295" size="4">
+		<entry category="EnglishWeather" eid="Id295" size="4">
 			<originaltripleset>
 				<otriple>locationArea | RAPID_CITY,_S.D.</otriple>
 				<otriple>locationArea | western_South_Dakota</otriple>
@@ -10696,7 +10696,7 @@
 				<entity>PATIENT-5 | snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id296" size="3">
+		<entry category="EnglishWeather" eid="Id296" size="3">
 			<originaltripleset>
 				<otriple>temperatureChange | slowly_falling</otriple>
 				<otriple>temperatureHotCold | cold</otriple>
@@ -10735,7 +10735,7 @@
 				<entity>PATIENT-4 | slowly_falling</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id297" size="5">
+		<entry category="EnglishWeather" eid="Id297" size="5">
 			<originaltripleset>
 				<otriple>timePoint | late_Wednesday</otriple>
 				<otriple>timePoint | through_Thursday</otriple>
@@ -10789,7 +10789,7 @@
 				<entity>PATIENT-7 | at_times</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id298" size="1">
+		<entry category="EnglishWeather" eid="Id298" size="1">
 			<originaltripleset>
 				<otriple>timePoint | from_Wednesday_evening_through_Friday_morning</otriple>
 			</originaltripleset>
@@ -10813,7 +10813,7 @@
 				<entity>PATIENT-1 | from_Wednesday_evening_through_Friday_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id299" size="5">
+		<entry category="EnglishWeather" eid="Id299" size="5">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>locationArea | Leeds</otriple>
@@ -10867,7 +10867,7 @@
 				<entity>PATIENT-7 | cloud</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id300" size="4">
+		<entry category="EnglishWeather" eid="Id300" size="4">
 			<originaltripleset>
 				<otriple>temperatureChange | cool</otriple>
 				<otriple>timePoint | towards_the_end_of_the_week</otriple>
@@ -10906,7 +10906,7 @@
 				<entity>PATIENT-4 | snow_showers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id301" size="2">
+		<entry category="EnglishWeather" eid="Id301" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_morning</otriple>
@@ -10935,7 +10935,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id302" size="3">
+		<entry category="EnglishWeather" eid="Id302" size="3">
 			<originaltripleset>
 				<otriple>timePoint | 9am</otriple>
 				<otriple>timePoint | This_morning</otriple>
@@ -10999,7 +10999,7 @@
 				<entity>PATIENT-9 | showers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id303" size="2">
+		<entry category="EnglishWeather" eid="Id303" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 7C</otriple>
 				<otriple>timePoint | lunchtime</otriple>
@@ -11028,7 +11028,7 @@
 				<entity>PATIENT-2 | lunchtime</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id304" size="2">
+		<entry category="EnglishWeather" eid="Id304" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_afternoon</otriple>
@@ -11057,7 +11057,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id305" size="6">
+		<entry category="EnglishWeather" eid="Id305" size="6">
 			<originaltripleset>
 				<otriple>cloudAmount | cloud</otriple>
 				<otriple>timePoint | 2pm</otriple>
@@ -11116,7 +11116,7 @@
 				<entity>PATIENT-8 | cloud</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id306" size="1">
+		<entry category="EnglishWeather" eid="Id306" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 7C.</otriple>
 			</originaltripleset>
@@ -11140,7 +11140,7 @@
 				<entity>PATIENT-1 | 7C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id307" size="2">
+		<entry category="EnglishWeather" eid="Id307" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | this_evening_and_tonight</otriple>
@@ -11169,7 +11169,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id308" size="2">
+		<entry category="EnglishWeather" eid="Id308" size="2">
 			<originaltripleset>
 				<otriple>temperatureChange | dipping</otriple>
 				<otriple>timePoint | after_5pm</otriple>
@@ -11203,7 +11203,7 @@
 				<entity>PATIENT-3 | dipping</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id309" size="2">
+		<entry category="EnglishWeather" eid="Id309" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 2C.</otriple>
 				<otriple>temperatureChange | dip</otriple>
@@ -11232,7 +11232,7 @@
 				<entity>PATIENT-2 | 2C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id310" size="2">
+		<entry category="EnglishWeather" eid="Id310" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | tomorrow</otriple>
@@ -11261,7 +11261,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id311" size="3">
+		<entry category="EnglishWeather" eid="Id311" size="3">
 			<originaltripleset>
 				<otriple>temperatureCelsius | -2C.</otriple>
 				<otriple>temperatureCelsius | 4C</otriple>
@@ -11310,7 +11310,7 @@
 				<entity>PATIENT-6 | -2C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id312" size="3">
+		<entry category="EnglishWeather" eid="Id312" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | 3C</otriple>
 				<otriple>minimumTemperature | 0C.</otriple>
@@ -11344,7 +11344,7 @@
 				<entity>PATIENT-3 | 0C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id313" size="4">
+		<entry category="EnglishWeather" eid="Id313" size="4">
 			<originaltripleset>
 				<otriple>temperatureChange | cool</otriple>
 				<otriple>timePoint | during_the_weekend</otriple>
@@ -11388,7 +11388,7 @@
 				<entity>PATIENT-5 | snow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id314" size="3">
+		<entry category="EnglishWeather" eid="Id314" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | 3C.</otriple>
 				<otriple>temperatureHotCold | cold</otriple>
@@ -11427,7 +11427,7 @@
 				<entity>PATIENT-4 | 3C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id315" size="2">
+		<entry category="EnglishWeather" eid="Id315" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Leeds</otriple>
 				<otriple>timePoint | long-term</otriple>
@@ -11456,7 +11456,7 @@
 				<entity>PATIENT-2 | Leeds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id316" size="4">
+		<entry category="EnglishWeather" eid="Id316" size="4">
 			<originaltripleset>
 				<otriple>locationArea | across_the_UK</otriple>
 				<otriple>locationArea | in_the_southeast</otriple>
@@ -11510,7 +11510,7 @@
 				<entity>PATIENT-7 | brightest</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id317" size="6">
+		<entry category="EnglishWeather" eid="Id317" size="6">
 			<originaltripleset>
 				<otriple>compassDirection | southeast</otriple>
 				<otriple>locationArea | across_the_northwest</otriple>
@@ -11589,7 +11589,7 @@
 				<entity>PATIENT-9 | in_the_southwest</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id318" size="4">
+		<entry category="EnglishWeather" eid="Id318" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | Cold</otriple>
 				<otriple>timePoint | Overnight</otriple>
@@ -11643,7 +11643,7 @@
 				<entity>PATIENT-7 | Cold</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id319" size="5">
+		<entry category="EnglishWeather" eid="Id319" size="5">
 			<originaltripleset>
 				<otriple>compassDirection | east</otriple>
 				<otriple>locationArea | Wales</otriple>
@@ -11707,7 +11707,7 @@
 				<entity>PATIENT-9 | Wales</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id320" size="3">
+		<entry category="EnglishWeather" eid="Id320" size="3">
 			<originaltripleset>
 				<otriple>locationArea | in_the_west</otriple>
 				<otriple>windAmount | Windy</otriple>
@@ -11746,7 +11746,7 @@
 				<entity>PATIENT-4 | in_the_west</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id321" size="5">
+		<entry category="EnglishWeather" eid="Id321" size="5">
 			<originaltripleset>
 				<otriple>cloudAmount | Cloudy</otriple>
 				<otriple>locationArea | across_central_and_southern_areas</otriple>
@@ -11795,7 +11795,7 @@
 				<entity>PATIENT-6 | heavy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id322" size="3">
+		<entry category="EnglishWeather" eid="Id322" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Further_north</otriple>
 				<otriple>locationArea | in_western_Scotland</otriple>
@@ -11854,7 +11854,7 @@
 				<entity>PATIENT-8 | at_times</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id323" size="1">
+		<entry category="EnglishWeather" eid="Id323" size="1">
 			<originaltripleset>
 				<otriple>windAmount | Windy</otriple>
 			</originaltripleset>
@@ -11878,7 +11878,7 @@
 				<entity>PATIENT-1 | Windy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id324" size="5">
+		<entry category="EnglishWeather" eid="Id324" size="5">
 			<originaltripleset>
 				<otriple>locationArea | over_southern_and_western_parts</otriple>
 				<otriple>timePoint | Saturday_to_Monday</otriple>
@@ -11937,7 +11937,7 @@
 				<entity>PATIENT-8 | over_southern_and_western_parts</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id325" size="3">
+		<entry category="EnglishWeather" eid="Id325" size="3">
 			<originaltripleset>
 				<otriple>locationArea | near_coasts</otriple>
 				<otriple>weatherFrequency | at_times</otriple>
@@ -11971,7 +11971,7 @@
 				<entity>PATIENT-3 | near_coasts</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id326" size="1">
+		<entry category="EnglishWeather" eid="Id326" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | around_the_seasonal_norm</otriple>
 			</originaltripleset>
@@ -11995,7 +11995,7 @@
 				<entity>PATIENT-1 | around_the_seasonal_norm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id327" size="5">
+		<entry category="EnglishWeather" eid="Id327" size="5">
 			<originaltripleset>
 				<otriple>timePoint | in_the_afternoon</otriple>
 				<otriple>weatherChange | eases_off</otriple>
@@ -12049,7 +12049,7 @@
 				<entity>PATIENT-7 | at_times</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id328" size="2">
+		<entry category="EnglishWeather" eid="Id328" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cool</otriple>
 				<otriple>temperatureHotCold | warmer</otriple>
@@ -12083,7 +12083,7 @@
 				<entity>PATIENT-3 | last_few_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id329" size="2">
+		<entry category="EnglishWeather" eid="Id329" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | 7am_on_Friday_June_14</otriple>
@@ -12112,7 +12112,7 @@
 				<entity>PATIENT-2 | 7am_on_Friday_June_14</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id330" size="2">
+		<entry category="EnglishWeather" eid="Id330" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | 4pm_on_Friday_June_14</otriple>
@@ -12141,7 +12141,7 @@
 				<entity>PATIENT-2 | 4pm_on_Friday_June_14</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id331" size="2">
+		<entry category="EnglishWeather" eid="Id331" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | Saturday_June_15_to_Monday_June_17</otriple>
@@ -12170,7 +12170,7 @@
 				<entity>PATIENT-2 | Saturday_June_15_to_Monday_June_17</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id332" size="2">
+		<entry category="EnglishWeather" eid="Id332" size="2">
 			<originaltripleset>
 				<otriple>timePoint | Monday</otriple>
 				<otriple>weatherType | showers</otriple>
@@ -12209,7 +12209,7 @@
 				<entity>PATIENT-4 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id333" size="3">
+		<entry category="EnglishWeather" eid="Id333" size="3">
 			<originaltripleset>
 				<otriple>weatherArea | in_places</otriple>
 				<otriple>weatherIntensity | heavy</otriple>
@@ -12248,7 +12248,7 @@
 				<entity>PATIENT-4 | in_places</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id334" size="2">
+		<entry category="EnglishWeather" eid="Id334" size="2">
 			<originaltripleset>
 				<otriple>locationArea | in_the_east</otriple>
 				<otriple>temperatureHotCold | warmer</otriple>
@@ -12277,7 +12277,7 @@
 				<entity>PATIENT-2 | in_the_east</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id335" size="2">
+		<entry category="EnglishWeather" eid="Id335" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | Tuesday_18_to_Thursday_27_June</otriple>
@@ -12306,7 +12306,7 @@
 				<entity>PATIENT-2 | Tuesday_18_to_Thursday_27_June</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id336" size="2">
+		<entry category="EnglishWeather" eid="Id336" size="2">
 			<originaltripleset>
 				<otriple>timePoint | second_half_of_June</otriple>
 				<otriple>weatherType | drier</otriple>
@@ -12340,7 +12340,7 @@
 				<entity>PATIENT-3 | unsettled</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id337" size="4">
+		<entry category="EnglishWeather" eid="Id337" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | warmer</otriple>
 				<otriple>timePoint | Next_week</otriple>
@@ -12384,7 +12384,7 @@
 				<entity>PATIENT-5 | intervals</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id338" size="4">
+		<entry category="EnglishWeather" eid="Id338" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Southern_areas</otriple>
 				<otriple>temperatureHotCold | very_warm</otriple>
@@ -12428,7 +12428,7 @@
 				<entity>PATIENT-5 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id339" size="3">
+		<entry category="EnglishWeather" eid="Id339" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | warmer</otriple>
 				<otriple>timePoint | final_week_of_June</otriple>
@@ -12467,7 +12467,7 @@
 				<entity>PATIENT-4 | warmer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id340" size="2">
+		<entry category="EnglishWeather" eid="Id340" size="2">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | 12pm_Friday</otriple>
@@ -12496,7 +12496,7 @@
 				<entity>PATIENT-2 | 12pm_Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id341" size="3">
+		<entry category="EnglishWeather" eid="Id341" size="3">
 			<originaltripleset>
 				<otriple>temperatureChange | noticeably_cooler</otriple>
 				<otriple>weatherIntensity | plenty</otriple>
@@ -12535,7 +12535,7 @@
 				<entity>PATIENT-4 | noticeably_cooler</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id342" size="1">
+		<entry category="EnglishWeather" eid="Id342" size="1">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 			</originaltripleset>
@@ -12559,7 +12559,7 @@
 				<entity>PATIENT-1 | UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id343" size="6">
+		<entry category="EnglishWeather" eid="Id343" size="6">
 			<originaltripleset>
 				<otriple>locationArea | Marham,_Norfolk</otriple>
 				<otriple>maximumTemperature | 18C</otriple>
@@ -12623,7 +12623,7 @@
 				<entity>PATIENT-9 | frosts</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id344" size="4">
+		<entry category="EnglishWeather" eid="Id344" size="4">
 			<originaltripleset>
 				<otriple>locationArea | in_some_parts</otriple>
 				<otriple>temperatureChange | tumble</otriple>
@@ -12667,7 +12667,7 @@
 				<entity>PATIENT-5 | tumble</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id345" size="5">
+		<entry category="EnglishWeather" eid="Id345" size="5">
 			<originaltripleset>
 				<otriple>cloudAmount | Cloud</otriple>
 				<otriple>locationArea | South</otriple>
@@ -12716,7 +12716,7 @@
 				<entity>PATIENT-6 | Tuesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id346" size="2">
+		<entry category="EnglishWeather" eid="Id346" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | much_cooler</otriple>
 				<otriple>timePoint | today</otriple>
@@ -12745,7 +12745,7 @@
 				<entity>PATIENT-2 | today</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id347" size="2">
+		<entry category="EnglishWeather" eid="Id347" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | cooler</otriple>
 				<otriple>timePoint | through_Tuesday_and_into_Wednesday</otriple>
@@ -12774,7 +12774,7 @@
 				<entity>PATIENT-2 | through_Tuesday_and_into_Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id348" size="3">
+		<entry category="EnglishWeather" eid="Id348" size="3">
 			<originaltripleset>
 				<otriple>maximumTemperature | 12C</otriple>
 				<otriple>maximumTemperature | 13C</otriple>
@@ -12818,7 +12818,7 @@
 				<entity>PATIENT-5 | around_average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id349" size="3">
+		<entry category="EnglishWeather" eid="Id349" size="3">
 			<originaltripleset>
 				<otriple>locationArea | eastern_parts_of_the_UK</otriple>
 				<otriple>locationArea | in_the_North</otriple>
@@ -12857,7 +12857,7 @@
 				<entity>PATIENT-4 | eastern_parts_of_the_UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id350" size="1">
+		<entry category="EnglishWeather" eid="Id350" size="1">
 			<originaltripleset>
 				<otriple>temperatureCelsius | below_average</otriple>
 				<otriple>temperatureCelsius | in_the_single_figures</otriple>
@@ -12886,7 +12886,7 @@
 				<entity>PATIENT-2 | in_the_single_figures</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id351" size="2">
+		<entry category="EnglishWeather" eid="Id351" size="2">
 			<originaltripleset>
 				<otriple>temperatureHotCold | noticeably_cooler</otriple>
 				<otriple>weatherType | dry</otriple>
@@ -12920,7 +12920,7 @@
 				<entity>PATIENT-3 | noticeably_cooler</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id352" size="3">
+		<entry category="EnglishWeather" eid="Id352" size="3">
 			<originaltripleset>
 				<otriple>locationArea | in_Newcastle</otriple>
 				<otriple>locationArea | in_Scotland</otriple>
@@ -12974,7 +12974,7 @@
 				<entity>PATIENT-7 | in_Newcastle</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id353" size="3">
+		<entry category="EnglishWeather" eid="Id353" size="3">
 			<originaltripleset>
 				<otriple>timePoint | at_night</otriple>
 				<otriple>timePoint | from_Wednesday</otriple>
@@ -13018,7 +13018,7 @@
 				<entity>PATIENT-5 | widespread</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id354" size="3">
+		<entry category="EnglishWeather" eid="Id354" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | Wednesday_14_August</otriple>
@@ -13062,7 +13062,7 @@
 				<entity>PATIENT-5 | overcast</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id355" size="2">
+		<entry category="EnglishWeather" eid="Id355" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | this_morning</otriple>
@@ -13091,7 +13091,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id356" size="3">
+		<entry category="EnglishWeather" eid="Id356" size="3">
 			<originaltripleset>
 				<otriple>timePoint | This_morning</otriple>
 				<otriple>weatherIntensity | heavy</otriple>
@@ -13125,7 +13125,7 @@
 				<entity>PATIENT-3 | rain</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id357" size="2">
+		<entry category="EnglishWeather" eid="Id357" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 15C</otriple>
 				<otriple>timePoint | 12pm</otriple>
@@ -13154,7 +13154,7 @@
 				<entity>PATIENT-2 | 12pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id358" size="2">
+		<entry category="EnglishWeather" eid="Id358" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | this_afternoon</otriple>
@@ -13183,7 +13183,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id359" size="3">
+		<entry category="EnglishWeather" eid="Id359" size="3">
 			<originaltripleset>
 				<otriple>timePoint | throughout_the_afternoon</otriple>
 				<otriple>weatherIntensity | Heavy</otriple>
@@ -13217,7 +13217,7 @@
 				<entity>PATIENT-3 | throughout_the_afternoon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id360" size="2">
+		<entry category="EnglishWeather" eid="Id360" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 16C</otriple>
 				<otriple>timePoint | 4pm</otriple>
@@ -13246,7 +13246,7 @@
 				<entity>PATIENT-2 | 4pm</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id361" size="2">
+		<entry category="EnglishWeather" eid="Id361" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | this_evening_and_tonight</otriple>
@@ -13275,7 +13275,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id362" size="3">
+		<entry category="EnglishWeather" eid="Id362" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Early_evening</otriple>
 				<otriple>timePoint | around_6pm</otriple>
@@ -13329,7 +13329,7 @@
 				<entity>PATIENT-7 | easing_off_completely</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id363" size="2">
+		<entry category="EnglishWeather" eid="Id363" size="2">
 			<originaltripleset>
 				<otriple>temperatureCelsius | 15C.</otriple>
 				<otriple>timePoint | Overnight</otriple>
@@ -13358,7 +13358,7 @@
 				<entity>PATIENT-2 | 15C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id364" size="2">
+		<entry category="EnglishWeather" eid="Id364" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | tomorrow</otriple>
@@ -13387,7 +13387,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id365" size="3">
+		<entry category="EnglishWeather" eid="Id365" size="3">
 			<originaltripleset>
 				<otriple>timePoint | Tomorrow</otriple>
 				<otriple>timePoint | during_the_morning</otriple>
@@ -13441,7 +13441,7 @@
 				<entity>PATIENT-7 | sunshine</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id366" size="1">
+		<entry category="EnglishWeather" eid="Id366" size="1">
 			<originaltripleset>
 				<otriple>maximumTemperature | 17C.</otriple>
 			</originaltripleset>
@@ -13465,7 +13465,7 @@
 				<entity>PATIENT-1 | 17C.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id367" size="2">
+		<entry category="EnglishWeather" eid="Id367" size="2">
 			<originaltripleset>
 				<otriple>locationArea | Preston</otriple>
 				<otriple>timePoint | long-term</otriple>
@@ -13494,7 +13494,7 @@
 				<entity>PATIENT-2 | Preston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id368" size="3">
+		<entry category="EnglishWeather" eid="Id368" size="3">
 			<originaltripleset>
 				<otriple>locationArea | UK</otriple>
 				<otriple>timePoint | Sunday_18_August_to_Tuesday_27</otriple>
@@ -13533,7 +13533,7 @@
 				<entity>PATIENT-4 | UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id369" size="5">
+		<entry category="EnglishWeather" eid="Id369" size="5">
 			<originaltripleset>
 				<otriple>timePoint | Sunday</otriple>
 				<otriple>weatherOccurringChance | likely</otriple>
@@ -13592,7 +13592,7 @@
 				<entity>PATIENT-8 | gales</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id370" size="4">
+		<entry category="EnglishWeather" eid="Id370" size="4">
 			<originaltripleset>
 				<otriple>locationArea | across_the_UK</otriple>
 				<otriple>timePoint | Into_next_week</otriple>
@@ -13636,7 +13636,7 @@
 				<entity>PATIENT-5 | across_the_UK</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id371" size="3">
+		<entry category="EnglishWeather" eid="Id371" size="3">
 			<originaltripleset>
 				<otriple>locationArea | in_the_north</otriple>
 				<otriple>locationArea | west</otriple>
@@ -13680,7 +13680,7 @@
 				<entity>PATIENT-5 | west</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id372" size="1">
+		<entry category="EnglishWeather" eid="Id372" size="1">
 			<originaltripleset>
 				<otriple>locationArea | EUGENE,_Ore.</otriple>
 			</originaltripleset>
@@ -13704,7 +13704,7 @@
 				<entity>PATIENT-1 | EUGENE,_Ore.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id373" size="1">
+		<entry category="EnglishWeather" eid="Id373" size="1">
 			<originaltripleset>
 				<otriple>locationArea | Western_Oregon</otriple>
 			</originaltripleset>
@@ -13728,7 +13728,7 @@
 				<entity>PATIENT-1 | Western_Oregon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id374" size="1">
+		<entry category="EnglishWeather" eid="Id374" size="1">
 			<originaltripleset>
 				<otriple>timePoint | September_23</otriple>
 			</originaltripleset>
@@ -13752,7 +13752,7 @@
 				<entity>PATIENT-1 | September_23</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id375" size="3">
+		<entry category="EnglishWeather" eid="Id375" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Western_Oregon</otriple>
 				<otriple>timePoint | September</otriple>
@@ -13786,7 +13786,7 @@
 				<entity>PATIENT-3 | Western_Oregon</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id376" size="4">
+		<entry category="EnglishWeather" eid="Id376" size="4">
 			<originaltripleset>
 				<otriple>temperatureHotCold | pleasant</otriple>
 				<otriple>timePoint | through_the_middle_of_the_week</otriple>
@@ -13825,7 +13825,7 @@
 				<entity>PATIENT-4 | through_the_middle_of_the_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id377" size="3">
+		<entry category="EnglishWeather" eid="Id377" size="3">
 			<originaltripleset>
 				<otriple>compassDirection | toward_the_Pacific_Northwest</otriple>
 				<otriple>temperatureHotCold | cold</otriple>
@@ -13859,7 +13859,7 @@
 				<entity>PATIENT-3 | as_early_as_Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id378" size="3">
+		<entry category="EnglishWeather" eid="Id378" size="3">
 			<originaltripleset>
 				<otriple>temperatureHotCold | colder</otriple>
 				<otriple>timePoint | end_of_the_week_and_the_upcoming_weekend</otriple>
@@ -13893,7 +13893,7 @@
 				<entity>PATIENT-3 | end_of_the_week_and_the_upcoming_weekend</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id379" size="4">
+		<entry category="EnglishWeather" eid="Id379" size="4">
 			<originaltripleset>
 				<otriple>timePoint | Friday_night_into_Saturday</otriple>
 				<otriple>weatherIntensity | significant</otriple>
@@ -13942,7 +13942,7 @@
 				<entity>PATIENT-6 | Friday_night_into_Saturday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id380" size="3">
+		<entry category="EnglishWeather" eid="Id380" size="3">
 			<originaltripleset>
 				<otriple>locationArea | Eugene</otriple>
 				<otriple>temperatureCelsius | 60_F.</otriple>
@@ -13981,7 +13981,7 @@
 				<entity>PATIENT-4 | 60_F.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id381" size="4">
+		<entry category="EnglishWeather" eid="Id381" size="4">
 			<originaltripleset>
 				<otriple>locationArea | Cascade_passes</otriple>
 				<otriple>locationArea | down_to_Government_Camp</otriple>
@@ -14035,7 +14035,7 @@
 				<entity>PATIENT-7 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id382" size="5">
+		<entry category="EnglishWeather" eid="Id382" size="5">
 			<originaltripleset>
 				<otriple>locationArea | Cascades</otriple>
 				<otriple>temperatureHotCold | cold</otriple>

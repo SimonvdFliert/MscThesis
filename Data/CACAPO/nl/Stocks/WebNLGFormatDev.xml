@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <benchmark>
   <entries>
-    <entry category="DutchIncidents" eid="Id1" size="4">
+    <entry category="DutchStocks" eid="Id1" size="4">
       <originaltripleset>
         <otriple>companyName | ANP</otriple>
         <otriple>locationName | AMSTERDAM</otriple>
@@ -45,7 +45,7 @@
         <entity>PATIENT-5 | dicht_bij_huis</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id2" size="2">
+    <entry category="DutchStocks" eid="Id2" size="2">
       <originaltripleset>
         <otriple>companyName | Federal_Reserve</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -84,7 +84,7 @@
         <entity>PATIENT-4 | Federal_Reserve</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id3" size="1">
+    <entry category="DutchStocks" eid="Id3" size="1">
       <originaltripleset>
         <otriple>locationName | Europese</otriple>
       </originaltripleset>
@@ -108,7 +108,7 @@
         <entity>PATIENT-1 | Europese</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id4" size="5">
+    <entry category="DutchStocks" eid="Id4" size="5">
       <originaltripleset>
         <otriple>exchangeName | AEX-index</otriple>
         <otriple>locationName | Beursplein_5</otriple>
@@ -152,7 +152,7 @@
         <entity>PATIENT-5 | 581,87</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id5" size="4">
+    <entry category="DutchStocks" eid="Id5" size="4">
       <originaltripleset>
         <otriple>exchangeName | MidKap</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -191,7 +191,7 @@
         <entity>PATIENT-4 | 871,65</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id6" size="3">
+    <entry category="DutchStocks" eid="Id6" size="3">
       <originaltripleset>
         <otriple>locationName | Franse</otriple>
         <otriple>locationName | Parijs</otriple>
@@ -230,7 +230,7 @@
         <entity>PATIENT-4 | 0,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id7" size="3">
+    <entry category="DutchStocks" eid="Id7" size="3">
       <originaltripleset>
         <otriple>locationName | Frankfurt</otriple>
         <otriple>locationName | Londen</otriple>
@@ -274,7 +274,7 @@
         <entity>PATIENT-5 | 0,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id8" size="4">
+    <entry category="DutchStocks" eid="Id8" size="4">
       <originaltripleset>
         <otriple>companyName | Autofabrikant_PSA</otriple>
         <otriple>locationName | Parijs</otriple>
@@ -313,7 +313,7 @@
         <entity>PATIENT-4 | Parijs</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id9" size="1">
+    <entry category="DutchStocks" eid="Id9" size="1">
       <originaltripleset>
         <otriple>companyName | Citroën</otriple>
         <otriple>companyName | Fiat_Chrysler</otriple>
@@ -352,7 +352,7 @@
         <entity>PATIENT-4 | Fiat_Chrysler</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id10" size="4">
+    <entry category="DutchStocks" eid="Id10" size="4">
       <originaltripleset>
         <otriple>companyName | Fiat_Chrysler</otriple>
         <otriple>locationName | Milaan</otriple>
@@ -391,7 +391,7 @@
         <entity>PATIENT-4 | meer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id11" size="4">
+    <entry category="DutchStocks" eid="Id11" size="4">
       <originaltripleset>
         <otriple>companyName | Concurrent_Renault</otriple>
         <otriple>companyName | Fiat_Chrysler</otriple>
@@ -435,7 +435,7 @@
         <entity>PATIENT-5 | kwijt</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id12" size="4">
+    <entry category="DutchStocks" eid="Id12" size="4">
       <originaltripleset>
         <otriple>companyName | autobouwer_Volkswagen</otriple>
         <otriple>locationName | Duitse</otriple>
@@ -479,7 +479,7 @@
         <entity>PATIENT-5 | 1,2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id13" size="5">
+    <entry category="DutchStocks" eid="Id13" size="5">
       <originaltripleset>
         <otriple>companyName | staalmaker_ArcelorMittal</otriple>
         <otriple>exchangeName | AEX</otriple>
@@ -528,7 +528,7 @@
         <entity>PATIENT-6 | meer_dan_2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id14" size="3">
+    <entry category="DutchStocks" eid="Id14" size="3">
       <originaltripleset>
         <otriple>companyName | Biotechnoloog_Galapagos</otriple>
         <otriple>stockChange | winst</otriple>
@@ -562,7 +562,7 @@
         <entity>PATIENT-3 | 2,4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id15" size="3">
+    <entry category="DutchStocks" eid="Id15" size="3">
       <originaltripleset>
         <otriple>companyName | ICT_Group</otriple>
         <otriple>stockChange | leverde</otriple>
@@ -596,7 +596,7 @@
         <entity>PATIENT-3 | 9,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id16" size="2">
+    <entry category="DutchStocks" eid="Id16" size="2">
       <originaltripleset>
         <otriple>companyName | automatiseerder</otriple>
         <otriple>stockChange | dalen</otriple>
@@ -625,7 +625,7 @@
         <entity>PATIENT-2 | dalen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id17" size="3">
+    <entry category="DutchStocks" eid="Id17" size="3">
       <originaltripleset>
         <otriple>companyName | Heijmans</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -659,7 +659,7 @@
         <entity>PATIENT-3 | 4,6_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id18" size="1">
+    <entry category="DutchStocks" eid="Id18" size="1">
       <originaltripleset>
         <otriple>companyName | bouwer</otriple>
       </originaltripleset>
@@ -683,7 +683,7 @@
         <entity>PATIENT-1 | bouwer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id19" size="3">
+    <entry category="DutchStocks" eid="Id19" size="3">
       <originaltripleset>
         <otriple>companyName | Concurrent_BAM</otriple>
         <otriple>stockChange | daalde</otriple>
@@ -717,7 +717,7 @@
         <entity>PATIENT-3 | 3,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id20" size="2">
+    <entry category="DutchStocks" eid="Id20" size="2">
       <originaltripleset>
         <otriple>companyName | Centenaandeel_Esperite</otriple>
         <otriple>stockChange | verdubbelde_bijna</otriple>
@@ -746,7 +746,7 @@
         <entity>PATIENT-2 | verdubbelde_bijna</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id21" size="1">
+    <entry category="DutchStocks" eid="Id21" size="1">
       <originaltripleset>
         <otriple>companyName | FD</otriple>
         <otriple>companyName | Financieele_Dagblad</otriple>
@@ -780,7 +780,7 @@
         <entity>PATIENT-3 | stamcelbedrijf</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id22" size="3">
+    <entry category="DutchStocks" eid="Id22" size="3">
       <originaltripleset>
         <otriple>companyName | Deutsche_Bank</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -814,7 +814,7 @@
         <entity>PATIENT-3 | 5,4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id23" size="3">
+    <entry category="DutchStocks" eid="Id23" size="3">
       <originaltripleset>
         <otriple>locationName | grootste_bank_van_Duitsland</otriple>
         <otriple>stockChange | flink_verlies</otriple>
@@ -848,7 +848,7 @@
         <entity>PATIENT-3 | flink_verlies</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id24" size="4">
+    <entry category="DutchStocks" eid="Id24" size="4">
       <originaltripleset>
         <otriple>companyName | bank_Standard_Chartered</otriple>
         <otriple>locationName | Britse</otriple>
@@ -887,7 +887,7 @@
         <entity>PATIENT-4 | 2,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id25" size="4">
+    <entry category="DutchStocks" eid="Id25" size="4">
       <originaltripleset>
         <otriple>companyName | cosmeticagigant_L'Oréal</otriple>
         <otriple>locationName | Franse</otriple>
@@ -926,7 +926,7 @@
         <entity>PATIENT-4 | 6,8_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id26" size="3">
+    <entry category="DutchStocks" eid="Id26" size="3">
       <originaltripleset>
         <otriple>companyName | euro</otriple>
         <otriple>moneyAmount | 1,1107_dollar</otriple>
@@ -965,7 +965,7 @@
         <entity>PATIENT-4 | een_dag_eerder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id27" size="4">
+    <entry category="DutchStocks" eid="Id27" size="4">
       <originaltripleset>
         <otriple>companyName | olie</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -1004,7 +1004,7 @@
         <entity>PATIENT-4 | 55,53_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id28" size="4">
+    <entry category="DutchStocks" eid="Id28" size="4">
       <originaltripleset>
         <otriple>companyName | Brentolie</otriple>
         <otriple>moneyAmount | 61,71_dollar</otriple>
@@ -1043,7 +1043,7 @@
         <entity>PATIENT-4 | 61,71_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id29" size="2">
+    <entry category="DutchStocks" eid="Id29" size="2">
       <originaltripleset>
         <otriple>locationName | AMSTERDAM</otriple>
         <otriple>locationName | Europese</otriple>
@@ -1077,7 +1077,7 @@
         <entity>PATIENT-3 | vrijdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id30" size="2">
+    <entry category="DutchStocks" eid="Id30" size="2">
       <originaltripleset>
         <otriple>stockChange | in_het_rood</otriple>
         <otriple>timePoint | over_de_hele_week</otriple>
@@ -1111,7 +1111,7 @@
         <entity>PATIENT-3 | in_het_rood</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id31" size="2">
+    <entry category="DutchStocks" eid="Id31" size="2">
       <originaltripleset>
         <otriple>companyName | Huawei</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -1140,7 +1140,7 @@
         <entity>PATIENT-2 | Huawei</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id32" size="4">
+    <entry category="DutchStocks" eid="Id32" size="4">
       <originaltripleset>
         <otriple>exchangeName | AEX-index_op_Beursplein_5</otriple>
         <otriple>stockChange | in_de_plus</otriple>
@@ -1179,7 +1179,7 @@
         <entity>PATIENT-4 | 547,21</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id33" size="4">
+    <entry category="DutchStocks" eid="Id33" size="4">
       <originaltripleset>
         <otriple>exchangeName | MidKap</otriple>
         <otriple>stockChange | klom</otriple>
@@ -1218,7 +1218,7 @@
         <entity>PATIENT-4 | 748,69</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id34" size="3">
+    <entry category="DutchStocks" eid="Id34" size="3">
       <originaltripleset>
         <otriple>locationName | Parijs_en_Frankfurt</otriple>
         <otriple>stockChange | stegen</otriple>
@@ -1252,7 +1252,7 @@
         <entity>PATIENT-3 | 0,7_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id35" size="3">
+    <entry category="DutchStocks" eid="Id35" size="3">
       <originaltripleset>
         <otriple>locationName | Londen</otriple>
         <otriple>stockChange | won</otriple>
@@ -1286,7 +1286,7 @@
         <entity>PATIENT-3 | 0,7_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id36" size="4">
+    <entry category="DutchStocks" eid="Id36" size="4">
       <originaltripleset>
         <otriple>companyName | Vastgoedfonds_Unibail-Rodamco-Westfield</otriple>
         <otriple>locationName | Damrak</otriple>
@@ -1325,7 +1325,7 @@
         <entity>PATIENT-4 | 2,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id37" size="3">
+    <entry category="DutchStocks" eid="Id37" size="3">
       <originaltripleset>
         <otriple>companyName | Verzekeraar_ASR</otriple>
         <otriple>stockChange | min</otriple>
@@ -1359,7 +1359,7 @@
         <entity>PATIENT-3 | 2,6_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id38" size="3">
+    <entry category="DutchStocks" eid="Id38" size="3">
       <originaltripleset>
         <otriple>companyName | Betaalbedrijf_Adyen</otriple>
         <otriple>stockChange | klom</otriple>
@@ -1393,7 +1393,7 @@
         <entity>PATIENT-3 | 1,8_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id39" size="2">
+    <entry category="DutchStocks" eid="Id39" size="2">
       <originaltripleset>
         <otriple>companyName | Total_System_Services</otriple>
         <otriple>companyName | betalingsdienstverleners_Global_Payments</otriple>
@@ -1432,7 +1432,7 @@
         <entity>PATIENT-4 | persbureau_Bloomberg</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id40" size="4">
+    <entry category="DutchStocks" eid="Id40" size="4">
       <originaltripleset>
         <otriple>companyName | fintechbedrijf_Wirecard</otriple>
         <otriple>locationName | Frankfurt</otriple>
@@ -1471,7 +1471,7 @@
         <entity>PATIENT-4 | 1,4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id41" size="1">
+    <entry category="DutchStocks" eid="Id41" size="1">
       <originaltripleset>
         <otriple>exchangeName | MidKap</otriple>
       </originaltripleset>
@@ -1495,7 +1495,7 @@
         <entity>PATIENT-1 | MidKap</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id42" size="3">
+    <entry category="DutchStocks" eid="Id42" size="3">
       <originaltripleset>
         <otriple>companyName | Maaltijdbestelbedrijf_Takeaway.com</otriple>
         <otriple>stockChange | plus</otriple>
@@ -1529,7 +1529,7 @@
         <entity>PATIENT-3 | 4,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id43" size="3">
+    <entry category="DutchStocks" eid="Id43" size="3">
       <originaltripleset>
         <otriple>companyName | OCI</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -1563,7 +1563,7 @@
         <entity>PATIENT-3 | 1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id44" size="2">
+    <entry category="DutchStocks" eid="Id44" size="2">
       <originaltripleset>
         <otriple>companyName | kunstmestproducent</otriple>
         <otriple>timePoint | afgelopen_kwartaal</otriple>
@@ -1597,7 +1597,7 @@
         <entity>PATIENT-3 | tweede_kwartaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id45" size="4">
+    <entry category="DutchStocks" eid="Id45" size="4">
       <originaltripleset>
         <otriple>companyName | Casino</otriple>
         <otriple>locationName | Parijs</otriple>
@@ -1636,7 +1636,7 @@
         <entity>PATIENT-4 | 7,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id46" size="1">
+    <entry category="DutchStocks" eid="Id46" size="1">
       <originaltripleset>
         <otriple>companyName | moederbedrijven_van_de_grote_Franse_supermarktketen</otriple>
       </originaltripleset>
@@ -1660,7 +1660,7 @@
         <entity>PATIENT-1 | moederbedrijven_van_de_grote_Franse_supermarktketen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id47" size="2">
+    <entry category="DutchStocks" eid="Id47" size="2">
       <originaltripleset>
         <otriple>companyName | Casino</otriple>
         <otriple>locationName | Zuid-Amerika</otriple>
@@ -1689,7 +1689,7 @@
         <entity>PATIENT-2 | Zuid-Amerika</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id48" size="1">
+    <entry category="DutchStocks" eid="Id48" size="1">
       <originaltripleset>
         <otriple>moneyAmount | miljarden</otriple>
       </originaltripleset>
@@ -1713,7 +1713,7 @@
         <entity>PATIENT-1 | miljarden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id49" size="4">
+    <entry category="DutchStocks" eid="Id49" size="4">
       <originaltripleset>
         <otriple>companyName | A.P._Møller-Maersk</otriple>
         <otriple>locationName | Kopenhagen</otriple>
@@ -1752,7 +1752,7 @@
         <entity>PATIENT-4 | Kopenhagen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id50" size="1">
+    <entry category="DutchStocks" eid="Id50" size="1">
       <originaltripleset>
         <otriple>companyName | 's_Werelds_grootste_containervervoerder</otriple>
       </originaltripleset>
@@ -1776,7 +1776,7 @@
         <entity>PATIENT-1 | 's_Werelds_grootste_containervervoerder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id51" size="3">
+    <entry category="DutchStocks" eid="Id51" size="3">
       <originaltripleset>
         <otriple>companyName | euro</otriple>
         <otriple>moneyAmount | 1,1166_dollar</otriple>
@@ -1815,7 +1815,7 @@
         <entity>PATIENT-4 | een_dag_eerder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id52" size="4">
+    <entry category="DutchStocks" eid="Id52" size="4">
       <originaltripleset>
         <otriple>companyName | Amerikaanse_olie</otriple>
         <otriple>moneyAmount | 57,94_dollar</otriple>
@@ -1854,7 +1854,7 @@
         <entity>PATIENT-4 | 57,94_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id53" size="4">
+    <entry category="DutchStocks" eid="Id53" size="4">
       <originaltripleset>
         <otriple>companyName | Brentolie</otriple>
         <otriple>moneyAmount | 67,94_dollar</otriple>
@@ -1893,7 +1893,7 @@
         <entity>PATIENT-4 | 67,94_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id54" size="3">
+    <entry category="DutchStocks" eid="Id54" size="3">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>stockChange | vlak</otriple>
@@ -1927,7 +1927,7 @@
         <entity>PATIENT-3 | vlak</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id55" size="2">
+    <entry category="DutchStocks" eid="Id55" size="2">
       <originaltripleset>
         <otriple>companyName | Federal_Reserve</otriple>
         <otriple>locationName | China</otriple>
@@ -1961,7 +1961,7 @@
         <entity>PATIENT-3 | Federal_Reserve</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id56" size="1">
+    <entry category="DutchStocks" eid="Id56" size="1">
       <originaltripleset>
         <otriple>timePoint | vandaag</otriple>
       </originaltripleset>
@@ -1985,7 +1985,7 @@
         <entity>PATIENT-1 | vandaag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id57" size="4">
+    <entry category="DutchStocks" eid="Id57" size="4">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>exchangeName | bredere_S&amp;P_500-index</otriple>
@@ -2029,7 +2029,7 @@
         <entity>PATIENT-5 | 0,3%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id58" size="2">
+    <entry category="DutchStocks" eid="Id58" size="2">
       <originaltripleset>
         <otriple>exchangeName | technologiebeurs_Nasdaq</otriple>
         <otriple>stockChange | schommelt_rond_de_openingsstand</otriple>
@@ -2058,7 +2058,7 @@
         <entity>PATIENT-2 | schommelt_rond_de_openingsstand</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id59" size="4">
+    <entry category="DutchStocks" eid="Id59" size="4">
       <originaltripleset>
         <otriple>companyName | Garmin</otriple>
         <otriple>stockChange | steeg</otriple>
@@ -2097,7 +2097,7 @@
         <entity>PATIENT-4 | elf_jaar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id60" size="1">
+    <entry category="DutchStocks" eid="Id60" size="1">
       <originaltripleset>
         <otriple>timePoint | vierde_kwartaal</otriple>
       </originaltripleset>
@@ -2121,7 +2121,7 @@
         <entity>PATIENT-1 | vierde_kwartaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id61" size="4">
+    <entry category="DutchStocks" eid="Id61" size="4">
       <originaltripleset>
         <otriple>companyName | CVS_Health</otriple>
         <otriple>exchangeName | S&amp;P_500-index</otriple>
@@ -2160,7 +2160,7 @@
         <entity>PATIENT-4 | 2019</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id62" size="2">
+    <entry category="DutchStocks" eid="Id62" size="2">
       <originaltripleset>
         <otriple>companyName | Southwest_Airlines</otriple>
         <otriple>stockChange | kelderen</otriple>
@@ -2189,7 +2189,7 @@
         <entity>PATIENT-2 | kelderen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id63" size="3">
+    <entry category="DutchStocks" eid="Id63" size="3">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>moneyAmount | $60_mln</otriple>
@@ -2223,7 +2223,7 @@
         <entity>PATIENT-3 | $60_mln</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id64" size="3">
+    <entry category="DutchStocks" eid="Id64" size="3">
       <originaltripleset>
         <otriple>companyName | chemieconcern_DowDuPont</otriple>
         <otriple>companyName | machinebouwer_Caterpillar</otriple>
@@ -2262,7 +2262,7 @@
         <entity>PATIENT-4 | stijgers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id65" size="2">
+    <entry category="DutchStocks" eid="Id65" size="2">
       <originaltripleset>
         <otriple>companyName | Walgreens_Boots_Alliance</otriple>
         <otriple>stockChange | daler</otriple>
@@ -2291,7 +2291,7 @@
         <entity>PATIENT-2 | Walgreens_Boots_Alliance</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id66" size="1">
+    <entry category="DutchStocks" eid="Id66" size="1">
       <originaltripleset>
         <otriple>locationName | Amsterdam</otriple>
       </originaltripleset>
@@ -2315,7 +2315,7 @@
         <entity>PATIENT-1 | Amsterdam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id67" size="4">
+    <entry category="DutchStocks" eid="Id67" size="4">
       <originaltripleset>
         <otriple>companyName | Federal_Reserve</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -2354,7 +2354,7 @@
         <entity>PATIENT-4 | Federal_Reserve</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id68" size="3">
+    <entry category="DutchStocks" eid="Id68" size="3">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>exchangeName | breder_samengestelde_S&amp;P_500</otriple>
@@ -2413,7 +2413,7 @@
         <entity>PATIENT-8 | 0,3%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id69" size="1">
+    <entry category="DutchStocks" eid="Id69" size="1">
       <originaltripleset>
         <otriple>stockChangePercentage | 1,50%</otriple>
         <otriple>stockChangePercentage | 1,75%</otriple>
@@ -2442,7 +2442,7 @@
         <entity>PATIENT-2 | 1,75%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id70" size="1">
+    <entry category="DutchStocks" eid="Id70" size="1">
       <originaltripleset>
         <otriple>companyName | Fed</otriple>
       </originaltripleset>
@@ -2466,7 +2466,7 @@
         <entity>PATIENT-1 | Fed</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id71" size="1">
+    <entry category="DutchStocks" eid="Id71" size="1">
       <originaltripleset>
         <otriple>companyName | dollar</otriple>
         <otriple>companyName | euro</otriple>
@@ -2495,7 +2495,7 @@
         <entity>PATIENT-2 | euro</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id72" size="4">
+    <entry category="DutchStocks" eid="Id72" size="4">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>stockChange | gegroeid</otriple>
@@ -2534,7 +2534,7 @@
         <entity>PATIENT-4 | gegroeid</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id73" size="1">
+    <entry category="DutchStocks" eid="Id73" size="1">
       <originaltripleset>
         <otriple>stockChangePercentage | 1,6%</otriple>
       </originaltripleset>
@@ -2558,7 +2558,7 @@
         <entity>PATIENT-1 | 1,6%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id74" size="2">
+    <entry category="DutchStocks" eid="Id74" size="2">
       <originaltripleset>
         <otriple>companyName | loonstrookjesverwerker_ADP</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -2587,7 +2587,7 @@
         <entity>PATIENT-2 | Amerikaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id75" size="2">
+    <entry category="DutchStocks" eid="Id75" size="2">
       <originaltripleset>
         <otriple>companyName | Bureau_of_Labor_Statistics</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -2616,7 +2616,7 @@
         <entity>PATIENT-2 | Bureau_of_Labor_Statistics</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id76" size="1">
+    <entry category="DutchStocks" eid="Id76" size="1">
       <originaltripleset>
         <otriple>companyName | General_Electric</otriple>
       </originaltripleset>
@@ -2640,7 +2640,7 @@
         <entity>PATIENT-1 | General_Electric</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id77" size="2">
+    <entry category="DutchStocks" eid="Id77" size="2">
       <originaltripleset>
         <otriple>stockChange | hoger</otriple>
         <otriple>stockChangePercentage | 11,7%</otriple>
@@ -2669,7 +2669,7 @@
         <entity>PATIENT-2 | hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id78" size="2">
+    <entry category="DutchStocks" eid="Id78" size="2">
       <originaltripleset>
         <otriple>companyName | Johnson_&amp;_Johnson</otriple>
         <otriple>exchangeName | Dow_Jones</otriple>
@@ -2698,7 +2698,7 @@
         <entity>PATIENT-2 | Johnson_&amp;_Johnson</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id79" size="2">
+    <entry category="DutchStocks" eid="Id79" size="2">
       <originaltripleset>
         <otriple>companyName | farmaceut</otriple>
         <otriple>stockChange | won</otriple>
@@ -2727,7 +2727,7 @@
         <entity>PATIENT-2 | won</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id80" size="1">
+    <entry category="DutchStocks" eid="Id80" size="1">
       <originaltripleset>
         <otriple>companyName | Toezichthouder_FDA</otriple>
       </originaltripleset>
@@ -2751,7 +2751,7 @@
         <entity>PATIENT-1 | Toezichthouder_FDA</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id81" size="3">
+    <entry category="DutchStocks" eid="Id81" size="3">
       <originaltripleset>
         <otriple>companyName | Johnson_&amp;_Johnson</otriple>
         <otriple>stockChange | in_het_groen</otriple>
@@ -2785,7 +2785,7 @@
         <entity>PATIENT-3 | in_het_groen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id82" size="2">
+    <entry category="DutchStocks" eid="Id82" size="2">
       <originaltripleset>
         <otriple>companyName | Speelgoedfabrikant_Mattel</otriple>
         <otriple>stockChange | schoot_omhoog</otriple>
@@ -2814,7 +2814,7 @@
         <entity>PATIENT-2 | schoot_omhoog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id83" size="2">
+    <entry category="DutchStocks" eid="Id83" size="2">
       <originaltripleset>
         <otriple>stockChange | hoger</otriple>
         <otriple>stockChangePercentage | 13,8%</otriple>
@@ -2843,7 +2843,7 @@
         <entity>PATIENT-2 | hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id84" size="2">
+    <entry category="DutchStocks" eid="Id84" size="2">
       <originaltripleset>
         <otriple>locationName | Amsterdam</otriple>
         <otriple>locationName | Europese</otriple>
@@ -2877,7 +2877,7 @@
         <entity>PATIENT-3 | flink_lager</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id85" size="1">
+    <entry category="DutchStocks" eid="Id85" size="1">
       <originaltripleset>
         <otriple>locationName | Duitse</otriple>
       </originaltripleset>
@@ -2901,7 +2901,7 @@
         <entity>PATIENT-1 | Duitse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id86" size="2">
+    <entry category="DutchStocks" eid="Id86" size="2">
       <originaltripleset>
         <otriple>stockChange | ingeleverd</otriple>
         <otriple>stockChange | winsten</otriple>
@@ -2935,7 +2935,7 @@
         <entity>PATIENT-3 | een_dag_eerder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id87" size="4">
+    <entry category="DutchStocks" eid="Id87" size="4">
       <originaltripleset>
         <otriple>exchangeName | AEX_op_Beursplein_5</otriple>
         <otriple>stockChange | in_de_min</otriple>
@@ -2974,7 +2974,7 @@
         <entity>PATIENT-4 | 536,66</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id88" size="4">
+    <entry category="DutchStocks" eid="Id88" size="4">
       <originaltripleset>
         <otriple>exchangeName | Midkap</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -3013,7 +3013,7 @@
         <entity>PATIENT-4 | 783,52</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id89" size="3">
+    <entry category="DutchStocks" eid="Id89" size="3">
       <originaltripleset>
         <otriple>locationName | Londen_en_Parijs</otriple>
         <otriple>stockChange | daalden</otriple>
@@ -3047,7 +3047,7 @@
         <entity>PATIENT-3 | 2,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id90" size="3">
+    <entry category="DutchStocks" eid="Id90" size="3">
       <originaltripleset>
         <otriple>exchangeName | DAX_in_Frankfurt</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -3081,7 +3081,7 @@
         <entity>PATIENT-3 | 2,2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id91" size="4">
+    <entry category="DutchStocks" eid="Id91" size="4">
       <originaltripleset>
         <otriple>locationName | Duitse</otriple>
         <otriple>stockChange | kromp</otriple>
@@ -3120,7 +3120,7 @@
         <entity>PATIENT-4 | 0,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id92" size="3">
+    <entry category="DutchStocks" eid="Id92" size="3">
       <originaltripleset>
         <otriple>locationName | Nederlandse</otriple>
         <otriple>stockChange | groeitempo</otriple>
@@ -3154,7 +3154,7 @@
         <entity>PATIENT-3 | 0,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id93" size="3">
+    <entry category="DutchStocks" eid="Id93" size="3">
       <originaltripleset>
         <otriple>locationName | Milaan</otriple>
         <otriple>stockChange | onderuit</otriple>
@@ -3188,7 +3188,7 @@
         <entity>PATIENT-3 | onderuit</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id94" size="1">
+    <entry category="DutchStocks" eid="Id94" size="1">
       <originaltripleset>
         <otriple>locationName | Italiaanse</otriple>
       </originaltripleset>
@@ -3212,7 +3212,7 @@
         <entity>PATIENT-1 | Italiaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id95" size="4">
+    <entry category="DutchStocks" eid="Id95" size="4">
       <originaltripleset>
         <otriple>companyName | Staalconcern_ArcelorMittal</otriple>
         <otriple>locationName | Amsterdam</otriple>
@@ -3251,7 +3251,7 @@
         <entity>PATIENT-4 | Amsterdam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id96" size="3">
+    <entry category="DutchStocks" eid="Id96" size="3">
       <originaltripleset>
         <otriple>companyName | chipmachinemaker_ASML</otriple>
         <otriple>stockChange | inleverde</otriple>
@@ -3285,7 +3285,7 @@
         <entity>PATIENT-3 | inleverde</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id97" size="3">
+    <entry category="DutchStocks" eid="Id97" size="3">
       <originaltripleset>
         <otriple>companyName | Levensmiddelenmaker_Unilever</otriple>
         <otriple>companyName | maaltijdbestelsite_Takeaway</otriple>
@@ -3334,7 +3334,7 @@
         <entity>PATIENT-6 | plus</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id98" size="3">
+    <entry category="DutchStocks" eid="Id98" size="3">
       <originaltripleset>
         <otriple>locationName | Wall_Street</otriple>
         <otriple>stockChange | stevige_minnen</otriple>
@@ -3368,7 +3368,7 @@
         <entity>PATIENT-3 | stevige_minnen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id99" size="1">
+    <entry category="DutchStocks" eid="Id99" size="1">
       <originaltripleset>
         <otriple>locationName | Chinese</otriple>
         <otriple>locationName | Duitse</otriple>
@@ -3397,7 +3397,7 @@
         <entity>PATIENT-2 | Chinese</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id100" size="4">
+    <entry category="DutchStocks" eid="Id100" size="4">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones</otriple>
         <otriple>stockChange | lager</otriple>
@@ -3436,7 +3436,7 @@
         <entity>PATIENT-4 | 25.479</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id101" size="4">
+    <entry category="DutchStocks" eid="Id101" size="4">
       <originaltripleset>
         <otriple>exchangeName | Nasdaq</otriple>
         <otriple>exchangeName | S&amp;P_500</otriple>
@@ -3495,7 +3495,7 @@
         <entity>PATIENT-8 | 7774</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id102" size="5">
+    <entry category="DutchStocks" eid="Id102" size="5">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>exchangeName | Nasdaq-index</otriple>
@@ -3544,7 +3544,7 @@
         <entity>PATIENT-6 | hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id103" size="1">
+    <entry category="DutchStocks" eid="Id103" size="1">
       <originaltripleset>
         <otriple>locationName | Chinese</otriple>
       </originaltripleset>
@@ -3568,7 +3568,7 @@
         <entity>PATIENT-1 | Chinese</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id104" size="3">
+    <entry category="DutchStocks" eid="Id104" size="3">
       <originaltripleset>
         <otriple>companyName | Lyft</otriple>
         <otriple>stockChange | min</otriple>
@@ -3602,7 +3602,7 @@
         <entity>PATIENT-3 | 11,8%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id105" size="3">
+    <entry category="DutchStocks" eid="Id105" size="3">
       <originaltripleset>
         <otriple>companyName | concurrent_van_Uber</otriple>
         <otriple>moneyAmount | onder_de_prijs_van_$72</otriple>
@@ -3636,7 +3636,7 @@
         <entity>PATIENT-3 | vrijdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id106" size="3">
+    <entry category="DutchStocks" eid="Id106" size="3">
       <originaltripleset>
         <otriple>companyName | Amazon</otriple>
         <otriple>companyName | supermarktketen_Whole_Foods</otriple>
@@ -3680,7 +3680,7 @@
         <entity>PATIENT-5 | verlagen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id107" size="3">
+    <entry category="DutchStocks" eid="Id107" size="3">
       <originaltripleset>
         <otriple>companyName | Kellogg</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -3714,7 +3714,7 @@
         <entity>PATIENT-3 | 2,4%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id108" size="5">
+    <entry category="DutchStocks" eid="Id108" size="5">
       <originaltripleset>
         <otriple>companyName | betaalbedrijf_Adyen</otriple>
         <otriple>exchangeName | AEX</otriple>
@@ -3763,7 +3763,7 @@
         <entity>PATIENT-6 | 1,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id109" size="3">
+    <entry category="DutchStocks" eid="Id109" size="3">
       <originaltripleset>
         <otriple>companyName | Telecomconcern_KPN</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -3797,7 +3797,7 @@
         <entity>PATIENT-3 | 0,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id110" size="1">
+    <entry category="DutchStocks" eid="Id110" size="1">
       <originaltripleset>
         <otriple>locationName | Wall_Street</otriple>
       </originaltripleset>
@@ -3821,7 +3821,7 @@
         <entity>PATIENT-1 | Wall_Street</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id111" size="2">
+    <entry category="DutchStocks" eid="Id111" size="2">
       <originaltripleset>
         <otriple>locationName | New_York</otriple>
         <otriple>timePoint | dinsdag</otriple>
@@ -3850,7 +3850,7 @@
         <entity>PATIENT-2 | dinsdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id112" size="2">
+    <entry category="DutchStocks" eid="Id112" size="2">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>locationName | Chinese</otriple>
@@ -3889,7 +3889,7 @@
         <entity>PATIENT-4 | eind_deze_maand</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id113" size="3">
+    <entry category="DutchStocks" eid="Id113" size="3">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>stockChange | vooruit</otriple>
@@ -3923,7 +3923,7 @@
         <entity>PATIENT-3 | vooruit</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id114" size="3">
+    <entry category="DutchStocks" eid="Id114" size="3">
       <originaltripleset>
         <otriple>exchangeName | Technologiebeurs_Nasdaq</otriple>
         <otriple>stockChange | bij</otriple>
@@ -3957,7 +3957,7 @@
         <entity>PATIENT-3 | bij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id115" size="1">
+    <entry category="DutchStocks" eid="Id115" size="1">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
       </originaltripleset>
@@ -3981,7 +3981,7 @@
         <entity>PATIENT-1 | Amerikaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id116" size="3">
+    <entry category="DutchStocks" eid="Id116" size="3">
       <originaltripleset>
         <otriple>companyName | chipfondsen</otriple>
         <otriple>locationName | China</otriple>
@@ -4020,7 +4020,7 @@
         <entity>PATIENT-4 | in_de_lift</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id117" size="3">
+    <entry category="DutchStocks" eid="Id117" size="3">
       <originaltripleset>
         <otriple>companyName | Intel</otriple>
         <otriple>stockChange | omhoog</otriple>
@@ -4054,7 +4054,7 @@
         <entity>PATIENT-3 | omhoog</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id118" size="3">
+    <entry category="DutchStocks" eid="Id118" size="3">
       <originaltripleset>
         <otriple>companyName | Qualcomm</otriple>
         <otriple>stockChange | hoger</otriple>
@@ -4088,7 +4088,7 @@
         <entity>PATIENT-3 | hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id119" size="3">
+    <entry category="DutchStocks" eid="Id119" size="3">
       <originaltripleset>
         <otriple>companyName | Texas_Instruments</otriple>
         <otriple>stockChange | won</otriple>
@@ -4122,7 +4122,7 @@
         <entity>PATIENT-3 | 4,1%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id120" size="4">
+    <entry category="DutchStocks" eid="Id120" size="4">
       <originaltripleset>
         <otriple>exchangeName | AEX-index</otriple>
         <otriple>locationName | AMSTERDAM</otriple>
@@ -4166,7 +4166,7 @@
         <entity>PATIENT-5 | 600</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id121" size="1">
+    <entry category="DutchStocks" eid="Id121" size="1">
       <originaltripleset>
         <otriple>timePoint | 24_mei_2001</otriple>
       </originaltripleset>
@@ -4190,7 +4190,7 @@
         <entity>PATIENT-1 | 24_mei_2001</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id122" size="5">
+    <entry category="DutchStocks" eid="Id122" size="5">
       <originaltripleset>
         <otriple>locationName | Amsterdam</otriple>
         <otriple>stockChange | hoger</otriple>
@@ -4234,7 +4234,7 @@
         <entity>PATIENT-5 | 600,01</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id123" size="1">
+    <entry category="DutchStocks" eid="Id123" size="1">
       <originaltripleset>
         <otriple>locationName | China</otriple>
         <otriple>locationName | Verenigde_Staten</otriple>
@@ -4263,7 +4263,7 @@
         <entity>PATIENT-2 | China</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id124" size="3">
+    <entry category="DutchStocks" eid="Id124" size="3">
       <originaltripleset>
         <otriple>exchangeName | AEX</otriple>
         <otriple>stockPoints | 701,56</otriple>
@@ -4297,7 +4297,7 @@
         <entity>PATIENT-3 | 2000</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id125" size="4">
+    <entry category="DutchStocks" eid="Id125" size="4">
       <originaltripleset>
         <otriple>stockChange | gestegen</otriple>
         <otriple>stockChangePercentage | 23_procent</otriple>
@@ -4341,7 +4341,7 @@
         <entity>PATIENT-5 | 487,88_punten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id126" size="4">
+    <entry category="DutchStocks" eid="Id126" size="4">
       <originaltripleset>
         <otriple>exchangeName | AEX</otriple>
         <otriple>stockChange | verlies</otriple>
@@ -4380,7 +4380,7 @@
         <entity>PATIENT-4 | ruim_10_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id127" size="3">
+    <entry category="DutchStocks" eid="Id127" size="3">
       <originaltripleset>
         <otriple>locationName | NEW_YORK</otriple>
         <otriple>locationName | New_York</otriple>
@@ -4419,7 +4419,7 @@
         <entity>PATIENT-4 | zonder_grote_koerswijzigingen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id128" size="1">
+    <entry category="DutchStocks" eid="Id128" size="1">
       <originaltripleset>
         <otriple>exchangeName | Dow-Jonesindex</otriple>
       </originaltripleset>
@@ -4443,7 +4443,7 @@
         <entity>PATIENT-1 | Dow-Jonesindex</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id129" size="1">
+    <entry category="DutchStocks" eid="Id129" size="1">
       <originaltripleset>
         <otriple>locationName | China</otriple>
         <otriple>locationName | Verenigde_Staten</otriple>
@@ -4472,7 +4472,7 @@
         <entity>PATIENT-2 | China</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id130" size="4">
+    <entry category="DutchStocks" eid="Id130" size="4">
       <originaltripleset>
         <otriple>exchangeName | Dow</otriple>
         <otriple>stockChange | fractie_lager</otriple>
@@ -4511,7 +4511,7 @@
         <entity>PATIENT-4 | 26.816</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id131" size="4">
+    <entry category="DutchStocks" eid="Id131" size="4">
       <originaltripleset>
         <otriple>exchangeName | breder_samengestelde_S&amp;P_500-index</otriple>
         <otriple>stockChange | won</otriple>
@@ -4550,7 +4550,7 @@
         <entity>PATIENT-4 | 3010</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id132" size="3">
+    <entry category="DutchStocks" eid="Id132" size="3">
       <originaltripleset>
         <otriple>exchangeName | Technologiebeurs_Nasdaq</otriple>
         <otriple>stockChangePercentage | 0,3_procent</otriple>
@@ -4584,7 +4584,7 @@
         <entity>PATIENT-3 | 8187</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id133" size="1">
+    <entry category="DutchStocks" eid="Id133" size="1">
       <originaltripleset>
         <otriple>locationName | Chinese</otriple>
         <otriple>locationName | Verenigde_Staten</otriple>
@@ -4613,7 +4613,7 @@
         <entity>PATIENT-2 | Verenigde_Staten</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id134" size="1">
+    <entry category="DutchStocks" eid="Id134" size="1">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
       </originaltripleset>
@@ -4637,7 +4637,7 @@
         <entity>PATIENT-1 | Amerikaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id135" size="3">
+    <entry category="DutchStocks" eid="Id135" size="3">
       <originaltripleset>
         <otriple>companyName | Speelgoedmaker_Hasbro</otriple>
         <otriple>stockChange | kelderde</otriple>
@@ -4671,7 +4671,7 @@
         <entity>PATIENT-3 | meer_dan_15_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id136" size="3">
+    <entry category="DutchStocks" eid="Id136" size="3">
       <originaltripleset>
         <otriple>companyName | Branchegenoot_Mattel</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -4705,7 +4705,7 @@
         <entity>PATIENT-3 | zo'n_6_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id137" size="1">
+    <entry category="DutchStocks" eid="Id137" size="1">
       <originaltripleset>
         <otriple>companyName | Pakketbezorger_UPS</otriple>
         <otriple>companyName | e-commercebedrijven_als_Amazon.com</otriple>
@@ -4734,7 +4734,7 @@
         <entity>PATIENT-2 | e-commercebedrijven_als_Amazon.com</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id138" size="2">
+    <entry category="DutchStocks" eid="Id138" size="2">
       <originaltripleset>
         <otriple>stockChange | leverde</otriple>
         <otriple>stockChangePercentage | bijna_5_procent</otriple>
@@ -4763,7 +4763,7 @@
         <entity>PATIENT-2 | bijna_5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id139" size="2">
+    <entry category="DutchStocks" eid="Id139" size="2">
       <originaltripleset>
         <otriple>companyName | Procter_&amp;_Gamble</otriple>
         <otriple>timePoint | voorbije_kwartaal</otriple>
@@ -4792,7 +4792,7 @@
         <entity>PATIENT-2 | voorbije_kwartaal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id140" size="3">
+    <entry category="DutchStocks" eid="Id140" size="3">
       <originaltripleset>
         <otriple>companyName | verzorgings-_en_schoonmaakmiddelengigant</otriple>
         <otriple>stockChange | steeg</otriple>
@@ -4826,7 +4826,7 @@
         <entity>PATIENT-3 | kleine_4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id141" size="4">
+    <entry category="DutchStocks" eid="Id141" size="4">
       <originaltripleset>
         <otriple>companyName | Branchegenoot_Kimberly-Clark</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -4865,7 +4865,7 @@
         <entity>PATIENT-4 | ruim_3_procent_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id142" size="3">
+    <entry category="DutchStocks" eid="Id142" size="3">
       <originaltripleset>
         <otriple>companyName | FDA</otriple>
         <otriple>companyName | Farmaceut_Biogen</otriple>
@@ -4904,7 +4904,7 @@
         <entity>PATIENT-4 | bijna_40_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id143" size="4">
+    <entry category="DutchStocks" eid="Id143" size="4">
       <originaltripleset>
         <otriple>companyName | Verlichtingsbedrijf_Signify</otriple>
         <otriple>locationName | AMSTERDAM</otriple>
@@ -4948,7 +4948,7 @@
         <entity>PATIENT-5 | zwaar_ontgelden</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id144" size="3">
+    <entry category="DutchStocks" eid="Id144" size="3">
       <originaltripleset>
         <otriple>companyName | voormalige_verlichtingsdivisie_van_Philips</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -4982,7 +4982,7 @@
         <entity>PATIENT-3 | ruim_13_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id145" size="1">
+    <entry category="DutchStocks" eid="Id145" size="1">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>locationName | Europese</otriple>
@@ -5011,7 +5011,7 @@
         <entity>PATIENT-2 | Europese</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id146" size="1">
+    <entry category="DutchStocks" eid="Id146" size="1">
       <originaltripleset>
         <otriple>stockChangePercentage | in_de_plus</otriple>
       </originaltripleset>
@@ -5035,7 +5035,7 @@
         <entity>PATIENT-1 | in_de_plus</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id147" size="2">
+    <entry category="DutchStocks" eid="Id147" size="2">
       <originaltripleset>
         <otriple>companyName | Signify</otriple>
         <otriple>locationName | Beursplein_5</otriple>
@@ -5064,7 +5064,7 @@
         <entity>PATIENT-2 | Signify</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id148" size="3">
+    <entry category="DutchStocks" eid="Id148" size="3">
       <originaltripleset>
         <otriple>locationName | Eindhoven</otriple>
         <otriple>stockChange | dalen</otriple>
@@ -5098,7 +5098,7 @@
         <entity>PATIENT-3 | dalen</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id149" size="2">
+    <entry category="DutchStocks" eid="Id149" size="2">
       <originaltripleset>
         <otriple>companyName | Signify</otriple>
         <otriple>locationName | Europese</otriple>
@@ -5127,7 +5127,7 @@
         <entity>PATIENT-2 | Signify</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id150" size="5">
+    <entry category="DutchStocks" eid="Id150" size="5">
       <originaltripleset>
         <otriple>exchangeName | AEX-index</otriple>
         <otriple>locationName | Damrak</otriple>
@@ -5171,7 +5171,7 @@
         <entity>PATIENT-5 | 580,08</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id151" size="3">
+    <entry category="DutchStocks" eid="Id151" size="3">
       <originaltripleset>
         <otriple>locationName | Frankfurt</otriple>
         <otriple>locationName | Londen</otriple>
@@ -5215,7 +5215,7 @@
         <entity>PATIENT-5 | tot_0,8_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id152" size="3">
+    <entry category="DutchStocks" eid="Id152" size="3">
       <originaltripleset>
         <otriple>companyName | Signify</otriple>
         <otriple>exchangeName | MidKap</otriple>
@@ -5249,7 +5249,7 @@
         <entity>PATIENT-3 | beduidend_lager</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id153" size="3">
+    <entry category="DutchStocks" eid="Id153" size="3">
       <originaltripleset>
         <otriple>stockChange | zakte</otriple>
         <otriple>stockChangePercentage | 0,8_procent</otriple>
@@ -5283,7 +5283,7 @@
         <entity>PATIENT-3 | 827,66</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id154" size="2">
+    <entry category="DutchStocks" eid="Id154" size="2">
       <originaltripleset>
         <otriple>companyName | Wereldhave</otriple>
         <otriple>exchangeName | MidKap-fonds</otriple>
@@ -5312,7 +5312,7 @@
         <entity>PATIENT-2 | Wereldhave</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id155" size="3">
+    <entry category="DutchStocks" eid="Id155" size="3">
       <originaltripleset>
         <otriple>companyName | winkelvastgoedfonds</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -5346,7 +5346,7 @@
         <entity>PATIENT-3 | 6,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id156" size="4">
+    <entry category="DutchStocks" eid="Id156" size="4">
       <originaltripleset>
         <otriple>companyName | biotechnoloog_Galapagos</otriple>
         <otriple>exchangeName | AEX</otriple>
@@ -5385,7 +5385,7 @@
         <entity>PATIENT-4 | lager</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id157" size="3">
+    <entry category="DutchStocks" eid="Id157" size="3">
       <originaltripleset>
         <otriple>companyName | RELX</otriple>
         <otriple>stockChange | plus</otriple>
@@ -5419,7 +5419,7 @@
         <entity>PATIENT-3 | 3,1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id158" size="4">
+    <entry category="DutchStocks" eid="Id158" size="4">
       <originaltripleset>
         <otriple>companyName | informatieleverancier</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -5458,7 +5458,7 @@
         <entity>PATIENT-4 | bijna_4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id159" size="3">
+    <entry category="DutchStocks" eid="Id159" size="3">
       <originaltripleset>
         <otriple>companyName | Telecomconcern_KPN</otriple>
         <otriple>stockChange | min</otriple>
@@ -5492,7 +5492,7 @@
         <entity>PATIENT-3 | 2,2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id160" size="2">
+    <entry category="DutchStocks" eid="Id160" size="2">
       <originaltripleset>
         <otriple>companyName | Kering</otriple>
         <otriple>locationName | Elders_in_Europa</otriple>
@@ -5521,7 +5521,7 @@
         <entity>PATIENT-2 | Kering</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id161" size="4">
+    <entry category="DutchStocks" eid="Id161" size="4">
       <originaltripleset>
         <otriple>companyName | Franse_luxeconcern</otriple>
         <otriple>locationName | Parijs</otriple>
@@ -5560,7 +5560,7 @@
         <entity>PATIENT-4 | Parijs</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id162" size="1">
+    <entry category="DutchStocks" eid="Id162" size="1">
       <originaltripleset>
         <otriple>companyName | Gucci</otriple>
         <otriple>companyName | Kering</otriple>
@@ -5589,7 +5589,7 @@
         <entity>PATIENT-2 | Kering</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id163" size="4">
+    <entry category="DutchStocks" eid="Id163" size="4">
       <originaltripleset>
         <otriple>companyName | Vodafone</otriple>
         <otriple>locationName | Londen</otriple>
@@ -5628,7 +5628,7 @@
         <entity>PATIENT-4 | bijna_11_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id164" size="2">
+    <entry category="DutchStocks" eid="Id164" size="2">
       <originaltripleset>
         <otriple>companyName | telecomconcern</otriple>
         <otriple>locationName | Britse</otriple>
@@ -5662,7 +5662,7 @@
         <entity>PATIENT-3 | telecomconcern</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id165" size="3">
+    <entry category="DutchStocks" eid="Id165" size="3">
       <originaltripleset>
         <otriple>companyName | Nestlé</otriple>
         <otriple>companyName | Zürich</otriple>
@@ -5701,7 +5701,7 @@
         <entity>PATIENT-4 | kleine_2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id166" size="2">
+    <entry category="DutchStocks" eid="Id166" size="2">
       <originaltripleset>
         <otriple>companyName | voedingsmiddelenconcern</otriple>
         <otriple>timePoint | in_de_eerste_jaarhelft</otriple>
@@ -5730,7 +5730,7 @@
         <entity>PATIENT-2 | in_de_eerste_jaarhelft</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id167" size="3">
+    <entry category="DutchStocks" eid="Id167" size="3">
       <originaltripleset>
         <otriple>companyName | euro</otriple>
         <otriple>moneyAmount | 1,1117_dollar</otriple>
@@ -5769,7 +5769,7 @@
         <entity>PATIENT-4 | een_dag_eerder</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id168" size="5">
+    <entry category="DutchStocks" eid="Id168" size="5">
       <originaltripleset>
         <otriple>companyName | olie</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -5813,7 +5813,7 @@
         <entity>PATIENT-5 | 56,25_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id169" size="4">
+    <entry category="DutchStocks" eid="Id169" size="4">
       <originaltripleset>
         <otriple>companyName | Brentolie</otriple>
         <otriple>moneyAmount | 63,64_dollar</otriple>
@@ -5852,7 +5852,7 @@
         <entity>PATIENT-4 | 63,64_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id170" size="1">
+    <entry category="DutchStocks" eid="Id170" size="1">
       <originaltripleset>
         <otriple>locationName | Amsterdam</otriple>
       </originaltripleset>
@@ -5876,7 +5876,7 @@
         <entity>PATIENT-1 | Amsterdam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id171" size="3">
+    <entry category="DutchStocks" eid="Id171" size="3">
       <originaltripleset>
         <otriple>locationName | New_York</otriple>
         <otriple>stockChange | vrijwel_onveranderd</otriple>
@@ -5915,7 +5915,7 @@
         <entity>PATIENT-4 | vrijwel_onveranderd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id172" size="3">
+    <entry category="DutchStocks" eid="Id172" size="3">
       <originaltripleset>
         <otriple>companyName | Federal_Reserve</otriple>
         <otriple>stockChange | veerden</otriple>
@@ -5949,7 +5949,7 @@
         <entity>PATIENT-3 | Federal_Reserve</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id173" size="3">
+    <entry category="DutchStocks" eid="Id173" size="3">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
         <otriple>exchangeName | Nasdaq</otriple>
@@ -6008,7 +6008,7 @@
         <entity>PATIENT-8 | 0,1%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id174" size="2">
+    <entry category="DutchStocks" eid="Id174" size="2">
       <originaltripleset>
         <otriple>companyName | Fed-voorzitter</otriple>
         <otriple>stockPoints | 25</otriple>
@@ -6037,7 +6037,7 @@
         <entity>PATIENT-2 | 25</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id175" size="1">
+    <entry category="DutchStocks" eid="Id175" size="1">
       <originaltripleset>
         <otriple>locationName | China</otriple>
         <otriple>locationName | Verenigde_Staten</otriple>
@@ -6066,7 +6066,7 @@
         <entity>PATIENT-2 | China</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id176" size="1">
+    <entry category="DutchStocks" eid="Id176" size="1">
       <originaltripleset>
         <otriple>companyName | Fed-bestuurders</otriple>
       </originaltripleset>
@@ -6090,7 +6090,7 @@
         <entity>PATIENT-1 | Fed-bestuurders</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id177" size="2">
+    <entry category="DutchStocks" eid="Id177" size="2">
       <originaltripleset>
         <otriple>stockChange | gecompenseerd</otriple>
         <otriple>stockChange | zakten</otriple>
@@ -6124,7 +6124,7 @@
         <entity>PATIENT-3 | in_het_laatste_uur</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id178" size="1">
+    <entry category="DutchStocks" eid="Id178" size="1">
       <originaltripleset>
         <otriple>companyName | AllianceBernstein</otriple>
         <otriple>companyName | Fed</otriple>
@@ -6153,7 +6153,7 @@
         <entity>PATIENT-2 | AllianceBernstein</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id179" size="1">
+    <entry category="DutchStocks" eid="Id179" size="1">
       <originaltripleset>
         <otriple>companyName | FedEx</otriple>
       </originaltripleset>
@@ -6177,7 +6177,7 @@
         <entity>PATIENT-1 | FedEx</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id180" size="3">
+    <entry category="DutchStocks" eid="Id180" size="3">
       <originaltripleset>
         <otriple>companyName | koeriersdienst</otriple>
         <otriple>stockChange | daalde</otriple>
@@ -6211,7 +6211,7 @@
         <entity>PATIENT-3 | 13%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id181" size="1">
+    <entry category="DutchStocks" eid="Id181" size="1">
       <originaltripleset>
         <otriple>companyName | Amazon</otriple>
       </originaltripleset>
@@ -6235,7 +6235,7 @@
         <entity>PATIENT-1 | Amazon</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id182" size="2">
+    <entry category="DutchStocks" eid="Id182" size="2">
       <originaltripleset>
         <otriple>companyName | Altice_USA_Inc</otriple>
         <otriple>stockChange | licht_hoger</otriple>
@@ -6264,7 +6264,7 @@
         <entity>PATIENT-2 | licht_hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id183" size="3">
+    <entry category="DutchStocks" eid="Id183" size="3">
       <originaltripleset>
         <otriple>companyName | McDermott_International,_een_aannemer_en_ingenieursbureau</otriple>
         <otriple>locationName | Wall_Street_Journal</otriple>
@@ -6298,7 +6298,7 @@
         <entity>PATIENT-3 | Wall_Street_Journal</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id184" size="3">
+    <entry category="DutchStocks" eid="Id184" size="3">
       <originaltripleset>
         <otriple>stockChange | af</otriple>
         <otriple>stockChangePercentage | 63%</otriple>
@@ -6332,7 +6332,7 @@
         <entity>PATIENT-3 | af</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id185" size="1">
+    <entry category="DutchStocks" eid="Id185" size="1">
       <originaltripleset>
         <otriple>locationName | Wall_Street</otriple>
       </originaltripleset>
@@ -6356,7 +6356,7 @@
         <entity>PATIENT-1 | Wall_Street</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id186" size="3">
+    <entry category="DutchStocks" eid="Id186" size="3">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>exchangeName | breed_samengestelde_S&amp;P_500</otriple>
@@ -6405,7 +6405,7 @@
         <entity>PATIENT-6 | klom</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id187" size="2">
+    <entry category="DutchStocks" eid="Id187" size="2">
       <originaltripleset>
         <otriple>exchangeName | Technologiebeurs_Nasdaq</otriple>
         <otriple>stockChangePercentage | 0,5%</otriple>
@@ -6434,7 +6434,7 @@
         <entity>PATIENT-2 | 0,5%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id188" size="2">
+    <entry category="DutchStocks" eid="Id188" size="2">
       <originaltripleset>
         <otriple>companyName | JPMorgan_Chase</otriple>
         <otriple>stockChangePercentage | +4,7%</otriple>
@@ -6463,7 +6463,7 @@
         <entity>PATIENT-2 | +4,7%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id189" size="1">
+    <entry category="DutchStocks" eid="Id189" size="1">
       <originaltripleset>
         <otriple>companyName | bank</otriple>
       </originaltripleset>
@@ -6487,7 +6487,7 @@
         <entity>PATIENT-1 | bank</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id190" size="3">
+    <entry category="DutchStocks" eid="Id190" size="3">
       <originaltripleset>
         <otriple>companyName | JPMorgan_Chase</otriple>
         <otriple>moneyAmount | $0,30</otriple>
@@ -6526,7 +6526,7 @@
         <entity>PATIENT-4 | $0,30</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id191" size="3">
+    <entry category="DutchStocks" eid="Id191" size="3">
       <originaltripleset>
         <otriple>exchangeName | S&amp;P_500</otriple>
         <otriple>stockChange | hoger</otriple>
@@ -6560,7 +6560,7 @@
         <entity>PATIENT-3 | hoger</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id192" size="1">
+    <entry category="DutchStocks" eid="Id192" size="1">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
       </originaltripleset>
@@ -6584,7 +6584,7 @@
         <entity>PATIENT-1 | Amerikaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id193" size="2">
+    <entry category="DutchStocks" eid="Id193" size="2">
       <originaltripleset>
         <otriple>companyName | Chevron</otriple>
         <otriple>companyName | beursgenoteerde_branchegenoot_Anadarko_Petroleum</otriple>
@@ -6623,7 +6623,7 @@
         <entity>PATIENT-4 | +32,1%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id194" size="4">
+    <entry category="DutchStocks" eid="Id194" size="4">
       <originaltripleset>
         <otriple>companyName | Chevron</otriple>
         <otriple>moneyAmount | $33_mrd</otriple>
@@ -6662,7 +6662,7 @@
         <entity>PATIENT-4 | donderdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id195" size="2">
+    <entry category="DutchStocks" eid="Id195" size="2">
       <originaltripleset>
         <otriple>companyName | Walt_Disney</otriple>
         <otriple>stockChangePercentage | +11,5%</otriple>
@@ -6691,7 +6691,7 @@
         <entity>PATIENT-2 | +11,5%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id196" size="2">
+    <entry category="DutchStocks" eid="Id196" size="2">
       <originaltripleset>
         <otriple>companyName | Netflix</otriple>
         <otriple>companyName | entertainmentbedrijf</otriple>
@@ -6725,7 +6725,7 @@
         <entity>PATIENT-3 | -4,5%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id197" size="2">
+    <entry category="DutchStocks" eid="Id197" size="2">
       <originaltripleset>
         <otriple>companyName | Disney-dienst</otriple>
         <otriple>moneyAmount | $6,99</otriple>
@@ -6754,7 +6754,7 @@
         <entity>PATIENT-2 | $6,99</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id198" size="2">
+    <entry category="DutchStocks" eid="Id198" size="2">
       <originaltripleset>
         <otriple>companyName | Boeing</otriple>
         <otriple>stockChangePercentage | +2,6%</otriple>
@@ -6783,7 +6783,7 @@
         <entity>PATIENT-2 | +2,6%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id199" size="2">
+    <entry category="DutchStocks" eid="Id199" size="2">
       <originaltripleset>
         <otriple>companyName | Beursnieuweling_Lyft</otriple>
         <otriple>stockChangePercentage | -2,3%</otriple>
@@ -6812,7 +6812,7 @@
         <entity>PATIENT-2 | -2,3%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id200" size="2">
+    <entry category="DutchStocks" eid="Id200" size="2">
       <originaltripleset>
         <otriple>companyName | Concurrent_Uber</otriple>
         <otriple>timePoint | donderdagavond</otriple>
@@ -6841,7 +6841,7 @@
         <entity>PATIENT-2 | donderdagavond</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id201" size="1">
+    <entry category="DutchStocks" eid="Id201" size="1">
       <originaltripleset>
         <otriple>locationName | Amsterdam</otriple>
       </originaltripleset>
@@ -6865,7 +6865,7 @@
         <entity>PATIENT-1 | Amsterdam</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id202" size="3">
+    <entry category="DutchStocks" eid="Id202" size="3">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>stockChange | winsten</otriple>
@@ -6899,7 +6899,7 @@
         <entity>PATIENT-3 | gisteren_in_de_loop_van_de_dag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id203" size="4">
+    <entry category="DutchStocks" eid="Id203" size="4">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones</otriple>
         <otriple>stockChange | ternauwernood_in_de_plus</otriple>
@@ -6943,7 +6943,7 @@
         <entity>PATIENT-5 | 0,14%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id204" size="3">
+    <entry category="DutchStocks" eid="Id204" size="3">
       <originaltripleset>
         <otriple>exchangeName | S&amp;P_500</otriple>
         <otriple>exchangeName | technologiebeurs_Nasdaq</otriple>
@@ -6992,7 +6992,7 @@
         <entity>PATIENT-6 | 0,19%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id205" size="1">
+    <entry category="DutchStocks" eid="Id205" size="1">
       <originaltripleset>
         <otriple>companyName | AT&amp;T</otriple>
       </originaltripleset>
@@ -7016,7 +7016,7 @@
         <entity>PATIENT-1 | AT&amp;T</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id206" size="3">
+    <entry category="DutchStocks" eid="Id206" size="3">
       <originaltripleset>
         <otriple>stockChange | hoger</otriple>
         <otriple>stockChangePercentage | 1,4%</otriple>
@@ -7050,7 +7050,7 @@
         <entity>PATIENT-3 | vrijdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id207" size="1">
+    <entry category="DutchStocks" eid="Id207" size="1">
       <originaltripleset>
         <otriple>moneyAmount | $3,2_mrd</otriple>
       </originaltripleset>
@@ -7074,7 +7074,7 @@
         <entity>PATIENT-1 | $3,2_mrd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id208" size="4">
+    <entry category="DutchStocks" eid="Id208" size="4">
       <originaltripleset>
         <otriple>moneyAmount | $60</otriple>
         <otriple>stockChange | hoger</otriple>
@@ -7113,7 +7113,7 @@
         <entity>PATIENT-4 | vrijdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id209" size="2">
+    <entry category="DutchStocks" eid="Id209" size="2">
       <originaltripleset>
         <otriple>companyName | JPMorgan</otriple>
         <otriple>stockChangePercentage | +2,5%</otriple>
@@ -7142,7 +7142,7 @@
         <entity>PATIENT-2 | +2,5%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id210" size="2">
+    <entry category="DutchStocks" eid="Id210" size="2">
       <originaltripleset>
         <otriple>companyName | Saudi_Aramco</otriple>
         <otriple>companyName | staatsoliebedrijf</otriple>
@@ -7176,7 +7176,7 @@
         <entity>PATIENT-3 | Saoedi-Arabië</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id211" size="2">
+    <entry category="DutchStocks" eid="Id211" size="2">
       <originaltripleset>
         <otriple>locationName | Saoedische</otriple>
         <otriple>timePoint | november</otriple>
@@ -7205,7 +7205,7 @@
         <entity>PATIENT-2 | november</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id212" size="3">
+    <entry category="DutchStocks" eid="Id212" size="3">
       <originaltripleset>
         <otriple>companyName | Farmaciegigant_Merck_&amp;_Co</otriple>
         <otriple>stockChange | dalers</otriple>
@@ -7239,7 +7239,7 @@
         <entity>PATIENT-3 | 3,6%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id213" size="2">
+    <entry category="DutchStocks" eid="Id213" size="2">
       <originaltripleset>
         <otriple>companyName | Farmaciebedrijven</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -7268,7 +7268,7 @@
         <entity>PATIENT-2 | Amerikaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id214" size="3">
+    <entry category="DutchStocks" eid="Id214" size="3">
       <originaltripleset>
         <otriple>companyName | farmacieconcern_Amgen</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -7302,7 +7302,7 @@
         <entity>PATIENT-3 | 2,6%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id215" size="2">
+    <entry category="DutchStocks" eid="Id215" size="2">
       <originaltripleset>
         <otriple>companyName | Boeing</otriple>
         <otriple>stockChange | -1,07%</otriple>
@@ -7331,7 +7331,7 @@
         <entity>PATIENT-2 | -1,07%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id216" size="1">
+    <entry category="DutchStocks" eid="Id216" size="1">
       <originaltripleset>
         <otriple>companyName | vliegtuigmaatschappij</otriple>
       </originaltripleset>
@@ -7355,7 +7355,7 @@
         <entity>PATIENT-1 | vliegtuigmaatschappij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id217" size="3">
+    <entry category="DutchStocks" eid="Id217" size="3">
       <originaltripleset>
         <otriple>locationName | AMSTERDAM</otriple>
         <otriple>locationName | Europese</otriple>
@@ -7394,7 +7394,7 @@
         <entity>PATIENT-4 | licht_vooruit</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id218" size="1">
+    <entry category="DutchStocks" eid="Id218" size="1">
       <originaltripleset>
         <otriple>locationName | Amerikaanse</otriple>
         <otriple>locationName | Mexicaanse</otriple>
@@ -7423,7 +7423,7 @@
         <entity>PATIENT-2 | Mexicaanse</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id219" size="2">
+    <entry category="DutchStocks" eid="Id219" size="2">
       <originaltripleset>
         <otriple>locationName | Frankfurt,_Luxemburg,_Kopenhagen,_Oslo,_Wenen_en_Zürich</otriple>
         <otriple>timePoint | Tweede_Pinksterdag</otriple>
@@ -7452,7 +7452,7 @@
         <entity>PATIENT-2 | Frankfurt,_Luxemburg,_Kopenhagen,_Oslo,_Wenen_en_Zürich</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id220" size="5">
+    <entry category="DutchStocks" eid="Id220" size="5">
       <originaltripleset>
         <otriple>exchangeName | AEX-index_op_Beursplein_5</otriple>
         <otriple>stockChange | plus</otriple>
@@ -7496,7 +7496,7 @@
         <entity>PATIENT-5 | 551,83</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id221" size="4">
+    <entry category="DutchStocks" eid="Id221" size="4">
       <originaltripleset>
         <otriple>exchangeName | MidKap</otriple>
         <otriple>stockChange | klom</otriple>
@@ -7535,7 +7535,7 @@
         <entity>PATIENT-4 | 756,22</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id222" size="3">
+    <entry category="DutchStocks" eid="Id222" size="3">
       <originaltripleset>
         <otriple>locationName | Londen_en_Parijs</otriple>
         <otriple>stockChange | bij</otriple>
@@ -7569,7 +7569,7 @@
         <entity>PATIENT-3 | bij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id223" size="2">
+    <entry category="DutchStocks" eid="Id223" size="2">
       <originaltripleset>
         <otriple>locationName | Mexico</otriple>
         <otriple>locationName | VS</otriple>
@@ -7603,7 +7603,7 @@
         <entity>PATIENT-3 | 5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id224" size="1">
+    <entry category="DutchStocks" eid="Id224" size="1">
       <originaltripleset>
         <otriple>timePoint | maandag</otriple>
       </originaltripleset>
@@ -7627,7 +7627,7 @@
         <entity>PATIENT-1 | maandag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id225" size="4">
+    <entry category="DutchStocks" eid="Id225" size="4">
       <originaltripleset>
         <otriple>companyName | Staalconcern_ArcelorMittal</otriple>
         <otriple>locationName | Damrak</otriple>
@@ -7666,7 +7666,7 @@
         <entity>PATIENT-4 | ruim_3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id226" size="4">
+    <entry category="DutchStocks" eid="Id226" size="4">
       <originaltripleset>
         <otriple>companyName | Bierbrouwer_Heineken</otriple>
         <otriple>locationName | Mexico</otriple>
@@ -7705,7 +7705,7 @@
         <entity>PATIENT-4 | 0,6_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id227" size="3">
+    <entry category="DutchStocks" eid="Id227" size="3">
       <originaltripleset>
         <otriple>companyName | Citi</otriple>
         <otriple>companyName | Verzekeraar_Aegon</otriple>
@@ -7744,7 +7744,7 @@
         <entity>PATIENT-4 | 0,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id228" size="3">
+    <entry category="DutchStocks" eid="Id228" size="3">
       <originaltripleset>
         <otriple>companyName | Verzekeraar_ASR</otriple>
         <otriple>stockChange | verlies</otriple>
@@ -7778,7 +7778,7 @@
         <entity>PATIENT-3 | 1_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id229" size="4">
+    <entry category="DutchStocks" eid="Id229" size="4">
       <originaltripleset>
         <otriple>companyName | chipbedrijf_Besi</otriple>
         <otriple>exchangeName | MidKap</otriple>
@@ -7817,7 +7817,7 @@
         <entity>PATIENT-4 | ruim_2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id230" size="3">
+    <entry category="DutchStocks" eid="Id230" size="3">
       <originaltripleset>
         <otriple>companyName | Postbedrijf_PostNL</otriple>
         <otriple>stockChange | klom</otriple>
@@ -7851,7 +7851,7 @@
         <entity>PATIENT-3 | 1,5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id231" size="3">
+    <entry category="DutchStocks" eid="Id231" size="3">
       <originaltripleset>
         <otriple>companyName | De_Telegraaf</otriple>
         <otriple>locationName | Nederland</otriple>
@@ -7885,7 +7885,7 @@
         <entity>PATIENT-3 | Nederland</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id232" size="3">
+    <entry category="DutchStocks" eid="Id232" size="3">
       <originaltripleset>
         <otriple>companyName | Fitnessketen_Basic-Fit</otriple>
         <otriple>stockChange | min</otriple>
@@ -7919,7 +7919,7 @@
         <entity>PATIENT-3 | 1,2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id233" size="3">
+    <entry category="DutchStocks" eid="Id233" size="3">
       <originaltripleset>
         <otriple>companyName | Fiat_Chrysler</otriple>
         <otriple>companyName | Renault</otriple>
@@ -7963,7 +7963,7 @@
         <entity>PATIENT-5 | 1,7_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id234" size="1">
+    <entry category="DutchStocks" eid="Id234" size="1">
       <originaltripleset>
         <otriple>companyName | persbureau_Reuters</otriple>
         <otriple>companyName | twee_automakers</otriple>
@@ -7992,7 +7992,7 @@
         <entity>PATIENT-2 | twee_automakers</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id235" size="4">
+    <entry category="DutchStocks" eid="Id235" size="4">
       <originaltripleset>
         <otriple>companyName | Thomas_Cook</otriple>
         <otriple>locationName | Londen</otriple>
@@ -8031,7 +8031,7 @@
         <entity>PATIENT-4 | 9,6_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id236" size="2">
+    <entry category="DutchStocks" eid="Id236" size="2">
       <originaltripleset>
         <otriple>companyName | conglomeraat_Fosun_International</otriple>
         <otriple>locationName | Britse</otriple>
@@ -8065,7 +8065,7 @@
         <entity>PATIENT-3 | conglomeraat_Fosun_International</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id237" size="3">
+    <entry category="DutchStocks" eid="Id237" size="3">
       <originaltripleset>
         <otriple>companyName | euro</otriple>
         <otriple>moneyAmount | 1,1302_dollar</otriple>
@@ -8104,7 +8104,7 @@
         <entity>PATIENT-4 | vrijdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id238" size="3">
+    <entry category="DutchStocks" eid="Id238" size="3">
       <originaltripleset>
         <otriple>companyName | Amerikaanse_olie</otriple>
         <otriple>moneyAmount | 54,00_dollar</otriple>
@@ -8138,7 +8138,7 @@
         <entity>PATIENT-3 | 54,00_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id239" size="4">
+    <entry category="DutchStocks" eid="Id239" size="4">
       <originaltripleset>
         <otriple>companyName | Brentolie</otriple>
         <otriple>moneyAmount | 63,15_dollar</otriple>
@@ -8177,7 +8177,7 @@
         <entity>PATIENT-4 | 63,15_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id240" size="5">
+    <entry category="DutchStocks" eid="Id240" size="5">
       <originaltripleset>
         <otriple>exchangeName | Dow_Jones-index</otriple>
         <otriple>locationName | NEW_YORK</otriple>
@@ -8226,7 +8226,7 @@
         <entity>PATIENT-6 | bij</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id241" size="3">
+    <entry category="DutchStocks" eid="Id241" size="3">
       <originaltripleset>
         <otriple>exchangeName | technologiezware_graadmeter_Nasdaq</otriple>
         <otriple>stockChange | steeg</otriple>
@@ -8260,7 +8260,7 @@
         <entity>PATIENT-3 | 1,2%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id242" size="1">
+    <entry category="DutchStocks" eid="Id242" size="1">
       <originaltripleset>
         <otriple>companyName | Google-moederbedrijf_Alphabet</otriple>
       </originaltripleset>
@@ -8284,7 +8284,7 @@
         <entity>PATIENT-1 | Google-moederbedrijf_Alphabet</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id243" size="4">
+    <entry category="DutchStocks" eid="Id243" size="4">
       <originaltripleset>
         <otriple>companyName | Softwarereus_Microsoft</otriple>
         <otriple>companyName | iPhone-maker_Apple</otriple>
@@ -8333,7 +8333,7 @@
         <entity>PATIENT-6 | 2,8%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id244" size="2">
+    <entry category="DutchStocks" eid="Id244" size="2">
       <originaltripleset>
         <otriple>companyName | olieconcern_Exxon</otriple>
         <otriple>stockChangePercentage | -1,4%</otriple>
@@ -8362,7 +8362,7 @@
         <entity>PATIENT-2 | -1,4%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id245" size="3">
+    <entry category="DutchStocks" eid="Id245" size="3">
       <originaltripleset>
         <otriple>companyName | Accumaker_Maxwell_Technologies</otriple>
         <otriple>companyName | stekkerautofabrikant_Tesla</otriple>
@@ -8406,7 +8406,7 @@
         <entity>PATIENT-5 | 49,5%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id246" size="3">
+    <entry category="DutchStocks" eid="Id246" size="3">
       <originaltripleset>
         <otriple>companyName | Krantenuitgever_Gannet</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -8440,7 +8440,7 @@
         <entity>PATIENT-3 | 2,3%</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id247" size="3">
+    <entry category="DutchStocks" eid="Id247" size="3">
       <originaltripleset>
         <otriple>companyName | ABN_AMRO</otriple>
         <otriple>companyName | ANP</otriple>
@@ -8484,7 +8484,7 @@
         <entity>PATIENT-5 | woensdag</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id248" size="1">
+    <entry category="DutchStocks" eid="Id248" size="1">
       <originaltripleset>
         <otriple>companyName | bierbrouwer_Heineken</otriple>
         <otriple>companyName | verfconcern_AkzoNobel</otriple>
@@ -8513,7 +8513,7 @@
         <entity>PATIENT-2 | verfconcern_AkzoNobel</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id249" size="1">
+    <entry category="DutchStocks" eid="Id249" size="1">
       <originaltripleset>
         <otriple>locationName | China</otriple>
         <otriple>locationName | Europa</otriple>
@@ -8547,7 +8547,7 @@
         <entity>PATIENT-3 | Europa</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id250" size="6">
+    <entry category="DutchStocks" eid="Id250" size="6">
       <originaltripleset>
         <otriple>exchangeName | AEX-index</otriple>
         <otriple>locationName | Beursplein_5</otriple>
@@ -8596,7 +8596,7 @@
         <entity>PATIENT-6 | 534,93</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id251" size="4">
+    <entry category="DutchStocks" eid="Id251" size="4">
       <originaltripleset>
         <otriple>exchangeName | MidKap</otriple>
         <otriple>stockChange | won</otriple>
@@ -8635,7 +8635,7 @@
         <entity>PATIENT-4 | 727,38</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id252" size="3">
+    <entry category="DutchStocks" eid="Id252" size="3">
       <originaltripleset>
         <otriple>locationName | Frankfurt</otriple>
         <otriple>locationName | Londen</otriple>
@@ -8679,7 +8679,7 @@
         <entity>PATIENT-5 | 0,4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id253" size="3">
+    <entry category="DutchStocks" eid="Id253" size="3">
       <originaltripleset>
         <otriple>companyName | ABN_AMRO</otriple>
         <otriple>stockChange | min</otriple>
@@ -8713,7 +8713,7 @@
         <entity>PATIENT-3 | 6,7_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id254" size="3">
+    <entry category="DutchStocks" eid="Id254" size="3">
       <originaltripleset>
         <otriple>companyName | bank</otriple>
         <otriple>stockChangePercentage | meer_dan_40_procent</otriple>
@@ -8752,7 +8752,7 @@
         <entity>PATIENT-4 | meer_dan_40_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id255" size="3">
+    <entry category="DutchStocks" eid="Id255" size="3">
       <originaltripleset>
         <otriple>companyName | Heineken</otriple>
         <otriple>stockChange | winst</otriple>
@@ -8786,7 +8786,7 @@
         <entity>PATIENT-3 | 5_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id256" size="1">
+    <entry category="DutchStocks" eid="Id256" size="1">
       <originaltripleset>
         <otriple>companyName | Jefferies</otriple>
         <otriple>companyName | bierbrouwer</otriple>
@@ -8815,7 +8815,7 @@
         <entity>PATIENT-2 | bierbrouwer</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id257" size="1">
+    <entry category="DutchStocks" eid="Id257" size="1">
       <originaltripleset>
         <otriple>companyName | AkzoNobel</otriple>
       </originaltripleset>
@@ -8839,7 +8839,7 @@
         <entity>PATIENT-1 | AkzoNobel</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id258" size="3">
+    <entry category="DutchStocks" eid="Id258" size="3">
       <originaltripleset>
         <otriple>companyName | verfconcern</otriple>
         <otriple>stockChange | koerswinst</otriple>
@@ -8873,7 +8873,7 @@
         <entity>PATIENT-3 | ruim_4_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id259" size="4">
+    <entry category="DutchStocks" eid="Id259" size="4">
       <originaltripleset>
         <otriple>companyName | Tankopslagbedrijf_Vopak</otriple>
         <otriple>stockChange | zakte</otriple>
@@ -8912,7 +8912,7 @@
         <entity>PATIENT-4 | 1,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id260" size="4">
+    <entry category="DutchStocks" eid="Id260" size="4">
       <originaltripleset>
         <otriple>companyName | Aegon</otriple>
         <otriple>stockChange | verloor</otriple>
@@ -8951,7 +8951,7 @@
         <entity>PATIENT-4 | 0,9_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id261" size="1">
+    <entry category="DutchStocks" eid="Id261" size="1">
       <originaltripleset>
         <otriple>companyName | Het_Financieel_Dagblad</otriple>
         <otriple>companyName | concurrent_Vivat</otriple>
@@ -8980,7 +8980,7 @@
         <entity>PATIENT-2 | concurrent_Vivat</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id262" size="4">
+    <entry category="DutchStocks" eid="Id262" size="4">
       <originaltripleset>
         <otriple>companyName | Eurocommercial_Properties</otriple>
         <otriple>companyName | JPMorgan</otriple>
@@ -9024,7 +9024,7 @@
         <entity>PATIENT-5 | 1,8_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id263" size="2">
+    <entry category="DutchStocks" eid="Id263" size="2">
       <originaltripleset>
         <otriple>companyName | Takeaway.com</otriple>
         <otriple>stockChange | onveranderd</otriple>
@@ -9053,7 +9053,7 @@
         <entity>PATIENT-2 | onveranderd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id264" size="1">
+    <entry category="DutchStocks" eid="Id264" size="1">
       <originaltripleset>
         <otriple>companyName | Thuisbezorgd</otriple>
       </originaltripleset>
@@ -9077,7 +9077,7 @@
         <entity>PATIENT-1 | Thuisbezorgd</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id265" size="3">
+    <entry category="DutchStocks" eid="Id265" size="3">
       <originaltripleset>
         <otriple>companyName | Intertrust</otriple>
         <otriple>stockChange | won</otriple>
@@ -9111,7 +9111,7 @@
         <entity>PATIENT-3 | 1,3_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id266" size="1">
+    <entry category="DutchStocks" eid="Id266" size="1">
       <originaltripleset>
         <otriple>companyName | Investeerder_Blackstone</otriple>
       </originaltripleset>
@@ -9135,7 +9135,7 @@
         <entity>PATIENT-1 | Investeerder_Blackstone</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id267" size="3">
+    <entry category="DutchStocks" eid="Id267" size="3">
       <originaltripleset>
         <otriple>companyName | Wessanen</otriple>
         <otriple>stockChange | plus</otriple>
@@ -9169,7 +9169,7 @@
         <entity>PATIENT-3 | 5,2_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id268" size="4">
+    <entry category="DutchStocks" eid="Id268" size="4">
       <originaltripleset>
         <otriple>companyName | producent_van_natuurvoeding</otriple>
         <otriple>stockChange | steeg</otriple>
@@ -9208,7 +9208,7 @@
         <entity>PATIENT-4 | bijna_20_procent</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id269" size="3">
+    <entry category="DutchStocks" eid="Id269" size="3">
       <originaltripleset>
         <otriple>companyName | euro</otriple>
         <otriple>moneyAmount | 1,1314_dollar</otriple>
@@ -9242,7 +9242,7 @@
         <entity>PATIENT-3 | 1,1314_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id270" size="5">
+    <entry category="DutchStocks" eid="Id270" size="5">
       <originaltripleset>
         <otriple>companyName | olie</otriple>
         <otriple>locationName | Amerikaanse</otriple>
@@ -9286,7 +9286,7 @@
         <entity>PATIENT-5 | 53,64_dollar</entity>
       </entitymap>
     </entry>
-    <entry category="DutchIncidents" eid="Id271" size="4">
+    <entry category="DutchStocks" eid="Id271" size="4">
       <originaltripleset>
         <otriple>companyName | Brent</otriple>
         <otriple>moneyAmount | 63,24_dollar</otriple>
