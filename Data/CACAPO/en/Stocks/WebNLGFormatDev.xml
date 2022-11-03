@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <benchmark>
 	<entries>
-		<entry category="DutchIncidents" eid="Id1" size="1">
+		<entry category="EnglishStocks" eid="Id1" size="1">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 			</originaltripleset>
@@ -25,7 +25,7 @@
 				<entity>PATIENT-1 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id2" size="1">
+		<entry category="EnglishStocks" eid="Id2" size="1">
 			<originaltripleset>
 				<otriple>DATE | five_trading_days_of_the_year</otriple>
 			</originaltripleset>
@@ -49,7 +49,7 @@
 				<entity>PATIENT-1 | five_trading_days_of_the_year</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id3" size="4">
+		<entry category="EnglishStocks" eid="Id3" size="4">
 			<originaltripleset>
 				<otriple>DATE | 1950</otriple>
 				<otriple>ORG | the_Stock_Trader’s_Almanac</otriple>
@@ -88,7 +88,7 @@
 				<entity>PATIENT-4 | the_Stock_Trader’s_Almanac</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id4" size="2">
+		<entry category="EnglishStocks" eid="Id4" size="2">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>DATE | this_year</otriple>
@@ -127,7 +127,7 @@
 				<entity>PATIENT-4 | Nasdaq</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id5" size="4">
+		<entry category="EnglishStocks" eid="Id5" size="4">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>ORDINAL | first</otriple>
@@ -166,7 +166,7 @@
 				<entity>PATIENT-4 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id6" size="2">
+		<entry category="EnglishStocks" eid="Id6" size="2">
 			<originaltripleset>
 				<otriple>DATE | 1997</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -195,7 +195,7 @@
 				<entity>PATIENT-2 | 1997</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id7" size="4">
+		<entry category="EnglishStocks" eid="Id7" size="4">
 			<originaltripleset>
 				<otriple>DATE | 2019</otriple>
 				<otriple>PERCENT | about_29%</otriple>
@@ -234,7 +234,7 @@
 				<entity>PATIENT-4 | 2019</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id8" size="2">
+		<entry category="EnglishStocks" eid="Id8" size="2">
 			<originaltripleset>
 				<otriple>DATE | 2013</otriple>
 				<otriple>PERCENT | 29.6%</otriple>
@@ -263,7 +263,7 @@
 				<entity>PATIENT-2 | 29.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id9" size="2">
+		<entry category="EnglishStocks" eid="Id9" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_best_year_of_the_21st_century</otriple>
 				<otriple>PERCENT | an_extra_0.6%</otriple>
@@ -292,7 +292,7 @@
 				<entity>PATIENT-2 | the_best_year_of_the_21st_century</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id10" size="4">
+		<entry category="EnglishStocks" eid="Id10" size="4">
 			<originaltripleset>
 				<otriple>DATE | 1997</otriple>
 				<otriple>DATE | The_next_year</otriple>
@@ -336,7 +336,7 @@
 				<entity>PATIENT-5 | 31.01%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id11" size="3">
+		<entry category="EnglishStocks" eid="Id11" size="3">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>DATE | quarterly</otriple>
@@ -385,7 +385,7 @@
 				<entity>PATIENT-6 | Dallas</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id12" size="3">
+		<entry category="EnglishStocks" eid="Id12" size="3">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>DATE | mid-September</otriple>
@@ -439,7 +439,7 @@
 				<entity>PATIENT-7 | mid-September</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id13" size="2">
+		<entry category="EnglishStocks" eid="Id13" size="2">
 			<originaltripleset>
 				<otriple>ORG | China</otriple>
 				<otriple>ORG | United_States</otriple>
@@ -473,7 +473,7 @@
 				<entity>PATIENT-3 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id14" size="2">
+		<entry category="EnglishStocks" eid="Id14" size="2">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>DATE | the_week_ending_Dec._20</otriple>
@@ -507,7 +507,7 @@
 				<entity>PATIENT-3 | EIA</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id15" size="3">
+		<entry category="EnglishStocks" eid="Id15" size="3">
 			<originaltripleset>
 				<otriple>DATE | the_previous_week</otriple>
 				<otriple>ORDINAL | 1.1_million</otriple>
@@ -546,7 +546,7 @@
 				<entity>PATIENT-4 | 1.1_million</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id16" size="4">
+		<entry category="EnglishStocks" eid="Id16" size="4">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>ORG | ConocoPhillips</otriple>
@@ -610,7 +610,7 @@
 				<entity>PATIENT-9 | at_least_0.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id17" size="3">
+		<entry category="EnglishStocks" eid="Id17" size="3">
 			<originaltripleset>
 				<otriple>DATE | Thursday_morning</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -644,7 +644,7 @@
 				<entity>PATIENT-3 | Thursday_morning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id18" size="4">
+		<entry category="EnglishStocks" eid="Id18" size="4">
 			<originaltripleset>
 				<otriple>DATE | January_2018</otriple>
 				<otriple>DATE | November_2016</otriple>
@@ -698,7 +698,7 @@
 				<entity>PATIENT-7 | November_2016</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id19" size="5">
+		<entry category="EnglishStocks" eid="Id19" size="5">
 			<originaltripleset>
 				<otriple>DATE | early_Thursday</otriple>
 				<otriple>PERCENT | +0.31%</otriple>
@@ -742,7 +742,7 @@
 				<entity>PATIENT-5 | 27,007.86</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id20" size="4">
+		<entry category="EnglishStocks" eid="Id20" size="4">
 			<originaltripleset>
 				<otriple>DATE | Jan._17</otriple>
 				<otriple>ORDINAL | 372</otriple>
@@ -786,7 +786,7 @@
 				<entity>PATIENT-5 | Jan._17</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id21" size="4">
+		<entry category="EnglishStocks" eid="Id21" size="4">
 			<originaltripleset>
 				<otriple>DATE | Nov._22,_2016</otriple>
 				<otriple>ORDINAL | 483</otriple>
@@ -830,7 +830,7 @@
 				<entity>PATIENT-5 | Nov._22,_2016</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id22" size="5">
+		<entry category="EnglishStocks" eid="Id22" size="5">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>ORDINAL | first</otriple>
@@ -874,7 +874,7 @@
 				<entity>PATIENT-5 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id23" size="2">
+		<entry category="EnglishStocks" eid="Id23" size="2">
 			<originaltripleset>
 				<otriple>DATE | Wednesday</otriple>
 				<otriple>DATE | the_end_of_the_month</otriple>
@@ -908,7 +908,7 @@
 				<entity>PATIENT-3 | the_end_of_the_month</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id24" size="1">
+		<entry category="EnglishStocks" eid="Id24" size="1">
 			<originaltripleset>
 				<otriple>exchangeName | Dow</otriple>
 			</originaltripleset>
@@ -932,7 +932,7 @@
 				<entity>PATIENT-1 | Dow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id25" size="6">
+		<entry category="EnglishStocks" eid="Id25" size="6">
 			<originaltripleset>
 				<otriple>DATE | Wednesday</otriple>
 				<otriple>ORDINAL | first</otriple>
@@ -986,7 +986,7 @@
 				<entity>PATIENT-7 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id26" size="5">
+		<entry category="EnglishStocks" eid="Id26" size="5">
 			<originaltripleset>
 				<otriple>DATE | sixth_of_2019</otriple>
 				<otriple>DATE | the_day</otriple>
@@ -1035,7 +1035,7 @@
 				<entity>PATIENT-6 | Dow_Jones_Market_Data</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id27" size="1">
+		<entry category="EnglishStocks" eid="Id27" size="1">
 			<originaltripleset>
 				<otriple>DATE | early_Thursday</otriple>
 			</originaltripleset>
@@ -1059,7 +1059,7 @@
 				<entity>PATIENT-1 | early_Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id28" size="4">
+		<entry category="EnglishStocks" eid="Id28" size="4">
 			<originaltripleset>
 				<otriple>DATE | Sept._4</otriple>
 				<otriple>PERCENT | +0.28%</otriple>
@@ -1103,7 +1103,7 @@
 				<entity>PATIENT-5 | Sept._4</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id29" size="4">
+		<entry category="EnglishStocks" eid="Id29" size="4">
 			<originaltripleset>
 				<otriple>DATE | Aug._29</otriple>
 				<otriple>PERCENT | +0.18%</otriple>
@@ -1142,7 +1142,7 @@
 				<entity>PATIENT-4 | Aug._29</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id30" size="2">
+		<entry category="EnglishStocks" eid="Id30" size="2">
 			<originaltripleset>
 				<otriple>DATE | 2019</otriple>
 				<otriple>ORG | ECB</otriple>
@@ -1191,7 +1191,7 @@
 				<entity>PATIENT-6 | 2019</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id31" size="3">
+		<entry category="EnglishStocks" eid="Id31" size="3">
 			<originaltripleset>
 				<otriple>DATE | 2019</otriple>
 				<otriple>ORG | ING_Group</otriple>
@@ -1225,7 +1225,7 @@
 				<entity>PATIENT-3 | 2019</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id32" size="3">
+		<entry category="EnglishStocks" eid="Id32" size="3">
 			<originaltripleset>
 				<otriple>DATE | 31_December_2018</otriple>
 				<otriple>ORG | ING_Group's</otriple>
@@ -1259,7 +1259,7 @@
 				<entity>PATIENT-3 | 14.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id33" size="1">
+		<entry category="EnglishStocks" eid="Id33" size="1">
 			<originaltripleset>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
 			</originaltripleset>
@@ -1283,7 +1283,7 @@
 				<entity>PATIENT-1 | Dow_Jones_Industrial_Average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id34" size="4">
+		<entry category="EnglishStocks" eid="Id34" size="4">
 			<originaltripleset>
 				<otriple>DATE | today_(Match_11)</otriple>
 				<otriple>DATE | yesterday</otriple>
@@ -1332,7 +1332,7 @@
 				<entity>PATIENT-6 | yesterday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id35" size="3">
+		<entry category="EnglishStocks" eid="Id35" size="3">
 			<originaltripleset>
 				<otriple>MONEY | $400.01</otriple>
 				<otriple>PERCENT | 5.3%</otriple>
@@ -1366,7 +1366,7 @@
 				<entity>PATIENT-3 | 5.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id36" size="2">
+		<entry category="EnglishStocks" eid="Id36" size="2">
 			<originaltripleset>
 				<otriple>ORG | Boeing</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -1395,7 +1395,7 @@
 				<entity>PATIENT-2 | Boeing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id37" size="2">
+		<entry category="EnglishStocks" eid="Id37" size="2">
 			<originaltripleset>
 				<otriple>LOC | United_States</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -1424,7 +1424,7 @@
 				<entity>PATIENT-2 | Dow_Jones_Industrial_Average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id38" size="2">
+		<entry category="EnglishStocks" eid="Id38" size="2">
 			<originaltripleset>
 				<otriple>ORG | Dow_Divisor</otriple>
 				<otriple>exchangeName | Dow_Jones</otriple>
@@ -1453,7 +1453,7 @@
 				<entity>PATIENT-2 | Dow_Divisor</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id39" size="1">
+		<entry category="EnglishStocks" eid="Id39" size="1">
 			<originaltripleset>
 				<otriple>ORG | Boeing</otriple>
 			</originaltripleset>
@@ -1477,7 +1477,7 @@
 				<entity>PATIENT-1 | Boeing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id40" size="1">
+		<entry category="EnglishStocks" eid="Id40" size="1">
 			<originaltripleset>
 				<otriple>ORG | Apple</otriple>
 				<otriple>ORG | Microsoft</otriple>
@@ -1506,7 +1506,7 @@
 				<entity>PATIENT-2 | Microsoft</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id41" size="2">
+		<entry category="EnglishStocks" eid="Id41" size="2">
 			<originaltripleset>
 				<otriple>PERCENT | over_11%</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -1535,7 +1535,7 @@
 				<entity>PATIENT-2 | over_11%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id42" size="3">
+		<entry category="EnglishStocks" eid="Id42" size="3">
 			<originaltripleset>
 				<otriple>ORG | Boeing</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -1574,7 +1574,7 @@
 				<entity>PATIENT-4 | goes_south</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id43" size="2">
+		<entry category="EnglishStocks" eid="Id43" size="2">
 			<originaltripleset>
 				<otriple>ORG | Boeing</otriple>
 				<otriple>ORG | Dow</otriple>
@@ -1608,7 +1608,7 @@
 				<entity>PATIENT-3 | soars</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id44" size="2">
+		<entry category="EnglishStocks" eid="Id44" size="2">
 			<originaltripleset>
 				<otriple>LOC | US</otriple>
 				<otriple>exchangeName | Dow_Jones</otriple>
@@ -1637,7 +1637,7 @@
 				<entity>PATIENT-2 | US</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id45" size="6">
+		<entry category="EnglishStocks" eid="Id45" size="6">
 			<originaltripleset>
 				<otriple>DATE | close</otriple>
 				<otriple>DATE | the_new_year</otriple>
@@ -1701,7 +1701,7 @@
 				<entity>PATIENT-9 | 2.5_per_cent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id46" size="4">
+		<entry category="EnglishStocks" eid="Id46" size="4">
 			<originaltripleset>
 				<otriple>DATE | day</otriple>
 				<otriple>DATE | in_the_first_few_minutes</otriple>
@@ -1745,7 +1745,7 @@
 				<entity>PATIENT-5 | 370,46</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id47" size="1">
+		<entry category="EnglishStocks" eid="Id47" size="1">
 			<originaltripleset>
 				<otriple>stockChange | in_the_positive</otriple>
 			</originaltripleset>
@@ -1769,7 +1769,7 @@
 				<entity>PATIENT-1 | in_the_positive</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id48" size="4">
+		<entry category="EnglishStocks" eid="Id48" size="4">
 			<originaltripleset>
 				<otriple>DATE | the_end_of_the_day</otriple>
 				<otriple>exchangeName | index</otriple>
@@ -1808,7 +1808,7 @@
 				<entity>PATIENT-4 | 38,047</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id49" size="2">
+		<entry category="EnglishStocks" eid="Id49" size="2">
 			<originaltripleset>
 				<otriple>MONEY | almost_Rs4.3_billion</otriple>
 				<otriple>ORDINAL | 96.6_million</otriple>
@@ -1837,7 +1837,7 @@
 				<entity>PATIENT-2 | almost_Rs4.3_billion</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id50" size="2">
+		<entry category="EnglishStocks" eid="Id50" size="2">
 			<originaltripleset>
 				<otriple>ORDINAL | 18</otriple>
 				<otriple>ORDINAL | 207</otriple>
@@ -1891,7 +1891,7 @@
 				<entity>PATIENT-7 | remained_unchanged</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id51" size="2">
+		<entry category="EnglishStocks" eid="Id51" size="2">
 			<originaltripleset>
 				<otriple>ORDINAL | 12.2m</otriple>
 				<otriple>ORDINAL | 13.3m</otriple>
@@ -1935,7 +1935,7 @@
 				<entity>PATIENT-5 | 12.2m</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id52" size="1">
+		<entry category="EnglishStocks" eid="Id52" size="1">
 			<originaltripleset>
 				<otriple>ORG | JS_Global</otriple>
 			</originaltripleset>
@@ -1959,7 +1959,7 @@
 				<entity>PATIENT-1 | JS_Global</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id53" size="4">
+		<entry category="EnglishStocks" eid="Id53" size="4">
 			<originaltripleset>
 				<otriple>DATE | 2019</otriple>
 				<otriple>LOC | China's</otriple>
@@ -2013,7 +2013,7 @@
 				<entity>PATIENT-7 | dollar</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id54" size="5">
+		<entry category="EnglishStocks" eid="Id54" size="5">
 			<originaltripleset>
 				<otriple>DATE | closed</otriple>
 				<otriple>ORG | OGDC</otriple>
@@ -2097,7 +2097,7 @@
 				<entity>PATIENT-9 | +5pc</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id55" size="2">
+		<entry category="EnglishStocks" eid="Id55" size="2">
 			<originaltripleset>
 				<otriple>PERCENT | 57pc</otriple>
 				<otriple>PERCENT | 61pc</otriple>
@@ -2141,7 +2141,7 @@
 				<entity>PATIENT-5 | 61pc</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id56" size="3">
+		<entry category="EnglishStocks" eid="Id56" size="3">
 			<originaltripleset>
 				<otriple>DATE | Oct_10</otriple>
 				<otriple>DATE | Thursday</otriple>
@@ -2195,7 +2195,7 @@
 				<entity>PATIENT-7 | Reuters</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id57" size="4">
+		<entry category="EnglishStocks" eid="Id57" size="4">
 			<originaltripleset>
 				<otriple>DATE | 0231_GMT</otriple>
 				<otriple>DATE | earlier_in_the_day</otriple>
@@ -2244,7 +2244,7 @@
 				<entity>PATIENT-6 | 21,555.67</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id58" size="2">
+		<entry category="EnglishStocks" eid="Id58" size="2">
 			<originaltripleset>
 				<otriple>LOC | Chinese</otriple>
 				<otriple>LOC | Japanese</otriple>
@@ -2293,7 +2293,7 @@
 				<entity>PATIENT-6 | Huawei_Technologies_Co_Ltd.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id59" size="1">
+		<entry category="EnglishStocks" eid="Id59" size="1">
 			<originaltripleset>
 				<otriple>LOC | China</otriple>
 			</originaltripleset>
@@ -2317,7 +2317,7 @@
 				<entity>PATIENT-1 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id60" size="2">
+		<entry category="EnglishStocks" eid="Id60" size="2">
 			<originaltripleset>
 				<otriple>DATE | mid-May</otriple>
 				<otriple>ORG | Huawei</otriple>
@@ -2346,7 +2346,7 @@
 				<entity>PATIENT-2 | mid-May</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id61" size="1">
+		<entry category="EnglishStocks" eid="Id61" size="1">
 			<originaltripleset>
 				<otriple>DATE | year-long</otriple>
 			</originaltripleset>
@@ -2370,7 +2370,7 @@
 				<entity>PATIENT-1 | year-long</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id62" size="2">
+		<entry category="EnglishStocks" eid="Id62" size="2">
 			<originaltripleset>
 				<otriple>LOC | Washington</otriple>
 				<otriple>ORG | The_South_China_Morning_Post</otriple>
@@ -2399,7 +2399,7 @@
 				<entity>PATIENT-2 | Washington</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id63" size="2">
+		<entry category="EnglishStocks" eid="Id63" size="2">
 			<originaltripleset>
 				<otriple>DATE | 15_months</otriple>
 				<otriple>LOC | Beijing</otriple>
@@ -2438,7 +2438,7 @@
 				<entity>PATIENT-4 | 15_months</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id64" size="2">
+		<entry category="EnglishStocks" eid="Id64" size="2">
 			<originaltripleset>
 				<otriple>DATE | 15_months</otriple>
 				<otriple>LOC | Beijing</otriple>
@@ -2477,7 +2477,7 @@
 				<entity>PATIENT-4 | 15_months</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id65" size="4">
+		<entry category="EnglishStocks" eid="Id65" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.07%</otriple>
 				<otriple>exchangeName | Topix</otriple>
@@ -2516,7 +2516,7 @@
 				<entity>PATIENT-4 | 1,580.66</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id66" size="4">
+		<entry category="EnglishStocks" eid="Id66" size="4">
 			<originaltripleset>
 				<otriple>DATE | the_past_30_days</otriple>
 				<otriple>MONEY | 1.21_billion_yen</otriple>
@@ -2555,7 +2555,7 @@
 				<entity>PATIENT-4 | the_past_30_days</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id67" size="3">
+		<entry category="EnglishStocks" eid="Id67" size="3">
 			<originaltripleset>
 				<otriple>DATE | Monday</otriple>
 				<otriple>LOC | Wall_Street</otriple>
@@ -2594,7 +2594,7 @@
 				<entity>PATIENT-4 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id68" size="3">
+		<entry category="EnglishStocks" eid="Id68" size="3">
 			<originaltripleset>
 				<otriple>DATE | the_past_two_weeks</otriple>
 				<otriple>LOC | China</otriple>
@@ -2633,7 +2633,7 @@
 				<entity>PATIENT-4 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id69" size="1">
+		<entry category="EnglishStocks" eid="Id69" size="1">
 			<originaltripleset>
 				<otriple>DATE | Monday</otriple>
 			</originaltripleset>
@@ -2657,7 +2657,7 @@
 				<entity>PATIENT-1 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id70" size="4">
+		<entry category="EnglishStocks" eid="Id70" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.7%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -2701,7 +2701,7 @@
 				<entity>PATIENT-5 | 0.7%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id71" size="4">
+		<entry category="EnglishStocks" eid="Id71" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.2%</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -2745,7 +2745,7 @@
 				<entity>PATIENT-5 | 0.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id72" size="4">
+		<entry category="EnglishStocks" eid="Id72" size="4">
 			<originaltripleset>
 				<otriple>ORG | Nasdaq</otriple>
 				<otriple>PERCENT | 0.9%</otriple>
@@ -2789,7 +2789,7 @@
 				<entity>PATIENT-5 | 0.9%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id73" size="4">
+		<entry category="EnglishStocks" eid="Id73" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -2833,7 +2833,7 @@
 				<entity>PATIENT-5 | 1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id74" size="1">
+		<entry category="EnglishStocks" eid="Id74" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_year</otriple>
 			</originaltripleset>
@@ -2857,7 +2857,7 @@
 				<entity>PATIENT-1 | the_year</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id75" size="4">
+		<entry category="EnglishStocks" eid="Id75" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 19.9%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -2896,7 +2896,7 @@
 				<entity>PATIENT-4 | 19.9%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id76" size="4">
+		<entry category="EnglishStocks" eid="Id76" size="4">
 			<originaltripleset>
 				<otriple>ORG | Dow</otriple>
 				<otriple>PERCENT | 15%</otriple>
@@ -2935,7 +2935,7 @@
 				<entity>PATIENT-4 | 15%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id77" size="4">
+		<entry category="EnglishStocks" eid="Id77" size="4">
 			<originaltripleset>
 				<otriple>ORG | Nasdaq</otriple>
 				<otriple>PERCENT | 23%</otriple>
@@ -2974,7 +2974,7 @@
 				<entity>PATIENT-4 | 23%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id78" size="4">
+		<entry category="EnglishStocks" eid="Id78" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 15%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -3013,7 +3013,7 @@
 				<entity>PATIENT-4 | 15%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id79" size="2">
+		<entry category="EnglishStocks" eid="Id79" size="2">
 			<originaltripleset>
 				<otriple>DATE | Wednesday</otriple>
 				<otriple>stockPoints | 7,800</otriple>
@@ -3042,7 +3042,7 @@
 				<entity>PATIENT-2 | Wednesday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id80" size="4">
+		<entry category="EnglishStocks" eid="Id80" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.21_percent</otriple>
 				<otriple>exchangeName | PSEi</otriple>
@@ -3091,7 +3091,7 @@
 				<entity>PATIENT-6 | 1.21_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id81" size="4">
+		<entry category="EnglishStocks" eid="Id81" size="4">
 			<originaltripleset>
 				<otriple>LOC | Philippines</otriple>
 				<otriple>ORG | EPHE</otriple>
@@ -3135,7 +3135,7 @@
 				<entity>PATIENT-5 | 2_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id82" size="1">
+		<entry category="EnglishStocks" eid="Id82" size="1">
 			<originaltripleset>
 				<otriple>PERCENT | 2.78_percent</otriple>
 			</originaltripleset>
@@ -3159,7 +3159,7 @@
 				<entity>PATIENT-1 | 2.78_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id83" size="3">
+		<entry category="EnglishStocks" eid="Id83" size="3">
 			<originaltripleset>
 				<otriple>DATE | the_day</otriple>
 				<otriple>MONEY | P10.14_billion</otriple>
@@ -3198,7 +3198,7 @@
 				<entity>PATIENT-4 | Mitsubishi_Corp.</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id84" size="2">
+		<entry category="EnglishStocks" eid="Id84" size="2">
 			<originaltripleset>
 				<otriple>ORDINAL | 112</otriple>
 				<otriple>ORDINAL | 43</otriple>
@@ -3247,7 +3247,7 @@
 				<entity>PATIENT-6 | unchanged</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id85" size="4">
+		<entry category="EnglishStocks" eid="Id85" size="4">
 			<originaltripleset>
 				<otriple>DATE | day</otriple>
 				<otriple>ORG | Ayala_Corp.</otriple>
@@ -3286,7 +3286,7 @@
 				<entity>PATIENT-4 | 6.47_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id86" size="3">
+		<entry category="EnglishStocks" eid="Id86" size="3">
 			<originaltripleset>
 				<otriple>ORG | Aboitiz_Equity_Ventures</otriple>
 				<otriple>ORG | JG_Summit</otriple>
@@ -3345,7 +3345,7 @@
 				<entity>PATIENT-8 | 2_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id87" size="3">
+		<entry category="EnglishStocks" eid="Id87" size="3">
 			<originaltripleset>
 				<otriple>ORG | Aboitiz_Power</otriple>
 				<otriple>ORG | BDO</otriple>
@@ -3409,7 +3409,7 @@
 				<entity>PATIENT-9 | more_than_1_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id88" size="2">
+		<entry category="EnglishStocks" eid="Id88" size="2">
 			<originaltripleset>
 				<otriple>ORG | Ayala_Land</otriple>
 				<otriple>ORG | BPI</otriple>
@@ -3448,7 +3448,7 @@
 				<entity>PATIENT-4 | gained</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id89" size="5">
+		<entry category="EnglishStocks" eid="Id89" size="5">
 			<originaltripleset>
 				<otriple>MONEY | P2.12</otriple>
 				<otriple>ORG | Phinma_Energy</otriple>
@@ -3497,7 +3497,7 @@
 				<entity>PATIENT-6 | P2.12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id90" size="2">
+		<entry category="EnglishStocks" eid="Id90" size="2">
 			<originaltripleset>
 				<otriple>MONEY | P1.4577</otriple>
 				<otriple>ORG | Ayala</otriple>
@@ -3526,7 +3526,7 @@
 				<entity>PATIENT-2 | P1.4577</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id91" size="3">
+		<entry category="EnglishStocks" eid="Id91" size="3">
 			<originaltripleset>
 				<otriple>ORG | Primex</otriple>
 				<otriple>PERCENT | 5_percent</otriple>
@@ -3560,7 +3560,7 @@
 				<entity>PATIENT-3 | 5_percent</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id92" size="1">
+		<entry category="EnglishStocks" eid="Id92" size="1">
 			<originaltripleset>
 				<otriple>ORG | Facebook</otriple>
 				<otriple>ORG | Twitter</otriple>
@@ -3589,7 +3589,7 @@
 				<entity>PATIENT-2 | Facebook</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id93" size="5">
+		<entry category="EnglishStocks" eid="Id93" size="5">
 			<originaltripleset>
 				<otriple>DATE | February</otriple>
 				<otriple>DATE | January</otriple>
@@ -3643,7 +3643,7 @@
 				<entity>PATIENT-7 | 98.62</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id94" size="3">
+		<entry category="EnglishStocks" eid="Id94" size="3">
 			<originaltripleset>
 				<otriple>DATE | 2018</otriple>
 				<otriple>DATE | 2018</otriple>
@@ -3707,7 +3707,7 @@
 				<entity>PATIENT-9 | 54.0%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id95" size="1">
+		<entry category="EnglishStocks" eid="Id95" size="1">
 			<originaltripleset>
 				<otriple>PERCENT | 20%</otriple>
 			</originaltripleset>
@@ -3731,7 +3731,7 @@
 				<entity>PATIENT-1 | 20%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id96" size="3">
+		<entry category="EnglishStocks" eid="Id96" size="3">
 			<originaltripleset>
 				<otriple>ORG | Village_Farms</otriple>
 				<otriple>PERCENT | +89.8%</otriple>
@@ -3770,7 +3770,7 @@
 				<entity>PATIENT-4 | +89.8%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id97" size="3">
+		<entry category="EnglishStocks" eid="Id97" size="3">
 			<originaltripleset>
 				<otriple>ORG | Pyxus_International</otriple>
 				<otriple>PERCENT | +66.3%</otriple>
@@ -3804,7 +3804,7 @@
 				<entity>PATIENT-3 | +66.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id98" size="3">
+		<entry category="EnglishStocks" eid="Id98" size="3">
 			<originaltripleset>
 				<otriple>ORG | Innovative_Industrial_Properties</otriple>
 				<otriple>PERCENT | +27.6%</otriple>
@@ -3838,7 +3838,7 @@
 				<entity>PATIENT-3 | +27.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id99" size="3">
+		<entry category="EnglishStocks" eid="Id99" size="3">
 			<originaltripleset>
 				<otriple>ORG | Green_Thumb_Industries</otriple>
 				<otriple>PERCENT | +27.0%</otriple>
@@ -3877,7 +3877,7 @@
 				<entity>PATIENT-4 | +27.0%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id100" size="3">
+		<entry category="EnglishStocks" eid="Id100" size="3">
 			<originaltripleset>
 				<otriple>ORG | Curaleaf_Holdings</otriple>
 				<otriple>PERCENT | +21.8%</otriple>
@@ -3916,7 +3916,7 @@
 				<entity>PATIENT-4 | +21.8%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id101" size="2">
+		<entry category="EnglishStocks" eid="Id101" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_month</otriple>
 				<otriple>ORG | NASDAQ</otriple>
@@ -3950,7 +3950,7 @@
 				<entity>PATIENT-3 | the_month</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id102" size="2">
+		<entry category="EnglishStocks" eid="Id102" size="2">
 			<originaltripleset>
 				<otriple>ORG | Innovative_Industrial_Properties</otriple>
 				<otriple>exchangeName | S&amp;P_600_SmallCap_Index</otriple>
@@ -3979,7 +3979,7 @@
 				<entity>PATIENT-2 | S&amp;P_600_SmallCap_Index</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id103" size="2">
+		<entry category="EnglishStocks" eid="Id103" size="2">
 			<originaltripleset>
 				<otriple>DATE | February</otriple>
 				<otriple>PERCENT | more_than_20%</otriple>
@@ -4008,7 +4008,7 @@
 				<entity>PATIENT-2 | February</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id104" size="3">
+		<entry category="EnglishStocks" eid="Id104" size="3">
 			<originaltripleset>
 				<otriple>ORG | Wayland_Group</otriple>
 				<otriple>PERCENT | -27.0%</otriple>
@@ -4047,7 +4047,7 @@
 				<entity>PATIENT-4 | -27.0%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id105" size="3">
+		<entry category="EnglishStocks" eid="Id105" size="3">
 			<originaltripleset>
 				<otriple>ORG | Namaste_Technologies</otriple>
 				<otriple>PERCENT | -24.7%</otriple>
@@ -4086,7 +4086,7 @@
 				<entity>PATIENT-4 | -24.7%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id106" size="3">
+		<entry category="EnglishStocks" eid="Id106" size="3">
 			<originaltripleset>
 				<otriple>ORG | Canopy_Rivers</otriple>
 				<otriple>PERCENT | -20.6%</otriple>
@@ -4125,7 +4125,7 @@
 				<entity>PATIENT-4 | -20.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id107" size="2">
+		<entry category="EnglishStocks" eid="Id107" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_month</otriple>
 				<otriple>ORG | Wayland_Group</otriple>
@@ -4154,7 +4154,7 @@
 				<entity>PATIENT-2 | the_month</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id108" size="1">
+		<entry category="EnglishStocks" eid="Id108" size="1">
 			<originaltripleset>
 				<otriple>ORG | Namaste_Technologies</otriple>
 			</originaltripleset>
@@ -4178,7 +4178,7 @@
 				<entity>PATIENT-1 | Namaste_Technologies</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id109" size="4">
+		<entry category="EnglishStocks" eid="Id109" size="4">
 			<originaltripleset>
 				<otriple>DATE | January</otriple>
 				<otriple>ORG | Canopy_Rivers</otriple>
@@ -4217,7 +4217,7 @@
 				<entity>PATIENT-4 | January</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id110" size="1">
+		<entry category="EnglishStocks" eid="Id110" size="1">
 			<originaltripleset>
 				<otriple>DATE | a_month</otriple>
 			</originaltripleset>
@@ -4241,7 +4241,7 @@
 				<entity>PATIENT-1 | a_month</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id111" size="1">
+		<entry category="EnglishStocks" eid="Id111" size="1">
 			<originaltripleset>
 				<otriple>exchangeName | Global_Cannabis_Stock_Index</otriple>
 			</originaltripleset>
@@ -4265,7 +4265,7 @@
 				<entity>PATIENT-1 | Global_Cannabis_Stock_Index</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id112" size="1">
+		<entry category="EnglishStocks" eid="Id112" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_day_or_from_day-to-day</otriple>
 			</originaltripleset>
@@ -4289,7 +4289,7 @@
 				<entity>PATIENT-1 | the_day_or_from_day-to-day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id113" size="2">
+		<entry category="EnglishStocks" eid="Id113" size="2">
 			<originaltripleset>
 				<otriple>ORG | New_Cannabis_Ventures</otriple>
 				<otriple>exchangeName | Canadian_Cannabis_LP_Index</otriple>
@@ -4323,7 +4323,7 @@
 				<entity>PATIENT-3 | Canadian_Cannabis_LP_Index</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id114" size="4">
+		<entry category="EnglishStocks" eid="Id114" size="4">
 			<originaltripleset>
 				<otriple>DATE | the_end_of_October</otriple>
 				<otriple>LOC | United_States</otriple>
@@ -4362,7 +4362,7 @@
 				<entity>PATIENT-4 | United_States</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id115" size="2">
+		<entry category="EnglishStocks" eid="Id115" size="2">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>LOC | US</otriple>
@@ -4391,7 +4391,7 @@
 				<entity>PATIENT-2 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id116" size="2">
+		<entry category="EnglishStocks" eid="Id116" size="2">
 			<originaltripleset>
 				<otriple>DATE | two_years</otriple>
 				<otriple>DATE | weekly</otriple>
@@ -4425,7 +4425,7 @@
 				<entity>PATIENT-3 | two_years</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id117" size="1">
+		<entry category="EnglishStocks" eid="Id117" size="1">
 			<originaltripleset>
 				<otriple>DATE | 4_p.m._close_on_Friday</otriple>
 			</originaltripleset>
@@ -4449,7 +4449,7 @@
 				<entity>PATIENT-1 | 4_p.m._close_on_Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id118" size="4">
+		<entry category="EnglishStocks" eid="Id118" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.77%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -4488,7 +4488,7 @@
 				<entity>PATIENT-4 | 3,120.46</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id119" size="4">
+		<entry category="EnglishStocks" eid="Id119" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.8%</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -4527,7 +4527,7 @@
 				<entity>PATIENT-4 | 28,004.89</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id120" size="4">
+		<entry category="EnglishStocks" eid="Id120" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.73%</otriple>
 				<otriple>exchangeName | Nasdaq_Composite</otriple>
@@ -4566,7 +4566,7 @@
 				<entity>PATIENT-4 | 8,540.83</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id121" size="2">
+		<entry category="EnglishStocks" eid="Id121" size="2">
 			<originaltripleset>
 				<otriple>DATE | late_Thursday</otriple>
 				<otriple>LOC | China</otriple>
@@ -4600,7 +4600,7 @@
 				<entity>PATIENT-3 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id122" size="2">
+		<entry category="EnglishStocks" eid="Id122" size="2">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>ORG | Commerce</otriple>
@@ -4634,7 +4634,7 @@
 				<entity>PATIENT-3 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id123" size="4">
+		<entry category="EnglishStocks" eid="Id123" size="4">
 			<originaltripleset>
 				<otriple>LOC | China</otriple>
 				<otriple>ORG | Independent_Advisor_Alliance</otriple>
@@ -4673,7 +4673,7 @@
 				<entity>PATIENT-4 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id124" size="2">
+		<entry category="EnglishStocks" eid="Id124" size="2">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -4702,7 +4702,7 @@
 				<entity>PATIENT-2 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id125" size="2">
+		<entry category="EnglishStocks" eid="Id125" size="2">
 			<originaltripleset>
 				<otriple>ORG | Applied_Materials</otriple>
 				<otriple>PERCENT | 9%</otriple>
@@ -4731,7 +4731,7 @@
 				<entity>PATIENT-2 | 9%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id126" size="2">
+		<entry category="EnglishStocks" eid="Id126" size="2">
 			<originaltripleset>
 				<otriple>ORG | Anthem</otriple>
 				<otriple>PERCENT | 5.6%</otriple>
@@ -4760,7 +4760,7 @@
 				<entity>PATIENT-2 | 5.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id127" size="2">
+		<entry category="EnglishStocks" eid="Id127" size="2">
 			<originaltripleset>
 				<otriple>ORG | Humana</otriple>
 				<otriple>PERCENT | 5.5%</otriple>
@@ -4789,7 +4789,7 @@
 				<entity>PATIENT-2 | 5.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id128" size="2">
+		<entry category="EnglishStocks" eid="Id128" size="2">
 			<originaltripleset>
 				<otriple>ORG | Centene</otriple>
 				<otriple>PERCENT | 5.3%</otriple>
@@ -4818,7 +4818,7 @@
 				<entity>PATIENT-2 | 5.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id129" size="2">
+		<entry category="EnglishStocks" eid="Id129" size="2">
 			<originaltripleset>
 				<otriple>ORG | UnitedHealth_Group</otriple>
 				<otriple>PERCENT | 5.3%</otriple>
@@ -4847,7 +4847,7 @@
 				<entity>PATIENT-2 | 5.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id130" size="4">
+		<entry category="EnglishStocks" eid="Id130" size="4">
 			<originaltripleset>
 				<otriple>ORG | Google-parent_Alphabet</otriple>
 				<otriple>ORG | Microsoft</otriple>
@@ -4891,7 +4891,7 @@
 				<entity>PATIENT-5 | more_than_1.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id131" size="3">
+		<entry category="EnglishStocks" eid="Id131" size="3">
 			<originaltripleset>
 				<otriple>ORG | Healthcare</otriple>
 				<otriple>PERCENT | about_2.2%</otriple>
@@ -4925,7 +4925,7 @@
 				<entity>PATIENT-3 | about_2.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id132" size="3">
+		<entry category="EnglishStocks" eid="Id132" size="3">
 			<originaltripleset>
 				<otriple>ORG | Energy,_communications,_and_technology</otriple>
 				<otriple>ORG | industrials</otriple>
@@ -4974,7 +4974,7 @@
 				<entity>PATIENT-6 | 0.7%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id133" size="3">
+		<entry category="EnglishStocks" eid="Id133" size="3">
 			<originaltripleset>
 				<otriple>ORG | Materials</otriple>
 				<otriple>PERCENT | 0.1%</otriple>
@@ -5008,7 +5008,7 @@
 				<entity>PATIENT-3 | 0.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id134" size="2">
+		<entry category="EnglishStocks" eid="Id134" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_last_several_weeks</otriple>
 				<otriple>stockChange | climbed</otriple>
@@ -5037,7 +5037,7 @@
 				<entity>PATIENT-2 | the_last_several_weeks</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id135" size="5">
+		<entry category="EnglishStocks" eid="Id135" size="5">
 			<originaltripleset>
 				<otriple>DATE | Monday,_January_14</otriple>
 				<otriple>LOC | MANILA,_Philippines</otriple>
@@ -5086,7 +5086,7 @@
 				<entity>PATIENT-6 | Monday,_January_14</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id136" size="4">
+		<entry category="EnglishStocks" eid="Id136" size="4">
 			<originaltripleset>
 				<otriple>DATE | last_Friday,_January_11</otriple>
 				<otriple>PERCENT | 1.52%</otriple>
@@ -5125,7 +5125,7 @@
 				<entity>PATIENT-4 | last_Friday,_January_11</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id137" size="2">
+		<entry category="EnglishStocks" eid="Id137" size="2">
 			<originaltripleset>
 				<otriple>MONEY | P6.8_billion</otriple>
 				<otriple>ORDINAL | 1.13</otriple>
@@ -5154,7 +5154,7 @@
 				<entity>PATIENT-2 | P6.8_billion</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id138" size="1">
+		<entry category="EnglishStocks" eid="Id138" size="1">
 			<originaltripleset>
 				<otriple>MONEY | P3.2_billion</otriple>
 				<otriple>MONEY | P4.3_billion</otriple>
@@ -5183,7 +5183,7 @@
 				<entity>PATIENT-2 | P3.2_billion</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id139" size="3">
+		<entry category="EnglishStocks" eid="Id139" size="3">
 			<originaltripleset>
 				<otriple>DATE | April_2018</otriple>
 				<otriple>exchangeName | PSEi</otriple>
@@ -5217,7 +5217,7 @@
 				<entity>PATIENT-3 | April_2018</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id140" size="3">
+		<entry category="EnglishStocks" eid="Id140" size="3">
 			<originaltripleset>
 				<otriple>DATE | October</otriple>
 				<otriple>DATE | last_year</otriple>
@@ -5261,7 +5261,7 @@
 				<entity>PATIENT-5 | 6,800</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id141" size="3">
+		<entry category="EnglishStocks" eid="Id141" size="3">
 			<originaltripleset>
 				<otriple>DATE | Monday</otriple>
 				<otriple>PERCENT | 2.14%</otriple>
@@ -5300,7 +5300,7 @@
 				<entity>PATIENT-4 | 2.14%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id142" size="2">
+		<entry category="EnglishStocks" eid="Id142" size="2">
 			<originaltripleset>
 				<otriple>ORG | Ayala_Land</otriple>
 				<otriple>ORG | Jollibee</otriple>
@@ -5369,7 +5369,7 @@
 				<entity>PATIENT-9 | 0.71%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id143" size="2">
+		<entry category="EnglishStocks" eid="Id143" size="2">
 			<originaltripleset>
 				<otriple>DATE | last_Friday</otriple>
 				<otriple>ORG | Hanjin_Heavy_Industries_and_Construction_Philippines</otriple>
@@ -5398,7 +5398,7 @@
 				<entity>PATIENT-2 | Hanjin_Heavy_Industries_and_Construction_Philippines</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id144" size="3">
+		<entry category="EnglishStocks" eid="Id144" size="3">
 			<originaltripleset>
 				<otriple>ORG | RCBC</otriple>
 				<otriple>PERCENT | 2.8%</otriple>
@@ -5432,7 +5432,7 @@
 				<entity>PATIENT-3 | 2.8%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id145" size="3">
+		<entry category="EnglishStocks" eid="Id145" size="3">
 			<originaltripleset>
 				<otriple>ORG | BDO</otriple>
 				<otriple>ORG | BPI</otriple>
@@ -5486,7 +5486,7 @@
 				<entity>PATIENT-7 | green</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id146" size="2">
+		<entry category="EnglishStocks" eid="Id146" size="2">
 			<originaltripleset>
 				<otriple>LOC | Asian</otriple>
 				<otriple>LOC | China's</otriple>
@@ -5520,7 +5520,7 @@
 				<entity>PATIENT-3 | China's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id147" size="1">
+		<entry category="EnglishStocks" eid="Id147" size="1">
 			<originaltripleset>
 				<otriple>ORG | Rappler.com</otriple>
 			</originaltripleset>
@@ -5544,7 +5544,7 @@
 				<entity>PATIENT-1 | Rappler.com</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id148" size="4">
+		<entry category="EnglishStocks" eid="Id148" size="4">
 			<originaltripleset>
 				<otriple>DATE | this_Tuesday_11_June</otriple>
 				<otriple>ORG | Melco_Resorts_and_Entertainment_(Philippines)</otriple>
@@ -5588,7 +5588,7 @@
 				<entity>PATIENT-5 | falling</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id149" size="2">
+		<entry category="EnglishStocks" eid="Id149" size="2">
 			<originaltripleset>
 				<otriple>DATE | six_months_to_the_day</otriple>
 				<otriple>ORG | MCO_(Philippines)_Investments_Limited</otriple>
@@ -5622,7 +5622,7 @@
 				<entity>PATIENT-3 | MCO_(Philippines)_Investments_Limited</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id150" size="3">
+		<entry category="EnglishStocks" eid="Id150" size="3">
 			<originaltripleset>
 				<otriple>DATE | 14_May</otriple>
 				<otriple>DATE | six_full_months</otriple>
@@ -5671,7 +5671,7 @@
 				<entity>PATIENT-6 | six_full_months</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id151" size="3">
+		<entry category="EnglishStocks" eid="Id151" size="3">
 			<originaltripleset>
 				<otriple>DATE | Last_year’s</otriple>
 				<otriple>ORG | MCO_(Philippines)_Investments_Limited</otriple>
@@ -5715,7 +5715,7 @@
 				<entity>PATIENT-5 | 10%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id152" size="1">
+		<entry category="EnglishStocks" eid="Id152" size="1">
 			<originaltripleset>
 				<otriple>MONEY | 5.9_billion</otriple>
 			</originaltripleset>
@@ -5739,7 +5739,7 @@
 				<entity>PATIENT-1 | 5.9_billion</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id153" size="2">
+		<entry category="EnglishStocks" eid="Id153" size="2">
 			<originaltripleset>
 				<otriple>DATE | last_year’s</otriple>
 				<otriple>ORG | MCO</otriple>
@@ -5773,7 +5773,7 @@
 				<entity>PATIENT-3 | last_year’s</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id154" size="2">
+		<entry category="EnglishStocks" eid="Id154" size="2">
 			<originaltripleset>
 				<otriple>DATE | 2018</otriple>
 				<otriple>ORG | PSE</otriple>
@@ -5802,7 +5802,7 @@
 				<entity>PATIENT-2 | PSE</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id155" size="3">
+		<entry category="EnglishStocks" eid="Id155" size="3">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>LOC | China</otriple>
@@ -5841,7 +5841,7 @@
 				<entity>PATIENT-4 | China</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id156" size="2">
+		<entry category="EnglishStocks" eid="Id156" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_day</otriple>
 				<otriple>LOC | gains</otriple>
@@ -5870,7 +5870,7 @@
 				<entity>PATIENT-2 | the_day</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id157" size="1">
+		<entry category="EnglishStocks" eid="Id157" size="1">
 			<originaltripleset>
 				<otriple>LOC | fell</otriple>
 				<otriple>LOC | rose</otriple>
@@ -5899,7 +5899,7 @@
 				<entity>PATIENT-2 | fell</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id158" size="1">
+		<entry category="EnglishStocks" eid="Id158" size="1">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 			</originaltripleset>
@@ -5923,7 +5923,7 @@
 				<entity>PATIENT-1 | Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id159" size="4">
+		<entry category="EnglishStocks" eid="Id159" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.3%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -5967,7 +5967,7 @@
 				<entity>PATIENT-5 | 0.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id160" size="4">
+		<entry category="EnglishStocks" eid="Id160" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.2%</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -6011,7 +6011,7 @@
 				<entity>PATIENT-5 | 0.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id161" size="4">
+		<entry category="EnglishStocks" eid="Id161" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.3%</otriple>
 				<otriple>exchangeName | Nasdaq</otriple>
@@ -6055,7 +6055,7 @@
 				<entity>PATIENT-5 | 0.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id162" size="4">
+		<entry category="EnglishStocks" eid="Id162" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | less_than_0.1%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -6099,7 +6099,7 @@
 				<entity>PATIENT-5 | less_than_0.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id163" size="1">
+		<entry category="EnglishStocks" eid="Id163" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_week</otriple>
 			</originaltripleset>
@@ -6123,7 +6123,7 @@
 				<entity>PATIENT-1 | the_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id164" size="4">
+		<entry category="EnglishStocks" eid="Id164" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -6162,7 +6162,7 @@
 				<entity>PATIENT-4 | 1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id165" size="4">
+		<entry category="EnglishStocks" eid="Id165" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.4%</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -6201,7 +6201,7 @@
 				<entity>PATIENT-4 | 1.4%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id166" size="4">
+		<entry category="EnglishStocks" eid="Id166" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.1%</otriple>
 				<otriple>exchangeName | Nasdaq</otriple>
@@ -6240,7 +6240,7 @@
 				<entity>PATIENT-4 | 1.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id167" size="4">
+		<entry category="EnglishStocks" eid="Id167" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 4.6%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -6279,7 +6279,7 @@
 				<entity>PATIENT-4 | 4.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id168" size="1">
+		<entry category="EnglishStocks" eid="Id168" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_year</otriple>
 			</originaltripleset>
@@ -6303,7 +6303,7 @@
 				<entity>PATIENT-1 | the_year</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id169" size="4">
+		<entry category="EnglishStocks" eid="Id169" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 20.1%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -6342,7 +6342,7 @@
 				<entity>PATIENT-4 | 20.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id170" size="4">
+		<entry category="EnglishStocks" eid="Id170" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 16.5%</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -6381,7 +6381,7 @@
 				<entity>PATIENT-4 | 16.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id171" size="4">
+		<entry category="EnglishStocks" eid="Id171" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 23.5%</otriple>
 				<otriple>exchangeName | Nasdaq</otriple>
@@ -6420,7 +6420,7 @@
 				<entity>PATIENT-4 | 23.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id172" size="4">
+		<entry category="EnglishStocks" eid="Id172" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 16.8%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -6459,7 +6459,7 @@
 				<entity>PATIENT-4 | 16.8%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id173" size="4">
+		<entry category="EnglishStocks" eid="Id173" size="4">
 			<originaltripleset>
 				<otriple>DATE | 159963</otriple>
 				<otriple>LOC | Hong_Kong</otriple>
@@ -6508,7 +6508,7 @@
 				<entity>PATIENT-6 | 159963</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id174" size="1">
+		<entry category="EnglishStocks" eid="Id174" size="1">
 			<originaltripleset>
 				<otriple>ORG | the_Hang_Seng_China_Enterprises</otriple>
 			</originaltripleset>
@@ -6532,7 +6532,7 @@
 				<entity>PATIENT-1 | the_Hang_Seng_China_Enterprises</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id175" size="1">
+		<entry category="EnglishStocks" eid="Id175" size="1">
 			<originaltripleset>
 				<otriple>ORG | HSCEI</otriple>
 				<otriple>ORG | the_Hong_Kong_Stock_Exchange</otriple>
@@ -6561,7 +6561,7 @@
 				<entity>PATIENT-2 | the_Hong_Kong_Stock_Exchange</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id176" size="2">
+		<entry category="EnglishStocks" eid="Id176" size="2">
 			<originaltripleset>
 				<otriple>LOC | the_Cayman_Islands</otriple>
 				<otriple>ORG | Bermuda</otriple>
@@ -6590,7 +6590,7 @@
 				<entity>PATIENT-2 | Bermuda</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id177" size="2">
+		<entry category="EnglishStocks" eid="Id177" size="2">
 			<originaltripleset>
 				<otriple>DATE | 28_February_2019</otriple>
 				<otriple>PERCENT | 55.6%</otriple>
@@ -6619,7 +6619,7 @@
 				<entity>PATIENT-2 | 28_February_2019</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id178" size="2">
+		<entry category="EnglishStocks" eid="Id178" size="2">
 			<originaltripleset>
 				<otriple>ORG | CCB</otriple>
 				<otriple>ORG | ICBC</otriple>
@@ -6653,7 +6653,7 @@
 				<entity>PATIENT-3 | around_10%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id179" size="2">
+		<entry category="EnglishStocks" eid="Id179" size="2">
 			<originaltripleset>
 				<otriple>ORDINAL | second</otriple>
 				<otriple>PERCENT | 11.1%</otriple>
@@ -6687,7 +6687,7 @@
 				<entity>PATIENT-3 | 3.7%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id180" size="4">
+		<entry category="EnglishStocks" eid="Id180" size="4">
 			<originaltripleset>
 				<otriple>DATE | July_9</otriple>
 				<otriple>LOC | Romanian</otriple>
@@ -6736,7 +6736,7 @@
 				<entity>PATIENT-6 | July_9</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id181" size="3">
+		<entry category="EnglishStocks" eid="Id181" size="3">
 			<originaltripleset>
 				<otriple>ORDINAL | first</otriple>
 				<otriple>ORG | iHunt</otriple>
@@ -6775,7 +6775,7 @@
 				<entity>PATIENT-4 | Bucharest_Stock_Exchange</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id182" size="5">
+		<entry category="EnglishStocks" eid="Id182" size="5">
 			<originaltripleset>
 				<otriple>DATE | the_first_day</otriple>
 				<otriple>ORDINAL | 1.7_million</otriple>
@@ -6819,7 +6819,7 @@
 				<entity>PATIENT-5 | Facebook</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id183" size="3">
+		<entry category="EnglishStocks" eid="Id183" size="3">
 			<originaltripleset>
 				<otriple>DATE | July_9</otriple>
 				<otriple>MONEY | RON_1.5_million</otriple>
@@ -6853,7 +6853,7 @@
 				<entity>PATIENT-3 | RON_1.5_million</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id184" size="3">
+		<entry category="EnglishStocks" eid="Id184" size="3">
 			<originaltripleset>
 				<otriple>DATE | 15_minutes</otriple>
 				<otriple>MONEY | RON_0.74</otriple>
@@ -6892,7 +6892,7 @@
 				<entity>PATIENT-4 | 15_minutes</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id185" size="2">
+		<entry category="EnglishStocks" eid="Id185" size="2">
 			<originaltripleset>
 				<otriple>MONEY | RON_0.865</otriple>
 				<otriple>ORG | iHunt</otriple>
@@ -6921,7 +6921,7 @@
 				<entity>PATIENT-2 | RON_0.865</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id186" size="2">
+		<entry category="EnglishStocks" eid="Id186" size="2">
 			<originaltripleset>
 				<otriple>DATE | 2015</otriple>
 				<otriple>ORG | iHunt_Technology_Import_Export_Ploiesti</otriple>
@@ -6950,7 +6950,7 @@
 				<entity>PATIENT-2 | 2015</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id187" size="3">
+		<entry category="EnglishStocks" eid="Id187" size="3">
 			<originaltripleset>
 				<otriple>DATE | 2015</otriple>
 				<otriple>DATE | the_end_of_2018</otriple>
@@ -7004,7 +7004,7 @@
 				<entity>PATIENT-7 | the_end_of_2018</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id188" size="3">
+		<entry category="EnglishStocks" eid="Id188" size="3">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 				<otriple>LOC | China</otriple>
@@ -7048,7 +7048,7 @@
 				<entity>PATIENT-5 | Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id189" size="2">
+		<entry category="EnglishStocks" eid="Id189" size="2">
 			<originaltripleset>
 				<otriple>DATE | 10-year</otriple>
 				<otriple>DATE | more_than_a_year</otriple>
@@ -7082,7 +7082,7 @@
 				<entity>PATIENT-3 | Treasury</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id190" size="1">
+		<entry category="EnglishStocks" eid="Id190" size="1">
 			<originaltripleset>
 				<otriple>DATE | Thursday</otriple>
 			</originaltripleset>
@@ -7106,7 +7106,7 @@
 				<entity>PATIENT-1 | Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id191" size="4">
+		<entry category="EnglishStocks" eid="Id191" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.2%</otriple>
 				<otriple>exchangeName | S&amp;P_500_index</otriple>
@@ -7150,7 +7150,7 @@
 				<entity>PATIENT-5 | 1.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id192" size="4">
+		<entry category="EnglishStocks" eid="Id192" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.1%</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -7194,7 +7194,7 @@
 				<entity>PATIENT-5 | 1.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id193" size="4">
+		<entry category="EnglishStocks" eid="Id193" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.6%</otriple>
 				<otriple>exchangeName | Nasdaq_composite</otriple>
@@ -7238,7 +7238,7 @@
 				<entity>PATIENT-5 | 1.6%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id194" size="4">
+		<entry category="EnglishStocks" eid="Id194" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 2%</otriple>
 				<otriple>exchangeName | Russell_200_index_of_small_company_stocks</otriple>
@@ -7282,7 +7282,7 @@
 				<entity>PATIENT-5 | 2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id195" size="1">
+		<entry category="EnglishStocks" eid="Id195" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_week</otriple>
 			</originaltripleset>
@@ -7306,7 +7306,7 @@
 				<entity>PATIENT-1 | the_week</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id196" size="4">
+		<entry category="EnglishStocks" eid="Id196" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.3%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -7345,7 +7345,7 @@
 				<entity>PATIENT-4 | 1.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id197" size="4">
+		<entry category="EnglishStocks" eid="Id197" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 1.1%</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -7384,7 +7384,7 @@
 				<entity>PATIENT-4 | 1.1%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id198" size="4">
+		<entry category="EnglishStocks" eid="Id198" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 2.4%</otriple>
 				<otriple>exchangeName | Nasdaq</otriple>
@@ -7423,7 +7423,7 @@
 				<entity>PATIENT-4 | 2.4%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id199" size="4">
+		<entry category="EnglishStocks" eid="Id199" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 2.2%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -7462,7 +7462,7 @@
 				<entity>PATIENT-4 | 2.2%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id200" size="1">
+		<entry category="EnglishStocks" eid="Id200" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_year</otriple>
 			</originaltripleset>
@@ -7486,7 +7486,7 @@
 				<entity>PATIENT-1 | the_year</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id201" size="4">
+		<entry category="EnglishStocks" eid="Id201" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 12.5%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -7525,7 +7525,7 @@
 				<entity>PATIENT-4 | 12.5%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id202" size="4">
+		<entry category="EnglishStocks" eid="Id202" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 9.3%</otriple>
 				<otriple>exchangeName | Dow</otriple>
@@ -7564,7 +7564,7 @@
 				<entity>PATIENT-4 | 9.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id203" size="4">
+		<entry category="EnglishStocks" eid="Id203" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 15%</otriple>
 				<otriple>exchangeName | Nasdaq</otriple>
@@ -7603,7 +7603,7 @@
 				<entity>PATIENT-4 | 15%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id204" size="4">
+		<entry category="EnglishStocks" eid="Id204" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 11.3%</otriple>
 				<otriple>exchangeName | Russell_2000</otriple>
@@ -7642,7 +7642,7 @@
 				<entity>PATIENT-4 | 11.3%</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id205" size="3">
+		<entry category="EnglishStocks" eid="Id205" size="3">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>DATE | the_eighth_straight_day</otriple>
@@ -7686,7 +7686,7 @@
 				<entity>PATIENT-5 | Dow_Jones_industrial_average</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id206" size="2">
+		<entry category="EnglishStocks" eid="Id206" size="2">
 			<originaltripleset>
 				<otriple>exchangeName | S&amp;P_500_index</otriple>
 				<otriple>stockChange | down_slightly</otriple>
@@ -7715,7 +7715,7 @@
 				<entity>PATIENT-2 | down_slightly</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id207" size="4">
+		<entry category="EnglishStocks" eid="Id207" size="4">
 			<originaltripleset>
 				<otriple>ORG | Apple</otriple>
 				<otriple>PERCENT | about_2%</otriple>
@@ -7759,7 +7759,7 @@
 				<entity>PATIENT-5 | Nasdaq_Composite</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id208" size="3">
+		<entry category="EnglishStocks" eid="Id208" size="3">
 			<originaltripleset>
 				<otriple>LOC | Wall_Street</otriple>
 				<otriple>ORG | Apple_TV_Plus</otriple>
@@ -7803,7 +7803,7 @@
 				<entity>PATIENT-5 | Wall_Street</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id209" size="4">
+		<entry category="EnglishStocks" eid="Id209" size="4">
 			<originaltripleset>
 				<otriple>DATE | Friday</otriple>
 				<otriple>DATE | Thursday</otriple>
@@ -7852,7 +7852,7 @@
 				<entity>PATIENT-6 | Dow</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id210" size="2">
+		<entry category="EnglishStocks" eid="Id210" size="2">
 			<originaltripleset>
 				<otriple>DATE | the_coming_months</otriple>
 				<otriple>LOC | China</otriple>
@@ -7886,7 +7886,7 @@
 				<entity>PATIENT-3 | the_coming_months</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id211" size="1">
+		<entry category="EnglishStocks" eid="Id211" size="1">
 			<originaltripleset>
 				<otriple>DATE | the_coming_weeks</otriple>
 			</originaltripleset>
@@ -7910,7 +7910,7 @@
 				<entity>PATIENT-1 | the_coming_weeks</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id212" size="1">
+		<entry category="EnglishStocks" eid="Id212" size="1">
 			<originaltripleset>
 				<otriple>DATE | 4_p.m.</otriple>
 				<otriple>DATE | Friday</otriple>
@@ -7939,7 +7939,7 @@
 				<entity>PATIENT-2 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id213" size="4">
+		<entry category="EnglishStocks" eid="Id213" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.07%</otriple>
 				<otriple>exchangeName | S&amp;P_500</otriple>
@@ -7978,7 +7978,7 @@
 				<entity>PATIENT-4 | 3,007.39</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id214" size="4">
+		<entry category="EnglishStocks" eid="Id214" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.14%</otriple>
 				<otriple>exchangeName | Dow_Jones_Industrial_Average</otriple>
@@ -8017,7 +8017,7 @@
 				<entity>PATIENT-4 | 27,219.52</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id215" size="4">
+		<entry category="EnglishStocks" eid="Id215" size="4">
 			<originaltripleset>
 				<otriple>PERCENT | 0.22%</otriple>
 				<otriple>exchangeName | Nasdaq_Composite</otriple>
@@ -8056,7 +8056,7 @@
 				<entity>PATIENT-4 | 8,176.71</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id216" size="4">
+		<entry category="EnglishStocks" eid="Id216" size="4">
 			<originaltripleset>
 				<otriple>MONEY | $525_million</otriple>
 				<otriple>ORG | Cloudflare</otriple>
@@ -8095,7 +8095,7 @@
 				<entity>PATIENT-4 | $525_million</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id217" size="3">
+		<entry category="EnglishStocks" eid="Id217" size="3">
 			<originaltripleset>
 				<otriple>MONEY | $12</otriple>
 				<otriple>MONEY | $14</otriple>

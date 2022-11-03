@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <benchmark>
 	<entries>
-		<entry category="DutchIncidents" eid="Id1" size="5">
+		<entry category="EnglishSports" eid="Id1" size="5">
 			<originaltripleset>
 				<otriple>batterName | Paul_Konerko</otriple>
 				<otriple>matchDate | Tuesday_night</otriple>
@@ -46,7 +46,7 @@
 				<entity>PATIENT-5 | Tuesday_night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id2" size="6">
+		<entry category="EnglishSports" eid="Id2" size="6">
 			<originaltripleset>
 				<otriple>batterName | A.J._Pierzynski</otriple>
 				<otriple>batterName | Konerko</otriple>
@@ -101,7 +101,7 @@
 				<entity>PATIENT-7 | 6-1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id3" size="1">
+		<entry category="EnglishSports" eid="Id3" size="1">
 			<originaltripleset>
 				<otriple>batterName | Konerko</otriple>
 			</originaltripleset>
@@ -126,7 +126,7 @@
 				<entity>PATIENT-1 | Konerko</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id4" size="5">
+		<entry category="EnglishSports" eid="Id4" size="5">
 			<originaltripleset>
 				<otriple>gameNumber | eight</otriple>
 				<otriple>matchDate | May_17</otriple>
@@ -171,7 +171,7 @@
 				<entity>PATIENT-5 | May_17</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id5" size="7">
+		<entry category="EnglishSports" eid="Id5" size="7">
 			<originaltripleset>
 				<otriple>batterName | Orlando_Hudson</otriple>
 				<otriple>inningsPitched | 5_1/3</otriple>
@@ -226,7 +226,7 @@
 				<entity>PATIENT-7 | Chicago</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id6" size="6">
+		<entry category="EnglishSports" eid="Id6" size="6">
 			<originaltripleset>
 				<otriple>hitNumber | 10</otriple>
 				<otriple>pitchResult | double_plays</otriple>
@@ -276,7 +276,7 @@
 				<entity>PATIENT-6 | double_plays</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id7" size="4">
+		<entry category="EnglishSports" eid="Id7" size="4">
 			<originaltripleset>
 				<otriple>managerName | Robin_Ventura</otriple>
 				<otriple>pitcherName | Quintana</otriple>
@@ -316,7 +316,7 @@
 				<entity>PATIENT-4 | one</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id8" size="5">
+		<entry category="EnglishSports" eid="Id8" size="5">
 			<originaltripleset>
 				<otriple>gameNumber | four</otriple>
 				<otriple>teamName | Cardinals</otriple>
@@ -366,7 +366,7 @@
 				<entity>PATIENT-6 | .500</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id9" size="5">
+		<entry category="EnglishSports" eid="Id9" size="5">
 			<originaltripleset>
 				<otriple>batterHitsTries | 2_for_4</otriple>
 				<otriple>batterName | Matt_Holliday</otriple>
@@ -408,7 +408,7 @@
 				<entity>PATIENT-5 | St._Louis</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id10" size="4">
+		<entry category="EnglishSports" eid="Id10" size="4">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Allen_Craig</otriple>
@@ -448,7 +448,7 @@
 				<entity>PATIENT-4 | sixth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id11" size="6">
+		<entry category="EnglishSports" eid="Id11" size="6">
 			<originaltripleset>
 				<otriple>fielderPosition | starter</otriple>
 				<otriple>hitNumber | five</otriple>
@@ -497,7 +497,7 @@
 				<entity>PATIENT-6 | five</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id12" size="3">
+		<entry category="EnglishSports" eid="Id12" size="3">
 			<originaltripleset>
 				<otriple>runNumber | two</otriple>
 				<otriple>strikeOutNumber | seven</otriple>
@@ -532,7 +532,7 @@
 				<entity>PATIENT-3 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id13" size="4">
+		<entry category="EnglishSports" eid="Id13" size="4">
 			<originaltripleset>
 				<otriple>batterName | Konerko</otriple>
 				<otriple>inningNumber | second</otriple>
@@ -571,7 +571,7 @@
 				<entity>PATIENT-4 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id14" size="5">
+		<entry category="EnglishSports" eid="Id14" size="5">
 			<originaltripleset>
 				<otriple>batterName | Alex_Rios'</otriple>
 				<otriple>isOut | True</otriple>
@@ -613,7 +613,7 @@
 				<entity>PATIENT-5 | center</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id15" size="7">
+		<entry category="EnglishSports" eid="Id15" size="7">
 			<originaltripleset>
 				<otriple>batterName | Hudson</otriple>
 				<otriple>batterName | Rios</otriple>
@@ -671,7 +671,7 @@
 				<entity>PATIENT-8 | Carlos_Beltran's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id16" size="5">
+		<entry category="EnglishSports" eid="Id16" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | relievers</otriple>
 				<otriple>inningNumber | eighth</otriple>
@@ -715,7 +715,7 @@
 				<entity>PATIENT-5 | Marc_Rzepczynski</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id17" size="7">
+		<entry category="EnglishSports" eid="Id17" size="7">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>baseNumber | second</otriple>
@@ -759,7 +759,7 @@
 				<entity>PATIENT-5 | 4-1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id18" size="5">
+		<entry category="EnglishSports" eid="Id18" size="5">
 			<originaltripleset>
 				<otriple>pitchResult | single</otriple>
 				<otriple>pitcherName | Boggs</otriple>
@@ -798,7 +798,7 @@
 				<entity>PATIENT-4 | line_shot</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id19" size="1">
+		<entry category="EnglishSports" eid="Id19" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Mike_Pelfrey</otriple>
 			</originaltripleset>
@@ -822,7 +822,7 @@
 				<entity>PATIENT-1 | Mike_Pelfrey</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id20" size="11">
+		<entry category="EnglishSports" eid="Id20" size="11">
 			<originaltripleset>
 				<otriple>batterName | Kurt_Suzuki</otriple>
 				<otriple>finalScore | 3-2</otriple>
@@ -896,7 +896,7 @@
 				<entity>PATIENT-9 | Detroit_Tigers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id21" size="2">
+		<entry category="EnglishSports" eid="Id21" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Pelfrey</otriple>
 				<otriple>pitcherRecord | 2-0</otriple>
@@ -925,7 +925,7 @@
 				<entity>PATIENT-2 | 2-0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id22" size="4">
+		<entry category="EnglishSports" eid="Id22" size="4">
 			<originaltripleset>
 				<otriple>earnedRunsNumber | one</otriple>
 				<otriple>hitNumber | three</otriple>
@@ -964,7 +964,7 @@
 				<entity>PATIENT-4 | seven</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id23" size="5">
+		<entry category="EnglishSports" eid="Id23" size="5">
 			<originaltripleset>
 				<otriple>earnedRunsNumber | one</otriple>
 				<otriple>inningsPitched | 14</otriple>
@@ -1008,7 +1008,7 @@
 				<entity>PATIENT-5 | 14</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id24" size="5">
+		<entry category="EnglishSports" eid="Id24" size="5">
 			<originaltripleset>
 				<otriple>baseNumber | second</otriple>
 				<otriple>batterName | Eduardo_Escobar</otriple>
@@ -1057,7 +1057,7 @@
 				<entity>PATIENT-6 | tie</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id25" size="7">
+		<entry category="EnglishSports" eid="Id25" size="7">
 			<originaltripleset>
 				<otriple>batterName | Suzuki</otriple>
 				<otriple>pitchResult | single</otriple>
@@ -1111,7 +1111,7 @@
 				<entity>PATIENT-7 | 3-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id26" size="7">
+		<entry category="EnglishSports" eid="Id26" size="7">
 			<originaltripleset>
 				<otriple>batterName | J.D._Martinez</otriple>
 				<otriple>batterName | Yoenis_Cespedes</otriple>
@@ -1170,7 +1170,7 @@
 				<entity>PATIENT-8 | fourth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id27" size="5">
+		<entry category="EnglishSports" eid="Id27" size="5">
 			<originaltripleset>
 				<otriple>RBI | 25</otriple>
 				<otriple>batterName | Cespedes</otriple>
@@ -1214,7 +1214,7 @@
 				<entity>PATIENT-5 | 25</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id28" size="3">
+		<entry category="EnglishSports" eid="Id28" size="3">
 			<originaltripleset>
 				<otriple>inningNumber | seventh</otriple>
 				<otriple>pitcherName | Sanchez</otriple>
@@ -1248,7 +1248,7 @@
 				<entity>PATIENT-3 | Sanchez</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id29" size="7">
+		<entry category="EnglishSports" eid="Id29" size="7">
 			<originaltripleset>
 				<otriple>battersFacedNumber | 16</otriple>
 				<otriple>fielderPosition | closer</otriple>
@@ -1312,7 +1312,7 @@
 				<entity>PATIENT-9 | sixth_save_in_as_many_chances</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id30" size="1">
+		<entry category="EnglishSports" eid="Id30" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Pelfrey</otriple>
 			</originaltripleset>
@@ -1336,7 +1336,7 @@
 				<entity>PATIENT-1 | Pelfrey</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id31" size="5">
+		<entry category="EnglishSports" eid="Id31" size="5">
 			<originaltripleset>
 				<otriple>RBI | a</otriple>
 				<otriple>batterName | Danny_Santana</otriple>
@@ -1380,7 +1380,7 @@
 				<entity>PATIENT-5 | Twins</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id32" size="5">
+		<entry category="EnglishSports" eid="Id32" size="5">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Anthony_Gose's</otriple>
@@ -1424,7 +1424,7 @@
 				<entity>PATIENT-5 | third</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id33" size="2">
+		<entry category="EnglishSports" eid="Id33" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Alexi_Ogando</otriple>
 				<otriple>teamName | Texas_Rangers</otriple>
@@ -1454,7 +1454,7 @@
 				<entity>PATIENT-2 | Texas_Rangers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id34" size="14">
+		<entry category="EnglishSports" eid="Id34" size="14">
 			<originaltripleset>
 				<otriple>RBI | six</otriple>
 				<otriple>batterName | Nelson_Cruz</otriple>
@@ -1549,7 +1549,7 @@
 				<entity>PATIENT-9 | three-game</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id35" size="5">
+		<entry category="EnglishSports" eid="Id35" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | outfielder</otriple>
 				<otriple>inningNumber | fifth</otriple>
@@ -1593,7 +1593,7 @@
 				<entity>PATIENT-5 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id36" size="3">
+		<entry category="EnglishSports" eid="Id36" size="3">
 			<originaltripleset>
 				<otriple>ERA | 2.10</otriple>
 				<otriple>pitcherRecord | 7-0</otriple>
@@ -1628,7 +1628,7 @@
 				<entity>PATIENT-3 | 12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id37" size="5">
+		<entry category="EnglishSports" eid="Id37" size="5">
 			<originaltripleset>
 				<otriple>hasWonTeam | Houston</otriple>
 				<otriple>matchDate | previous_night</otriple>
@@ -1673,7 +1673,7 @@
 				<entity>PATIENT-5 | 15</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id38" size="7">
+		<entry category="EnglishSports" eid="Id38" size="7">
 			<originaltripleset>
 				<otriple>inningsPitched | 3_2/3</otriple>
 				<otriple>pitcherName | Anibal_Sanchez</otriple>
@@ -1733,7 +1733,7 @@
 				<entity>PATIENT-8 | loss</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id39" size="8">
+		<entry category="EnglishSports" eid="Id39" size="8">
 			<originaltripleset>
 				<otriple>batterName | Michael_Young</otriple>
 				<otriple>batterName | Taylor_Teagarden's</otriple>
@@ -1791,7 +1791,7 @@
 				<entity>PATIENT-8 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id40" size="7">
+		<entry category="EnglishSports" eid="Id40" size="7">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Beltre</otriple>
@@ -1851,7 +1851,7 @@
 				<entity>PATIENT-8 | 5-0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id41" size="9">
+		<entry category="EnglishSports" eid="Id41" size="9">
 			<originaltripleset>
 				<otriple>batterName | Josh_Hamilton</otriple>
 				<otriple>competitionName | AL</otriple>
@@ -1911,7 +1911,7 @@
 				<entity>PATIENT-8 | right</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id42" size="6">
+		<entry category="EnglishSports" eid="Id42" size="6">
 			<originaltripleset>
 				<otriple>batterName | Andres_Blanco</otriple>
 				<otriple>batterName | Cruz</otriple>
@@ -1956,7 +1956,7 @@
 				<entity>PATIENT-5 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id43" size="4">
+		<entry category="EnglishSports" eid="Id43" size="4">
 			<originaltripleset>
 				<otriple>batterName | Hanley_Ramirez</otriple>
 				<otriple>inningNumber | fifth</otriple>
@@ -1995,7 +1995,7 @@
 				<entity>PATIENT-4 | walk</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id44" size="4">
+		<entry category="EnglishSports" eid="Id44" size="4">
 			<originaltripleset>
 				<otriple>batterName | Greg_Dobbs'</otriple>
 				<otriple>hitNumber | first</otriple>
@@ -2030,7 +2030,7 @@
 				<entity>PATIENT-3 | two-out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id45" size="4">
+		<entry category="EnglishSports" eid="Id45" size="4">
 			<originaltripleset>
 				<otriple>inningsPitched | three</otriple>
 				<otriple>pitchNumber | 36</otriple>
@@ -2069,7 +2069,7 @@
 				<entity>PATIENT-4 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id46" size="3">
+		<entry category="EnglishSports" eid="Id46" size="3">
 			<originaltripleset>
 				<otriple>pitcherName | Ogando</otriple>
 				<otriple>retireNumber | 12</otriple>
@@ -2104,7 +2104,7 @@
 				<entity>PATIENT-3 | 12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id47" size="6">
+		<entry category="EnglishSports" eid="Id47" size="6">
 			<originaltripleset>
 				<otriple>hitNumber | three</otriple>
 				<otriple>inningNumber | seventh</otriple>
@@ -2154,7 +2154,7 @@
 				<entity>PATIENT-6 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id48" size="7">
+		<entry category="EnglishSports" eid="Id48" size="7">
 			<originaltripleset>
 				<otriple>hitNumber | eight</otriple>
 				<otriple>inningsPitched | three</otriple>
@@ -2208,7 +2208,7 @@
 				<entity>PATIENT-7 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id49" size="2">
+		<entry category="EnglishSports" eid="Id49" size="2">
 			<originaltripleset>
 				<otriple>battersFacedNumber | four</otriple>
 				<otriple>scoreTally | 3-0</otriple>
@@ -2238,7 +2238,7 @@
 				<entity>PATIENT-2 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id50" size="4">
+		<entry category="EnglishSports" eid="Id50" size="4">
 			<originaltripleset>
 				<otriple>inningsPitched | five</otriple>
 				<otriple>locationPlayed | Atlanta</otriple>
@@ -2277,7 +2277,7 @@
 				<entity>PATIENT-4 | Atlanta</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id51" size="4">
+		<entry category="EnglishSports" eid="Id51" size="4">
 			<originaltripleset>
 				<otriple>inningsPitched | 1_2/3</otriple>
 				<otriple>matchDate | June_14</otriple>
@@ -2317,7 +2317,7 @@
 				<entity>PATIENT-4 | June_14</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id52" size="2">
+		<entry category="EnglishSports" eid="Id52" size="2">
 			<originaltripleset>
 				<otriple>matchStreakType | losing</otriple>
 				<otriple>teamName | Rangers</otriple>
@@ -2346,7 +2346,7 @@
 				<entity>PATIENT-2 | Rangers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id53" size="4">
+		<entry category="EnglishSports" eid="Id53" size="4">
 			<originaltripleset>
 				<otriple>fielderPosition | setup_reliever</otriple>
 				<otriple>inningsPitched | 97_2/3</otriple>
@@ -2381,7 +2381,7 @@
 				<entity>PATIENT-3 | Rangers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id54" size="2">
+		<entry category="EnglishSports" eid="Id54" size="2">
 			<originaltripleset>
 				<otriple>managerName | Washington</otriple>
 				<otriple>pitcherName | Ogando</otriple>
@@ -2411,7 +2411,7 @@
 				<entity>PATIENT-2 | Ogando</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id55" size="7">
+		<entry category="EnglishSports" eid="Id55" size="7">
 			<originaltripleset>
 				<otriple>hitNumber | 13</otriple>
 				<otriple>inningsPitched | 4_2/3</otriple>
@@ -2465,7 +2465,7 @@
 				<entity>PATIENT-7 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id56" size="6">
+		<entry category="EnglishSports" eid="Id56" size="6">
 			<originaltripleset>
 				<otriple>hasLostTeam | Arizona_Diamondbacks</otriple>
 				<otriple>inningsPitched | 20</otriple>
@@ -2510,7 +2510,7 @@
 				<entity>PATIENT-5 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id57" size="8">
+		<entry category="EnglishSports" eid="Id57" size="8">
 			<originaltripleset>
 				<otriple>RBI | doubles</otriple>
 				<otriple>batterName | Hamilton</otriple>
@@ -2569,7 +2569,7 @@
 				<entity>PATIENT-8 | 9-0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id58" size="2">
+		<entry category="EnglishSports" eid="Id58" size="2">
 			<originaltripleset>
 				<otriple>managerName | Jim_Tracy</otriple>
 				<otriple>teamName | Colorado_Rockies</otriple>
@@ -2599,7 +2599,7 @@
 				<entity>PATIENT-2 | Jim_Tracy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id59" size="12">
+		<entry category="EnglishSports" eid="Id59" size="12">
 			<originaltripleset>
 				<otriple>batterName | Chris_Iannetta</otriple>
 				<otriple>finalScore | 6-3</otriple>
@@ -2679,7 +2679,7 @@
 				<entity>PATIENT-9 | 6-3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id60" size="2">
+		<entry category="EnglishSports" eid="Id60" size="2">
 			<originaltripleset>
 				<otriple>managerName | Tracy</otriple>
 				<otriple>teamName | Rockies</otriple>
@@ -2708,7 +2708,7 @@
 				<entity>PATIENT-2 | Rockies</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id61" size="1">
+		<entry category="EnglishSports" eid="Id61" size="1">
 			<originaltripleset>
 				<otriple>managerName | Tracy's</otriple>
 			</originaltripleset>
@@ -2733,7 +2733,7 @@
 				<entity>PATIENT-1 | Tracy's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id62" size="1">
+		<entry category="EnglishSports" eid="Id62" size="1">
 			<originaltripleset>
 				<otriple>teamName | Rockies</otriple>
 			</originaltripleset>
@@ -2757,7 +2757,7 @@
 				<entity>PATIENT-1 | Rockies</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id63" size="3">
+		<entry category="EnglishSports" eid="Id63" size="3">
 			<originaltripleset>
 				<otriple>standingsGames | six</otriple>
 				<otriple>teamName | Rockies</otriple>
@@ -2792,7 +2792,7 @@
 				<entity>PATIENT-3 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id64" size="1">
+		<entry category="EnglishSports" eid="Id64" size="1">
 			<originaltripleset>
 				<otriple>managerName | Tracy</otriple>
 			</originaltripleset>
@@ -2817,7 +2817,7 @@
 				<entity>PATIENT-1 | Tracy</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id65" size="1">
+		<entry category="EnglishSports" eid="Id65" size="1">
 			<originaltripleset>
 				<otriple>teamName | Rockies</otriple>
 			</originaltripleset>
@@ -2842,7 +2842,7 @@
 				<entity>PATIENT-1 | Rockies</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id66" size="4">
+		<entry category="EnglishSports" eid="Id66" size="4">
 			<originaltripleset>
 				<otriple>batterName | Chris_Denorfia</otriple>
 				<otriple>pitchResult | homer</otriple>
@@ -2881,7 +2881,7 @@
 				<entity>PATIENT-4 | homer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id67" size="4">
+		<entry category="EnglishSports" eid="Id67" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | six</otriple>
 				<otriple>startsNumber | fourth</otriple>
@@ -2921,7 +2921,7 @@
 				<entity>PATIENT-4 | Double-A_Tulsa</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id68" size="5">
+		<entry category="EnglishSports" eid="Id68" size="5">
 			<originaltripleset>
 				<otriple>inningNumber | first</otriple>
 				<otriple>pitchCount | 108</otriple>
@@ -2965,7 +2965,7 @@
 				<entity>PATIENT-5 | 108</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id69" size="1">
+		<entry category="EnglishSports" eid="Id69" size="1">
 			<originaltripleset>
 				<otriple>strikeOutNumber | nine</otriple>
 			</originaltripleset>
@@ -2990,7 +2990,7 @@
 				<entity>PATIENT-1 | nine</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id70" size="3">
+		<entry category="EnglishSports" eid="Id70" size="3">
 			<originaltripleset>
 				<otriple>pitcherName | Wade_LeBlanc</otriple>
 				<otriple>pitcherRecord | 0-2</otriple>
@@ -3024,7 +3024,7 @@
 				<entity>PATIENT-3 | Triple-A_Tucson</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id71" size="3">
+		<entry category="EnglishSports" eid="Id71" size="3">
 			<originaltripleset>
 				<otriple>hitNumber | seven</otriple>
 				<otriple>inningsPitched | 4_2/3</otriple>
@@ -3059,7 +3059,7 @@
 				<entity>PATIENT-3 | 4_2/3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id72" size="7">
+		<entry category="EnglishSports" eid="Id72" size="7">
 			<originaltripleset>
 				<otriple>batterName | Iannetta</otriple>
 				<otriple>fielderPosition | reliever</otriple>
@@ -3113,7 +3113,7 @@
 				<entity>PATIENT-7 | seats_in_left</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id73" size="1">
+		<entry category="EnglishSports" eid="Id73" size="1">
 			<originaltripleset>
 				<otriple>homeRunNumber | ninth</otriple>
 			</originaltripleset>
@@ -3138,7 +3138,7 @@
 				<entity>PATIENT-1 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id74" size="5">
+		<entry category="EnglishSports" eid="Id74" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | Reliever</otriple>
 				<otriple>inningNumber | seventh</otriple>
@@ -3183,7 +3183,7 @@
 				<entity>PATIENT-5 | loading</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id75" size="4">
+		<entry category="EnglishSports" eid="Id75" size="4">
 			<originaltripleset>
 				<otriple>pitchType | breaking_ball</otriple>
 				<otriple>pitcherName | Lindstrom</otriple>
@@ -3213,7 +3213,7 @@
 				<entity>PATIENT-2 | breaking_ball</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id76" size="4">
+		<entry category="EnglishSports" eid="Id76" size="4">
 			<originaltripleset>
 				<otriple>batterName | Rizzo</otriple>
 				<otriple>inningNumber | ninth</otriple>
@@ -3253,7 +3253,7 @@
 				<entity>PATIENT-4 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id77" size="6">
+		<entry category="EnglishSports" eid="Id77" size="6">
 			<originaltripleset>
 				<otriple>RBI | singles</otriple>
 				<otriple>batterName | Chris_Nelson</otriple>
@@ -3303,7 +3303,7 @@
 				<entity>PATIENT-6 | singles</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id78" size="5">
+		<entry category="EnglishSports" eid="Id78" size="5">
 			<originaltripleset>
 				<otriple>batterName | Nicasio</otriple>
 				<otriple>onBaseNumber | two</otriple>
@@ -3348,7 +3348,7 @@
 				<entity>PATIENT-5 | 3-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id79" size="6">
+		<entry category="EnglishSports" eid="Id79" size="6">
 			<originaltripleset>
 				<otriple>batterName | Alberto_Gonzalez's</otriple>
 				<otriple>batterName | Cameron_Maybin</otriple>
@@ -3401,7 +3401,7 @@
 				<entity>PATIENT-7 | gap_in_right-center</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id80" size="3">
+		<entry category="EnglishSports" eid="Id80" size="3">
 			<originaltripleset>
 				<otriple>pitchType | slider</otriple>
 				<otriple>pitcherName | Nicasio</otriple>
@@ -3435,7 +3435,7 @@
 				<entity>PATIENT-3 | over_the_fence</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id81" size="4">
+		<entry category="EnglishSports" eid="Id81" size="4">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>batterName | Jason_Bartlett</otriple>
@@ -3475,7 +3475,7 @@
 				<entity>PATIENT-4 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id82" size="3">
+		<entry category="EnglishSports" eid="Id82" size="3">
 			<originaltripleset>
 				<otriple>baseStolen | second_and_third</otriple>
 				<otriple>batterName | Bartlett</otriple>
@@ -3515,7 +3515,7 @@
 				<entity>PATIENT-4 | striking_out_the_side</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id83" size="4">
+		<entry category="EnglishSports" eid="Id83" size="4">
 			<originaltripleset>
 				<otriple>fielderName | Ludwick</otriple>
 				<otriple>fielderPosition | left_field</otriple>
@@ -3554,7 +3554,7 @@
 				<entity>PATIENT-4 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id84" size="2">
+		<entry category="EnglishSports" eid="Id84" size="2">
 			<originaltripleset>
 				<otriple>batterName | Helton's</otriple>
 				<otriple>strikingType | tailing_liner</otriple>
@@ -3584,7 +3584,7 @@
 				<entity>PATIENT-2 | tailing_liner</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id85" size="1">
+		<entry category="EnglishSports" eid="Id85" size="1">
 			<originaltripleset>
 				<otriple>batterName | Ludwick's</otriple>
 			</originaltripleset>
@@ -3608,7 +3608,7 @@
 				<entity>PATIENT-1 | Ludwick's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id86" size="3">
+		<entry category="EnglishSports" eid="Id86" size="3">
 			<originaltripleset>
 				<otriple>onBaseNumber | loaded</otriple>
 				<otriple>pitchResult | popped_out</otriple>
@@ -3643,7 +3643,7 @@
 				<entity>PATIENT-3 | loaded</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id87" size="5">
+		<entry category="EnglishSports" eid="Id87" size="5">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Ludwick</otriple>
@@ -3688,7 +3688,7 @@
 				<entity>PATIENT-5 | singles</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id88" size="4">
+		<entry category="EnglishSports" eid="Id88" size="4">
 			<originaltripleset>
 				<otriple>finalScore | 3-1</otriple>
 				<otriple>hasLostTeam | Rockies</otriple>
@@ -3733,7 +3733,7 @@
 				<entity>PATIENT-5 | 3-1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id89" size="5">
+		<entry category="EnglishSports" eid="Id89" size="5">
 			<originaltripleset>
 				<otriple>inningsPitched | five</otriple>
 				<otriple>pitcherName | Bass</otriple>
@@ -3777,7 +3777,7 @@
 				<entity>PATIENT-5 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id90" size="2">
+		<entry category="EnglishSports" eid="Id90" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | 23-year-old</otriple>
 				<otriple>teamName | San_Antonio</otriple>
@@ -3807,7 +3807,7 @@
 				<entity>PATIENT-2 | San_Antonio</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id91" size="4">
+		<entry category="EnglishSports" eid="Id91" size="4">
 			<originaltripleset>
 				<otriple>matchDate | Monday</otriple>
 				<otriple>pitcherName | Dustin_Moseley</otriple>
@@ -3842,7 +3842,7 @@
 				<entity>PATIENT-3 | Monday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id92" size="3">
+		<entry category="EnglishSports" eid="Id92" size="3">
 			<originaltripleset>
 				<otriple>locationPlayed | Minnesota</otriple>
 				<otriple>matchDate | Monday</otriple>
@@ -3876,7 +3876,7 @@
 				<entity>PATIENT-3 | Minnesota</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id93" size="1">
+		<entry category="EnglishSports" eid="Id93" size="1">
 			<originaltripleset>
 				<otriple>batterName | Corey_Dickerson</otriple>
 			</originaltripleset>
@@ -3900,7 +3900,7 @@
 				<entity>PATIENT-1 | Corey_Dickerson</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id94" size="9">
+		<entry category="EnglishSports" eid="Id94" size="9">
 			<originaltripleset>
 				<otriple>batterName | Dickerson's</otriple>
 				<otriple>batterName | Nolan_Arenado</otriple>
@@ -3974,7 +3974,7 @@
 				<entity>PATIENT-9 | win</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id95" size="5">
+		<entry category="EnglishSports" eid="Id95" size="5">
 			<originaltripleset>
 				<otriple>batterName | Dickerson</otriple>
 				<otriple>inningNumber | ninth</otriple>
@@ -4023,7 +4023,7 @@
 				<entity>PATIENT-6 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id96" size="7">
+		<entry category="EnglishSports" eid="Id96" size="7">
 			<originaltripleset>
 				<otriple>fielderPosition | pitcher</otriple>
 				<otriple>inningsPitched | one</otriple>
@@ -4077,7 +4077,7 @@
 				<entity>PATIENT-7 | perfect_relief</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id97" size="6">
+		<entry category="EnglishSports" eid="Id97" size="6">
 			<originaltripleset>
 				<otriple>batterName | Arenado</otriple>
 				<otriple>inningNumber | 13th</otriple>
@@ -4126,7 +4126,7 @@
 				<entity>PATIENT-6 | 2-1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id98" size="7">
+		<entry category="EnglishSports" eid="Id98" size="7">
 			<originaltripleset>
 				<otriple>batterName | Arenado</otriple>
 				<otriple>batterName | Dickerson</otriple>
@@ -4185,7 +4185,7 @@
 				<entity>PATIENT-8 | Giancarlo_Stanton</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id99" size="1">
+		<entry category="EnglishSports" eid="Id99" size="1">
 			<originaltripleset>
 				<otriple>baseNumber | second</otriple>
 			</originaltripleset>
@@ -4209,7 +4209,7 @@
 				<entity>PATIENT-1 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id100" size="3">
+		<entry category="EnglishSports" eid="Id100" size="3">
 			<originaltripleset>
 				<otriple>teamName | Rockies</otriple>
 				<otriple>winLossRecord | sixth</otriple>
@@ -4243,7 +4243,7 @@
 				<entity>PATIENT-3 | Rockies</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id101" size="7">
+		<entry category="EnglishSports" eid="Id101" size="7">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Adeiny_Hechavarria</otriple>
@@ -4297,7 +4297,7 @@
 				<entity>PATIENT-7 | LaTroy_Hawkins</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id102" size="7">
+		<entry category="EnglishSports" eid="Id102" size="7">
 			<originaltripleset>
 				<otriple>batterName | Dickerson</otriple>
 				<otriple>homeRunNumber | 19th</otriple>
@@ -4351,7 +4351,7 @@
 				<entity>PATIENT-7 | homer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id103" size="2">
+		<entry category="EnglishSports" eid="Id103" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Cishek's</otriple>
 				<otriple>pitcherSaveRecord | fourth_blown_save</otriple>
@@ -4380,7 +4380,7 @@
 				<entity>PATIENT-2 | fourth_blown_save</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id104" size="6">
+		<entry category="EnglishSports" eid="Id104" size="6">
 			<originaltripleset>
 				<otriple>batterName | Brandon_Barnes</otriple>
 				<otriple>inningNumber | third</otriple>
@@ -4439,7 +4439,7 @@
 				<entity>PATIENT-8 | Brandon_Barnes</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id105" size="9">
+		<entry category="EnglishSports" eid="Id105" size="9">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>batterName | Donovan_Solano</otriple>
@@ -4513,7 +4513,7 @@
 				<entity>PATIENT-9 | loaded</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id106" size="6">
+		<entry category="EnglishSports" eid="Id106" size="6">
 			<originaltripleset>
 				<otriple>batterName | Garrett_Jones</otriple>
 				<otriple>inningNumber | sixth</otriple>
@@ -4572,7 +4572,7 @@
 				<entity>PATIENT-8 | Garrett_Jones</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id107" size="5">
+		<entry category="EnglishSports" eid="Id107" size="5">
 			<originaltripleset>
 				<otriple>hitNumber | seven</otriple>
 				<otriple>pitcherName | Lyles</otriple>
@@ -4616,7 +4616,7 @@
 				<entity>PATIENT-5 | five</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id108" size="4">
+		<entry category="EnglishSports" eid="Id108" size="4">
 			<originaltripleset>
 				<otriple>fielderPosition | starter</otriple>
 				<otriple>inningNumber | third</otriple>
@@ -4655,7 +4655,7 @@
 				<entity>PATIENT-4 | third</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id109" size="3">
+		<entry category="EnglishSports" eid="Id109" size="3">
 			<originaltripleset>
 				<otriple>inningsPitched | seven</otriple>
 				<otriple>strikeOutNumber | four</otriple>
@@ -4689,7 +4689,7 @@
 				<entity>PATIENT-3 | seven</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id110" size="4">
+		<entry category="EnglishSports" eid="Id110" size="4">
 			<originaltripleset>
 				<otriple>battersFacedNumber | 12</otriple>
 				<otriple>inningNumber | fourth</otriple>
@@ -4738,7 +4738,7 @@
 				<entity>PATIENT-6 | 12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id111" size="2">
+		<entry category="EnglishSports" eid="Id111" size="2">
 			<originaltripleset>
 				<otriple>pitchResult | caught_stealing</otriple>
 				<otriple>pitchResult | single</otriple>
@@ -4772,7 +4772,7 @@
 				<entity>PATIENT-3 | caught_stealing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id112" size="2">
+		<entry category="EnglishSports" eid="Id112" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Mat_Latos</otriple>
 				<otriple>teamName | San_Diego_Padres</otriple>
@@ -4801,7 +4801,7 @@
 				<entity>PATIENT-2 | San_Diego_Padres</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id113" size="4">
+		<entry category="EnglishSports" eid="Id113" size="4">
 			<originaltripleset>
 				<otriple>competitionName | National_League_West</otriple>
 				<otriple>standingsGames | seven</otriple>
@@ -4845,7 +4845,7 @@
 				<entity>PATIENT-5 | National_League_West</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id114" size="12">
+		<entry category="EnglishSports" eid="Id114" size="12">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Ryan_Ludwick</otriple>
@@ -4929,7 +4929,7 @@
 				<entity>PATIENT-9 | victory</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id115" size="4">
+		<entry category="EnglishSports" eid="Id115" size="4">
 			<originaltripleset>
 				<otriple>gameNumber | five-game</otriple>
 				<otriple>matchDate | Aug._15-19</otriple>
@@ -4968,7 +4968,7 @@
 				<entity>PATIENT-4 | Aug._15-19</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id116" size="3">
+		<entry category="EnglishSports" eid="Id116" size="3">
 			<originaltripleset>
 				<otriple>gameNumber | 13</otriple>
 				<otriple>teamName | Braves</otriple>
@@ -5002,7 +5002,7 @@
 				<entity>PATIENT-3 | 13</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id117" size="5">
+		<entry category="EnglishSports" eid="Id117" size="5">
 			<originaltripleset>
 				<otriple>batterHitsTries | 4_for_5</otriple>
 				<otriple>batterName | Ludwick</otriple>
@@ -5046,7 +5046,7 @@
 				<entity>PATIENT-5 | May_10</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id118" size="1">
+		<entry category="EnglishSports" eid="Id118" size="1">
 			<originaltripleset>
 				<otriple>RBI | 23</otriple>
 			</originaltripleset>
@@ -5070,7 +5070,7 @@
 				<entity>PATIENT-1 | 23</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id119" size="3">
+		<entry category="EnglishSports" eid="Id119" size="3">
 			<originaltripleset>
 				<otriple>inningNumber | ninth</otriple>
 				<otriple>pitcherName | Bell</otriple>
@@ -5104,7 +5104,7 @@
 				<entity>PATIENT-3 | 14th_in_15_chances</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id120" size="6">
+		<entry category="EnglishSports" eid="Id120" size="6">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>baseNumber | second</otriple>
@@ -5188,7 +5188,7 @@
 				<entity>PATIENT-9 | Schafer</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id121" size="3">
+		<entry category="EnglishSports" eid="Id121" size="3">
 			<originaltripleset>
 				<otriple>batterName | Brian_McCann</otriple>
 				<otriple>pitcherName | Bell</otriple>
@@ -5222,7 +5222,7 @@
 				<entity>PATIENT-3 | fly_out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id122" size="7">
+		<entry category="EnglishSports" eid="Id122" size="7">
 			<originaltripleset>
 				<otriple>hitNumber | five</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -5276,7 +5276,7 @@
 				<entity>PATIENT-7 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id123" size="3">
+		<entry category="EnglishSports" eid="Id123" size="3">
 			<originaltripleset>
 				<otriple>ERA | 3.38</otriple>
 				<otriple>ERA | 3.97</otriple>
@@ -5315,7 +5315,7 @@
 				<entity>PATIENT-4 | 3-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id124" size="8">
+		<entry category="EnglishSports" eid="Id124" size="8">
 			<originaltripleset>
 				<otriple>RBI | singles</otriple>
 				<otriple>batterName | Chris_Denorfia</otriple>
@@ -5384,7 +5384,7 @@
 				<entity>PATIENT-9 | Ludwick</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id125" size="3">
+		<entry category="EnglishSports" eid="Id125" size="3">
 			<originaltripleset>
 				<otriple>batterHitsTries | 3_for_5</otriple>
 				<otriple>batterName | Denorfia</otriple>
@@ -5418,7 +5418,7 @@
 				<entity>PATIENT-3 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id126" size="6">
+		<entry category="EnglishSports" eid="Id126" size="6">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>baseNumber | first</otriple>
@@ -5472,7 +5472,7 @@
 				<entity>PATIENT-7 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id127" size="6">
+		<entry category="EnglishSports" eid="Id127" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>baseNumber | second</otriple>
@@ -5541,7 +5541,7 @@
 				<entity>PATIENT-9 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id128" size="4">
+		<entry category="EnglishSports" eid="Id128" size="4">
 			<originaltripleset>
 				<otriple>inningNumber | fourth</otriple>
 				<otriple>pitcherName | Mike_Minor</otriple>
@@ -5580,7 +5580,7 @@
 				<entity>PATIENT-4 | fourth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id129" size="5">
+		<entry category="EnglishSports" eid="Id129" size="5">
 			<originaltripleset>
 				<otriple>baseNumber | third</otriple>
 				<otriple>batterName | Bartlett's</otriple>
@@ -5649,7 +5649,7 @@
 				<entity>PATIENT-9 | 2-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id130" size="8">
+		<entry category="EnglishSports" eid="Id130" size="8">
 			<originaltripleset>
 				<otriple>batterName | Eric_Patterson</otriple>
 				<otriple>competitionName | Triple-A</otriple>
@@ -5718,7 +5718,7 @@
 				<entity>PATIENT-9 | Eric_Patterson</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id131" size="6">
+		<entry category="EnglishSports" eid="Id131" size="6">
 			<originaltripleset>
 				<otriple>hitNumber | eight</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -5767,7 +5767,7 @@
 				<entity>PATIENT-6 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id132" size="3">
+		<entry category="EnglishSports" eid="Id132" size="3">
 			<originaltripleset>
 				<otriple>ERA | 7.23</otriple>
 				<otriple>pitcherRecord | 0-3</otriple>
@@ -5801,7 +5801,7 @@
 				<entity>PATIENT-3 | seven</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id133" size="7">
+		<entry category="EnglishSports" eid="Id133" size="7">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Jones</otriple>
@@ -5860,7 +5860,7 @@
 				<entity>PATIENT-8 | 5-3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id134" size="5">
+		<entry category="EnglishSports" eid="Id134" size="5">
 			<originaltripleset>
 				<otriple>batterName | McCann</otriple>
 				<otriple>outNumber | third</otriple>
@@ -5904,7 +5904,7 @@
 				<entity>PATIENT-5 | McCann</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id135" size="2">
+		<entry category="EnglishSports" eid="Id135" size="2">
 			<originaltripleset>
 				<otriple>batterHitsTries | 3_for_4</otriple>
 				<otriple>batterName | Freeman</otriple>
@@ -5933,7 +5933,7 @@
 				<entity>PATIENT-2 | 3_for_4</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id136" size="3">
+		<entry category="EnglishSports" eid="Id136" size="3">
 			<originaltripleset>
 				<otriple>batterName | Jones</otriple>
 				<otriple>hitNumber | more_than_one</otriple>
@@ -5967,7 +5967,7 @@
 				<entity>PATIENT-3 | more_than_one</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id137" size="2">
+		<entry category="EnglishSports" eid="Id137" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Lance_Lynn</otriple>
 				<otriple>teamName | St._Louis_Cardinals</otriple>
@@ -5997,7 +5997,7 @@
 				<entity>PATIENT-2 | St._Louis_Cardinals</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id138" size="4">
+		<entry category="EnglishSports" eid="Id138" size="4">
 			<originaltripleset>
 				<otriple>batterName | David_Freese</otriple>
 				<otriple>pitchResult | home_runs</otriple>
@@ -6037,7 +6037,7 @@
 				<entity>PATIENT-4 | home_runs</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id139" size="5">
+		<entry category="EnglishSports" eid="Id139" size="5">
 			<originaltripleset>
 				<otriple>competitionName | NL</otriple>
 				<otriple>gameNumber | seven</otriple>
@@ -6086,7 +6086,7 @@
 				<entity>PATIENT-6 | NL</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id140" size="3">
+		<entry category="EnglishSports" eid="Id140" size="3">
 			<originaltripleset>
 				<otriple>competitionName | NL_Division_Series</otriple>
 				<otriple>matchDate | Thursday</otriple>
@@ -6121,7 +6121,7 @@
 				<entity>PATIENT-3 | Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id141" size="1">
+		<entry category="EnglishSports" eid="Id141" size="1">
 			<originaltripleset>
 				<otriple>teamName | Cardinals</otriple>
 			</originaltripleset>
@@ -6145,7 +6145,7 @@
 				<entity>PATIENT-1 | Cardinals</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id142" size="1">
+		<entry category="EnglishSports" eid="Id142" size="1">
 			<originaltripleset>
 				<otriple>batterName | Chris_Carpenter</otriple>
 			</originaltripleset>
@@ -6170,7 +6170,7 @@
 				<entity>PATIENT-1 | Chris_Carpenter</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id143" size="4">
+		<entry category="EnglishSports" eid="Id143" size="4">
 			<originaltripleset>
 				<otriple>matchDate | Saturday</otriple>
 				<otriple>pitcherName | Adam_Wainwright</otriple>
@@ -6210,7 +6210,7 @@
 				<entity>PATIENT-4 | St._Louis</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id144" size="1">
+		<entry category="EnglishSports" eid="Id144" size="1">
 			<originaltripleset>
 				<otriple>teamName | Cardinals</otriple>
 			</originaltripleset>
@@ -6235,7 +6235,7 @@
 				<entity>PATIENT-1 | Cardinals</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id145" size="4">
+		<entry category="EnglishSports" eid="Id145" size="4">
 			<originaltripleset>
 				<otriple>gameNumber | 16</otriple>
 				<otriple>teamName | Cubs</otriple>
@@ -6274,7 +6274,7 @@
 				<entity>PATIENT-4 | 16</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id146" size="4">
+		<entry category="EnglishSports" eid="Id146" size="4">
 			<originaltripleset>
 				<otriple>competitionName | NL_East</otriple>
 				<otriple>teamName | Braves</otriple>
@@ -6309,7 +6309,7 @@
 				<entity>PATIENT-3 | NL_East</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id147" size="5">
+		<entry category="EnglishSports" eid="Id147" size="5">
 			<originaltripleset>
 				<otriple>batterName | Dioner_Navarro</otriple>
 				<otriple>inningNumber | first</otriple>
@@ -6353,7 +6353,7 @@
 				<entity>PATIENT-5 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id148" size="4">
+		<entry category="EnglishSports" eid="Id148" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | four</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -6392,7 +6392,7 @@
 				<entity>PATIENT-4 | no</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id149" size="4">
+		<entry category="EnglishSports" eid="Id149" size="4">
 			<originaltripleset>
 				<otriple>ERA | 5.44</otriple>
 				<otriple>gameNumber | eight</otriple>
@@ -6432,7 +6432,7 @@
 				<entity>PATIENT-4 | eight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id150" size="6">
+		<entry category="EnglishSports" eid="Id150" size="6">
 			<originaltripleset>
 				<otriple>batterName | Starlin_Castro</otriple>
 				<otriple>hitNumber | three</otriple>
@@ -6482,7 +6482,7 @@
 				<entity>PATIENT-6 | Lynn's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id151" size="4">
+		<entry category="EnglishSports" eid="Id151" size="4">
 			<originaltripleset>
 				<otriple>batterName | Jon_Jay</otriple>
 				<otriple>batterName | Yadier_Molina</otriple>
@@ -6522,7 +6522,7 @@
 				<entity>PATIENT-4 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id152" size="5">
+		<entry category="EnglishSports" eid="Id152" size="5">
 			<originaltripleset>
 				<otriple>hitNumber | four</otriple>
 				<otriple>inningsPitched | one</otriple>
@@ -6567,7 +6567,7 @@
 				<entity>PATIENT-5 | one</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id153" size="7">
+		<entry category="EnglishSports" eid="Id153" size="7">
 			<originaltripleset>
 				<otriple>baseReachedNumber | six</otriple>
 				<otriple>batterName | Carlos_Beltran's</otriple>
@@ -6621,7 +6621,7 @@
 				<entity>PATIENT-7 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id154" size="6">
+		<entry category="EnglishSports" eid="Id154" size="6">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Jay</otriple>
@@ -6676,7 +6676,7 @@
 				<entity>PATIENT-7 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id155" size="5">
+		<entry category="EnglishSports" eid="Id155" size="5">
 			<originaltripleset>
 				<otriple>batterName | Holliday</otriple>
 				<otriple>homeRunNumber | 250th</otriple>
@@ -6720,7 +6720,7 @@
 				<entity>PATIENT-5 | Blake_Parker</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id156" size="2">
+		<entry category="EnglishSports" eid="Id156" size="2">
 			<originaltripleset>
 				<otriple>matchDate | Wednesday_night</otriple>
 				<otriple>teamName | Kansas_City_Royals</otriple>
@@ -6749,7 +6749,7 @@
 				<entity>PATIENT-2 | Wednesday_night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id157" size="1">
+		<entry category="EnglishSports" eid="Id157" size="1">
 			<originaltripleset>
 				<otriple>inningNumber | ninth</otriple>
 			</originaltripleset>
@@ -6773,7 +6773,7 @@
 				<entity>PATIENT-1 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id158" size="4">
+		<entry category="EnglishSports" eid="Id158" size="4">
 			<originaltripleset>
 				<otriple>inningNumber | eighth</otriple>
 				<otriple>pitcherName | Phil_Hughes</otriple>
@@ -6817,7 +6817,7 @@
 				<entity>PATIENT-5 | eighth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id159" size="6">
+		<entry category="EnglishSports" eid="Id159" size="6">
 			<originaltripleset>
 				<otriple>batterName | Billy_Butler</otriple>
 				<otriple>batterName | Nori_Aoki</otriple>
@@ -6881,7 +6881,7 @@
 				<entity>PATIENT-9 | victory</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id160" size="8">
+		<entry category="EnglishSports" eid="Id160" size="8">
 			<originaltripleset>
 				<otriple>batterName | Alex_Gordon</otriple>
 				<otriple>finalScore | 2-1</otriple>
@@ -6940,7 +6940,7 @@
 				<entity>PATIENT-8 | win</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id161" size="4">
+		<entry category="EnglishSports" eid="Id161" size="4">
 			<originaltripleset>
 				<otriple>pitchResult | singles</otriple>
 				<otriple>strikeTrajectory | infield</otriple>
@@ -6979,7 +6979,7 @@
 				<entity>PATIENT-4 | Kansas_City</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id162" size="7">
+		<entry category="EnglishSports" eid="Id162" size="7">
 			<originaltripleset>
 				<otriple>competitionName | AL_Central</otriple>
 				<otriple>inningNumber | eighth</otriple>
@@ -7038,7 +7038,7 @@
 				<entity>PATIENT-8 | AL_Central</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id163" size="3">
+		<entry category="EnglishSports" eid="Id163" size="3">
 			<originaltripleset>
 				<otriple>homeAway | at_home</otriple>
 				<otriple>winLossRecord | 11_of_their_past_13</otriple>
@@ -7072,7 +7072,7 @@
 				<entity>PATIENT-3 | at_home</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id164" size="3">
+		<entry category="EnglishSports" eid="Id164" size="3">
 			<originaltripleset>
 				<otriple>teamName | Minnesota</otriple>
 				<otriple>winLossRecord | four_straight_and_eight_of_11_overall</otriple>
@@ -7106,7 +7106,7 @@
 				<entity>PATIENT-3 | four_straight_and_eight_of_11_overall</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id165" size="6">
+		<entry category="EnglishSports" eid="Id165" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>batterName | Mike_Moustakas</otriple>
@@ -7165,7 +7165,7 @@
 				<entity>PATIENT-8 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id166" size="4">
+		<entry category="EnglishSports" eid="Id166" size="4">
 			<originaltripleset>
 				<otriple>batterName | Dyson's</otriple>
 				<otriple>batterName | Lorenzo_Cain</otriple>
@@ -7209,7 +7209,7 @@
 				<entity>PATIENT-5 | 1-1</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id167" size="7">
+		<entry category="EnglishSports" eid="Id167" size="7">
 			<originaltripleset>
 				<otriple>batterName | Aoki</otriple>
 				<otriple>batterName | Butler</otriple>
@@ -7278,7 +7278,7 @@
 				<entity>PATIENT-9 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id168" size="6">
+		<entry category="EnglishSports" eid="Id168" size="6">
 			<originaltripleset>
 				<otriple>fielderPosition | pitcher</otriple>
 				<otriple>pitcherName | Hughes</otriple>
@@ -7342,7 +7342,7 @@
 				<entity>PATIENT-9 | pitcher</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id169" size="3">
+		<entry category="EnglishSports" eid="Id169" size="3">
 			<originaltripleset>
 				<otriple>inningNumber | eighth</otriple>
 				<otriple>inningNumber | two</otriple>
@@ -7381,7 +7381,7 @@
 				<entity>PATIENT-4 | eighth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id170" size="6">
+		<entry category="EnglishSports" eid="Id170" size="6">
 			<originaltripleset>
 				<otriple>batterName | Kennys_Vargas</otriple>
 				<otriple>battersFacedNumber | 14</otriple>
@@ -7430,7 +7430,7 @@
 				<entity>PATIENT-6 | seventh</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id171" size="5">
+		<entry category="EnglishSports" eid="Id171" size="5">
 			<originaltripleset>
 				<otriple>batterName | Oswaldo_Arcia</otriple>
 				<otriple>pitchResult | double</otriple>
@@ -7474,7 +7474,7 @@
 				<entity>PATIENT-5 | 1-0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id172" size="1">
+		<entry category="EnglishSports" eid="Id172" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Hendriks</otriple>
 				<otriple>pitcherName | Yordano_Ventura</otriple>
@@ -7503,7 +7503,7 @@
 				<entity>PATIENT-2 | Yordano_Ventura</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id173" size="4">
+		<entry category="EnglishSports" eid="Id173" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | four</otriple>
 				<otriple>pitcherName | The_Australian</otriple>
@@ -7542,7 +7542,7 @@
 				<entity>PATIENT-4 | without</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id174" size="2">
+		<entry category="EnglishSports" eid="Id174" size="2">
 			<originaltripleset>
 				<otriple>batterName | Ramon_Hernandez</otriple>
 				<otriple>teamName | Cincinnati_Reds</otriple>
@@ -7571,7 +7571,7 @@
 				<entity>PATIENT-2 | Cincinnati_Reds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id175" size="10">
+		<entry category="EnglishSports" eid="Id175" size="10">
 			<originaltripleset>
 				<otriple>batterName | Hernandez's</otriple>
 				<otriple>finalScore | 2-1</otriple>
@@ -7640,7 +7640,7 @@
 				<entity>PATIENT-9 | Houston_Astros</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id176" size="8">
+		<entry category="EnglishSports" eid="Id176" size="8">
 			<originaltripleset>
 				<otriple>batterName | Edwin_Encarnacion</otriple>
 				<otriple>batterName | Hernandez</otriple>
@@ -7709,7 +7709,7 @@
 				<entity>PATIENT-9 | one</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id177" size="2">
+		<entry category="EnglishSports" eid="Id177" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Valverde's</otriple>
 				<otriple>pitcherSaveRecord | first_blown_save</otriple>
@@ -7738,7 +7738,7 @@
 				<entity>PATIENT-2 | first_blown_save</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id178" size="7">
+		<entry category="EnglishSports" eid="Id178" size="7">
 			<originaltripleset>
 				<otriple>inningsPitched | 1_1/3</otriple>
 				<otriple>outNumber | three</otriple>
@@ -7797,7 +7797,7 @@
 				<entity>PATIENT-8 | third_save_in_three_attempts</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id179" size="6">
+		<entry category="EnglishSports" eid="Id179" size="6">
 			<originaltripleset>
 				<otriple>hitNumber | five</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -7846,7 +7846,7 @@
 				<entity>PATIENT-6 | Houston</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id180" size="6">
+		<entry category="EnglishSports" eid="Id180" size="6">
 			<originaltripleset>
 				<otriple>ERA | 2.39</otriple>
 				<otriple>gameNumber | 29</otriple>
@@ -7895,7 +7895,7 @@
 				<entity>PATIENT-6 | Cincinnati</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id181" size="4">
+		<entry category="EnglishSports" eid="Id181" size="4">
 			<originaltripleset>
 				<otriple>inningsPitched | 4_2/3</otriple>
 				<otriple>pitcherName | Johnny_Cueto</otriple>
@@ -7934,7 +7934,7 @@
 				<entity>PATIENT-4 | Reds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id182" size="2">
+		<entry category="EnglishSports" eid="Id182" size="2">
 			<originaltripleset>
 				<otriple>hitNumber | two</otriple>
 				<otriple>runNumber | one</otriple>
@@ -7963,7 +7963,7 @@
 				<entity>PATIENT-2 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id183" size="8">
+		<entry category="EnglishSports" eid="Id183" size="8">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>baseNumber | second</otriple>
@@ -8042,7 +8042,7 @@
 				<entity>PATIENT-9 | first</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id184" size="7">
+		<entry category="EnglishSports" eid="Id184" size="7">
 			<originaltripleset>
 				<otriple>batterName | Lance_Berkman</otriple>
 				<otriple>inningNumber | fifth</otriple>
@@ -8096,7 +8096,7 @@
 				<entity>PATIENT-7 | 1-0_lead</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id185" size="1">
+		<entry category="EnglishSports" eid="Id185" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Joe_Kelly</otriple>
 			</originaltripleset>
@@ -8120,7 +8120,7 @@
 				<entity>PATIENT-1 | Joe_Kelly</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id186" size="7">
+		<entry category="EnglishSports" eid="Id186" size="7">
 			<originaltripleset>
 				<otriple>finalScore | 3-1</otriple>
 				<otriple>hasLostTeam | New_York_Mets</otriple>
@@ -8179,7 +8179,7 @@
 				<entity>PATIENT-8 | Saturday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id187" size="8">
+		<entry category="EnglishSports" eid="Id187" size="8">
 			<originaltripleset>
 				<otriple>batterName | Mookie_Betts</otriple>
 				<otriple>gameNumber | 11</otriple>
@@ -8238,7 +8238,7 @@
 				<entity>PATIENT-8 | 11</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id188" size="6">
+		<entry category="EnglishSports" eid="Id188" size="6">
 			<originaltripleset>
 				<otriple>competitionName | NL_East</otriple>
 				<otriple>gameTally | 8-1</otriple>
@@ -8292,7 +8292,7 @@
 				<entity>PATIENT-7 | Mets</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id189" size="4">
+		<entry category="EnglishSports" eid="Id189" size="4">
 			<originaltripleset>
 				<otriple>homeAway | at_home</otriple>
 				<otriple>teamName | New_York</otriple>
@@ -8336,7 +8336,7 @@
 				<entity>PATIENT-5 | at_home</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id190" size="6">
+		<entry category="EnglishSports" eid="Id190" size="6">
 			<originaltripleset>
 				<otriple>pitchResult | double</otriple>
 				<otriple>pitcherName | Kelly</otriple>
@@ -8385,7 +8385,7 @@
 				<entity>PATIENT-6 | Mets</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id191" size="2">
+		<entry category="EnglishSports" eid="Id191" size="2">
 			<originaltripleset>
 				<otriple>hitNumber | five</otriple>
 				<otriple>inningsPitched | 7_1/3</otriple>
@@ -8414,7 +8414,7 @@
 				<entity>PATIENT-2 | 7_1/3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id192" size="4">
+		<entry category="EnglishSports" eid="Id192" size="4">
 			<originaltripleset>
 				<otriple>fielderPosition | pitcher</otriple>
 				<otriple>pitcherName | Pedro_Martinez</otriple>
@@ -8458,7 +8458,7 @@
 				<entity>PATIENT-5 | 6-0</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id193" size="1">
+		<entry category="EnglishSports" eid="Id193" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Roger_Clemens</otriple>
 			</originaltripleset>
@@ -8482,7 +8482,7 @@
 				<entity>PATIENT-1 | Roger_Clemens</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id194" size="4">
+		<entry category="EnglishSports" eid="Id194" size="4">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>batterName | Juan_Uribe's</otriple>
@@ -8521,7 +8521,7 @@
 				<entity>PATIENT-4 | double</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id195" size="3">
+		<entry category="EnglishSports" eid="Id195" size="3">
 			<originaltripleset>
 				<otriple>baseNumber | third</otriple>
 				<otriple>catchType | diving_play</otriple>
@@ -8555,7 +8555,7 @@
 				<entity>PATIENT-3 | third</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id196" size="3">
+		<entry category="EnglishSports" eid="Id196" size="3">
 			<originaltripleset>
 				<otriple>fielderName | Hanigan</otriple>
 				<otriple>fielderName | Ryan_Hanigan</otriple>
@@ -8599,7 +8599,7 @@
 				<entity>PATIENT-5 | Hanigan</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id197" size="3">
+		<entry category="EnglishSports" eid="Id197" size="3">
 			<originaltripleset>
 				<otriple>fielderName | Blake_Swihart</otriple>
 				<otriple>fielderName | Hanigan</otriple>
@@ -8638,7 +8638,7 @@
 				<entity>PATIENT-4 | tightness_in_his_right_calf</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id198" size="6">
+		<entry category="EnglishSports" eid="Id198" size="6">
 			<originaltripleset>
 				<otriple>fielderPosition | relievers</otriple>
 				<otriple>hitNumber | perfect</otriple>
@@ -8692,7 +8692,7 @@
 				<entity>PATIENT-7 | relievers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id199" size="4">
+		<entry category="EnglishSports" eid="Id199" size="4">
 			<originaltripleset>
 				<otriple>locationPlayed | Philadelphia</otriple>
 				<otriple>matchDate | Monday</otriple>
@@ -8731,7 +8731,7 @@
 				<entity>PATIENT-4 | Philadelphia</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id200" size="5">
+		<entry category="EnglishSports" eid="Id200" size="5">
 			<originaltripleset>
 				<otriple>hitNumber | four</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -8775,7 +8775,7 @@
 				<entity>PATIENT-5 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id201" size="6">
+		<entry category="EnglishSports" eid="Id201" size="6">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>batterName | Sandoval</otriple>
@@ -8824,7 +8824,7 @@
 				<entity>PATIENT-6 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id202" size="7">
+		<entry category="EnglishSports" eid="Id202" size="7">
 			<originaltripleset>
 				<otriple>batterName | Brock_Holt</otriple>
 				<otriple>fielderName | Daniel_Murphy</otriple>
@@ -8883,7 +8883,7 @@
 				<entity>PATIENT-8 | to_the_plate</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id203" size="3">
+		<entry category="EnglishSports" eid="Id203" size="3">
 			<originaltripleset>
 				<otriple>baseNumber | home</otriple>
 				<otriple>baseNumber | third</otriple>
@@ -8922,7 +8922,7 @@
 				<entity>PATIENT-4 | home</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id204" size="5">
+		<entry category="EnglishSports" eid="Id204" size="5">
 			<originaltripleset>
 				<otriple>batterName | Betts</otriple>
 				<otriple>inningNumber | seventh</otriple>
@@ -8966,7 +8966,7 @@
 				<entity>PATIENT-5 | seventh</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id205" size="1">
+		<entry category="EnglishSports" eid="Id205" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Chris_Perez</otriple>
 			</originaltripleset>
@@ -8991,7 +8991,7 @@
 				<entity>PATIENT-1 | Chris_Perez</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id206" size="4">
+		<entry category="EnglishSports" eid="Id206" size="4">
 			<originaltripleset>
 				<otriple>inningNumber | ninth</otriple>
 				<otriple>pitcherName | Perez</otriple>
@@ -9031,7 +9031,7 @@
 				<entity>PATIENT-4 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id207" size="5">
+		<entry category="EnglishSports" eid="Id207" size="5">
 			<originaltripleset>
 				<otriple>gameNumber | 10-game</otriple>
 				<otriple>inningNumber | ninth</otriple>
@@ -9076,7 +9076,7 @@
 				<entity>PATIENT-5 | losing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id208" size="3">
+		<entry category="EnglishSports" eid="Id208" size="3">
 			<originaltripleset>
 				<otriple>matchDate | Saturday</otriple>
 				<otriple>pitcherName | Perez</otriple>
@@ -9111,7 +9111,7 @@
 				<entity>PATIENT-3 | Cleveland's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id209" size="5">
+		<entry category="EnglishSports" eid="Id209" size="5">
 			<originaltripleset>
 				<otriple>batterName | Miguel_Cabrera</otriple>
 				<otriple>inningNumber | ninth</otriple>
@@ -9156,7 +9156,7 @@
 				<entity>PATIENT-5 | Tigers'</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id210" size="6">
+		<entry category="EnglishSports" eid="Id210" size="6">
 			<originaltripleset>
 				<otriple>batterName | Cabrera</otriple>
 				<otriple>leftOnBase | Progressive_Field</otriple>
@@ -9206,7 +9206,7 @@
 				<entity>PATIENT-6 | Perez</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id211" size="5">
+		<entry category="EnglishSports" eid="Id211" size="5">
 			<originaltripleset>
 				<otriple>competitionName | AL_Central</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -9251,7 +9251,7 @@
 				<entity>PATIENT-5 | AL_Central</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id212" size="4">
+		<entry category="EnglishSports" eid="Id212" size="4">
 			<originaltripleset>
 				<otriple>RBI | two</otriple>
 				<otriple>batterName | Travis_Hafner</otriple>
@@ -9291,7 +9291,7 @@
 				<entity>PATIENT-4 | Aug._10</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id213" size="3">
+		<entry category="EnglishSports" eid="Id213" size="3">
 			<originaltripleset>
 				<otriple>pitcherName | Perez</otriple>
 				<otriple>scoreTally | 5-3</otriple>
@@ -9325,7 +9325,7 @@
 				<entity>PATIENT-3 | Perez</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id214" size="1">
+		<entry category="EnglishSports" eid="Id214" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | right-hander</otriple>
 			</originaltripleset>
@@ -9350,7 +9350,7 @@
 				<entity>PATIENT-1 | right-hander</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id215" size="4">
+		<entry category="EnglishSports" eid="Id215" size="4">
 			<originaltripleset>
 				<otriple>outNumber | one</otriple>
 				<otriple>pitchResult | walked</otriple>
@@ -9384,7 +9384,7 @@
 				<entity>PATIENT-3 | Detroit</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id216" size="3">
+		<entry category="EnglishSports" eid="Id216" size="3">
 			<originaltripleset>
 				<otriple>batterName | Cabrera</otriple>
 				<otriple>pitchResult | punch_out</otriple>
@@ -9419,7 +9419,7 @@
 				<entity>PATIENT-3 | punch_out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id217" size="3">
+		<entry category="EnglishSports" eid="Id217" size="3">
 			<originaltripleset>
 				<otriple>batterName | Fielder</otriple>
 				<otriple>pitchCount | 3-1</otriple>
@@ -9454,7 +9454,7 @@
 				<entity>PATIENT-3 | sinker</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id218" size="4">
+		<entry category="EnglishSports" eid="Id218" size="4">
 			<originaltripleset>
 				<otriple>batterName | Alex_Avila</otriple>
 				<otriple>pitchResult | homer</otriple>
@@ -9494,7 +9494,7 @@
 				<entity>PATIENT-4 | Tigers</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id219" size="4">
+		<entry category="EnglishSports" eid="Id219" size="4">
 			<originaltripleset>
 				<otriple>batterName | Avila</otriple>
 				<otriple>inningNumber | eighth</otriple>
@@ -9533,7 +9533,7 @@
 				<entity>PATIENT-4 | Avila</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id220" size="5">
+		<entry category="EnglishSports" eid="Id220" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | reliever</otriple>
 				<otriple>gameNumber | 22</otriple>
@@ -9578,7 +9578,7 @@
 				<entity>PATIENT-5 | Sept._25</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id221" size="2">
+		<entry category="EnglishSports" eid="Id221" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Jimenez</otriple>
 				<otriple>teamName | Detroit's</otriple>
@@ -9608,7 +9608,7 @@
 				<entity>PATIENT-2 | Detroit's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id222" size="5">
+		<entry category="EnglishSports" eid="Id222" size="5">
 			<originaltripleset>
 				<otriple>batterName | Cabrera</otriple>
 				<otriple>inningNumber | fifth</otriple>
@@ -9643,7 +9643,7 @@
 				<entity>PATIENT-3 | fifth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id223" size="3">
+		<entry category="EnglishSports" eid="Id223" size="3">
 			<originaltripleset>
 				<otriple>hitNumber | three</otriple>
 				<otriple>pitcherName | Jimenez</otriple>
@@ -9677,7 +9677,7 @@
 				<entity>PATIENT-3 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id224" size="5">
+		<entry category="EnglishSports" eid="Id224" size="5">
 			<originaltripleset>
 				<otriple>batterName | Avila's</otriple>
 				<otriple>inningNumber | second</otriple>
@@ -9722,7 +9722,7 @@
 				<entity>PATIENT-5 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id225" size="4">
+		<entry category="EnglishSports" eid="Id225" size="4">
 			<originaltripleset>
 				<otriple>earnedRunsNumber | four</otriple>
 				<otriple>hitNumber | eight</otriple>
@@ -9762,7 +9762,7 @@
 				<entity>PATIENT-4 | 5_1/3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id226" size="2">
+		<entry category="EnglishSports" eid="Id226" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Perez</otriple>
 				<otriple>teamName | Cleveland</otriple>
@@ -9792,7 +9792,7 @@
 				<entity>PATIENT-2 | Cleveland</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id227" size="4">
+		<entry category="EnglishSports" eid="Id227" size="4">
 			<originaltripleset>
 				<otriple>batterName | Carlos_Pena</otriple>
 				<otriple>matchDate | Wednesday_night</otriple>
@@ -9831,7 +9831,7 @@
 				<entity>PATIENT-4 | Wednesday_night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id228" size="8">
+		<entry category="EnglishSports" eid="Id228" size="8">
 			<originaltripleset>
 				<otriple>batterName | Pena</otriple>
 				<otriple>finalScore | 6-3</otriple>
@@ -9890,7 +9890,7 @@
 				<entity>PATIENT-8 | Cincinnati_Reds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id229" size="8">
+		<entry category="EnglishSports" eid="Id229" size="8">
 			<originaltripleset>
 				<otriple>batterName | Aramis_Ramirez</otriple>
 				<otriple>gameNumber | six-game</otriple>
@@ -9954,7 +9954,7 @@
 				<entity>PATIENT-9 | homestand</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id230" size="3">
+		<entry category="EnglishSports" eid="Id230" size="3">
 			<originaltripleset>
 				<otriple>batterName | DJ_LeMahieu</otriple>
 				<otriple>batterName | Starlin_Castro</otriple>
@@ -9993,7 +9993,7 @@
 				<entity>PATIENT-4 | Cubs</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id231" size="4">
+		<entry category="EnglishSports" eid="Id231" size="4">
 			<originaltripleset>
 				<otriple>batterName | Castro</otriple>
 				<otriple>pitchResult | leadoff_single</otriple>
@@ -10032,7 +10032,7 @@
 				<entity>PATIENT-4 | 4-5</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id232" size="6">
+		<entry category="EnglishSports" eid="Id232" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | second</otriple>
 				<otriple>batterName | Castro</otriple>
@@ -10101,7 +10101,7 @@
 				<entity>PATIENT-9 | Reds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id233" size="1">
+		<entry category="EnglishSports" eid="Id233" size="1">
 			<originaltripleset>
 				<otriple>matchDate | Wednesday_night</otriple>
 			</originaltripleset>
@@ -10125,7 +10125,7 @@
 				<entity>PATIENT-1 | Wednesday_night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id234" size="7">
+		<entry category="EnglishSports" eid="Id234" size="7">
 			<originaltripleset>
 				<otriple>batterName | Pena</otriple>
 				<otriple>gameNumber | eight</otriple>
@@ -10184,7 +10184,7 @@
 				<entity>PATIENT-8 | eight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id235" size="3">
+		<entry category="EnglishSports" eid="Id235" size="3">
 			<originaltripleset>
 				<otriple>battingAverage | .135</otriple>
 				<otriple>battingAverage | .188</otriple>
@@ -10223,7 +10223,7 @@
 				<entity>PATIENT-4 | Bray</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id236" size="1">
+		<entry category="EnglishSports" eid="Id236" size="1">
 			<originaltripleset>
 				<otriple>teamName | Reds</otriple>
 			</originaltripleset>
@@ -10247,7 +10247,7 @@
 				<entity>PATIENT-1 | Reds</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id237" size="6">
+		<entry category="EnglishSports" eid="Id237" size="6">
 			<originaltripleset>
 				<otriple>batterName | Yonder_Alonso</otriple>
 				<otriple>gameNumber | 10</otriple>
@@ -10296,7 +10296,7 @@
 				<entity>PATIENT-6 | 10</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id238" size="3">
+		<entry category="EnglishSports" eid="Id238" size="3">
 			<originaltripleset>
 				<otriple>batterHitsTries | 2_for_4</otriple>
 				<otriple>batterName | Joey_Votto</otriple>
@@ -10330,7 +10330,7 @@
 				<entity>PATIENT-3 | drove_in_a_run</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id239" size="6">
+		<entry category="EnglishSports" eid="Id239" size="6">
 			<originaltripleset>
 				<otriple>inningNumber | eighth</otriple>
 				<otriple>inningNumber | ninth</otriple>
@@ -10394,7 +10394,7 @@
 				<entity>PATIENT-9 | 33rd</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id240" size="8">
+		<entry category="EnglishSports" eid="Id240" size="8">
 			<originaltripleset>
 				<otriple>batterName | Johnny_Cueto's</otriple>
 				<otriple>fielderPosition | pitcher</otriple>
@@ -10458,7 +10458,7 @@
 				<entity>PATIENT-9 | infield</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id241" size="7">
+		<entry category="EnglishSports" eid="Id241" size="7">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>batterName | Jay_Bruce</otriple>
@@ -10522,7 +10522,7 @@
 				<entity>PATIENT-9 | double</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id242" size="4">
+		<entry category="EnglishSports" eid="Id242" size="4">
 			<originaltripleset>
 				<otriple>batterName | Alonso</otriple>
 				<otriple>strikeTrajectory | to_medium_center_field</otriple>
@@ -10561,7 +10561,7 @@
 				<entity>PATIENT-4 | to_medium_center_field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id243" size="6">
+		<entry category="EnglishSports" eid="Id243" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | plate</otriple>
 				<otriple>batterName | Edgar_Renteria</otriple>
@@ -10615,7 +10615,7 @@
 				<entity>PATIENT-7 | plate</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id244" size="10">
+		<entry category="EnglishSports" eid="Id244" size="10">
 			<originaltripleset>
 				<otriple>baseNumber | second</otriple>
 				<otriple>batterName | Alonso</otriple>
@@ -10694,7 +10694,7 @@
 				<entity>PATIENT-9 | Castro</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id245" size="4">
+		<entry category="EnglishSports" eid="Id245" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | 10</otriple>
 				<otriple>pitcherName | Dempster</otriple>
@@ -10733,7 +10733,7 @@
 				<entity>PATIENT-4 | five</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id246" size="5">
+		<entry category="EnglishSports" eid="Id246" size="5">
 			<originaltripleset>
 				<otriple>batterName | LeMahieu's</otriple>
 				<otriple>batterName | Pena</otriple>
@@ -10807,7 +10807,7 @@
 				<entity>PATIENT-9 | sixth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id247" size="5">
+		<entry category="EnglishSports" eid="Id247" size="5">
 			<originaltripleset>
 				<otriple>ERA | 2.29</otriple>
 				<otriple>ERA | 2.36</otriple>
@@ -10856,7 +10856,7 @@
 				<entity>PATIENT-6 | 2.36</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id248" size="4">
+		<entry category="EnglishSports" eid="Id248" size="4">
 			<originaltripleset>
 				<otriple>battersFacedNumber | two</otriple>
 				<otriple>pitchResult | pushed_across_a_run</otriple>
@@ -10900,7 +10900,7 @@
 				<entity>PATIENT-5 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id249" size="5">
+		<entry category="EnglishSports" eid="Id249" size="5">
 			<originaltripleset>
 				<otriple>batterName | Votto</otriple>
 				<otriple>fielderName | Alfonso_Soriano</otriple>
@@ -10944,7 +10944,7 @@
 				<entity>PATIENT-5 | triple</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id250" size="5">
+		<entry category="EnglishSports" eid="Id250" size="5">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Alonso</otriple>
@@ -10993,7 +10993,7 @@
 				<entity>PATIENT-6 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id251" size="11">
+		<entry category="EnglishSports" eid="Id251" size="11">
 			<originaltripleset>
 				<otriple>baseNumber | third</otriple>
 				<otriple>batterName | Neil_Walker</otriple>
@@ -11067,7 +11067,7 @@
 				<entity>PATIENT-9 | 5-4</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id252" size="4">
+		<entry category="EnglishSports" eid="Id252" size="4">
 			<originaltripleset>
 				<otriple>gameNumber | three</otriple>
 				<otriple>gameNumber | three-game</otriple>
@@ -11116,7 +11116,7 @@
 				<entity>PATIENT-6 | three-game</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id253" size="2">
+		<entry category="EnglishSports" eid="Id253" size="2">
 			<originaltripleset>
 				<otriple>locationPlayed | Wrigley_Field</otriple>
 				<otriple>winLossType | won</otriple>
@@ -11145,7 +11145,7 @@
 				<entity>PATIENT-2 | Wrigley_Field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id254" size="8">
+		<entry category="EnglishSports" eid="Id254" size="8">
 			<originaltripleset>
 				<otriple>batterName | Garrett_Jones</otriple>
 				<otriple>batterName | Lyle_Overbay</otriple>
@@ -11234,7 +11234,7 @@
 				<entity>PATIENT-9 | singled</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id255" size="5">
+		<entry category="EnglishSports" eid="Id255" size="5">
 			<originaltripleset>
 				<otriple>batterName | Pedro_Alvarez</otriple>
 				<otriple>fielderName | Starlin_Castro</otriple>
@@ -11278,7 +11278,7 @@
 				<entity>PATIENT-5 | Starlin_Castro</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id256" size="5">
+		<entry category="EnglishSports" eid="Id256" size="5">
 			<originaltripleset>
 				<otriple>baseNumber | third</otriple>
 				<otriple>batterName | Jones</otriple>
@@ -11332,7 +11332,7 @@
 				<entity>PATIENT-7 | third</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id257" size="6">
+		<entry category="EnglishSports" eid="Id257" size="6">
 			<originaltripleset>
 				<otriple>batterName | Walker</otriple>
 				<otriple>fielderName | Geovany_Soto</otriple>
@@ -11386,7 +11386,7 @@
 				<entity>PATIENT-7 | score_the_go-ahead_run</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id258" size="12">
+		<entry category="EnglishSports" eid="Id258" size="12">
 			<originaltripleset>
 				<otriple>batterName | Marlon_Byrd</otriple>
 				<otriple>fielderName | Ronny_Cedeno</otriple>
@@ -11490,7 +11490,7 @@
 				<entity>PATIENT-9 | Marlon_Byrd</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id259" size="4">
+		<entry category="EnglishSports" eid="Id259" size="4">
 			<originaltripleset>
 				<otriple>pitcherName | Matt_Garza</otriple>
 				<otriple>startsNumber | debut</otriple>
@@ -11534,7 +11534,7 @@
 				<entity>PATIENT-5 | debut</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id260" size="5">
+		<entry category="EnglishSports" eid="Id260" size="5">
 			<originaltripleset>
 				<otriple>inningsPitched | seven</otriple>
 				<otriple>pitchResult | singles</otriple>
@@ -11578,7 +11578,7 @@
 				<entity>PATIENT-5 | seven</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id261" size="1">
+		<entry category="EnglishSports" eid="Id261" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Garza</otriple>
 			</originaltripleset>
@@ -11602,7 +11602,7 @@
 				<entity>PATIENT-1 | Garza</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id262" size="3">
+		<entry category="EnglishSports" eid="Id262" size="3">
 			<originaltripleset>
 				<otriple>pitchResult | singles</otriple>
 				<otriple>pitchResultNumber | 16</otriple>
@@ -11636,7 +11636,7 @@
 				<entity>PATIENT-3 | singles</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id263" size="5">
+		<entry category="EnglishSports" eid="Id263" size="5">
 			<originaltripleset>
 				<otriple>competitionName | AL_East</otriple>
 				<otriple>gameNumber | 15</otriple>
@@ -11690,7 +11690,7 @@
 				<entity>PATIENT-7 | AL_East</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id264" size="1">
+		<entry category="EnglishSports" eid="Id264" size="1">
 			<originaltripleset>
 				<otriple>walkNumber | did_not</otriple>
 			</originaltripleset>
@@ -11714,7 +11714,7 @@
 				<entity>PATIENT-1 | did_not</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id265" size="7">
+		<entry category="EnglishSports" eid="Id265" size="7">
 			<originaltripleset>
 				<otriple>batterName | Alfonso_Soriano</otriple>
 				<otriple>fielderPosition | starter</otriple>
@@ -11773,7 +11773,7 @@
 				<entity>PATIENT-8 | up_4-3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id266" size="5">
+		<entry category="EnglishSports" eid="Id266" size="5">
 			<originaltripleset>
 				<otriple>fielderName | Tyler_Colvin</otriple>
 				<otriple>fielderPosition | right_fielder</otriple>
@@ -11817,7 +11817,7 @@
 				<entity>PATIENT-5 | eighth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id267" size="11">
+		<entry category="EnglishSports" eid="Id267" size="11">
 			<originaltripleset>
 				<otriple>batterName | Pena</otriple>
 				<otriple>catchType | leaping_catch</otriple>
@@ -11891,7 +11891,7 @@
 				<entity>PATIENT-9 | hit_the_ivy_in_right_field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id268" size="1">
+		<entry category="EnglishSports" eid="Id268" size="1">
 			<originaltripleset>
 				<otriple>teamName | Cubs</otriple>
 			</originaltripleset>
@@ -11915,7 +11915,7 @@
 				<entity>PATIENT-1 | Cubs</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id269" size="1">
+		<entry category="EnglishSports" eid="Id269" size="1">
 			<originaltripleset>
 				<otriple>fielderName | Jones</otriple>
 			</originaltripleset>
@@ -11939,7 +11939,7 @@
 				<entity>PATIENT-1 | Jones</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id270" size="1">
+		<entry category="EnglishSports" eid="Id270" size="1">
 			<originaltripleset>
 				<otriple>managerName | Hurdle</otriple>
 			</originaltripleset>
@@ -11963,7 +11963,7 @@
 				<entity>PATIENT-1 | Hurdle</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id271" size="6">
+		<entry category="EnglishSports" eid="Id271" size="6">
 			<originaltripleset>
 				<otriple>batterName | Colvin</otriple>
 				<otriple>batterName | Garza</otriple>
@@ -12022,7 +12022,7 @@
 				<entity>PATIENT-8 | roller</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id272" size="5">
+		<entry category="EnglishSports" eid="Id272" size="5">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Overbay</otriple>
@@ -12066,7 +12066,7 @@
 				<entity>PATIENT-5 | up_3-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id273" size="5">
+		<entry category="EnglishSports" eid="Id273" size="5">
 			<originaltripleset>
 				<otriple>batterName | Castro's</otriple>
 				<otriple>batterName | Darwin_Barney</otriple>
@@ -12120,7 +12120,7 @@
 				<entity>PATIENT-7 | tied_it</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id274" size="10">
+		<entry category="EnglishSports" eid="Id274" size="10">
 			<originaltripleset>
 				<otriple>batterName | Jason_Jaramillo</otriple>
 				<otriple>batterName | Jose_Tabata's</otriple>
@@ -12194,7 +12194,7 @@
 				<entity>PATIENT-9 | perfect</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id275" size="3">
+		<entry category="EnglishSports" eid="Id275" size="3">
 			<originaltripleset>
 				<otriple>managerName | Buck_Showalter</otriple>
 				<otriple>scoreTally | six-run_lead</otriple>
@@ -12228,7 +12228,7 @@
 				<entity>PATIENT-3 | six-run_lead</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id276" size="6">
+		<entry category="EnglishSports" eid="Id276" size="6">
 			<originaltripleset>
 				<otriple>finalScore | 9-7</otriple>
 				<otriple>hasLostTeam | Cincinnati_Reds</otriple>
@@ -12277,7 +12277,7 @@
 				<entity>PATIENT-6 | Thursday_night</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id277" size="7">
+		<entry category="EnglishSports" eid="Id277" size="7">
 			<originaltripleset>
 				<otriple>competitionName | AL_East</otriple>
 				<otriple>gameTally | 9-2</otriple>
@@ -12346,7 +12346,7 @@
 				<entity>PATIENT-9 | 82-57</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id278" size="3">
+		<entry category="EnglishSports" eid="Id278" size="3">
 			<originaltripleset>
 				<otriple>competitionName | AL_East</otriple>
 				<otriple>gameNumber | 23</otriple>
@@ -12380,7 +12380,7 @@
 				<entity>PATIENT-3 | AL_East</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id279" size="7">
+		<entry category="EnglishSports" eid="Id279" size="7">
 			<originaltripleset>
 				<otriple>batterName | Nelson_Cruz</otriple>
 				<otriple>homeRunNumber | 37th</otriple>
@@ -12444,7 +12444,7 @@
 				<entity>PATIENT-9 | pulled_even</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id280" size="8">
+		<entry category="EnglishSports" eid="Id280" size="8">
 			<originaltripleset>
 				<otriple>batterName | Hardy</otriple>
 				<otriple>batterName | Nick_Markakis</otriple>
@@ -12518,7 +12518,7 @@
 				<entity>PATIENT-9 | back_in_front</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id281" size="5">
+		<entry category="EnglishSports" eid="Id281" size="5">
 			<originaltripleset>
 				<otriple>inningsPitched | 1_1/3</otriple>
 				<otriple>outNumber | three</otriple>
@@ -12567,7 +12567,7 @@
 				<entity>PATIENT-6 | 33rd</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id282" size="4">
+		<entry category="EnglishSports" eid="Id282" size="4">
 			<originaltripleset>
 				<otriple>RBI | no</otriple>
 				<otriple>fielderName | Jack_Hannahan</otriple>
@@ -12606,7 +12606,7 @@
 				<entity>PATIENT-4 | 17</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id283" size="4">
+		<entry category="EnglishSports" eid="Id283" size="4">
 			<originaltripleset>
 				<otriple>RBI | four</otriple>
 				<otriple>batterHitsTries | 4_for_4</otriple>
@@ -12645,7 +12645,7 @@
 				<entity>PATIENT-4 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id284" size="5">
+		<entry category="EnglishSports" eid="Id284" size="5">
 			<originaltripleset>
 				<otriple>matchDate | Oct._2,_2009</otriple>
 				<otriple>standingsGames | eight_games_under</otriple>
@@ -12689,7 +12689,7 @@
 				<entity>PATIENT-5 | Oct._2,_2009</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id285" size="4">
+		<entry category="EnglishSports" eid="Id285" size="4">
 			<originaltripleset>
 				<otriple>batterName | Mesoraco</otriple>
 				<otriple>inningNumber | seventh</otriple>
@@ -12728,7 +12728,7 @@
 				<entity>PATIENT-4 | Cincinnati's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id286" size="6">
+		<entry category="EnglishSports" eid="Id286" size="6">
 			<originaltripleset>
 				<otriple>batterName | Cruz</otriple>
 				<otriple>batterName | Nick_Hundley</otriple>
@@ -12792,7 +12792,7 @@
 				<entity>PATIENT-9 | three-run</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id287" size="4">
+		<entry category="EnglishSports" eid="Id287" size="4">
 			<originaltripleset>
 				<otriple>batterName | Jonathan_Schoop</otriple>
 				<otriple>inningNumber | fourth</otriple>
@@ -12831,7 +12831,7 @@
 				<entity>PATIENT-4 | 7-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id288" size="2">
+		<entry category="EnglishSports" eid="Id288" size="2">
 			<originaltripleset>
 				<otriple>matchStreakNumber | three_straight</otriple>
 				<otriple>matchStreakType | homered</otriple>
@@ -12860,7 +12860,7 @@
 				<entity>PATIENT-2 | three_straight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id289" size="4">
+		<entry category="EnglishSports" eid="Id289" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | seven</otriple>
 				<otriple>inningsPitched | four</otriple>
@@ -12899,7 +12899,7 @@
 				<entity>PATIENT-4 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id290" size="1">
+		<entry category="EnglishSports" eid="Id290" size="1">
 			<originaltripleset>
 				<otriple>homeRunNumber | three</otriple>
 			</originaltripleset>
@@ -12923,7 +12923,7 @@
 				<entity>PATIENT-1 | three</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id291" size="5">
+		<entry category="EnglishSports" eid="Id291" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | starter</otriple>
 				<otriple>hitNumber | five</otriple>
@@ -12967,7 +12967,7 @@
 				<entity>PATIENT-5 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id292" size="2">
+		<entry category="EnglishSports" eid="Id292" size="2">
 			<originaltripleset>
 				<otriple>scoreTally | up_7-3</otriple>
 				<otriple>teamName | Baltimore</otriple>
@@ -12996,7 +12996,7 @@
 				<entity>PATIENT-2 | up_7-3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id293" size="4">
+		<entry category="EnglishSports" eid="Id293" size="4">
 			<originaltripleset>
 				<otriple>batterName | Steven_Souza_Jr.'s</otriple>
 				<otriple>hasWonTeam | Tampa_Bay_Rays</otriple>
@@ -13035,7 +13035,7 @@
 				<entity>PATIENT-4 | victory</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id294" size="10">
+		<entry category="EnglishSports" eid="Id294" size="10">
 			<originaltripleset>
 				<otriple>batterName | Souza's</otriple>
 				<otriple>finalScore | 5-3</otriple>
@@ -13104,7 +13104,7 @@
 				<entity>PATIENT-9 | 5-3</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id295" size="8">
+		<entry category="EnglishSports" eid="Id295" size="8">
 			<originaltripleset>
 				<otriple>gameNumber | four-game</otriple>
 				<otriple>gameNumber | two</otriple>
@@ -13168,7 +13168,7 @@
 				<entity>PATIENT-9 | losing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id296" size="6">
+		<entry category="EnglishSports" eid="Id296" size="6">
 			<originaltripleset>
 				<otriple>batterName | Souza</otriple>
 				<otriple>inningNumber | sixth</otriple>
@@ -13217,7 +13217,7 @@
 				<entity>PATIENT-6 | J.A._Happ</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id297" size="4">
+		<entry category="EnglishSports" eid="Id297" size="4">
 			<originaltripleset>
 				<otriple>gameNumber | 18</otriple>
 				<otriple>matchDate | Sept._20</otriple>
@@ -13256,7 +13256,7 @@
 				<entity>PATIENT-4 | Sept._20</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id298" size="7">
+		<entry category="EnglishSports" eid="Id298" size="7">
 			<originaltripleset>
 				<otriple>batterName | Desmond_Jennings</otriple>
 				<otriple>batterName | Evan_Longoria</otriple>
@@ -13320,7 +13320,7 @@
 				<entity>PATIENT-9 | one</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id299" size="4">
+		<entry category="EnglishSports" eid="Id299" size="4">
 			<originaltripleset>
 				<otriple>batterName | Souza</otriple>
 				<otriple>hitNumber | fourth</otriple>
@@ -13359,7 +13359,7 @@
 				<entity>PATIENT-4 | fourth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id300" size="5">
+		<entry category="EnglishSports" eid="Id300" size="5">
 			<originaltripleset>
 				<otriple>batterName | Josh_Donaldson</otriple>
 				<otriple>inningNumber | third</otriple>
@@ -13403,7 +13403,7 @@
 				<entity>PATIENT-5 | Matt_Moore</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id301" size="2">
+		<entry category="EnglishSports" eid="Id301" size="2">
 			<originaltripleset>
 				<otriple>injuryType | strained_right_calf</otriple>
 				<otriple>inningNumber | seventh-inning</otriple>
@@ -13432,7 +13432,7 @@
 				<entity>PATIENT-2 | strained_right_calf</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id302" size="9">
+		<entry category="EnglishSports" eid="Id302" size="9">
 			<originaltripleset>
 				<otriple>batterName | Troy_Tulowitzki</otriple>
 				<otriple>fielderName | Kevin_Kiermaier</otriple>
@@ -13496,7 +13496,7 @@
 				<entity>PATIENT-9 | near_the_wall_at_the_deepest_part_of_the_ballpark</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id303" size="6">
+		<entry category="EnglishSports" eid="Id303" size="6">
 			<originaltripleset>
 				<otriple>finalScore | 3-2</otriple>
 				<otriple>hasWonTeam | Tampa_Bay</otriple>
@@ -13545,7 +13545,7 @@
 				<entity>PATIENT-6 | ninth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id304" size="6">
+		<entry category="EnglishSports" eid="Id304" size="6">
 			<originaltripleset>
 				<otriple>batterName | Logan_Forsythe</otriple>
 				<otriple>inningNumber | eighth</otriple>
@@ -13594,7 +13594,7 @@
 				<entity>PATIENT-6 | eighth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id305" size="3">
+		<entry category="EnglishSports" eid="Id305" size="3">
 			<originaltripleset>
 				<otriple>gameNumber | 26</otriple>
 				<otriple>locationPlayed | Tropicana_Field</otriple>
@@ -13628,7 +13628,7 @@
 				<entity>PATIENT-3 | Tropicana_Field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id306" size="6">
+		<entry category="EnglishSports" eid="Id306" size="6">
 			<originaltripleset>
 				<otriple>hitNumber | five</otriple>
 				<otriple>inningsPitched | five</otriple>
@@ -13677,7 +13677,7 @@
 				<entity>PATIENT-6 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id307" size="4">
+		<entry category="EnglishSports" eid="Id307" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | seven</otriple>
 				<otriple>inningsPitched | six-plus</otriple>
@@ -13716,7 +13716,7 @@
 				<entity>PATIENT-4 | six-plus</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id308" size="1">
+		<entry category="EnglishSports" eid="Id308" size="1">
 			<originaltripleset>
 				<otriple>batterName | Alfonso_Soriano</otriple>
 			</originaltripleset>
@@ -13740,7 +13740,7 @@
 				<entity>PATIENT-1 | Alfonso_Soriano</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id309" size="1">
+		<entry category="EnglishSports" eid="Id309" size="1">
 			<originaltripleset>
 				<otriple>matchDate | Saturday</otriple>
 			</originaltripleset>
@@ -13764,7 +13764,7 @@
 				<entity>PATIENT-1 | Saturday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id310" size="10">
+		<entry category="EnglishSports" eid="Id310" size="10">
 			<originaltripleset>
 				<otriple>finalScore | 7-2</otriple>
 				<otriple>hasLostTeam | Arizona_Diamondbacks</otriple>
@@ -13833,7 +13833,7 @@
 				<entity>PATIENT-9 | Arizona_Diamondbacks</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id311" size="3">
+		<entry category="EnglishSports" eid="Id311" size="3">
 			<originaltripleset>
 				<otriple>batterHitsTries | 4-for-5</otriple>
 				<otriple>batterName | Soriano's</otriple>
@@ -13872,7 +13872,7 @@
 				<entity>PATIENT-4 | .223</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id312" size="3">
+		<entry category="EnglishSports" eid="Id312" size="3">
 			<originaltripleset>
 				<otriple>injuryType | calf_injury</otriple>
 				<otriple>locationPlayed | Wrigley_Field</otriple>
@@ -13906,7 +13906,7 @@
 				<entity>PATIENT-3 | Wrigley_Field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id313" size="7">
+		<entry category="EnglishSports" eid="Id313" size="7">
 			<originaltripleset>
 				<otriple>batterName | Kosuke_Fukudome</otriple>
 				<otriple>homeRunNumber | first</otriple>
@@ -13965,7 +13965,7 @@
 				<entity>PATIENT-8 | second_straight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id314" size="9">
+		<entry category="EnglishSports" eid="Id314" size="9">
 			<originaltripleset>
 				<otriple>ERA | 0.93</otriple>
 				<otriple>ERA | 2.75</otriple>
@@ -14049,7 +14049,7 @@
 				<entity>PATIENT-9 | 0-4</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id315" size="2">
+		<entry category="EnglishSports" eid="Id315" size="2">
 			<originaltripleset>
 				<otriple>pitcherName | Qualls</otriple>
 				<otriple>pitcherName | Scherzer</otriple>
@@ -14083,7 +14083,7 @@
 				<entity>PATIENT-3 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id316" size="6">
+		<entry category="EnglishSports" eid="Id316" size="6">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Daryle_Ward</otriple>
@@ -14147,7 +14147,7 @@
 				<entity>PATIENT-9 | tie</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id317" size="7">
+		<entry category="EnglishSports" eid="Id317" size="7">
 			<originaltripleset>
 				<otriple>baseNumber | second</otriple>
 				<otriple>batterName | Jason_Marquis</otriple>
@@ -14211,7 +14211,7 @@
 				<entity>PATIENT-9 | 3-2</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id318" size="6">
+		<entry category="EnglishSports" eid="Id318" size="6">
 			<originaltripleset>
 				<otriple>batterName | Ryan_Theriot</otriple>
 				<otriple>batterName | Soriano</otriple>
@@ -14280,7 +14280,7 @@
 				<entity>PATIENT-9 | Chris_Young</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id319" size="4">
+		<entry category="EnglishSports" eid="Id319" size="4">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Aramis_Ramirez</otriple>
@@ -14324,7 +14324,7 @@
 				<entity>PATIENT-5 | second</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id320" size="6">
+		<entry category="EnglishSports" eid="Id320" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>batterName | Soriano</otriple>
@@ -14383,7 +14383,7 @@
 				<entity>PATIENT-8 | right</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id321" size="5">
+		<entry category="EnglishSports" eid="Id321" size="5">
 			<originaltripleset>
 				<otriple>batterName | Soriano</otriple>
 				<otriple>fielderName | Augie_Ojeda</otriple>
@@ -14447,7 +14447,7 @@
 				<entity>PATIENT-9 | scored</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id322" size="4">
+		<entry category="EnglishSports" eid="Id322" size="4">
 			<originaltripleset>
 				<otriple>hitNumber | five</otriple>
 				<otriple>inningsPitched | six</otriple>
@@ -14486,7 +14486,7 @@
 				<entity>PATIENT-4 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id323" size="5">
+		<entry category="EnglishSports" eid="Id323" size="5">
 			<originaltripleset>
 				<otriple>pitchResult | hit</otriple>
 				<otriple>pitchResultNumber | two</otriple>
@@ -14530,7 +14530,7 @@
 				<entity>PATIENT-5 | two</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id324" size="6">
+		<entry category="EnglishSports" eid="Id324" size="6">
 			<originaltripleset>
 				<otriple>fielderPosition | starter</otriple>
 				<otriple>hitNumber | three</otriple>
@@ -14579,7 +14579,7 @@
 				<entity>PATIENT-6 | six</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id325" size="4">
+		<entry category="EnglishSports" eid="Id325" size="4">
 			<originaltripleset>
 				<otriple>inningNumber | seventh</otriple>
 				<otriple>matchDate | list_Friday</otriple>
@@ -14618,7 +14618,7 @@
 				<entity>PATIENT-4 | seventh</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id326" size="1">
+		<entry category="EnglishSports" eid="Id326" size="1">
 			<originaltripleset>
 				<otriple>teamName | Diamondbacks</otriple>
 			</originaltripleset>
@@ -14642,7 +14642,7 @@
 				<entity>PATIENT-1 | Diamondbacks</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id327" size="6">
+		<entry category="EnglishSports" eid="Id327" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | home</otriple>
 				<otriple>baseNumber | third</otriple>
@@ -14706,7 +14706,7 @@
 				<entity>PATIENT-9 | third</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id328" size="8">
+		<entry category="EnglishSports" eid="Id328" size="8">
 			<originaltripleset>
 				<otriple>baseNumber | third</otriple>
 				<otriple>batterName | Geovany_Soto</otriple>
@@ -14770,7 +14770,7 @@
 				<entity>PATIENT-9 | Ojeda</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id329" size="3">
+		<entry category="EnglishSports" eid="Id329" size="3">
 			<originaltripleset>
 				<otriple>matchDate | Friday</otriple>
 				<otriple>runNumber | one</otriple>
@@ -14804,7 +14804,7 @@
 				<entity>PATIENT-3 | Friday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id330" size="4">
+		<entry category="EnglishSports" eid="Id330" size="4">
 			<originaltripleset>
 				<otriple>inningNumber | sixth</otriple>
 				<otriple>matchDate | Saturday</otriple>
@@ -14843,7 +14843,7 @@
 				<entity>PATIENT-4 | pair</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id331" size="2">
+		<entry category="EnglishSports" eid="Id331" size="2">
 			<originaltripleset>
 				<otriple>hitNumber | four</otriple>
 				<otriple>teamName | Diamondbacks</otriple>
@@ -14872,7 +14872,7 @@
 				<entity>PATIENT-2 | four</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id332" size="4">
+		<entry category="EnglishSports" eid="Id332" size="4">
 			<originaltripleset>
 				<otriple>batterName | Conor_Jackson</otriple>
 				<otriple>batterName | Ojeda</otriple>
@@ -14926,7 +14926,7 @@
 				<entity>PATIENT-7 | load</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id333" size="6">
+		<entry category="EnglishSports" eid="Id333" size="6">
 			<originaltripleset>
 				<otriple>batterName | Mark_Reynolds</otriple>
 				<otriple>batterName | Upton</otriple>
@@ -14985,7 +14985,7 @@
 				<entity>PATIENT-8 | deep_short</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id334" size="1">
+		<entry category="EnglishSports" eid="Id334" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Kevin_Correia's</otriple>
 			</originaltripleset>
@@ -15009,7 +15009,7 @@
 				<entity>PATIENT-1 | Kevin_Correia's</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id335" size="1">
+		<entry category="EnglishSports" eid="Id335" size="1">
 			<originaltripleset>
 				<otriple>pitcherName | Correia</otriple>
 			</originaltripleset>
@@ -15033,7 +15033,7 @@
 				<entity>PATIENT-1 | Correia</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id336" size="8">
+		<entry category="EnglishSports" eid="Id336" size="8">
 			<originaltripleset>
 				<otriple>finalScore | 5-1</otriple>
 				<otriple>hasLostTeam | St._Louis_Cardinals</otriple>
@@ -15097,7 +15097,7 @@
 				<entity>PATIENT-9 | third_straight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id337" size="11">
+		<entry category="EnglishSports" eid="Id337" size="11">
 			<originaltripleset>
 				<otriple>gameNumber | seven</otriple>
 				<otriple>hitNumber | five</otriple>
@@ -15171,7 +15171,7 @@
 				<entity>PATIENT-9 | losing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id338" size="11">
+		<entry category="EnglishSports" eid="Id338" size="11">
 			<originaltripleset>
 				<otriple>RBI | double</otriple>
 				<otriple>batterName | Fred_Lewis</otriple>
@@ -15270,7 +15270,7 @@
 				<entity>PATIENT-9 | San_Francisco</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id339" size="2">
+		<entry category="EnglishSports" eid="Id339" size="2">
 			<originaltripleset>
 				<otriple>fielderName | Lewis</otriple>
 				<otriple>fielderPosition | left_field</otriple>
@@ -15299,7 +15299,7 @@
 				<entity>PATIENT-2 | left_field</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id340" size="4">
+		<entry category="EnglishSports" eid="Id340" size="4">
 			<originaltripleset>
 				<otriple>fielderName | Dave_Roberts</otriple>
 				<otriple>fielderPosition | outfielder</otriple>
@@ -15338,7 +15338,7 @@
 				<entity>PATIENT-4 | Saturday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id341" size="4">
+		<entry category="EnglishSports" eid="Id341" size="4">
 			<originaltripleset>
 				<otriple>batterName | Lewis</otriple>
 				<otriple>battingLineupNumber | leadoff</otriple>
@@ -15377,7 +15377,7 @@
 				<entity>PATIENT-4 | Thursday</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id342" size="1">
+		<entry category="EnglishSports" eid="Id342" size="1">
 			<originaltripleset>
 				<otriple>batterName | Lewis</otriple>
 			</originaltripleset>
@@ -15401,7 +15401,7 @@
 				<entity>PATIENT-1 | Lewis</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id343" size="5">
+		<entry category="EnglishSports" eid="Id343" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | starter</otriple>
 				<otriple>hasLostTeam | Cardinals</otriple>
@@ -15445,7 +15445,7 @@
 				<entity>PATIENT-5 | eight</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id344" size="3">
+		<entry category="EnglishSports" eid="Id344" size="3">
 			<originaltripleset>
 				<otriple>batterName | Cesar_Izturis</otriple>
 				<otriple>batterName | Skip_Schumaker's</otriple>
@@ -15489,7 +15489,7 @@
 				<entity>PATIENT-5 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id345" size="3">
+		<entry category="EnglishSports" eid="Id345" size="3">
 			<originaltripleset>
 				<otriple>batterName | Aaron_Miles</otriple>
 				<otriple>fielderPosition | pinch-hitter</otriple>
@@ -15523,7 +15523,7 @@
 				<entity>PATIENT-3 | Aaron_Miles</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id346" size="3">
+		<entry category="EnglishSports" eid="Id346" size="3">
 			<originaltripleset>
 				<otriple>pitchResult | double</otriple>
 				<otriple>pitcherName | Correia</otriple>
@@ -15562,7 +15562,7 @@
 				<entity>PATIENT-4 | double</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id347" size="5">
+		<entry category="EnglishSports" eid="Id347" size="5">
 			<originaltripleset>
 				<otriple>batterName | Ryan_Ludwick</otriple>
 				<otriple>fielderPosition | pinch-hitter</otriple>
@@ -15606,7 +15606,7 @@
 				<entity>PATIENT-5 | out</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id348" size="5">
+		<entry category="EnglishSports" eid="Id348" size="5">
 			<originaltripleset>
 				<otriple>inningNumber | ninth</otriple>
 				<otriple>onBaseNumber | first</otriple>
@@ -15660,7 +15660,7 @@
 				<entity>PATIENT-7 | second_save_in_three_chances</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id349" size="3">
+		<entry category="EnglishSports" eid="Id349" size="3">
 			<originaltripleset>
 				<otriple>batterName | Rico_Washington</otriple>
 				<otriple>fielderPosition | pinch-hitter</otriple>
@@ -15694,7 +15694,7 @@
 				<entity>PATIENT-3 | Rico_Washington</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id350" size="6">
+		<entry category="EnglishSports" eid="Id350" size="6">
 			<originaltripleset>
 				<otriple>baseNumber | first</otriple>
 				<otriple>batterName | Izturis'</otriple>
@@ -15758,7 +15758,7 @@
 				<entity>PATIENT-9 | third-inning</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id351" size="5">
+		<entry category="EnglishSports" eid="Id351" size="5">
 			<originaltripleset>
 				<otriple>fielderPosition | pitcher's</otriple>
 				<otriple>hitNumber | first</otriple>
@@ -15807,7 +15807,7 @@
 				<entity>PATIENT-6 | April_30,_2007</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id352" size="6">
+		<entry category="EnglishSports" eid="Id352" size="6">
 			<originaltripleset>
 				<otriple>gameNumber | eight</otriple>
 				<otriple>homeAway | away</otriple>
@@ -15871,7 +15871,7 @@
 				<entity>PATIENT-9 | Busch_Stadium</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id353" size="3">
+		<entry category="EnglishSports" eid="Id353" size="3">
 			<originaltripleset>
 				<otriple>gameNumber | four-game</otriple>
 				<otriple>locationPlayed | waterfront_ballpark</otriple>
@@ -15905,7 +15905,7 @@
 				<entity>PATIENT-3 | waterfront_ballpark</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id354" size="7">
+		<entry category="EnglishSports" eid="Id354" size="7">
 			<originaltripleset>
 				<otriple>hitNumber | eight</otriple>
 				<otriple>inningsPitched | seven</otriple>
@@ -15959,7 +15959,7 @@
 				<entity>PATIENT-7 | seven</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id355" size="7">
+		<entry category="EnglishSports" eid="Id355" size="7">
 			<originaltripleset>
 				<otriple>batterName | Lewis</otriple>
 				<otriple>battersFacedNumber | 12</otriple>
@@ -16028,7 +16028,7 @@
 				<entity>PATIENT-9 | 12</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id356" size="6">
+		<entry category="EnglishSports" eid="Id356" size="6">
 			<originaltripleset>
 				<otriple>RBI | single</otriple>
 				<otriple>batterName | Jose_Castillo</otriple>
@@ -16087,7 +16087,7 @@
 				<entity>PATIENT-8 | single</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id357" size="3">
+		<entry category="EnglishSports" eid="Id357" size="3">
 			<originaltripleset>
 				<otriple>batterName | Aurilia</otriple>
 				<otriple>batterName | Matt_Williams</otriple>
@@ -16131,7 +16131,7 @@
 				<entity>PATIENT-5 | San_Francisco</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id358" size="2">
+		<entry category="EnglishSports" eid="Id358" size="2">
 			<originaltripleset>
 				<otriple>batterName | Aurilia</otriple>
 				<otriple>pitchResult | caught_stealing</otriple>
@@ -16160,7 +16160,7 @@
 				<entity>PATIENT-2 | caught_stealing</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id359" size="4">
+		<entry category="EnglishSports" eid="Id359" size="4">
 			<originaltripleset>
 				<otriple>batterName | Bengie_Molina</otriple>
 				<otriple>inningNumber | eighth</otriple>
@@ -16199,7 +16199,7 @@
 				<entity>PATIENT-4 | eighth</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id360" size="7">
+		<entry category="EnglishSports" eid="Id360" size="7">
 			<originaltripleset>
 				<otriple>batterHitsTries | 0-for-3</otriple>
 				<otriple>batterName | Yadier_Molina</otriple>
@@ -16253,7 +16253,7 @@
 				<entity>PATIENT-7 | hitting</entity>
 			</entitymap>
 		</entry>
-		<entry category="DutchIncidents" eid="Id361" size="3">
+		<entry category="EnglishSports" eid="Id361" size="3">
 			<originaltripleset>
 				<otriple>batterName | Mike_Matheny</otriple>
 				<otriple>batterName | Scott_Rolen</otriple>

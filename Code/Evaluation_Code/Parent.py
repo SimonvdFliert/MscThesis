@@ -42,6 +42,9 @@ from six.moves import range
 from six.moves import zip
 import tensorflow.compat.v1 as tf
 
+from ast import literal_eval
+
+
 FLAGS = flags.FLAGS
 
 flags.DEFINE_string(
@@ -71,7 +74,6 @@ flags.DEFINE_string(
     "entailment. Only needed if entailment_fn is "
     "'cooccurrence'.")
 
-
 def _text_reader(text_file, multiple=False):
   """Yields lines from the text file.
   Performs lowercasing and white-space tokenization on each line before
@@ -80,6 +82,17 @@ def _text_reader(text_file, multiple=False):
     text_file: String filename.
     multiple: Whether multiple references / generations are expected in a line.
   """
+  ## Colab sends f of f-string alongside string itself, so we need to clear it
+  if '[' in text_file:
+      text_file = text_file.replace('[', '')
+  if ']' in text_file:
+      text_file = text_file.replace(']', '')
+
+  if text_file[0] == 'f':
+      text_file = text_file[1:]
+
+
+
   with io.open(text_file, encoding='utf-8') as f:
     for line in f:
       if multiple:
@@ -94,6 +107,16 @@ def _table_reader(table_file):
   Args:
     table_file: String filename.
   """
+  ## Colab sends f of f-string alongside string itself, so we need to clear it
+  if '[' in table_file:
+      table_file = table_file.replace('[', '')
+  if ']' in table_file:
+      table_file = table_file.replace(']', '')
+
+  if table_file[0] == 'f':
+      table_file = table_file[1:]
+
+
   with io.open(table_file, encoding='utf-8') as f:
     for line in f:
       entries = line.lower().split("\t")
@@ -454,13 +477,17 @@ def main(_):
   logging.info("Precision = %.4f Recall = %.4f F-score = %.4f",
                precision, recall, f_score)
 
+  
   ## Own code to extend results json
-  with open(f'E:/ArriaThesis/MscThesis/Logging_Results/{model_name}_logResults.json', "r",encoding='utf-8') as json_data_file:
-      data = json.load(json_data_file)
+  #global model_name
+  json_file_path = f"/content/drive/MyDrive/MscThesis/Logging_TestSet_Results/logResultsColabParent.json"
+  
+  # with open(json_file_path, "r",encoding='utf-8') as json_data_file:
+  #     data = json.load(json_data_file)
 
-  data.update({'Parent_Precison': precision, 'Parent_recall': recall,  'Parent_f_score': f_score, 'Parent_all_f': all_f, })
+  data ={'Parent_Precison': precision, 'Parent_recall': recall,  'Parent_f_score': f_score, 'Parent_all_f': all_f, }
 
-  with open(f'E:/ArriaThesis/MscThesis/Logging_Results/{model_name}_logResults.json', "w",encoding='utf-8') as f:
+  with open(json_file_path, "w",encoding='utf-8') as f:
     json.dump(data, f)
           
 
