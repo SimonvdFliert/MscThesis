@@ -1,0 +1,472 @@
+input,output
+"['locationArea | North', 'locationArea | South_Yorkshire', 'locationArea | West']","Here's your latest weather forecast for North, West and South Yorkshire:"
+"['locationArea | East_Yorkshire', 'locationArea | Lincolnshire', 'locationArea | North_Derbyshire', 'locationArea | North_Nottinghamshire']","… and here's your latest weather forecast for East Yorkshire, Lincolnshire, North Derbyshire and North Nottinghamshire:"
+"['timePoint | This_Evening', 'timePoint | Tonight']",This Evening and Tonight:
+"['cloudAmount | Cloud', 'cloudAmount | clear', 'locationArea | across_all_parts', 'weatherChange | clearing', 'weatherType | rain', 'weatherType | snow']","Cloud, rain and snow clearing to give clear skies across all parts."
+"['cloudAmount | Cloud', 'cloudChange | increase', 'locationArea | across_western_hills', 'weatherOccurringChance | possible', 'weatherType | snow_showers']",Cloud will increase across western hills with further snow showers possible.
+"['weatherType | Frosty', 'weatherType | icy', 'windAmount | light']",Frosty with icy stretches developing and winds mainly light.
+['minimumTemperature | -5_°C'],Minimum temperature -5 °C.
+['timePoint | Wednesday'],Wednesday:
+"['locationArea | across_eastern_areas', 'locationArea | affectingPennine_hills', 'weatherIntensity | mostly', 'weatherType | Isolated_snow_showers', 'weatherType | sunny']",Isolated snow showers affectingPennine hills with mostly sunny skies across eastern areas.
+"['timePoint | early_and_late', 'weatherType | Frost']",Frost early and late.
+['maximumTemperature | 4_°C'],Maximum temperature 4 °C.
+['timePoint | Thursday_to_Saturday'],Outlook for Thursday to Saturday:
+['temperatureHotCold | Cold'],Cold throughout.
+"['timePoint | Thursday', 'timePoint | early', 'weatherFrequency | spells', 'weatherIntensity | mainly', 'weatherType | dry', 'weatherType | mist', 'weatherType | sunny']",Thursday mainly dry with sunny spells after early mist.
+"['cloudAmount | Clouding', 'timePoint | overnight', 'weatherOccurringChance | possible', 'weatherType | rain', 'weatherType | snow']",Clouding over with possible overnight rain and snow.
+"['timePoint | on_Friday_and_Saturday', 'weatherType | wintry_showers', 'windAmount | Breezy']",Breezy with wintry showers on Friday and Saturday.
+"['locationArea | in_places', 'weatherType | Icy']",Icy in places.
+"['locationArea | Boston', 'timePoint | Monday']","Monday may have been the first day of fall seasonally, but it certainly didn’t feel that way in Boston."
+"['temperatureCelsius | more_than_10_degrees', 'temperatureHotCold | hotter']","“It looks like the first day of FALL will actually run more than 10 degrees hotter than the first day of SUMMER this year!” Shiri Spear, a meteorologist with Boston25, said."
+['temperatureHotCold | warm'],And the warm weather is set to continue.
+"['locationArea | Boston', 'temperatureCelsius | 80_degrees', 'temperatureHotCold | hottest', 'timePoint | Monday', 'timePoint | Thursday_and_the_coming_weekend', 'timePoint | day_of_the_week']","While Terry Eliasen, a meteorologist with WBZ, said Monday is supposed to be the hottest day of the week, Boston could reach 80 degrees on Thursday and the coming weekend."
+['temperatureCelsius | above_average'],He said the forecast is “above average for the foreseeable future.”
+"['locationArea | Logan_airport', 'temperatureCelsius | 90_degrees', 'timePoint | Monday']","Monday did reach over 90 degrees at Logan airport, according to the National Weather Service."
+"['cloudAmount | clouds', 'timePoint | before_4_a.m.', 'timePoint | overnight_into_Tuesday', 'weatherType | showers', 'weatherType | sun', 'weatherType | thunderstorms']","While the day was a mixture of sun and clouds, showers and thunderstorms may hit the region overnight into Tuesday, specifically before 4 a.m."
+"['locationArea | some_places_in_the_region', 'precipitationAmount | between_a_quarter_to_half_an_inch', 'weatherIntensity | heavy', 'weatherType | rain', 'weatherType | rainfall', 'windAmount | storms']","“Some of the storms could produce heavy rainfall,” the service said, noting that some places in the region could receive between a quarter to half an inch of rain."
+['weatherType | rain'],Meteorologist David Epstein said this could be the “last chance for awhile” for rain.
+"['timePoint | by_next_week', 'timePoint | overnight', 'weatherIntensity | moderate', 'weatherType | drought', 'weatherType | rain']","He noted in a previous tweet that if the region doesn’t have any rain overnight, “we will probably start to go into a moderate drought officially, by next week.”"
+"['locationArea | Boston', 'temperatureCelsius | low-to-mid_70s', 'timePoint | during_the_day', 'timePoint | rest_of_the_week', 'weatherIntensity | no', 'weatherType | precipitation']","For Boston, the rest of the week includes temperatures mostly in the low-to-mid 70s during the day and no precipitation in the forecast."
+"['maximumTemperature | 84', 'timePoint | next_Saturday']",WBZ meteorologist Barry Burbank’s forecast includes a high of 84 for next Saturday.
+"['compassDirection | east', 'locationArea | over_New_Zealand', 'timePoint | Tuesday']",The MetService report that a weak ridge is forecast to move east over New Zealand on Tuesday.
+"['compassDirection | from_the_Tasman_Sea', 'locationArea | South_Island', 'locationArea | over_the_South_Island', 'temperatureHotCold | cold', 'timePoint | Tuesday_night', 'timePoint | Wednesday', 'weatherType | moist', 'windAmount | strong', 'windDirection | northwesterlies']","An active cold front, preceded by strong moist northwesterlies is expected to approach the South Island from the Tasman Sea on Tuesday night, then move over the South Island on Wednesday."
+"['compassDirection | northeast', 'locationArea | across_the_North_Island', 'timePoint | Thursday', 'windDirection | westerly']","The front should then move northeast across the North Island on Thursday, followed by disturbed westerly winds."
+"['locationArea | in_the_Bay_of_Plenty', 'timePoint | Monday', 'timePoint | Monday_and_Tuesday', 'weatherIntensity | heavy', 'weatherOccurringChance | possible', 'weatherType | Rain', 'weatherType | falls', 'weatherType | thunderstorms']","Rain is expected in the Bay of Plenty on Monday and Tuesday, with possible thunderstorms and heavy falls on Monday."
+"['minimumTemperature | 10_degrees', 'temperatureChange | go_down', 'temperatureChange | lower', 'timePoint | Monday_and_Tuesday_nights', 'timePoint | overnight', 'timePoint | previous_week']","Temperatures will be lower than the previous week, with overnight lows expected to go down to 10 degrees on Monday and Tuesday nights."
+"['locationArea | Canterbury_Lakes_and_Rivers', 'locationArea | Fiordland', 'locationArea | Westland', 'locationArea | headwaters_of_Otago', 'timePoint | Wednesday', 'weatherIntensity | warning', 'weatherOccurringChance | high_confidence', 'weatherOccurringChance | low_confidence', 'weatherOccurringChance | moderate_confidence', 'weatherType | rain']","“There is high confidence of warning amounts of rain for Westland on Wednesday, with moderate confidence for Fiordland, and low confidence for the headwaters of Otago and Canterbury Lakes and Rivers,” says a MetService spokesperson."
+"['locationArea | Buller', 'locationArea | Mount_Taranaki', 'locationArea | Nelson', 'locationArea | Richmond_Range', 'timePoint | during_Thursday', 'timePoint | during_late_Wednesday_and_early_Thursday', 'weatherIntensity | heavy', 'weatherOccurringChance | low_confidence', 'weatherType | rain']","“There is also low confidence of heavy rain for Buller and Nelson including Richmond Range during late Wednesday and early Thursday, and for Mount Taranaki during Thursday."
+"['locationArea | Canterbury_High_Country', 'locationArea | Marlborough', 'locationArea | Otago', 'locationArea | inland_parts_of_Southland', 'timePoint | Wednesday', 'timePoint | early_Wednesday', 'weatherOccurringChance | low_confidence', 'weatherOccurringChance | moderate_confidence', 'windAmount | severe_gale', 'windDirection | northwesterlies']","“In addition, there is low confidence of northwesterlies reaching severe gale strength in inland parts of Southland and Otago early Wednesday, with moderate confidence for Canterbury High Country and Marlborough on Wednesday."
+"['locationArea | Wellington', 'locationArea | exposed_parts_of_the_Marlborough_Sounds', 'locationArea | southern_Wairarapa', 'timePoint | during_late_Wednesday_and_early_Thursday', 'weatherOccurringChance | moderate_confidence', 'windAmount | severe_gale', 'windAmount | strong', 'windDirection | northwesterlies']","“There is also moderate confidence of strong northwesterlies reaching severe gale in exposed parts of the Marlborough Sounds, Wellington and southern Wairarapa during late Wednesday and early Thursday."
+"['compassDirection | southwest', 'locationArea | Fiordland', 'locationArea | South_Island', 'timePoint | late_Friday', 'weatherIntensity | heavy', 'weatherOccurringChance | low_confidence', 'weatherType | rain']","“A trough should approach the South Island from the southwest late Friday, and there is low confidence of heavy rain in Fiordland.”"
+"['weatherOccurringChance | 20_per_cent', 'weatherOccurringChance | Low_confidence', 'weatherOccurringChance | one_chance_in_five']","Low confidence: a 20 per cent likelihood, or one chance in five that the event will actually happen."
+"['weatherOccurringChance | 40_per_cent_likelihood', 'weatherOccurringChance | Moderate_confidence', 'weatherOccurringChance | two_chances_in_five']","Moderate confidence: a 40 per cent likelihood, or two chances in five that the event will actually happen."
+"['weatherOccurringChance | 60_per_cent_likelihood', 'weatherOccurringChance | High_confidence', 'weatherOccurringChance | three_chances_in_five']","High confidence: a 60 per cent likelihood, or three chances in five that the event will actually happen"
+"['cloudAmount | cloudy', 'locationArea | Taipei', 'locationArea | across_Taiwan', 'locationArea | most_parts_of_the_country', 'timePoint | May_12', 'timePoint | Sunday', 'weatherType | Stable', 'weatherType | sunny']","Taipei, May 12 (CNA) Stable weather has been forecast across Taiwan on Sunday, with most parts of the country to see sunny or cloudy skies, according to the Central Weather Bureau."
+"['locationArea | eastern_Taiwan', 'locationArea | in_mountainous_and_adjacent_areas_throughout_the_country', 'timePoint | afternoon', 'weatherFrequency | brief', 'weatherIntensity | scattered', 'weatherType | rain', 'weatherType | thunderstorms', 'windChange | increased', 'windDirection | easterly']","Thanks to increased easterly winds, only the windward eastern Taiwan will receive scattered rain, but brief afternoon thunderstorms are likely in mountainous and adjacent areas throughout the country, it said."
+"['maximumTemperature | 30-32_degrees_Celsius', 'minimumTemperature | 22-25_degrees', 'timePoint | During_the_day', 'timePoint | around_noon', 'timePoint | late_at_night_and_early_Monday']","During the day, highs will likely climb to 30-32 degrees Celsius around noon, while lows will hover around 22-25 degrees late at night and early Monday, the bureau said."
+"['compassDirection | west-northwest', 'locationArea | Taiwan', 'locationArea | east-southeast_of_Guam', 'windAmount | tropical_storm']","Meanwhile, a tropical storm has formed east-southeast of Guam, moving in a west-northwest direction and having no influence on Taiwan, it said."
+"['locationArea | Taiwan', 'locationArea | areas_south_of_the_central_part', 'locationArea | on_the_offshore_islands', 'timePoint | As_of_11:00_a.m.']","As of 11:00 a.m., air quality around Taiwan and on the offshore islands was good or moderate except for areas south of the central part, where an orange flag indicating unhealthy air quality for sensitive groups was flashed."
+['locationArea | Vancouver'],The Vancouver weather forecast calls for a decidedly damp change of pace after the province broke numerous temperature records last week.
+"['temperatureHotCold | hot', 'timePoint | Monday,_June_17', 'timePoint | during_the_day', 'timePoint | in_the_evening', 'weatherFrequency | periods', 'weatherType | drizzle', 'weatherType | sunny']","While Monday, June 17 is expected to be sunny and hot during the day, Environment Canada calls for periods of drizzle in the evening."
+"['timePoint | through_the_night_and_into_Tuesday', 'weatherType | drizzle']","What’s more, the forecast calls for the drizzle to continue through the night and into Tuesday."
+"['timePoint | Tuesday_evening', 'weatherType | clear']","However, Tuesday evening is expected to be clear."
+"['timePoint | Wednesday_and_Thursday', 'timePoint | throughout_the_day', 'weatherOccurringChance | 30_per_cent', 'weatherType | showers']",Wednesday and Thursday have a 30 per cent chance of showers throughout the day.
+"['cloudAmount | cloud', 'maximumTemperature | 22_C', 'timePoint | Friday’s', 'timePoint | Saturday', 'weatherType | sun', 'weatherType | sunny']","Following this, Friday’s forecast calls for sunny skies with a high of 22 C, while Saturday is expected to see a mix of sun and cloud."
+"['locationArea | British_Columbia', 'locationArea | across_the_province', 'timePoint | Wednesday,_June_13']","British Columbia saw an impressive 17 weather records broken across the province on Wednesday, June 13 due to a very strong ridge of high pressure."
+"['locationArea | Vancouver_Area', 'locationArea | White_Rock_Area', 'maximumTemperature | 30.9_C', 'temperatureCelsius | 27.4_C', 'temperatureCelsius | 29.1_C.', 'temperatureCelsius | 29.4_C', 'temperatureHotCold | toasty']","The Vancouver Area broke its previous record of 27.4 C set in 1999 with a toasty high of 29.1 C. Similarly, the White Rock Area set a new daily high of 30.9 C, which broke its previous record of 29.4 C set in 1932."
+"['cloudAmount | cloud', 'locationArea | Preston', 'timePoint | Tuesday_3_September', 'weatherType | rain']","The weather in Preston is set to be mostly dull on Tuesday 3 September, with cloud and rain."
+"['locationArea | Preston', 'timePoint | this_morning']",What will the weather be like this morning in Preston?
+"['cloudAmount | cloudy', 'timePoint | This_morning']",This morning will be cloudy throughout.
+"['temperatureCelsius | 16C', 'timePoint | 12pm']",The temperature will reach 16C by 12pm.
+"['locationArea | Preston', 'timePoint | this_afternoon']",What will the weather be like this afternoon in Preston?
+"['timePoint | 3pm_onwards', 'timePoint | This_afternoon', 'weatherIntensity | light', 'weatherType | overcast', 'weatherType | rain']","This afternoon is then set to be overcast throughout, with light rain from 3pm onwards."
+"['maximumTemperature | 17C', 'timePoint | by_late_afternoon']",The temperature will reach its peak of 17C by late afternoon.
+"['locationArea | Preston', 'timePoint | this_evening_and_tonight']",What will the weather be like this evening and tonight in Preston?
+"['timePoint | This_evening', 'timePoint | from_10pm_onwards', 'weatherChange | turning', 'weatherIntensity | heavy', 'weatherIntensity | light', 'weatherType | rain']","This evening will see light rain continue, turning heavy from 10pm onwards."
+"['temperatureCelsius | 12C.', 'timePoint | Overnight']",Overnight temperature of 12C.
+"['locationArea | Preston', 'timePoint | tomorrow']",What will the weather be like tomorrow in Preston?
+"['timePoint | Tomorrow', 'timePoint | by_late_morning', 'weatherFrequency | intervals', 'weatherIntensity | light', 'weatherType | showers', 'weatherType | sunny']","Tomorrow will then begin with sunny intervals, before changing to light showers by late morning."
+['maximumTemperature | 16C.'],Maximum temperature of 16C.
+"['locationArea | Preston', 'timePoint | long-term']",What is the long-term forecast for Preston?
+"['timePoint | Saturday_7_September_to_Monday_16_September', 'timePoint | The_weekend', 'weatherFrequency | longer_spells', 'weatherOccurringChance | probably', 'weatherType | rain', 'weatherType | showers', 'weatherType | unsettled', 'windAmount | windy']","The Met Office UK outlook for Saturday 7 September to Monday 16 September said: “The weekend will be unsettled and probably windy at first, with showers or longer spells of rain."
+"['locationArea | in_the_west_and_northwest_of_the_UK', 'locationArea | other_areas', 'timePoint | over_the_course_of_the_weekend', 'weatherType | brighter', 'weatherType | drier', 'weatherType | quieter']","“Then drier, brighter and quieter conditions will probably arrive in the west and northwest of the UK, before slowly extend to other areas over the course of the weekend."
+"['temperatureHotCold | chilly', 'temperatureHotCold | rather_cool', 'timePoint | Into_next_week', 'timePoint | nights', 'weatherType | clear']","“It will most likely be rather cool with some chilly nights under clear skies. Into next week, confidence quickly becomes low.”"
+['temperatureHotCold | warmer'],"The Weather Network has updated its spring forecast for the province, and it calls for warmer weather."
+['locationArea | Metro_Vancouver'],The Metro Vancouver weather forecast has included a number of record-breaking temperatures during the past week.
+"['timePoint | Wednesday,_March_20']","In fact, Wednesday, March 20 was the third consecutive day that numerous record-high temperatures were broken across the province."
+"['locationArea | Metro_Vancouver', 'temperatureHotCold | coldest', 'temperatureHotCold | warmer', 'timePoint | February', 'timePoint | February_2019']","And while February 2019 was the coldest February on record in Metro Vancouver since the records began in 1937, spring is predicted to be warmer than usual."
+"['locationArea | Western_Canada', 'locationArea | in_the_alpine_regions', 'temperatureHotCold | warmer', 'timePoint | during_the_first_two_weeks_of_March', 'weatherOccurringChance | heightened_threat', 'weatherType | May-like', 'weatherType | flooding', 'weatherType | snow']","The Weather Network has updated its spring forecast for the province, and it calls for warmer weather as well as, “a heightened threat for flooding from rapid snow melt in the alpine regions.” However, it also notes that Western Canada has already seen “May-like weather” during the first two weeks of March."
+"['locationArea | Preston', 'timePoint | Friday_16_August', 'timePoint | throughout_the_day', 'weatherType | rain']","The weather in Preston is set to be dull on Friday 16 August, with rain throughout the day."
+"['locationArea | some_parts_of_the_UK', 'timePoint | until_10pm_on_Friday_(16_Aug)', 'weatherType | rain']","The Met Office has issued a yellow weather warning for rain to some parts of the UK, which is in place until 10pm on Friday (16 Aug)."
+"['locationArea | Preston', 'timePoint | this_morning']",What will the weather be like this morning in Preston?
+"['timePoint | morning', 'timePoint | throughout', 'weatherIntensity | heavy', 'weatherType | rain']",This morning will see heavy rain throughout.
+"['temperatureCelsius | 15C', 'timePoint | 12pm']",The temperature will reach 15C by 12pm.
+"['locationArea | Preston', 'timePoint | this_afternoon']",What will the weather be like this afternoon in Preston?
+"['timePoint | 3pm', 'timePoint | This_afternoon', 'timePoint | throughout_the_afternoon', 'weatherChange | lighter', 'weatherType | rain']","This afternoon will see rain turn lighter by 3pm, but continue throughout the afternoon."
+"['temperatureCelsius | 16C', 'timePoint | 3pm']",The temperature will reach its peak of 16C by 3pm.
+"['timePoint | this_evening_and_tonight', 'weatherType | Preston']",What will the weather be like this evening and tonight in Preston?
+"['timePoint | throughout_the_evening', 'weatherIntensity | heavy', 'weatherIntensity | light', 'weatherType | rain']",A mixture of light and heavy rain will continue throughout the evening.
+"['temperatureCelsius | 15C.', 'timePoint | Overnight']",Overnight temperature of 15C.
+"['locationArea | Preston', 'timePoint | tomorrow']",What will the weather be like tomorrow in Preston?
+"['timePoint | Tomorrow', 'timePoint | throughout_most_of_the_day', 'weatherIntensity | bright', 'weatherIntensity | some_light', 'weatherType | showers', 'weatherType | sunshine']","Tomorrow is then set to see bright sunshine throughout most of the day, interspersed by some light showers."
+['maximumTemperature | 18C.'],Maximum temperature of 18C.
+"['locationArea | Preston', 'timePoint | long-term']",What is the long-term forecast for Preston?
+"['temperatureHotCold | cool', 'timePoint | Tuesday', 'timePoint | Tuesday_20_August_to_Thursday_29_August', 'weatherIntensity | less_widespread', 'weatherIntensity | showers', 'weatherIntensity | sunshine', 'weatherType | bright', 'weatherType | showers', 'windAmount | lighter']","The Met Office UK outlook for Tuesday 20 August to Thursday 29 August said: “Tuesday will be cool and bright with a mixture of sunshine and showers, although winds will be lighter and showers less widespread."
+"['compassDirection | southwest', 'locationArea | across_many_parts_of_the_UK', 'weatherType | settled']","“Thereafter, there is a trend for the weather to become more settled across many parts of the UK as high pressure builds in from the southwest."
+"['locationArea | to_the_north_and_northwest', 'weatherChange | increasingly', 'weatherType | bright', 'weatherType | dry', 'weatherType | rain', 'windAmount | strong']",“This will allow increasingly dry and bright weather to develop with rain and strong winds generally becoming confined to the north and northwest.”
+"['cloudAmount | cloud', 'locationArea | Sunderland', 'timePoint | throughout_most_of_the_day', 'weatherIntensity | light', 'weatherType | showers']","The weather in Sunderland is set to be dull today, as forecasters predict cloud throughout most of the day, with some light showers."
+"['locationArea | Sunderland', 'timePoint | this_morning']",What will the weather be like this morning in Sunderland?
+"['maximumTemperature | 11C', 'temperatureHotCold | warmer', 'timePoint | This_morning', 'timePoint | by_lunchtime', 'timePoint | of_late', 'weatherType | overcast']","This morning will be overcast, but the temperature will warmer than of late, reaching its peak of 11C by lunchtime."
+"['timePoint | from_11am', 'timePoint | into_the_afternoon', 'weatherIntensity | Light', 'weatherType | rain']",Light rain is set to hit from 11am and continue into the afternoon.
+"['locationArea | Sunderland', 'timePoint | this_afternoon']",What will the weather be like this afternoon in Sunderland?
+"['cloudAmount | mostly_cloudy', 'timePoint | Early_afternoon', 'timePoint | throughout_the_rest_of_the_afternoon', 'timePoint | until_around_1pm', 'weatherChange | ease', 'weatherIntensity | light', 'weatherType | rain']","Early afternoon will continue to see light rain until around 1pm, when it will then ease and remain mostly cloudy throughout the rest of the afternoon."
+"['temperatureCelsius | 9C', 'temperatureChange | dip', 'timePoint | by_4pm']",The temperature will dip to 9C by 4pm.
+"['locationArea | Sunderland', 'timePoint | this_evening_and_tonight']",What will the weather be like this evening and tonight in Sunderland?
+"['temperatureChange | slowly_dip', 'timePoint | This_evening', 'timePoint | after_5pm']","This evening will become quickly dark, with the temperature beginning to slowly dip after 5pm."
+"['temperatureCelsius | 6C.', 'timePoint | overnight']",The temperature overnight will be 6C.
+"['locationArea | Sunderland', 'timePoint | tomorrow']",What will the weather be like tomorrow in Sunderland?
+"['maximumTemperature | 7C.', 'temperatureHotCold | cooler', 'timePoint | Tomorrow', 'timePoint | throughout_the_day', 'weatherFrequency | spells', 'weatherType | brighter', 'weatherType | sunny']","Tomorrow will be cooler but brighter, with sunny spells throughout the day and a maximum temperature of 7C."
+"['locationArea | Sunderland', 'timePoint | long-term']",What is the long-term forecast for Sunderland?
+"['cloudAmount | cloudy', 'locationArea | UK', 'locationArea | in_the_north', 'timePoint | Friday', 'weatherType | brightness']","Looking further ahead for the UK in general, “Friday will be cloudy for many, with the best of the brightness in the north."
+"['compassDirection | northwest', 'locationArea | over_higher_ground_in_the_north', 'timePoint | Saturday', 'weatherIntensity | heavy', 'weatherIntensity | some', 'weatherOccurringChance | likely', 'weatherType | rain', 'weatherType | showers', 'weatherType | snow', 'weatherType | unsettled', 'windAmount | strong']","“It will probably turn more unsettled from the northwest into Saturday, with heavy rain and strong winds followed by showers, and some snow is likely over higher ground in the north."
+"['compassDirection | northwest', 'locationArea | in_the_north_and_west', 'temperatureHotCold | colder', 'weatherOccurringChance | possible', 'windAmount | Gales']","“Gales will be possible in the north and west, and it will turn colder from the northwest."
+"['compassDirection | west', 'locationArea | in_the_north', 'temperatureHotCold | colder', 'weatherFrequency | at_times', 'weatherFrequency | interludes', 'weatherIntensity | Some', 'weatherType | brighter', 'weatherType | rain', 'weatherType | showery', 'weatherType | snow', 'windAmount | gales']","“The weather is set to become generally more changeable, with gales at times and bands of rain crossing from the west. Some snow is expected in the north, especially in brighter, showery, colder interludes between weather systems.”"
+"['cloudAmount | cloud', 'timePoint | throughout_the_day', 'timePoint | today', 'weatherIntensity | light', 'weatherType | rain']",The weather is set to be mostly dull today as forecasters predict cloud and light rain throughout the day.
+"['locationArea | Preston', 'timePoint | this_morning']",What will the weather be like this morning in Preston?
+"['timePoint | This_morning', 'timePoint | throughout', 'weatherType | overcast']",This morning will be overcast throughout.
+"['temperatureCelsius | 9C', 'timePoint | 12pm']",The temperature will reach 9C by 12pm.
+"['locationArea | Preston', 'timePoint | this_afternoon']",What will the weather be like this afternoon in Preston?
+"['cloudAmount | cloudy', 'timePoint | from_1pm_until_around_2pm', 'timePoint | rest_of_the_day', 'weatherIntensity | Light', 'weatherType | rain']","Light rain will from 1pm until around 2pm, with the rest of the day remaining cloudy."
+"['temperatureCelsius | 10C', 'timePoint | 1pm', 'timePoint | throughout_the_rest_of_the_afternoon']",The temperature will reach its peak of 10C by 1pm and remain so throughout the rest of the afternoon.
+"['locationArea | Preston', 'timePoint | this_evening_and_tonight']",What will the weather be like this evening and tonight in Preston?
+"['cloudAmount | cloudy', 'timePoint | This_evening', 'timePoint | from_6pm_until_around_8pm', 'weatherIntensity | light', 'weatherType | rain']","This evening will be cloudy, with light rain set to hit from 6pm until around 8pm."
+"['temperatureCelsius | 9C', 'timePoint | throughout_the_evening_and_overnight']",The temperature will be 9C throughout the evening and overnight.
+"['locationArea | Preston', 'timePoint | tomorrow']",What will the weather be like tomorrow in Preston?
+"['cloudAmount | cloudy', 'timePoint | Tomorrow', 'timePoint | throughout_the_day']",Tomorrow will be cloudy throughout the day.
+['maximumTemperature | 12C.'],Maximum temperature of 12C.
+"['locationArea | Preston', 'timePoint | long-term']",What is the long-term forecast for Preston?
+"['locationArea | in_the_south', 'timePoint | Saturday_23_March_to_Monday_1_April', 'weatherChange | clears', 'weatherIntensity | patchy', 'weatherType | rain', 'weatherType | sunny']","The Met Office UK outlook for Saturday 23 March to Monday 1 April said: “Confidence is low for this weekend, but it looks sunny for many, once patchy rain in the south clears."
+"['locationArea | in_the_far_north', 'locationArea | in_the_northwest', 'weatherIntensity | blustery', 'weatherType | showers', 'windAmount | gales']","“There will be some blustery showers in the northwest though, with the risk of gales in the far north."
+"['locationArea | across_central_and_southeastern_parts_of_the_UK', 'timePoint | Through_the_latter_stages_of_March', 'timePoint | bright', 'timePoint | sunny', 'weatherFrequency | spells', 'weatherType | dry']","“Through the latter stages of March, we will see a good deal of dry weather across central and southeastern parts of the UK, with bright or sunny spells."
+"['locationArea | across_the_northwest', 'weatherFrequency | from_time_to_time', 'weatherType | rain', 'windAmount | strong']","“It will be more changeable across the northwest, with rain and strong winds from time to time.”"
+['timePoint | tomorrow'],It's not good news if you were planning on heading out tomorrow
+"['locationArea | Liverpool', 'timePoint | Saturday', 'timePoint | tomorrow', 'weatherIntensity | heavy', 'weatherType | rain']",Liverpool is set to be battered by heavy rain tomorrow - after a perfect autumnal day on Saturday.
+"['timePoint | 4am_tomorrow_morning', 'timePoint | until_midday', 'timePoint | weekend', 'weatherIntensity | heavy', 'weatherType | Rain', 'weatherType | showers']","Rain is set to begin at 4am tomorrow morning, with heavy showers expected until midday, bringing to an end the good weekend weather."
+"['timePoint | at_around_1pm', 'timePoint | from_6pm_onwards', 'weatherChange | clear_completely', 'weatherFrequency | constant', 'weatherType | rain', 'weatherType | showers']",But the constant rain is set to change to showers at around 1pm and is expected to clear completely from 6pm onwards.
+"['timePoint | Monday_and_Tuesday', 'timePoint | last_week', 'timePoint | week_ahead', 'weatherFrequency | spells', 'weatherType | sunny']","The outlook for the week ahead looks much brighter than last week, with sunny spells expected on Monday and Tuesday."
+"['temperatureCelsius | 12_degrees', 'timePoint | Wednesday', 'weatherType | rain']","However rain is set to return on Wednesday, with temperatures also struggling to get above 12 degrees."
+"['timePoint | Saturday_evening', 'weatherFrequency | odd', 'weatherIntensity | light', 'weatherOccurringChance | possible', 'weatherType | dry', 'weatherType | shower']","The Met Office forecast said: ""Saturday evening will be dry for many, but with the odd light shower still possible."
+"['cloudAmount | cloudy', 'timePoint | during_the_early_hours', 'timePoint | morning', 'weatherChange | turning_heavier_and_more_persistent', 'weatherType | rain']","Becoming cloudy later with rain arriving during the early hours, before turning heavier and more persistent by morning."
+"['locationArea | over_many_hills', 'timePoint | morning', 'weatherType | Foggy']",Foggy over many hills by morning.
+['minimumTemperature | 6_°C'],Minimum temperature 6 °C.
+"['timePoint | Sunday', 'weatherArea | locally', 'weatherFrequency | periods', 'weatherIntensity | heavy', 'weatherOccurringChance | possibly', 'weatherType | rain', 'weatherType | thundery', 'weatherType | wet']","""Sunday will start wet with periods of locally heavy, and possibly thundery rain."
+"['timePoint | by_the_evening', 'weatherChange | ease', 'weatherFrequency | spells', 'weatherType | brighter', 'weatherType | drier', 'weatherType | rain']","The rain will ease later, with drier and brighter spells developing by the evening."
+['maximumTemperature | 13_°C'],Maximum temperature 13 °C.
+"['cloudAmount | Cloudy', 'timePoint | Monday_and_Tuesday', 'timePoint | Overnight', 'timePoint | Wednesday', 'timePoint | for_a_time_Monday_evening', 'weatherArea | locally', 'weatherChange | clear', 'weatherFrequency | spells', 'weatherIntensity | heavy', 'weatherIntensity | largely', 'weatherType | dry', 'weatherType | fog', 'weatherType | rain', 'weatherType | rain', 'weatherType | sunny']","""Overnight fog on Monday and Tuesday will clear to leave largely dry days with sunny spells, although rain for a time Monday evening. Cloudy with locally heavy rain on Wednesday."""
+['timePoint | this_week'],What are your plans this week?
+"['locationArea | SAN_DIEGO,_CA', 'timePoint | week']","SAN DIEGO, CA – Planning your week?"
+['locationArea | San_Diego'],"Here's the weather forecast for San Diego, according to the National Weather Service."
+['timePoint | Today'],Today
+"['maximumTemperature | 64', 'weatherIntensity | Mostly', 'weatherType | sunny']","Mostly sunny, with a high near 64."
+"['timePoint | in_the_afternoon', 'windAmount | Light', 'windChange | northwest', 'windDirection | variable', 'windSpeedBft | 5_to_10_mph']",Light and variable wind becoming northwest 5 to 10 mph in the afternoon.
+['timePoint | Tonight'],Tonight
+"['cloudAmount | Partly_cloudy', 'minimumTemperature | 51']","Partly cloudy, with a low around 51."
+"['timePoint | in_the_evening', 'windChange | calm', 'windDirection | North', 'windSpeedBft | 5_mph']",North wind around 5 mph becoming calm in the evening.
+['timePoint | Tuesday'],Tuesday
+"['maximumTemperature | 68', 'weatherIntensity | Mostly', 'weatherType | sunny']","Mostly sunny, with a high near 68."
+"['timePoint | in_the_morning', 'windAmount | Light', 'windChange | south', 'windDirection | variable', 'windSpeedBft | 5_to_10_mph']",Light and variable wind becoming south 5 to 10 mph in the morning.
+['timePoint | Tuesday_Night'],Tuesday Night
+"['timePoint | after_10pm', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog after 10pm.
+"['cloudAmount | mostly_cloudy', 'minimumTemperature | 51']","Otherwise, mostly cloudy, with a low around 51."
+['windAmount | Calm'],Calm wind.
+['timePoint | Wednesday'],Wednesday
+"['timePoint | before_10am', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog before 10am.
+"['maximumTemperature | 65', 'weatherIntensity | mostly', 'weatherType | sunny']","Otherwise, mostly sunny, with a high near 65."
+"['timePoint | in_the_afternoon', 'windAmount | Light', 'windChange | west', 'windDirection | variable', 'windSpeedBft | 5_to_10_mph']",Light and variable wind becoming west 5 to 10 mph in the afternoon.
+['timePoint | Wednesday_Night'],Wednesday Night
+"['timePoint | after_10pm', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog after 10pm.
+"['cloudAmount | mostly_cloudy', 'minimumTemperature | 51']","Otherwise, mostly cloudy, with a low around 51."
+['timePoint | Thursday'],Thursday
+"['timePoint | before_10am', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog before 10am.
+"['temperatureCelsius | 65', 'weatherIntensity | mostly', 'weatherType | sunny']","Otherwise, mostly sunny, with a high near 65."
+['timePoint | Thursday_Night'],Thursday Night
+"['timePoint | after_10pm', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog after 10pm.
+"['cloudAmount | mostly_cloudy', 'minimumTemperature | 52']","Otherwise, mostly cloudy, with a low around 52."
+['timePoint | Friday'],Friday
+"['timePoint | after_10am', 'weatherOccurringChance | chance', 'weatherType | rain']",A chance of rain after 10am.
+"['timePoint | before_10am', 'weatherIntensity | Patchy', 'weatherType | fog']",Patchy fog before 10am.
+"['maximumTemperature | 65', 'weatherIntensity | partly', 'weatherType | sunny']","Otherwise, partly sunny, with a high near 65."
+['timePoint | Friday_Night'],Friday Night
+"['timePoint | after_10pm', 'weatherOccurringChance | likely', 'weatherType | Rain']","Rain likely, mainly after 10pm."
+"['cloudAmount | Mostly_cloudy', 'minimumTemperature | 53']","Mostly cloudy, with a low around 53."
+"['timePoint | this_weekend', 'weatherType | changeable', 'weatherType | dry', 'weatherType | rained']",The forecast is looking a little bit changeable and it has rained at the circuit already this weekend but it looks like things will be dry for the race.
+"['locationArea | Sochi', 'timePoint | 9am', 'timePoint | tomorrow_morning', 'weatherOccurringChance | 25%', 'weatherType | rain']",The BBC are reporting a 25% chance of rain at 9am in Sochi tomorrow morning.
+['weatherType | rain'],The chance of rain decreases closer to the start of the race but teams will be keeping an eye on their satellite images to see if the weather could impact their strategy.
+"['cloudAmount | cloudy', 'temperatureCelsius | 20oC.', 'windAmount | breeze', 'windSpeedBft | 7mph']",It's set to be a cloudy day with a gentle 7mph breeze which shouldn't impact the drivers too much and the air temperature is around 20oC.
+"['timePoint | through_Saturday_morning', 'weatherType | Flash_Flood']",Flash Flood Watch in effect through Saturday morning
+"['timePoint | Friday_evening', 'weatherOccurringChance | not_super_high,_but_not_zero_either', 'weatherType | rain']","NBC 5 Chief Meteorologist Rick Mitchell says rain chances Friday evening are not super high, but not zero either."
+"['locationArea | Collin', 'locationArea | Cooke', 'locationArea | Dallas', 'locationArea | Delta', 'locationArea | Denton', 'locationArea | Ellis', 'locationArea | Fannin', 'locationArea | Grayson', 'locationArea | Henderson', 'locationArea | Hopkins', 'locationArea | Hunt', 'locationArea | Jack', 'locationArea | Johnson', 'locationArea | Kaufman', 'locationArea | Lamar', 'locationArea | Montague', 'locationArea | Navarro', 'locationArea | North_Texas_counties', 'locationArea | Palo_Pinto', 'locationArea | Parker', 'locationArea | Rains', 'locationArea | Rockwall', 'locationArea | Stephens', 'locationArea | Tarrant', 'locationArea | Van_Zandt', 'locationArea | Wise', 'locationArea | Young', 'timePoint | until_7_a.m._Saturday', 'weatherType | Flash_Flood']","A Flash Flood Watch has been extended until 7 a.m. Saturday for the following North Texas counties: Collin, Cooke, Dallas, Delta, Denton, Ellis, Fannin, Grayson, Henderson, Hopkins, Hunt, Jack, Johnson, Kaufman, Lamar, Montague, Navarro, Palo Pinto, Parker, Rains, Rockwall, Stephens, Tarrant, Van Zandt, Wise and Young."
+"['locationArea | in_urban_and_poor_drainage_areas', 'weatherType | Flash_flooding']",Flash flooding may occur in urban and poor drainage areas.
+"['weatherIntensity | Heavy', 'weatherType | flooding', 'weatherType | rainfall']","Heavy rainfall may also cause rapid flooding of creeks, streams and rivers, the National Weather Service warned."
+"['timePoint | over_the_weekend', 'weatherChange | increasing', 'weatherType | Drier', 'weatherType | sunshine']",Drier weather returns over the weekend with increasing sunshine.
+"['timePoint | next_week', 'weatherType | dry', 'weatherType | wet']",The dry break will be short lived though as more wet weather returns next week.
+"['locationArea | D/FW_Airport', 'precipitationAmount | 6.74_inches', 'timePoint | April', 'weatherType | rain']",A total of 6.74 inches of rain fell at D/FW Airport in April — that's still well short of rainfall amounts currently in the record books.
+"['timePoint | April', 'timePoint | This_year']",This year was the 12th wettest April on record.
+"['locationArea | D/FW', 'precipitationAmount | .3_inches', 'precipitationAmount | 1.15_inches', 'timePoint | Since_May_1', 'weatherType | rain']","Since May 1, 1.15 inches of rain have fallen at D/FW -- the normal for the first three days of the month are .3 inches."
+"['locationArea | at_the_airport', 'precipitationAmount | 12.78_inches', 'weatherType | rain']","So far this year, 12.78 inches of rain has been recorded at the airport."
+"['locationArea | central', 'locationArea | eastern_U.S.', 'temperatureHotCold | cold', 'timePoint | into_next_week']",Two more rounds of cold air will sweep across the central and eastern U.S. into next week.
+"['locationArea | central', 'locationArea | eastern_U.S.', 'temperatureHotCold | cold']",The first cold front is currently pushing through the central and eastern U.S.
+"['temperatureHotCold | arctic', 'temperatureHotCold | coldest', 'timePoint | next_week']","A second arctic blast next week may be the coldest yet, with some records possible."
+"['locationArea | central', 'locationArea | eastern_U.S.', 'locationArea | southern', 'temperatureHotCold | arctic_cold', 'temperatureHotCold | coldest', 'timePoint | early_next_week']","A surge of arctic cold currently moving through will be followed by a second cold blast early next week, delivering the coldest air of the season to the central, southern and eastern U.S."
+"['locationArea | Blackpool', 'timePoint | this_morning']",What will the weather be like this morning in Blackpool?
+"['cloudAmount | mostly_cloudy', 'timePoint | This_morning', 'weatherIntensity | small_bursts', 'weatherType | sunshine']","This morning will be mostly cloudy, with some small bursts of sunshine."
+"['temperatureCelsius | 21C', 'timePoint | 12pm']",The temperature will reach 21C by 12pm.
+"['locationArea | Blackpool', 'timePoint | this_afternoon']",What will the weather be like this afternoon in Blackpool?
+"['timePoint | This_afternoon', 'timePoint | from_1pm_onwards', 'timePoint | throughout_the_afternoon', 'weatherType | thunderstorms']","This afternoon will see thunderstorms hit from 1pm onwards, continuing throughout the afternoon."
+"['temperatureCelsius | 23C', 'timePoint | 1pm']",The temperature will reach its peak of 23C by 1pm.
+"['locationArea | Blackpool', 'timePoint | this_evening_and_tonight']",What will the weather be like this evening and tonight in Blackpool?
+"['timePoint | This_evening', 'timePoint | around_9pm', 'weatherChange | easing', 'weatherIntensity | light', 'weatherType | rain', 'weatherType | thunderstorms']","This evening will see thunderstorms continue, easing into light rain by around 9pm."
+"['temperatureCelsius | 18C', 'temperatureChange | dip', 'timePoint | 11pm']",The temperature will dip to 18C by 11pm.
+"['temperatureCelsius | 17C.', 'timePoint | Overnight']",Overnight temperature of 17C.
+"['locationArea | Blackpool', 'timePoint | tomorrow']",What will the weather be like tomorrow in Blackpool?
+"['timePoint | Tomorrow', 'timePoint | throughout_most_of_the_day', 'weatherType | rain', 'weatherType | thunderstorms']",Tomorrow is then set to see rain and thunderstorms throughout most of the day.
+['maximumTemperature | 19C.'],Maximum temperature of 19C.
+"['locationArea | Blackpool', 'timePoint | long-term']",What is the long-term forecast for Blackpool?
+"['locationArea | across_parts_of_Scotland_and_northern_England', 'timePoint | Saturday', 'timePoint | Saturday_3_August_to_Monday_12_August', 'weatherFrequency | spells', 'weatherIntensity | scattered', 'weatherOccurringChance | possibly', 'weatherType | showers', 'weatherType | sunny', 'weatherType | thundery']","The Met Office UK outlook for Saturday 3 August to Monday 12 August said: “Saturday will see a mixture of sunny spells and scattered showers, possibly thundery across parts of Scotland and northern England."
+"['locationArea | Elsewhere', 'temperatureHotCold | warm', 'weatherFrequency | spells', 'weatherIntensity | mostly', 'weatherType | dry', 'weatherType | sunny']","“Elsewhere, it should be mostly dry with warm sunny spells."
+"['locationArea | across_the_far_north_of_the_country', 'locationArea | across_the_majority_of_the_UK', 'locationArea | just_to_the_west_of_the_UK', 'timePoint | Into_next_week', 'weatherOccurringChance | potential', 'weatherType | south_to_southeasterly', 'windDirection | west_to_southwesterly']","“Into next week, low pressure looks likely to be located just to the west of the UK, which would bring a west to southwesterly across the majority of the UK, with the potential for a south to southeasterly flow across the far north of the country.”"
+"['locationArea | Wales', 'locationArea | majority_of_England', 'timePoint | today', 'weatherIntensity | intense', 'weatherIntensity | severe', 'weatherType | downpours', 'weatherType | flash_floods']","THE Met Office has issued a severe weather warning for today, as flash floods and intense downpours are expected to cause disruption for the majority of England and Wales."
+"['compassDirection | from_the_Atlantic', 'locationArea | Britain', 'weatherType | Hurricane_Humberto', 'weatherType | thunderstorms', 'windSpeedBft | 50mph']",Britain will be lashed by thunderstorms and 50mph winds as remnants of Hurricane Humberto blows in from the Atlantic.
+"['locationArea | Newcastle', 'locationArea | from_the_south_coast', 'timePoint | for_the_whole_of_today', 'weatherChange | spreading', 'weatherIntensity | Intense', 'weatherType | downpours', 'windAmount | gusty', 'windAmount | strong']",Intense downpours and strong gusty winds will batter the country for the whole of today - spreading from the south coast all the way up to Newcastle.
+"['precipitationAmount | three_inches', 'timePoint | in_a_six-hour_window', 'weatherType | flooding', 'weatherType | rain']","Up to three inches of rain is expected to fall in a six-hour window, causing flooding to homes and businesses."
+['weatherType | deluge'],The deluge will also affect commuters - as transport delays are expected and visibility on the roads will be reduced by the wet weather.
+"['locationArea | in_some_spots', 'precipitationAmount | 20mm', 'precipitationAmount | 40_mm', 'precipitationAmount | 70mm', 'timePoint | within_nine_hours', 'weatherType | rain']","Met Office meteorologist Luke Miall said: ""We could see 20mm to 40 mm of rain within nine hours and possibly the worst-case scenario is of 70mm in some spots."""
+"['temperatureCelsius | low_20s', 'temperatureHotCold | slightly_warmer_than_normal', 'timePoint | for_the_time_of_year', 'weatherIntensity | pockets', 'weatherType | sunshine', 'weatherType | wet']","Mr Miall also said that despite the wet weather, pockets of sunshine over the following days could see temperatures in the low 20s - which is slightly warmer than normal for the time of year."
+"['locationArea | in_some_areas', 'precipitationAmount | three_inch', 'timePoint | Tuesday', 'weatherIntensity | odd', 'weatherType | downpour', 'weatherType | dry', 'weatherType | sunshine', 'weatherType | thunder']","Along with the three inch - downpour, there is the possibility of the odd rumble of thunder in some areas on Tuesday in contrast to recent dry days and sunshine."
+"['timePoint | 11pm_on_Tuesday', 'timePoint | Thursday', 'weatherIntensity | severe', 'weatherType | wet']","The severe weather warning issued by the Met Office will last until 11pm on Tuesday - however, the wet weather is expected to continue until Thursday."
+"['weatherIntensity | intense', 'weatherType | deluge', 'weatherType | flood', 'windAmount | windy']",Areas affected by the intense deluge and windy weather are also expected to flood - with a particular warning for smaller communities which may be cut off by overflowing roads.
+"['locationArea | UK', 'locationArea | majority_of_the_country', 'timePoint | week', 'weatherType | Hurricane_Humberto', 'weatherType | thunderstorms', 'weatherType | tropical_cyclone', 'weatherType | wet']",The tail-end of Hurricane Humberto will bring misery to the UK - as the tropical cyclone brings a week of wet weather and thunderstorms to the majority of the country.
+"['cloudAmount | vrijwel_onbewolkt', 'locationArea | in_de_noordelijke_helft', 'timePoint | Vannacht', 'weatherType | nevelig']",Vannacht is het in de noordelijke helft vrijwel onbewolkt en nevelig.
+"['cloudAmount | enkele_wolkenvelden', 'locationArea | Verder_naar_het_zuiden', 'locationArea | vrijwel_overal', 'weatherType | droog']","Verder naar het zuiden zijn er ook enkele wolkenvelden, maar het blijft vrijwel overal droog."
+"['locationArea | In_het_uiterste_zuiden', 'weatherArea | lokaal', 'weatherType | mist']",In het uiterste zuiden ontstaat lokaal mist.
+"['locationArea | in_het_noordoosten', 'locationArea | in_het_zuiden', 'minimumTemperature | 5°C', 'minimumTemperature | 9°C']",De minima lopen uiteen van 5°C in het noordoosten tot 9°C in het zuiden.
+"['locationArea | in_het_uiterste_zuiden', 'windAmount | zwak_tot_matig', 'windAmount | zwakke_veranderlijke', 'windDirection | noordoostelijke']","De noordoostelijke wind is zwak tot matig, in het uiterste zuiden staat een zwakke veranderlijke wind."
+"['locationArea | op_de_meeste_plaatsen', 'timePoint | Overdag', 'weatherType | zonnig']",Overdag is het op de meeste plaatsen zonnig.
+"['cloudAmount | wolkenvelden', 'locationArea | In_het_zuiden', 'locationArea | in_het_uiterste_zuiden', 'timePoint | in_de_ochtend', 'weatherOccurringChance | mogelijk', 'weatherType | mist']",In het zuiden zijn er ook wolkenvelden en in het uiterste zuiden komt in de ochtend eerst nog mogelijk mist voor.
+"['locationArea | In_het_zuiden', 'locationArea | in_het_uiterste_zuiden', 'timePoint | vanaf_de_middag', 'weatherArea | plaatselijk', 'weatherOccurringChance | niet_uitgesloten', 'weatherType | bui', 'weatherType | onweer']","In het zuiden kan vanaf de middag plaatselijk een bui ontstaan, in het uiterste zuiden is onweer niet uitgesloten."
+"['locationArea | vlak_aan_zee', 'temperatureCelsius | 18', 'temperatureCelsius | 21°C', 'temperatureCelsius | enkele_graden_lager', 'timePoint | middagtemperatuur']","De middagtemperatuur ligt tussen 18 en 21°C, vlak aan zee enkele graden lager."
+"['locationArea | In_het_zuiden', 'locationArea | elders', 'windAmount | meest_matig', 'windAmount | veranderlijk', 'windAmount | zwak', 'windDirection | oost_tot_noordoost']","In het zuiden is de wind zwak en veranderlijk, elders uit oost tot noordoost en meest matig."
+"['cloudAmount | bewolking', 'compassDirection | noordwaarts', 'compassDirection | zuiden', 'timePoint | Vanavond', 'timePoint | in_de_nacht_naar_dinsdag']",Vanavond en in de nacht naar dinsdag komt de bewolking vanuit het zuiden iets verder noordwaarts.
+"['locationArea | In_het_uiterste_zuiden', 'weatherOccurringChance | kans', 'weatherType | bui']",In het uiterste zuiden blijft de kans op een bui bestaan.
+"['cloudType | hoge_bewolking', 'locationArea | Elders', 'weatherType | droog']",Elders komt wat meer hoge bewolking maar blijft het droog.
+"['locationArea | in_het_noordoosten', 'locationArea | in_het_zuiden', 'temperatureCelsius | 4°C', 'temperatureCelsius | 8°C', 'temperatureChange | daalt']","De temperatuur daalt naar 4°C in het noordoosten, 8°C in het zuiden."
+"['locationArea | in_het_Waddengebied', 'locationArea | vlak_aan_zee', 'weatherOccurringChance | mogelijk', 'windAmount | krachtig', 'windAmount | matig', 'windAmount | vrij_krachtig', 'windChange | toe', 'windDirection | noordoostenwind']","De noordoostenwind is matig, vlak aan zee neemt de wind toe naar vrij krachtig en in het Waddengebied mogelijk tot krachtig."
+"['locationArea | In_het_uiterste_zuiden', 'windAmount | veranderlijk', 'windAmount | zwak']",In het uiterste zuiden blijft de wind zwak en veranderlijk.
+"['timePoint | Dinsdag_overdag', 'weatherChange | weinig']",Dinsdag overdag verandert er in het weerbeeld maar weinig.
+"['cloudChange | meer', 'cloudType | sluierbewolking', 'compassDirection | zuiden', 'locationArea | In_het_noorden', 'weatherType | zonnig']","In het noorden is het zonnig, naar het zuiden toe komt er meer sluierbewolking."
+"['cloudAmount | dikst', 'locationArea | In_het_zuiden', 'weatherOccurringChance | kans', 'weatherType | (buiige)_regen']",In het zuiden is de bewolking het dikst en daar is er kans op (buiige) regen.
+"['locationArea | in_het_midden_en_zuiden', 'locationArea | op_de_Wadden', 'temperatureCelsius | 11°C', 'temperatureCelsius | 16°C', 'timePoint | middagtemperatuur']",De middagtemperatuur loopt uiteen van 11°C op de Wadden tot 16°C in het midden en zuiden.
+"['locationArea | in_de_kustgebieden', 'locationArea | in_het_zuiden', 'locationArea | overal', 'timePoint | gedurende_de_dag', 'windAmount | matig', 'windAmount | vrij_krachtig_tot_krachtig', 'windAmount | zwak_tot_matig', 'windDirection | noordoostelijk']","De wind wordt gedurende de dag overal noordoostelijk en matig, in het zuiden zwak tot matig en in de kustgebieden vrij krachtig tot krachtig."
+"['locationArea | op_veel_plaatsen', 'locationArea | overal', 'timePoint | ochtend', 'weatherType | mistbanken', 'weatherType | nevel', 'weatherType | zon']","De ochtend begint op veel plaatsen met nevel of mistbanken, maar al snel breekt overal de zon door."
+"['locationArea | vrijwel_overal', 'weatherType | zonnig']",Het wordt dan vrijwel overal zonnig.
+"['cloudChange | meer', 'cloudType | sluierbewolking', 'locationArea | in_het_westen', 'locationArea | noordwesten']",Alleen in het westen en noordwesten komt er al wat meer sluierbewolking voor.
+"['cloudChange | langzaam_dikker', 'compassDirection | westen', 'timePoint | Later_op_de_dag', 'timePoint | tot_de_avond', 'weatherOccurringChance | waarschijnlijk', 'weatherType | droog']","Later op de dag wordt de bewolking van het westen uit langzaam dikker, maar tot de avond blijft het waarschijnlijk droog."
+"['compassDirection | westen', 'timePoint | In_de_avond', 'weatherIntensity | wat', 'weatherOccurringChance | toe', 'weatherType | regen']",In de avond neemt van het westen uit de kans op wat regen toe.
+"['locationArea | in_het_uiterste_oosten', 'locationArea | op_de_Wadden', 'locationArea | zuidoosten', 'temperatureCelsius | 18°C', 'temperatureCelsius | 25°C', 'timePoint | middagtemperatuur', 'weatherArea | lokaal']",De middagtemperatuur loopt uiteen van 18°C op de Wadden tot lokaal 25°C in het uiterste oosten en zuidoosten.
+"['compassDirection | westen', 'timePoint | in_de_loop_van_de_avond', 'windAmount | zwak_tot_matig', 'windChange | noordelijke', 'windDirection | zuidelijke']",De zuidelijke wind is zwak tot matig en draait in de loop van de avond van het westen uit naar een noordelijke richting.
+"['locationArea | Aan_de_noordwestkust', 'windAmount | krachtig_of_hard']",Aan de noordwestkust wordt de wind dan krachtig of hard.
+"['cloudAmount | veel_bewolking', 'locationArea | verspreid_over_het_land', 'timePoint | In_de_nacht_naar_zondag', 'weatherIntensity | wat', 'weatherType | regen']",In de nacht naar zondag is er veel bewolking en valt er verspreid over het land wat regen.
+"['locationArea | in_het_noorden', 'locationArea | in_het_zuidwesten', 'minimumTemperature | 12°C', 'minimumTemperature | 9°C']",De minima lopen uiteen van 9°C in het noorden tot 12°C in het zuidwesten.
+"['locationArea | aan_de_zuidwestkust', 'locationArea | in_de_kustgebieden', 'windAmount | (vrij)_krachtig', 'windAmount | hard', 'windAmount | matig', 'windChange | toe', 'windDirection | noordoostenwind']","De noordoostenwind neemt toe naar matig, in de kustgebieden (vrij) krachtig en aan de zuidwestkust tot hard."
+"['compassDirection | noordwesten', 'locationArea | op_de_meeste_plaatsen', 'timePoint | Zondagochtend', 'weatherChange | geleidelijk', 'weatherFrequency | steeds_vaker', 'weatherType | droog', 'weatherType | zon']",Zondagochtend wordt het geleidelijk op de meeste plaatsen droog en breekt van het noordwesten uit de zon steeds vaker door.
+"['cloudAmount | bewolkt', 'locationArea | In_het_zuidoosten', 'timePoint | tot_in_de_middag', 'weatherFrequency | overwegend', 'weatherOccurringChance | waarschijnlijk', 'weatherType | druilerig']",In het zuidoosten blijft het waarschijnlijk nog tot in de middag overwegend bewolkt en druilerig.
+"['locationArea | Elders', 'timePoint | in_de_middag', 'weatherFrequency | perioden', 'weatherIntensity | flinke', 'weatherType | droog', 'weatherType | zonnige']",Elders zijn er in de middag flinke zonnige perioden en blijft het droog.
+"['locationArea | aan_de_kust', 'maximumTemperature | 16°C', 'windAmount | matig', 'windAmount | vrij_krachtig_tot_krachtig', 'windAmount | zwak_tot_matig', 'windChange | af', 'windDirection | noordoostenwind']","De maximumtemperaturen komen uit op 16°C en de noordoostenwind is aanvankelijk nog matig, aan de kust vrij krachtig tot krachtig, maar neemt geleidelijk af naar zwak tot matig."
+"['cloudAmount | wolkenvelden', 'timePoint | vannacht', 'weatherType | opklaringen']","Verder zijn er vannacht wolkenvelden, afgewisseld door opklaringen."
+"['minimumTemperature | -2°C', 'weatherArea | lokaal', 'weatherOccurringChance | mogelijk', 'weatherType | gladheid']","De minimumtemperatuur loopt uiteen van -2°C in het zuidwesten tot -6°C in het noordoosten, lokaal is gladheid door bevriezing van natte weggedeelten mogelijk."
+"['locationArea | aan_de_kust', 'weatherArea | lokaal', 'windAmount | zwak_tot_matig', 'windChange | toe', 'windDirection | zuidoostenwind']",De zuidoostenwind neemt toe naar zwak tot matig en aan de kust naar lokaal vrij krachtig.
+"['locationArea | vrijwel_overal', 'timePoint | Overdag', 'weatherFrequency | af_en_toe', 'weatherType | zon']",Overdag is er af en toe ruimte voor de zon en blijft het vrijwel overal droog.
+"['cloudType | sluierbewolking', 'locationArea | In_het_uiterste_zuiden']",In het uiterste zuiden is meer sluierbewolking aanwezig.
+"[""timePoint | 's_middags""]","Het wordt 's middags niet warmer dan +2°C, in de avond daalt het kwik al snel weer tot onder het vriespunt."
+"['windAmount | matige', 'windDirection | (zuid)oostenwind']",De matige (zuid)oostenwind maakt het voor het gevoel nog wat kouder.
+"['locationArea | in_het_noordoosten', 'timePoint | In_de_nacht_naar_zondag', 'weatherIntensity | enkele', 'weatherType | helder']","In de nacht naar zondag is het helder, in het noordoosten kan een enkele mistbank ontstaan."
+['minimumTemperature | -3°C'],De minimumtemperatuur loopt uiteen van -3°C aan de kust tot -7°C in het noordoosten.
+"['locationArea | in_de_kustgebieden', 'windAmount | zwak', 'windDirection | oostenwind']","De oostenwind is zwak, in de kustgebieden matig."
+"['timePoint | Zondag_overdag', 'weatherType | zonnig']",Zondag overdag is het zonnig en blijft het droog.
+"['maximumTemperature | net_boven_het_vriespunt', 'temperatureChange | kouder', 'timePoint | vandaag']",Met maxima net boven het vriespunt wordt het nog iets kouder dan vandaag.
+"['windAmount | zwak_tot_matig', 'windChange | noordoost']",De wind blijft zwak tot matig en draait geleidelijk naar noordoost.
+"['compassDirection | zuidwesten', 'locationArea | in_het_noordoosten', 'timePoint | Vanochtend', 'weatherFrequency | steeds_vaker', 'weatherIntensity | lichte']","Vanochtend valt er aanvankelijk in het noordoosten lichte regen, elders is het droog en van het zuidwesten uit komt de zon steeds vaker tevoorschijn."
+"['cloudType | stapelwolken', 'locationArea | verspreid_over_het_land', 'timePoint | vanmiddag', 'weatherOccurringChance | mogelijk', 'weatherType | bui']","Wel ontstaan er vanmiddag stapelwolken die verspreid over het land tot een bui kunnen uitgroeien, mogelijk met onweer."
+"['locationArea | op_veel_plaatsen', 'timePoint | In_de_loop_van_de_avond', 'weatherType | droog']",In de loop van de avond wordt het droog en klaart het op veel plaatsen op.
+"['temperatureCelsius | 17°C', 'timePoint | middagtemperatuur']",De middagtemperatuur is ongeveer 17°C.
+"['windAmount | matig', 'windDirection | zuidwestelijk']",De wind is zuidwestelijk en matig.
+"['timePoint | In_de_avond', 'windChange | zuid']",In de avond draait de wind naar zuid.
+"['cloudAmount | bewolking', 'cloudChange | toe', 'compassDirection | zuidwesten', 'locationArea | in_het_westen', 'timePoint | In_de_nacht_naar_zaterdag', 'timePoint | aan_het_eind_van_de_nacht', 'weatherFrequency | perioden', 'weatherType | regen']",In de nacht naar zaterdag neemt van het zuidwesten uit de bewolking toe en aan het eind van de nacht zijn er in het westen perioden met regen.
+['minimumTemperature | 8°C'],De minimumtemperatuur ligt rond 8°C.
+"['windAmount | matig', 'windDirection | zuid-_tot_zuidwestelijke']",De zuid- tot zuidwestelijke wind is matig.
+"['locationArea | in_het_westen', 'timePoint | In_de_loop_van_de_nacht', 'weatherOccurringChance | mogelijk', 'windAmount | krachtig', 'windChange | toe', 'windSpeedBft | 6']","In de loop van de nacht neemt de wind in het westen toe naar vrij krachtig, aan zee mogelijk krachtig, 6 Bft."
+"['cloudAmount | half_tot_zwaar_bewolkt', 'timePoint | Op_Koningsdag', 'weatherFrequency | geregeld', 'weatherType | buien']",Op Koningsdag is het half tot zwaar bewolkt en zijn er geregeld buien.
+['maximumTemperature | 13°C'],De maximumtemperatuur wordt niet hoger dan zo'n 13°C.
+"['weatherOccurringChance | mogelijk', 'windAmount | krachtig', 'windAmount | matig_tot_vrij_krachtig', 'windDirection | zuid-_tot_zuidwestenwind', 'windSpeedBft | 7']","De zuid- tot zuidwestenwind is matig tot vrij krachtig, in het zuidwesten krachtig en langs de westkust mogelijk hard, 7 Bft."
+"['gustAmount | zware_windstoten', 'gustVelocity | 75', 'locationArea | langs_de_zuidwestkust', 'timePoint | in_de_middag_en_avond']",Daarbij is er in de middag en avond langs de zuidwestkust kans op zware windstoten rond 75 km/uur.
+"['timePoint | In_de_loop_van_de_middag', 'windChange | west-_tot_zuidwestelijke']",In de loop van de middag draait de wind naar een west- tot zuidwestelijke richting.
+"['cloudAmount | bewolking', 'cloudChange | dikker', 'locationArea | in_het_zuidoosten', 'timePoint | vanavond', 'weatherIntensity | enkele', 'weatherType | buien']",De bewolking wordt vanavond dikker en er komen met name in het zuidoosten al enkele buien voor.
+"['compassDirection | westen', 'weatherFrequency | perioden', 'weatherType | regen']",Van het westen uit komen er perioden met regen.
+"['locationArea | in_het_westen', 'timePoint | Later_vannacht', 'weatherType | droog']",Later vannacht wordt het in het westen weer droog.
+['minimumTemperature | 7°C'],De minimumtemperatuur wordt ongeveer 7°C.
+"['locationArea | boven_land', 'windDirection | zuidwesten']","De wind komt uit het zuidwesten en is boven land overwegend matig, aan de kust (vrij) krachtig."
+"['timePoint | vannacht', 'windAmount | matig_tot_vrij_krachtig', 'windChange | toe', 'windSpeedBft | 6_tot_7']","De wind neemt vannacht toe naar matig tot vrij krachtig, aan de kust en op het IJsselmeer naar krachtig tot hard, 6 tot 7 Bft."
+"['compassDirection | westen', 'windChange | westen']",Van het westen uit draait de wind vannacht naar het westen.
+"['cloudAmount | wolkenvelden', 'timePoint | Morgen_overdag', 'weatherIntensity | enkele', 'weatherType | buien']",Morgen overdag zijn er wolkenvelden en komen er enkele buien voor.
+"['locationArea | In_het_noorden', 'locationArea | oosten', 'weatherOccurringChance | kans']",In het noorden en oosten is er bij de buien kans op onweer of korrelhagel.
+"['weatherFrequency | Van_tijd_tot_tijd', 'weatherType | zon']",Van tijd tot tijd is er ook ruimte voor de zon.
+"['temperatureCelsius | 10°C', 'timePoint | middagtemperatuur', 'weatherArea | lokaal']",De middagtemperatuur loopt uiteen van 10°C in het noorden tot lokaal 13°C in het zuiden.
+"['weatherFrequency | af_en_toe', 'windAmount | krachtig', 'windAmount | matig_tot_vrij_krachtig', 'windDirection | westelijke']","De westelijke wind is matig tot vrij krachtig, in het noorden en westen af en toe krachtig."
+"['gustAmount | windstoten', 'locationArea | in_het_noordelijk_kustgebied', 'weatherType | buien', 'windAmount | vlagerig']","De wind is daarbij vlagerig en vooral bij buien kunnen windstoten rond 70 km/uur voorkomen, in het noordelijk kustgebied zijn zware windstoten van 80-90 km/uur mogelijk."
+"['locationArea | Aan_de_kust', 'locationArea | boven_het_IJsselmeer', 'weatherOccurringChance | mogelijk', 'windAmount | krachtig_tot_hard', 'windSpeedBft | 8']","Aan de kust en boven het IJsselmeer is de wind krachtig tot hard, in het Waddengebied mogelijk stormachtig, 8 Bft."
+"['cloudType | hoge_bewolking', 'timePoint | Vannacht', 'weatherIntensity | tamelijk_veel', 'weatherType | opklaringen']",Vannacht zijn er opklaringen maar ook tamelijk veel hoge bewolking.
+"['cloudAmount | bewolking_dikker', 'locationArea | In_het_noorden', 'weatherIntensity | vrijwel', 'weatherType | droog']","In het noorden is de bewolking dikker, maar het blijft vrijwel droog."
+"['minimumTemperature | 13°C', 'weatherArea | plaatselijk']",De minimumtemperatuur loopt uiteen van 13°C plaatselijk in het zuidoosten tot 16°C in het westelijk kustgebied.
+"['windAmount | zwak', 'windDirection | zuidwestelijk']","De wind is zwak en veranderlijk, aan zee en op het IJsselmeer zuidwestelijk en matig."
+"['cloudType | hoge_bewolking', 'compassDirection | westen', 'timePoint | Overdag', 'weatherType | zonniger']","Overdag is er aanvankelijk hoge bewolking aanwezig, maar vanuit het westen wordt het steeds zonniger."
+"['temperatureCelsius | 23°C', 'timePoint | middagtemperatuur', 'weatherType | droog']",Het blijft droog en de middagtemperatuur loopt uiteen van 23°C in het uiterste noorden tot 28°C in het zuiden.
+"['windAmount | matig', 'windDirection | zuidwest_tot_west']","De wind komt uit zuidwest tot west en is matig, langs de kust en op het IJsselmeer vrij krachtig."
+"['locationArea | In_het_noordwestelijk_kustgebied', ""timePoint | 's_ochtends"", 'windAmount | krachtig']",In het noordwestelijk kustgebied kan de wind 's ochtends krachtig zijn.
+"['locationArea | landinwaarts', 'timePoint | In_de_avond', 'windChange | af']","In de avond neemt de wind landinwaarts af naar zwak, langs de kust en op het IJsselmeer naar matig."
+"['timePoint | In_de_nacht_naar_dinsdag', 'weatherType | opklaringen']",In de nacht naar dinsdag zijn er opklaringen en is het droog.
+"['weatherIntensity | ondiepe', 'weatherType | nevel']",Er kan wat nevel of een ondiepe mistbank ontstaan.
+"['temperatureCelsius | 16°C', 'temperatureChange | dalen']",De temperaturen dalen naar waarden rond de 16°C.
+"['windAmount | zwak_tot_matig', 'windDirection | zuidelijke']",De wind is zwak tot matig en komt uit een zuidelijke richting.
+"['locationArea | op_veel_plaatsen', 'temperatureCelsius | 30', 'temperatureHotCold | tropisch_warm', 'timePoint | Dinsdag_overdag', 'weatherType | zonnig']",Dinsdag overdag is het zonnig en met temperaturen tussen de 30 en 34°C wordt het op veel plaatsen tropisch warm.
+"['locationArea | in_het_noorden', 'temperatureCelsius | 28°C']",Alleen in het noorden en aan de kust blijft de temperatuur met 28°C iets achter.
+"['windAmount | zwak', 'windDirection | uiteenlopende']",De wind is zwak en komt uit uiteenlopende richtingen.
+"['locationArea | Aan_zee', 'temperatureCelsius | enkele_graden', 'timePoint | in_de_loop_van_de_dag', 'weatherChange | daalt', 'windDirection | van_zee']",Aan zee kan in de loop van de dag een wind van zee opsteken waardoor de temperatuur daar enkele graden daalt.
+"['cloudType | sluierbewolking', 'timePoint | Vannacht', 'weatherType | droog']",Vannacht is er alleen sluierbewolking en blijft het droog.
+['minimumTemperature | 15°C'],De minimumtemperatuur komt rond 15°C uit.
+"['windAmount | matige', 'windDirection | zuid_tot_zuidoost']",Er staat een meest matige wind uit zuid tot zuidoost.
+"['timePoint | Overdag', 'weatherIntensity | veel', 'weatherType | zon']",Overdag is er veel zon.
+"['cloudChange | dikker', 'cloudType | sluierbewolking', 'locationArea | in_het_westen', 'timePoint | in_de_avond', 'weatherFrequency | af_en_toe']",Wel drijft er af en toe sluierbewolking over en in de avond wordt de bewolking in het westen wat dikker.
+"['temperatureCelsius | 20°C', 'timePoint | middagtemperatuur', 'weatherArea | plaatselijk', 'weatherType | droog']",Het blijft droog en de middagtemperatuur loopt uiteen van 20°C graden op de Wadden tot plaatselijk 26°C in het oosten.
+"['locationArea | aan_de_westkust', 'weatherOccurringChance | mogelijk', 'windAmount | matig', 'windDirection | zuid_tot_zuidoost']","De wind uit zuid tot zuidoost is matig, aan de westkust mogelijk vrij krachtig."
+"['cloudAmount | bewolking', 'cloudChange | dikker', 'locationArea | in_het_westen', 'timePoint | In_de_nacht_van_zondag_op_maandag', 'weatherOccurringChance | mogelijk', 'weatherType | (buiige)_regen']",In de nacht van zondag op maandag wordt de bewolking vooral in het westen en noordwesten dikker en valt er op een aantal plaatsen mogelijk (buiige) regen.
+"['locationArea | In_de_rest_van_het_land', 'weatherOccurringChance | waarschijnlijk', 'weatherType | droog']",In de rest van het land blijft het waarschijnlijk droog.
+['minimumTemperature | 14°C'],De minima liggen rond 14°C.
+"['windAmount | zwakke_tot_matige', 'windDirection | zuid_tot_zuidoost']",Er staat een zwakke tot matige wind uit zuid tot zuidoost.
+"['cloudAmount | wolkenvelden', 'timePoint | Maandag_overdag']",Maandag overdag zijn er wolkenvelden.
+"['cloudAmount | bewolking', 'locationArea | In_het_zuidoosten', 'weatherOccurringChance | grootste_kans', 'weatherType | zonneschijn']",In het zuidoosten is de bewolking het dunst en daar is dan ook de grootste kans op zonneschijn.
+"['cloudAmount | bewolking_dikker', 'locationArea | Elders', 'weatherArea | plaatselijk', 'weatherIntensity | wat', 'weatherOccurringChance | mogelijk', 'weatherType | regen']",Elders is de bewolking dikker en valt er plaatselijk mogelijk wat regen.
+['maximumTemperature | 17°C'],De maximumtemperatuur loopt uiteen van 17°C op de Wadden tot 24°C in het zuidoosten.
+"['windAmount | zwakke_tot_matige', 'windDirection | zuid-_tot_zuidwestenwind']",Er staat een zwakke tot matige zuid- tot zuidwestenwind.
+"['cloudAmount | bewolkt', 'locationArea | op_veel_plaatsen', 'weatherType | regent']",Het is bewolkt en het regent op veel plaatsen.
+"['cloudAmount | veel_bewolking', 'compassDirection | zuidwesten', 'timePoint | Later_in_de_ochtend', 'weatherType | droog']","Later in de ochtend wordt het van het zuidwesten uit meest droog, wel blijft er veel bewolking aanwezig."
+"['temperatureCelsius | 9°C', 'timePoint | middagtemperaturen']",De middagtemperaturen liggen tussen 9°C in het noorden en 12°C in het zuiden.
+"['windAmount | (vrij)_krachtig', 'windChange | fors_toe', 'windDirection | zuidwest']",De wind wordt zuidwest en neemt fors toe naar (vrij) krachtig boven land en hard tot stormachtig langs de kust en boven het IJsselmeer.
+"['gustAmount | zware_windstoten', 'gustVelocity | 75-90', 'locationArea | In_de_westelijke', 'locationArea | noordelijke_kustgebieden']",In de westelijke en noordelijke kustgebieden komen daarbij zware windstoten van circa 75-90 km/u voor.
+"['locationArea | landinwaarts', 'timePoint | In_de_avond', 'windAmount | matig', 'windChange | af']",In de avond neemt de wind landinwaarts af naar matig.
+"['compassDirection | westen', 'timePoint | In_de_nacht_naar_zondag', 'weatherType | droog']","In de nacht naar zondag is het eerst meest droog, later gaat het van het westen uit opnieuw regenen."
+"['weatherFrequency | even', 'weatherOccurringChance | mogelijk', 'windAmount | krachtig', 'windAmount | vrij_krachtig', 'windDirection | zuidwestenwind', 'windSpeedBft | 8']","De zuidwestenwind is vrij krachtig, aan zee krachtig en in het noordelijk kustgebied krachtig tot hard, mogelijk even stormachtig, 8 Bft."
+"['compassDirection | westen', 'locationArea | vlak_aan_zee', 'timePoint | Tegen_de_ochtend', 'windChange | westelijke']","Tegen de ochtend draait de wind van het westen uit naar een westelijke richting en neemt af naar matig, vrij krachtig vlak aan zee."
+['minimumTemperature | 6°C'],De minimumtemperatuur komt uit rond 6°C.
+"['compassDirection | oosten', 'timePoint | Zondagochtend', 'weatherType | regen']","Zondagochtend trekt de regen naar het oosten weg maar al vrij snel volgen er dan buien, soms vergezeld van onweer en hagel."
+"['weatherFrequency | even', 'weatherType | buien']",Tussen de buien door breekt de zon even door.
+"['timePoint | In_de_avond', 'weatherChange | af', 'weatherFrequency | tijdelijk', 'weatherType | buiigheid']",In de avond neemt de buiigheid tijdelijk af.
+"['temperatureCelsius | 7_à_8°C', 'timePoint | middagtemperatuur']",De middagtemperatuur wordt 7 à 8°C.
+"['locationArea | aan_zee', 'windAmount | matig', 'windDirection | westelijke']","De westelijke wind is matig, aan zee krachtig."
+"['cloudAmount | wolkenvelden', 'locationArea | in_het_zuiden', 'timePoint | Vannacht', 'weatherIntensity | brede', 'weatherType | opklaringen']","Vannacht komen er wolkenvelden voor, in het zuiden zijn er brede opklaringen."
+"['locationArea | overal', 'weatherType | droog']",Het is overal droog.
+"['locationArea | in_het_noorden', 'locationArea | in_het_zuidoosten', 'minimumTemperature | 12°C', 'minimumTemperature | 16°C', 'weatherArea | plaatselijk']",De minima lopen uiteen van 12°C in het noorden tot plaatselijk 16°C in het zuidoosten.
+"['locationArea | aan_de_kust', 'windAmount | matig', 'windAmount | zwak', 'windDirection | noordelijk']","De wind is noordelijk, zwak, aan de kust matig."
+"['cloudAmount | veel_wolkenvelden', 'locationArea | op_veel_plaatsen', 'timePoint | Vandaag_overdag', 'weatherType | zon']","Vandaag overdag zijn er aanvankelijk veel wolkenvelden, maar op veel plaatsen breekt de zon spoedig door."
+"['cloudAmount | bewolking', 'compassDirection | zee', 'locationArea | noordelijk_kustgebied', 'weatherType | zonnige']","Het wordt dan een zonnige dag, al blijft het noordelijk kustgebied gevoelig voor bewolking vanaf zee."
+"['locationArea | in_het_Waddengebied', 'locationArea | in_het_zuidoosten', 'maximumTemperature | 17°C', 'maximumTemperature | 27°C', 'weatherArea | plaatselijk']",De maxima lopen uiteen van 17°C in het Waddengebied tot 27°C plaatselijk in het zuidoosten.
+"['locationArea | aan_de_westkust', 'locationArea | langs_de_Zeeuwse_kust', 'windAmount | (vrij)_krachtig', 'windAmount | matig', 'windAmount | vrij_krachtig', 'windDirection | noord_tot_noordoost']","De wind is matig en komt uit noord tot noordoost, aan de westkust is de wind vrij krachtig, langs de Zeeuwse kust (vrij) krachtig."
+"['cloudAmount | wolkenvelden', 'locationArea | in_het_noorden', 'locationArea | in_het_zuiden', 'timePoint | In_de_nacht_naar_vrijdag', 'weatherType | helder']","In de nacht naar vrijdag is het in het zuiden helder, in het noorden komen wolkenvelden voor."
+"['locationArea | overal', 'weatherType | droog']",Het blijft overal droog.
+['minimumTemperature | 12°C'],De minimumtemperaturen liggen rond 12°C.
+"['windAmount | zwak_tot_matig', 'windDirection | noord_tot_noordoostelijke']",De wind komt uit noord tot noordoostelijke richting en is zwak tot matig.
+"['timePoint | Vrijdag_overdag', 'weatherFrequency | flinke_perioden', 'weatherType | zon']",Vrijdag overdag zijn er flinke perioden met zon.
+"['locationArea | aan_de_kust', 'locationArea | in_het_zuidoosten_van_het_land', 'temperatureCelsius | 19°C', 'temperatureCelsius | 28°C', 'temperatureChange | loopt_op']",De temperatuur loopt op naar waarden tussen 19°C aan de kust en 28°C in het zuidoosten van het land.
+"['windAmount | zwak_tot_matig', 'windDirection | noordoosten']",De wind is zwak tot matig uit het noordoosten.
+"['cloudAmount | vrij_veel_bewolking', 'weatherArea | hier_en_daar', 'weatherType | regent']",Er is vrij veel bewolking en hier en daar regent het.
+"['locationArea | In_het_zuiden', 'weatherType | zon']",In het zuiden schijnt eerst nog de zon.
+"['locationArea | In_het_noordelijk_kustgebied', 'locationArea | in_Limburg', 'temperatureCelsius | 17', 'temperatureCelsius | 26°C']","In het noordelijk kustgebied is het een graad of 17, in Limburg is het ongeveer 26°C."
+"['locationArea | in_het_Waddengebied', 'weatherFrequency | af_en_toe', 'windAmount | matig', 'windAmount | vrij_krachtig', 'windDirection | west_tot_noordwest']","De wind waait uit west tot noordwest en is matig, in het Waddengebied af en toe vrij krachtig."
+"['cloudAmount | wolkenvelden', 'locationArea | in_het_zuiden', 'timePoint | Komende_nacht', 'weatherIntensity | lichte', 'weatherType | regen']",Komende nacht zijn er wolkenvelden met in het zuiden aanvankelijk nog lichte regen.
+"['locationArea | aan_de_kust', 'locationArea | dieper_landinwaarts', 'minimumTemperature | 13°C', 'minimumTemperature | 9°C']",De minimumtemperatuur loopt uiteen van 13°C aan de kust tot 9°C dieper landinwaarts.
+"['locationArea | in_het_noordelijk_kustgebied', 'windAmount | matig', 'windAmount | vrij_krachtig', 'windDirection | noordwestelijke']","De noordwestelijke wind is matig, in het noordelijk kustgebied vrij krachtig."
+"['cloudAmount | wolkenvelden', 'locationArea | op_de_meeste_plaatsen', 'timePoint | Zondag_overdag', 'weatherArea | hier_en_daar', 'weatherType | droog', 'weatherType | zon']",Zondag overdag zijn er wolkenvelden maar hier en daar schijnt ook de zon en het blijft op de meeste plaatsen droog.
+"['locationArea | in_het_noorden', 'locationArea | in_het_zuiden', 'maximumTemperature | 17°C', 'maximumTemperature | 21°C']",De maximumtemperatuur loopt uiteen van ongeveer 17°C in het noorden tot 21°C in het zuiden.
+"['windAmount | matige', 'windDirection | noord_tot_noordwest']",Er staat een matige wind uit noord tot noordwest.
+"['locationArea | In_het_noordelijk_kustgebied', 'locationArea | boven_het_IJsselmeer', 'weatherFrequency | af_en_toe', 'windAmount | vrij_krachtig']",In het noordelijk kustgebied en boven het IJsselmeer is de wind af en toe vrij krachtig.
+"['cloudAmount | Meest_bewolkt', 'weatherArea | plaatselijk', 'weatherIntensity | wat', 'weatherType | regen']",Meest bewolkt en plaatselijk wat regen.
+"['compassDirection | zuiden', 'weatherType | opklarend']",Van het zuiden uit opklarend.
+"['gustAmount | (zeer)_zware_windstoten', 'timePoint | Vanavond', 'weatherArea | zeer_lokaal', 'weatherIntensity | enkele_zware', 'weatherType | onweersbuien']","Vanavond trekken enkele zware onweersbuien van zuidwest naar noordoost met  (zeer) zware windstoten van 75 tot 100 km/uur, mogelijk zeer lokaal hogere windsnelheden, kans op hagel."
+"['precipitationAmount | veel', 'timePoint | in_korte_tijd', 'weatherArea | Plaatselijk']",Plaatselijk kan veel neerslag in korte tijd vallen.
+"['maximumTemperature | 21°C', 'weatherArea | lokaal']",De maximumtemperatuur loopt uiteen van 21°C aan zee tot lokaal 28°C in het zuidoosten.
+"['windAmount | zwak_tot_matig', 'windDirection | zuidoostelijk']",De wind is zuidoostelijk en zwak tot matig.
+"['timePoint | Later_op_de_dag', 'windDirection | uiteenlopende']",Later op de dag komt de wind uit uiteenlopende richtingen.
+"['locationArea | in_het_noordoosten', 'timePoint | Vannacht', 'weatherOccurringChance | kans', 'weatherType | onweersbuien']",Vannacht is er in het noordoosten eerst nog kans op onweersbuien.
+"['cloudAmount | wolkenvelden', 'minimumTemperature | 15°C']",Er zijn wolkenvelden en de minimumtemperatuur ligt rond 15°C.
+"['windAmount | matig', 'windChange | zuid_tot_zuidwest']",De wind draait naar zuid tot zuidwest en is overwegend matig.
+"['locationArea | in_het_oosten', 'timePoint | Woensdag_overdag', 'weatherFrequency | af_en_toe', 'weatherType | zon']",Woensdag overdag schijnt de zon vooral in het oosten af en toe.
+"['cloudAmount | meer_bewolking', 'locationArea | In_het_westen', 'weatherIntensity | enkele', 'weatherType | buien']",In het westen is er meer bewolking en komen enkele buien voor.
+"['temperatureCelsius | 17°C', 'timePoint | middagtemperatuur', 'weatherArea | lokaal']",De middagtemperatuur loopt uiteen van 17°C langs de zuidwest tot lokaal 26°C in het uiterste oosten.
+"['compassDirection | België', 'locationArea | in_het_zuiden', 'timePoint | Later_in_de_avond', 'weatherIntensity | enkele', 'weatherType | onweersbuien']",Later in de avond kunnen er in het zuiden enkele onweersbuien vanuit België binnendrijven.
+"['windAmount | zwakke_tot_matige', 'windDirection | uiteenlopende']",Er staat een zwakke tot matige wind uit uiteenlopende richtingen.
+"['cloudAmount | wolkenvelden', 'locationArea | op_de_meeste_plaatsen', 'weatherType | droog']",Er zijn wolkenvelden en het is op de meeste plaatsen droog.
+"['temperatureCelsius | 13°C', 'windAmount | zwak_tot_matig', 'windDirection | westelijke']","De temperaturen liggen rond de 13°C, De wind is zwak tot matig uit een westelijke richting."
+"['cloudAmount | wolkenvelden', 'locationArea | in_het_noordwesten', 'timePoint | Komende_nacht', 'weatherIntensity | lichte', 'weatherOccurringChance | niet_uit_te_sluiten', 'weatherType | bui']",Komende nacht komen er in het noordwesten wolkenvelden voor en is een lichte bui niet uit te sluiten.
+"['cloudAmount | weinig_bewolking', 'locationArea | Elders']",Elders is er weinig bewolking.
+"['locationArea | Landinwaarts', 'weatherIntensity | enkele', 'weatherType | mistbank']",Landinwaarts kan er een enkele mistbank ontstaan.
+"['locationArea | in_het_oosten', 'locationArea | vlak_aan_zee', 'locationArea | zuidoosten', 'minimumTemperature | 12°C', 'minimumTemperature | 7°C']",De minimumtemperatuur ligt tussen 7°C in het oosten en zuidoosten tot 12°C vlak aan zee.
+"['locationArea | langs_de_kust', 'windAmount | matig', 'windAmount | zwak', 'windDirection | zuid_tot_zuidwest']","De wind komt uit zuid tot zuidwest en is zwak, langs de kust matig."
+"['cloudChange | toe', 'compassDirection | westen', 'locationArea | in_het_oosten', 'timePoint | Morgenochtend', 'weatherFrequency | even', 'weatherType | zon']","Morgenochtend schijnt in het oosten eerst nog even de zon, maar van het westen uit neemt de bewolking snel toe."
+"['locationArea | in_het_westen', 'timePoint | In_de_loop_van_de_ochtend', 'weatherType | regen']",In de loop van de ochtend valt in het westen de eerste regen.
+"['locationArea | over_de_rest_van_het_land', 'timePoint | in_de_middag', 'weatherChange | breidt', 'weatherType | (mot)regen']",De (mot)regen breidt zich in de middag uit over de rest van het land.
+"['locationArea | In_het_zuidoosten', 'locationArea | elders', 'temperatureCelsius | 16', 'temperatureCelsius | 17°C', 'temperatureCelsius | 20°C']","In het zuidoosten kan het eerst nog 20°C worden, elders wordt het niet warmer dan 16 a 17°C."
+"['locationArea | langs_de_kust', 'locationArea | op_het_IJsselmeer', 'weatherOccurringChance | mogelijk', 'windAmount | hard', 'windAmount | krachtig', 'windAmount | matig_tot_vrij_krachtig', 'windChange | toe', 'windDirection | zuidwestenwind', 'windSpeedBft | 7']","De zuidwestenwind neemt toe naar matig tot vrij krachtig, langs de kust en op het IJsselmeer krachtig, mogelijk hard, 7 Bft."
+"['cloudAmount | wolkenvelden', 'locationArea | In_het_noordoosten', 'weatherType | droog']",In het noordoosten zijn er wolkenvelden en is het nog droog.
+"['locationArea | In_de_rest_van_het_land', 'locationArea | in_het_noordoosten', 'timePoint | vanavond', 'weatherFrequency | af_en_toe', 'weatherFrequency | af_en_toe', 'weatherType | regenen', 'weatherType | regent']",In de rest van het land regent het af en toe en vanavond zal het ook in het noordoosten af en toe regenen.
+"['locationArea | aan_de_kust', 'locationArea | in_het_noorden', 'weatherArea | lokaal', 'windAmount | matig', 'windAmount | vrij_krachtig', 'windDirection | zuid_tot_zuidwest']","De wind is zuid tot zuidwest en matig, aan de kust en lokaal in het noorden vrij krachtig."
+"['cloudAmount | zwaar_bewolkt', 'locationArea | in_het_zuidwesten', 'timePoint | In_de_nacht_naar_vrijdag', 'weatherIntensity | enkele', 'weatherType | opklaringen']","In de nacht naar vrijdag is het zwaar bewolkt, met in het zuidwesten ook enkele opklaringen."
+"['locationArea | In_het_noorden', 'locationArea | elders', 'locationArea | oosten', 'weatherFrequency | perioden', 'weatherIntensity | meest', 'weatherType | (buiige)_regen', 'weatherType | droog']","In het noorden en oosten zijn er nog perioden met (buiige) regen, elders is het meest droog."
+['temperatureCelsius | 9°C'],Het wordt circa 9°C.
+"['windAmount | zwakke_tot_matige', 'windDirection | tussen_west_en_zuidwest']",Er staat een zwakke tot matige wind uit richtingen tussen west en zuidwest.
+"['locationArea | elders', 'locationArea | in_het_noordoosten', 'timePoint | Vrijdagochtend', 'weatherIntensity | lichte', 'weatherType | droog', 'weatherType | opklaringen', 'weatherType | regen']","Vrijdagochtend valt er aanvankelijk in het noordoosten lichte regen, elders is het droog met opklaringen."
+"['cloudAmount | stapelwolken', 'locationArea | in_het_noorden', 'locationArea | westen', 'timePoint | In_de_middag', 'weatherIntensity | enkele', 'weatherType | bui']",In de middag zijn er stapelwolken en kan er met name in het noorden en westen een enkele bui ontstaan.
+"['weatherType | hagel', 'weatherType | onweer']",Daarbij zou onweer en hagel kunnen voorkomen.
+"['locationArea | op_veel_plaatsen', 'timePoint | In_de_loop_van_de_avond', 'weatherType | droog', 'weatherType | klaart']",In de loop van de avond wordt het droog en klaart het op veel plaatsen op.
+['temperatureCelsius | 17°C'],Het wordt ongeveer 17°C.
+"['windAmount | matig', 'windDirection | zuidwestelijk']",De wind is zuidwestelijk en matig.
+"['locationArea | in_het_noorden', 'timePoint | In_de_avond', 'windChange | zuid', 'windChange | zuidoost']","In de avond draait de wind naar zuid, in het noorden naar zuidoost."
+"['cloudAmount | veel_bewolking', 'locationArea | in_het_zuidoosten', 'weatherArea | plaatselijk', 'weatherFrequency | even', 'weatherType | (mot)regenen']",Vooral in het zuidoosten is er nog veel bewolking en kan het plaatselijk even (mot)regenen.
+"['locationArea | Elders', 'weatherType | opklaringen']",Elders zijn er steeds meer opklaringen.
+"['cloudAmount | bewolkt', 'locationArea | in_het_zuiden', 'timePoint | Komende_nacht', 'weatherIntensity | lichte', 'weatherType | regen']","Komende nacht is het in het zuiden bewolkt, mogelijk valt daar nog wat lichte regen."
+"['cloudAmount | wolkenvelden', 'locationArea | In_het_noorden', 'weatherType | droog']","In het noorden trekken eveneens wolkenvelden over, maar blijft het droog."
+['locationArea | in_het_midden'],"Met name in het midden en oosten komen opklaringen voor, waarin mistbanken ontstaan."
+"['minimumTemperature | -2°C', 'weatherArea | lokaal']",De minimumtemperaturen lopen uiteen van -2°C lokaal in het oosten tot 5°C in het uiterste zuiden.
+"['locationArea | in_het_zuidoosten', 'windAmount | matige', 'windDirection | noordelijke']","Er staat een matige noordelijke wind, in het zuidoosten is de wind zwak."
+"['windAmount | zwak', 'windChange | af']",De wind neemt af naar zwak.
+"['cloudAmount | bewolking', 'cloudChange | weg', 'locationArea | overal', 'timePoint | Morgen_overdag', 'weatherChange | op', 'weatherType | mist']","Morgen overdag trekt de bewolking weg, lost de mist op en wordt het overal zonnig."
+"['weatherType | droog', 'windAmount | zwakke_tot_matige', 'windDirection | west-_tot_noordwestenwind']",Het blijft droog met een zwakke tot matige west- tot noordwestenwind.
+"['temperatureCelsius | 9°C', 'timePoint | middagtemperaturen']",De middagtemperaturen lopen uiteen van 9°C langs de noordkust tot 12°C in het zuidoosten.
+"['cloudAmount | wisselend_bewolkt', 'weatherArea | lokaal', 'weatherOccurringChance | niet_uitgesloten', 'weatherType | bui']","Het is wisselend bewolkt en lokaal komt er een bui voor, korrelhagel is hierbij niet uitgesloten."
+"['compassDirection | noorden', 'timePoint | In_de_loop_van_de_middag', 'weatherType | buien']",In de loop van de middag neemt het aantal buien van het noorden uit af.
+"['locationArea | langs_de_kust', 'maximumTemperature | 11°C', 'temperatureHotCold | fris', 'windAmount | matige', 'windDirection | noord-_tot_noordwestenwind']","Met een maximumtemperatuur van ca. 11°C is het fris en er staat een matige, langs de kust vrij krachtige noord- tot noordwestenwind."
+"['cloudAmount | wolkenvelden', 'locationArea | in_de_kustprovincies', 'timePoint | Komende_nacht', 'weatherIntensity | enkele', 'weatherType | opklaringen']","Komende nacht wisselen wolkenvelden en opklaringen elkaar af, in de kustprovincies kan een enkele bui vallen."
+"['minimumTemperature | rond_het_vriespunt', 'weatherType | opklaringen']",De minimumtemperatuur loopt uiteen van rond het vriespunt in opklaringen dieper landinwaarts tot 5°C langs de kust.
+"['windAmount | zwak_tot_matig', 'windDirection | westelijke']",De westelijke wind is zwak tot matig boven land en vrij krachtig langs de kust.
+"['cloudAmount | bewolking', 'locationArea | het_noorden_van_het_land', 'timePoint | Maandagochtend', 'weatherType | buien']",Maandagochtend bereikt een gebied met bewolking en buien het noorden van het land.
+"['compassDirection | zuidwaarts', 'timePoint | in_de_loop_van_de_middag_en_avond']",Dit gebied trekt in de loop van de middag en avond langzaam zuidwaarts.
+"['locationArea | In_de_zuidelijke_helft_van_het_land', 'weatherIntensity | enkele', 'weatherType | zon']",In de zuidelijke helft van het land is er ook ruimte voor de zon maar kunnen eveneens enkele buien ontstaan.
+"['compassDirection | noorden', 'timePoint | Later_in_de_middag_en_in_de_avond', 'weatherType | droog']",Later in de middag en in de avond wordt het van het noorden uit droog en klaart het op.
+"['maximumTemperature | 12°C', 'temperatureHotCold | frisse']",Het wordt opnieuw een frisse dag met maxima rond 12°C.
+"['locationArea | boven_land', 'windDirection | west_tot_noordwest']","De wind is west tot noordwest, matig boven land en vrij krachtig langs de kust."
+"['cloudAmount | enkele_stapelwolken', 'locationArea | in_de_noordelijke_helft', 'timePoint | vandaag', 'weatherType | zonnig']","Het is vandaag zonnig, al komen er vooral in de noordelijke helft ook enkele stapelwolken voor."
+"['locationArea | overal', 'weatherType | droog']",Het blijft overal droog.
+"['locationArea | in_het_noorden', 'locationArea | in_het_zuidoosten', 'maximumTemperature | 11°C', 'maximumTemperature | 17°C']",De maximumtemperaturen lopen uiteen van 11°C in het noorden tot 17°C in het zuidoosten.
+"['windAmount | matige', 'windDirection | noord-_tot_noordoostelijke']",De matige wind komt uit een noord- tot noordoostelijke richting.
+"['cloudType | hoge_bewolking', 'timePoint | Vannacht', 'weatherType | droog']",Vannacht kunnen er velden met hoge bewolking voorkomen maar blijft het droog.
+"['weatherArea | Lokaal', 'weatherIntensity | ondiepe', 'weatherType | mistbanken']",Lokaal ontstaan ondiepe mistbanken.
+"['locationArea | aan_de_kust', 'locationArea | in_het_binnenland', 'temperatureCelsius | 2°C', 'temperatureCelsius | 7°C', 'temperatureChange | koelt_af']",Het koelt af naar waardes tussen 7°C aan de kust tot 2°C in het binnenland.
+"['locationArea | in_het_oosten', 'temperatureCelsius | net_onder_nul', 'weatherArea | Zeer_lokaal']",Zeer lokaal kan de temperatuur in het oosten net onder nul komen.
+"['windAmount | zwakke', 'windDirection | noord-_tot_noordoostenwind']",Er staat een zwakke noord- tot noordoostenwind.
+"['timePoint | Morgen_overdag', 'weatherFrequency | overwegend', 'weatherType | droog', 'weatherType | zonnig']",Morgen overdag is het droog en overwegend zonnig.
+"['locationArea | in_het_noorden', 'locationArea | in_het_zuidoosten', 'temperatureCelsius | 12°C', 'temperatureCelsius | 18°C', 'timePoint | middagtemperaturen']",De middagtemperaturen komen uit tussen 12°C in het noorden en 18°C in het zuidoosten.
+"['windAmount | matig', 'windDirection | noordoosten']",De wind komt uit het noordoosten en is matig.
+"['weatherType | Bewolkt', 'weatherType | regen']",Bewolkt en af en toe wat regen.
+"['compassDirection | zuidwesten', 'timePoint | Vanmiddag', 'weatherIntensity | harder', 'weatherType | regenen']",Vanmiddag gaat het van het zuidwesten uit opnieuw harder regenen.
+['precipitationAmount | 10-20'],"In totaal valt er (inclusief de neerslag van de afgelopen nacht) 10-20 mm, in het zuiden en zuidwesten lokaal 20-40 mm."
+"['compassDirection | zuiden', 'timePoint | Later_vanavond', 'weatherType | klaart']",Later vanavond klaart het van het zuiden uit op maar kan een enkele bui tot ontwikkeling komen.
+"['compassDirection | zuidwesten', 'locationArea | Waddengebied', 'timePoint | eind_van_de_middag', 'timePoint | middagtemperaturen', 'windDirection | zuidenwind']","De middagtemperaturen liggen rond 6°C, vanaf het eind van de middag neemt de temperatuur vanuit het zuidwesten toe naar ongeveer 9 a 10 °C. De zuidenwind is matig, in het Waddengebied (vrij) krachtig."
+"['timePoint | halverwege_de_middag', 'windChange | fors_toe', 'windTurning | zuidwesten_naar_een_westelijke_richting', 'windType | vlagerig']","Vanaf halverwege de middag draait de wind vanuit het zuidwesten naar een westelijke richting, neemt dan in korte tijd fors toe en wordt vlagerig."
+"['locationArea | Boven_land', 'locationArea | langs_de_kust', 'windChange | toe']","Boven land neemt de wind dan toe naar vrij krachtig tot krachtig, langs de kust en boven het IJsselmeer naar hard, mogelijk stormachtig."
+"['gustAmount | zware', 'locationArea | kustgebieden']","Daarbij is er in de kustgebieden, maar mogelijk ook in de Limburgse heuvels, een kans op zware windstoten tussen 75 en 90 km/uur."
+"['compassDirection | zuiden', 'locationArea | noordelijke_helft_van_het_land', 'timePoint | In_de_nacht_van_dinsdag_naar_woensdag', 'weatherType | enkele_buien']","In de nacht van dinsdag naar woensdag komen er aanvankelijk in de noordelijke helft van het land nog enkele buien voor, maar vanuit het zuiden wordt het droog en trekken opklaringen het land binnen."
+['minimumTemperature | 4°C'],De minima komen uit op omstreeks 4°C.
+"['gustAmount | zware', 'gustVelocity | 80', 'windAmount | matig_tot_vrij_krachtig', 'windDirection | west_tot_zuidwestelijke']","De west tot zuidwestelijke wind is matig tot vrij krachtig, aan zee en boven het IJsselmeer hard, mogelijk stormachtig met vooral in het Waddengebied een kans op zware windstoten van rond 80 km/uur."
+"['compassDirection | zuiden', 'timePoint | In_de_loop_van_de_nacht', 'windChange | af']",In de loop van de nacht neemt de wind vanuit het zuiden af.
+"['timePoint | Woensdag_overdag', 'timePoint | halverwege_de_middag']",Woensdag overdag zijn er wolkenvelden en blijft het tot halverwege de middag droog.
+"['compassDirection | zuiden', 'timePoint | Aan_het_eind_van_de_middag', 'weatherType | lichte_regen']",Aan het eind van de middag kan er van het zuiden uit wat lichte regen vallen.
+"['temperatureCelsius | 10°C', 'timePoint | middagtemperatuur']",De middagtemperatuur komt uit op ongeveer 10°C.
+"['locationArea | aan_de_kust', 'windAmount | matig', 'windTurning | zuid_naar_zuidoost']",De wind draait van zuid naar zuidoost en is matig en aan de kust af en toe vrij krachtig.

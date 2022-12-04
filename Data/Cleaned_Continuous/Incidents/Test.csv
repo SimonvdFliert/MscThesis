@@ -1,0 +1,448 @@
+input,output
+"['accidentAddress | southeast_Houston', 'accidentDate | overnight', 'shootingType | violent_shooting']",A bar fight ends in a violent shooting overnight in southeast Houston.
+"['accidentAddress | La_Revolucion_Sports_Bar_on_San_Antonio_and_Channelside_Streets', 'victimGender | men', 'victimNumber | at_least_two']",Police say at least two men were shot at La Revolucion Sports Bar on San Antonio and Channelside Streets.
+"['victimNumber | One', 'victimNumber | as_many_as_four', 'victimStatus | critical_condition']","One person is in critical condition, and as many as four victims may be involved."
+"['hospitalName | Bayshore_Medical_Center', 'takenToHospital | True', 'victimNumber | Two']",Two of the victims showed up seeking help at Bayshore Medical Center.
+"['suspectStatus | on_the_run', 'suspectVehicle | baby_blue_Chrysler_300']","The shooter is on the run, driving away in a baby blue Chrysler 300."
+"['accidentAddress | west_Phoenix_house_party', 'shootingType | drive-by_shooting', 'victimAge | 19-year-old', 'victimGender | woman', 'victimStatus | fatally_wounded']",Authorities have identified a 19-year-old woman who was fatally wounded in a drive-by shooting at a west Phoenix house party.
+"['accidentDate | early_Sunday', 'shootingType | shooting', 'takenToHospital | True', 'victimName | Jermonee_Tolliver_Moore', 'victimStatus | died']",They say Jermonee Tolliver Moore was taken to a trauma center after the shooting early Sunday and later died.
+"['victimGender | men', 'victimNumber | three', 'victimStatus | critical_injuries']",Police say three men also were shot and two suffered critical injuries.
+"['victimAge | 19', 'victimGender | men']",The wounded men range in age from 19 to 21.
+"['accidentAddress | home_near_107th_Avenue_and_Camelback_Road', 'accidentDate | about_2_a.m._Sunday']",Phoenix police say officers responded to a home near 107th Avenue and Camelback Road about 2 a.m. Sunday.
+"['shootingType | shooting', 'victimAge | 51-year-old', 'victimBased | Molino,_Colombia', 'victimGender | woman', 'victimName | Lurbis_Elena_Vence', 'victimStatus | killed']","The Kern County Coroner has identified the woman killed in the shooting to be 51-year-old Lurbis Elena Vence of Molino, Colombia."
+"['accidentAddress | Greyhound_bus_in_Lebec', 'accidentDate | Monday_morning', 'shootingType | shooting', 'victimNumber | One', 'victimNumber | five']",One person is dead and five others were injured during a shooting on Greyhound bus in Lebec Monday morning.
+"['accidentAddress | bus', 'accidentDate | around_1:30_a.m.', 'shootingType | shooting']",Police said the shooting happened around 1:30 a.m. on the bus as it was headed north on I-5 over the Grapevine.
+"['shootingType | shooting', 'victimAge | 51-year-old', 'victimBased | Colombia', 'victimGender | woman', 'victimStatus | shot_and_killed']","During the shooting, a 51-year-old woman from Colombia was shot and killed."
+"['victimNumber | five', 'victimStatus | injured']",Police have identified the other five who were injured as:
+"['victimAge | 45-year-old', 'victimGender | male', 'victimRace | Hispanic', 'victimStatus | airlifted_out_with_major_injuries']",45-year-old Hispanic male who was airlifted out with major injuries
+"['victimAge | 39-year-old', 'victimGender | female', 'victimRace | black', 'victimStatus | major_injuries']",39-year-old black female with major injuries
+"['victimAge | 19-year-old', 'victimGender | female', 'victimRace | Hispanic']",19-year-old Hispanic female
+"['victimAge | 49-year-old', 'victimGender | male', 'victimRace | Hispanic', 'victimStatus | stable_with_moderate_injuries']",49-year-old Hispanic male who is stable with moderate injuries
+"['victimAge_Group | minor', 'victimGender | female', 'victimRace | Hispanic']",A Hispanic female minor
+['suspectStatus | arrested'],"After the shooting, the passengers disarmed the suspect and the bus driver pulled over to the right shoulder and the gunman left the bus voluntarily and left the gun behind on the bus before being arrested by authorities."
+"['shootingType | shooting', 'suspectWeapon | nine_millimeter_handgun']",Police said the suspect used a nine millimeter handgun during the shooting.
+"['accidentAddress | University_City_apartment', 'accidentDate | early_Saturday', 'victimAge | 20-year-old', 'victimGender | man', 'victimNumber | three', 'victimStatus | killed']",A 20-year-old man was killed and three others suffered non-life threatening gunshot wounds at a University City apartment early Saturday.
+['victimStatus | dead'],Medic pronounced the victim dead at the scene.
+['victimName | Adrian_Potts'],Police on Saturday night identified him as Adrian Potts.
+"['hospitalName | Carolinas_Medical_Center_University', 'victimGender | male', 'victimNumber | Two', 'victimNumber | fourth']","Two other male victims remained hospitalized at Carolinas Medical Center University, while the fourth victim was treated and released at the hospital Saturday morning, police said."
+"['accidentAddress | apartment', 'accidentDate | shortly_before_3_a.m.', 'shootingType | shootings']","The shootings happened shortly before 3 a.m. after a fight broke out during a large gathering at the apartment, police said."
+"['accidentAddress | 4000_block_of_Collegiate_Avenue,_off_Pavilion_Boulevard_south_of_PNC_Music_Pavilion', 'accidentAddress | apartment']","The apartment is in the 4000 block of Collegiate Avenue, off Pavilion Boulevard south of PNC Music Pavilion."
+"['accidentAddress | 5300_block_of_East_Rosedale_Street,_near_Rosedale_Plaza_Park', 'accidentDate | about_5:30_p.m.', 'shootingType | shooting']","The shooting occurred about 5:30 p.m. in the 5300 block of East Rosedale Street, near Rosedale Plaza Park."
+"['accidentAddress | Fort_Worth', 'accidentDate | Sunday_evening', 'shootingType | drive-by_shooting', 'victimAge_Group | preschoolers', 'victimNumber | Four', 'victimStatus | injured']","Four people, including two preschoolers, were injured Sunday evening in a drive-by shooting in Fort Worth, police say."
+"[""accidentAddress | outside_Smokey's_Paradise_Food_Mart_in_the_5300_block_of_East_Rosedale_Street,_near_Rosedale_Plaza_Park"", 'accidentDate | about_5:30_p.m.', 'suspectGender | man']","A man opened fire about 5:30 p.m. outside Smokey's Paradise Food Mart in the 5300 block of East Rosedale Street, near Rosedale Plaza Park."
+"['accidentAddress | west', 'suspectVehicle | gray_Nissan_Altima']","He fired from a gray Nissan Altima and left the area going west, police said."
+"[""hospitalName | Cook_Children's_Medical_Center"", 'takenToHospital | True', 'victimAge | 3-year-olds', 'victimAge_Group | children', 'victimNumber | two', 'victimStatus | serious_condition']","The two children, both 3-year-olds, were transported in serious condition to Cook Children's Medical Center."
+"['victimAge_Group | child', 'victimNumber | One', 'victimNumber | other']","One child was shot in the leg and the other was shot in the arm, police said."
+"['victimAge | 19-year-old', 'victimGender | men', 'victimNumber | two', 'victimStatus | shot_in_the_leg']","The two men, a 19-year-old and a 20-year-old, were both shot in the leg, police said."
+"['hospitalName | John_Peter_Smith_Hospital', 'takenToHospital | True', 'victimAge_Group | adults']",Both adults were transported to John Peter Smith Hospital.
+"['victimNumber | One', 'victimStatus | serious_condition']","One was in serious condition and the other had minor injuries, according to MedStar."
+"['victimStatus | None_of_the_injuries', 'victimStatus | life-threatening']",None of the injuries were thought to be life-threatening.
+"['accidentAddress | near_Lewis_Street_in_Rochester', 'accidentDate | early_Saturday', 'victimGender | men', 'victimNumber | Four', 'victimStatus | shot']",Four men were shot near Lewis Street in Rochester early Saturday.
+"['accidentAddress | 188_Lewis_St.', 'accidentDate | 4:09_a.m.', 'victimGender | man', 'victimStatus | shot']","Rochester police responded at 4:09 a.m. to 188 Lewis St. after a 911 caller reported a man shot, Rochester Police Department Capt. Michael Callari said in a news release."
+"['takenToHospital | True', 'victimNumber | four']","At that time, Rochester General Hospital reported receiving four gunshot victims who arrived in private vehicles."
+"['victimName | Patrick_Carter', 'victimName | Rickey_Harvey', 'victimStatus | shot_at_least_once_in_the_upper_body']","Rickey Harvey, 29, Patrick Carter, 34, Joel Allen and Darelle Scott, 26, were shot at least once in the upper body."
+"['victimStatus | None_of_the_injuries', 'victimStatus | life-threatening']","None of the injuries were life-threatening, Callari said."
+['shootingType | incident'],Details of the incident are unknown.
+"['accidentAddress | southwest_Fresno_market_two_blocks_from_Edison_High_School', 'accidentDate | Wednesday_evening', 'victimNumber | Five', 'victimStatus | shot']","Five people were shot Wednesday evening at a southwest Fresno market two blocks from Edison High School, where a boys water polo playoff match was briefly halted until police secured the shooting scene."
+"[""accidentAddress | parking_lot_outside_of_Zack's_Market_at_California_Avenue_and_Martin_Luther_King_Jr._Boulevard"", 'accidentDate | just_before_6_p.m.', 'shootingType | shooting']",The shooting occurred just before 6 p.m. in the parking lot outside of Zack's Market at California Avenue and Martin Luther King Jr. Boulevard.
+"['victimNumber | one', 'victimNumber | three']","Police said three men, one boy and one girl were hit."
+"['victimGender | men', 'victimNumber | One', 'victimStatus | serious_condition']","One of the men is in serious condition, police Lt. Dave Ramos said."
+['victimStatus | nonlethal_injuries'],"The other victims had nonlethal injuries, he said."
+['victimAge_Group | children'],Ramos did not know the age of the children.
+"['hospitalName | Community_Regional_Medical_Center', 'takenToHospital | True']",The victims were transported to Community Regional Medical Center.
+['shootingType | shooting'],"Police believe the victims were targeted, but they don't know whether the shooting was gang-related, Ramos said."
+['accidentAddress | parking_lot'],He said a large group of people was gathered in the parking lot when the gunman came up and began shooting.
+"['suspectGender | man', 'suspectRace | black', 'suspectVehicle | white_SUV']",Police said the only description they have so far is that the suspect is a black man who fled in possibly a white SUV.
+['suspectStatus | still_being_sought'],He is still being sought.
+['shootingType | shooting'],"At Edison High School two blocks away, the Division III boys water polo semi-final between Edison and Exeter High was interrupted briefly because of the shooting."
+"['accidentAddress | house_party_in_Hobbs', 'suspectGender | man', 'suspectStatus | facing_charges', 'victimNumber | three']",The man who police say pulled the trigger at a house party in Hobbs is facing charges for the murders of three people.
+"['suspectName | Bishop_Henderson', 'victimGender | man', 'victimStatus | shoot']","Initially, Bishop Henderson was charged with assault after witnesses told police they saw him shoot a man in the face."
+"['suspectName | Henderson', 'victimName | Kristal_Avena', 'victimStatus | deaths']","However, Henderson is now charged with three counts of first-degree murder for the deaths of Kristal Avena, Khalil Carter and Lamar Lee-Kane."
+['suspectName | Henderson'],Court documents do not indicate why investigators now believe Henderson fired the deadly shots.
+"['accidentAddress | Lux_nightclub_on_Worthington_Street', 'accidentDate | Sunday_morning', 'shootingType | shooting', 'victimNumber | four', 'victimStatus | wounded']","Police cars and yellow crime scene tape surround the area in front of the Lux nightclub on Worthington Street, where four people were wounded in a shooting Sunday morning."
+"['accidentAddress | Springfield', 'accidentDate | early_Sunday', 'hospitalName | Baystate_Medical_Center', 'shootingNumber | two', 'shootingType | shootings', 'victimNumber | five']",A total of five gunshot victims were being treated at Baystate Medical Center in connection with two early Sunday shootings in Springfield.
+"['accidentAddress | outside_Lux_Nightclub_at_90_Worthington_St.', 'accidentDate | just_before_2_a.m._Sunday', 'shootingType | crossfire_between_two_rival_groups_firing_at_each_other', 'victimNumber | Four', 'victimStatus | wounded']",Four people were wounded after they apparently got caught in the crossfire between two rival groups firing at each other outside Lux Nightclub at 90 Worthington St. just before 2 a.m. Sunday.
+"['accidentAddress | nightclub', 'accidentDate | around_closing_time', 'shootingType | shootout']",Springfield police Capt. Harry Kastrinakis said preliminary information indicates the groups were involved in a shootout as people were leaving the nightclub around closing time.
+['numberOfRoundsFired | 20_rounds'],An estimated 20 rounds were fired.
+['accidentDate | 1:58_a.m.'],Police responded to the scene at 1:58 a.m.
+['shootingType | gunfire'],Some officers who were within earshot of the gunfire responded within moments.
+"['victimNumber | One', 'victimNumber | four']","One shooting victim showed up at Mercy Medical Center for treatment, while four victims were brought to Baystate's trauma unit."
+"['victimStatus | None_of_their_injuries', 'victimStatus | life-threatening']",None of their injuries were believed to be life-threatening.
+"['victimNumber | Some', 'victimStatus | shot_in_the_torso']","Some were shot in the torso, but most were hit in the arms or legs, Kastrinakis said."
+"[""accidentAddress | Baystate's_parking_lot"", 'victimNumber | One', 'victimStatus | shot_in_the_leg']","One victim was shot in the leg in Baystate's parking lot, but Kastrinakis said police were unsure if that incident was related to the shooting outside the nightclub."
+"['accidentAddress | in_the_parking_lot', 'shootingType | gunfire']","Several police police units were stationed near the emergency room entrance as a precaution to prevent any retribution attacks, but gunfire erupted in the parking lot despite the police presence."
+"['accidentAddress | downtown', 'shootingType | gunfight']",Police do not know how many shooters were involved in the downtown gunfight outside Lux.
+['shootingType | incident'],The incident remains under investigation.
+"['accidentAddress | 2900_block_of_Martin_Luther_King,_Jr._Avenue,_Southeast', 'accidentDate | Tuesday,_January_31,_2017', 'shootingType | Assault_with_a_Dangerous_Weapon_(Gun)_offense']","The Metropolitan Police Department seeks the public's assistance in identifying a vehicle of interest in reference to an Assault with a Dangerous Weapon (Gun) offense that occurred in the 2900 block of Martin Luther King, Jr. Avenue, Southeast, on Tuesday, January 31, 2017."
+['accidentDate | approximately_10:29_pm'],"At approximately 10:29 pm, the victims were walking when a vehicle passed by."
+['victimNumber | four'],"Shots were fired from the vehicle, striking four victims."
+"['takenToHospital | True', 'victimStatus | non-life_threatening_injuries']",All victims were transported to local hospitals with non-life threatening injuries.
+"['accidentAddress | 2000_block_of_16th_Street,_Southeast', 'accidentDate | Wednesday,_January_17,_2018', 'shootingType | Homicide_offense']","Detectives from the Metropolitan Police Department's Homicide Branch seek the public's assistance in identifying and locating a vehicle of interest in reference to a Homicide offense that occurred in the 2000 block of 16th Street, Southeast, on Wednesday, January 17, 2018."
+"['accidentAddress | listed_location', 'accidentDate | approximately_11:08_am']","At approximately 11:08 am, the victims were standing at the listed location."
+"['victimAge_Group | adult', 'victimNumber | One', 'victimNumber | three', 'victimStatus | struck_by_the_gunfire']",One adult female and three adult males were struck by the gunfire.
+['takenToHospital | True'],All of the victims were transported to local hospitals for treatment.
+"['victimAge_Group | adult', 'victimGender | male', 'victimNumber | three', 'victimStatus | non-life_threatening_injuries']",The three adult male victims sustained non-life threatening injuries.
+"['victimAge_Group | adult', 'victimGender | female', 'victimStatus | dead']",The adult female victim succumbed to her injuries and was pronounced dead.
+"['accidentAddress | Southwest,_DC', 'victimAge | 23_year-old', 'victimName | Jasmine_Lashai_Light']","The decedent has been identified as 23 year-old Jasmine Lashai Light, Southwest, DC."
+"['accidentAddress | northwestern_Missouri', 'shootingType | fatally_shooting', 'suspectAge | 24-year-old', 'suspectGender | man', 'suspectStatus | accused', 'victimNumber | four']",A 24-year-old man is accused of fatally shooting four of his family members then burning their bodies in northwestern Missouri.
+"['accidentAddress | their_home_near_Edgerton,_30_miles_north_of_Kansas_City', 'accidentDate | Feb._19', 'suspectName | Grayden_Denham', 'victimAge | 3-month-old', 'victimGender | sister', 'victimNumber | two', 'victimStatus | deaths']","Grayden Denham is charged with four counts of first-degree murder in the Feb. 19 deaths of two of his grandparents, his sister and her 3-month-old son at their home near Edgerton, 30 miles north of Kansas City."
+"['victimNumber | four', 'victimStatus | shot_in_the_head_then_set_alight']",Authorities say all four were shot in the head then set alight.
+['suspectName | Denham'],"Denham also is charged with animal abuse, armed criminal action, tampering and second-degree arson."
+['suspectStatus | taken_into_custody'],He was taken into custody Feb. 21 after being found walking naked in northwestern Arizona.
+['suspectStatus | arrested'],"He was returned earlier this month to Missouri, where he was arrested on suspicion of stealing his grandparents” car."
+"['accidentAddress | East_Oakland', 'accidentDate | Wednesday_evening', 'shootingType | shooting', 'victimGender | man', 'victimNumber | one']","A shooting in East Oakland Wednesday evening left one young man dead and three others injured, Oakland police officials said Thursday."
+"['accidentAddress | 8900_block_of_MacArthur_Boulevard', 'accidentDate | 5:31_p.m.', 'victimGender | male', 'victimNumber | four', 'victimStatus | suffering_from_gunshot_wounds']",Officers responded to the 8900 block of MacArthur Boulevard at 5:31 p.m. and found four male victims suffering from gunshot wounds.
+"['victimAge | 18-year-old', 'victimGender | man', 'victimStatus | died']",An 18-year-old man died of his injuries.
+"['victimAge | 17', 'victimNumber | three', 'victimStatus | suffered_non-fatal_injuries']","The three other victims who suffered non-fatal injuries are 17, 25 and 29 years old."
+['accidentAddress | just_down_the_street_from_Castlemont_High_School'],The site of the shooting is just down the street from Castlemont High School.
+['victimAge | 18-year-old'],The department is withholding the name of the 18-year-old victim pending notification of next of kin
+"['accidentDate | Friday_evening', 'shootingType | gunfire', 'takenToHospital | True', 'victimAge | 12-year-old', 'victimAge_Group | teens', 'victimGender | boy', 'victimNumber | five', 'victimStatus | shot_and_killed']",A 12-year-old boy was shot and killed after being caught in gunfire that also left five teens in the hospital on Friday evening.
+"['accidentAddress | sidewalk_near_East_116th_Street', 'accidentDate | Around_7:30_p.m.', 'victimAge_Group | teens']","Around 7:30 p.m., a group of teens were walking on a sidewalk near East 116th Street."
+"['suspectGender | males', 'suspectNumber | 3-4', 'suspectWeapon | handguns', 'victimAge_Group | teens']","According to Cleveland police, they were approached by 3-4 males who produced handguns and began firing at the teens."
+"['victimAge | 12-year-old', 'victimGender | son']","The shots got the attention of a nearby shop owner and his 12-year-old son, who both came outside to investigate."
+"['victimAge | 12-year-old', 'victimStatus | struck_by_a_bullet_in_the_torso']","When more shots were fired, the two retreated back into the store, where they discovered the 12-year-old had been struck by a bullet in the torso."
+"['victimGender | boy', 'victimStatus | dead']",The boy was later pronounced dead at the scene.
+"['victimGender | father', 'victimStatus | uninjured']",The father was uninjured.
+"['hospitalName | University_Hospitals', 'takenToHospital | True', 'victimAge_Group | teens', 'victimNumber | five', 'victimStatus | shot']","The five teens who were shot and taken to University Hospitals, where one remains confined with a gunshot wound to the head."
+"['suspectDescription | black_or_darkly-colored_hoodies', 'suspectOccupation | juveniles']","There have been no arrests, but police say the suspects were wearing black or darkly-colored hoodies and are also likely juveniles."
+"['shootingType | shooting_incident', 'victimNumber | two', 'victimNumber | two']",The Savannah Police Department's Violent Crimes Unit is investigating a shooting incident that resulted in two deaths and two injured people.
+"['accidentAddress | 6900_block_of_Damascus_Road,_near_Skidaway_and_Eisenhower', 'accidentDate | around_9:40_p.m.', 'victimGender | men', 'victimNumber | multiple', 'victimStatus | gunshot_wounds']","Police responded to the 6900 block of Damascus Road, near Skidaway and Eisenhower, around 9:40 p.m., to discover multiple men suffering from gunshot wounds."
+"['victimAge | 27-year-old', 'victimStatus | died']",They say 27-year-old Devonte Henneghan and 30-year-old James Fields Jr. died as a result of their injuries.
+"['takenToHospital | True', 'victimAge | 28-year-old', 'victimGender | male', 'victimStatus | unknown_injuries']","Two others, a 28-year-old male and a 27-year-old male, were transported to an area hospital with unknown injuries."
+['shootingType | incident'],Detectives are actively investigating the incident and say this does not appear to be the result of a random shooting.
+['shootingType | shooting'],Anyone with information regarding this shooting is asked to contact the Violent Crimes Tip Line at (912) 525-3124.
+"['accidentAddress | Germantown_section_of_Philadelphia', 'victimNumber | Four', 'victimStatus | hospitalized']",Four people are hospitalized after being hit by gunfire in the Germantown section of Philadelphia.
+"['accidentAddress | 400_block_of_Penn_Street', 'accidentDate | after_10:30_p.m._Thursday']",It happened after 10:30 p.m. Thursday in the 400 block of Penn Street.
+"['numberOfRoundsFired | 18_shell_casings', 'suspectWeapon | semi-automatic_weapon']",Police arrived at the scene to find 18 shell casings from a semi-automatic weapon.
+"['hospitalName | Albert_Einstein_Medical_Center', 'takenToHospital | True', 'victimNumber | four']",All four were taken to Albert Einstein Medical Center in a private vehicle.
+['victimStatus | in_stable_condition'],All were listed in stable condition.
+"['accidentAddress | HOUSTON', 'accidentAddress | Houston_flea_market', 'accidentDate | Sunday_night', 'victimNumber | Seven', 'victimStatus | injured']","HOUSTON (CBSDFW.COM) — Seven people were injured at a Houston flea market Sunday night, authorities said."
+"['accidentAddress | Mercado_Sabadomingo', 'shootingType | shooting', 'suspectGender | man', 'suspectNumber | one', 'suspectStatus | detained']",The incident happened at the Mercado Sabadomingo and that one man was detained in the shooting.
+['victimNumber | one'],"Harris County Sheiff Ed Gonzalez said that one person was hit by a bullet, which then ricocheted and injured six others."
+['victimStatus | injuries_were_not_life-threatening'],The injuries were not life-threatening.
+"['suspectGender | man', 'suspectStatus | detained', 'suspectWeapon | gun']","According to Gonzalez, the man who was detained claimed the gun accidentally went off while it was in his pocket."
+['victimStatus | shot'],Gonzalez said the person who was shot did not know the suspect.
+"['accidentAddress | Auburn_Gresham', 'accidentDate | early_Saturday', 'shootingType | shooting', 'victimNumber | One']","CHICAGO — One person was killed and three others were wounded in an Auburn Gresham shooting early Saturday, police said."
+"['accidentAddress | 8300_block_of_South_Hermitage_Avenue', 'accidentDate | 1:20_a.m.', 'suspectNumber | three', 'suspectVehicle | white_car']","At 1:20 a.m., the victims were sitting on a front porch in the 8300 block of South Hermitage Avenue when three people got out of a white car, walked up to the victims and fired shots, police said."
+"['hospitalName | Advocate_Christ_Medical_Center', 'takenToHospital | True', 'victimAge | 26-year-old', 'victimGender | man', 'victimStatus | hit_in_his_chest_and_stomach']","A 26-year-old man was hit in his chest and stomach and was taken to Advocate Christ Medical Center, where he was pronounced dead, police said."
+['victimName | James_McChristian'],"James McChristian, of the same block where he was shot, was pronounced dead at 2:03 a.m., according to the Cook County Medical Exmainer's Office."
+['victimStatus | died_from_a_gunshot_wound_in_his_torso'],An autopsy showed he died from a gunshot wound in his torso in a homicide.
+"['hospitalName | Advocate_Christ_Medical_Center', 'takenToHospital | True', 'victimAge | 25-year-old', 'victimGender | woman', 'victimStatus | hit_in_her_stomach', 'victimStatus | stable']","A 25-year-old woman was hit in her stomach and was taken to Advocate Christ Medical Center, where her condition was not available but she was listed as ""stable,"" police said."
+"['victimAge | 23-year-old', 'victimAge | 23-year-old', 'victimStatus | hit_in_her_leg']",A 23-year-old woman was hit in her leg and was in good condition and a 23-year-old man was hit in his shoulder and was in good condition.
+"['hospitalName | Advocate_Christ_Medical_Center', 'takenToHospital | True']",They were also at Advocate Christ Medical Center.
+['shootingType | gang-related'],A police source said the shooting was gang-related.
+"['accidentAddress | Westport', 'accidentDate | Sunday_morning', 'shootingType | shooting', 'suspectGender | man', 'suspectStatus | charged']",A man was charged with seven counts of assault and armed criminal action for his alleged part in a shooting in Westport on Sunday morning.
+['suspectName | Kelvin_Clark'],"Kelvin Clark's bond was set for 250,000."
+"['shootingType | shooting', 'victimNumber | Six', 'victimNumber | one']",Six people were shot and one remains in critical condition after the shooting.
+"['accidentAddress | Westport_Art_Fair', 'personnelArrivedTime | around_3:30_a.m.', 'suspectGender | man']","A number of officers were on scene around 3:30 a.m. following the Westport Art Fair, when they observed a man shoot into a crowd of people and then get into a car."
+"['suspectNumber | One', 'suspectStatus | taken_into_custody']",One person was taken into custody.
+"['suspectNumber | second', 'suspectStatus | arrested']",A short time later a second suspect was arrested.
+"['victimNumber | One', 'victimNumber | five']","One of the victims is in critical condition, five others are listed as non-life threatening."
+"['accidentAddress | Columbus,_Ohio', 'accidentDate | Saturday', 'suspectStatus | being_sought', 'victimNumber | four', 'victimStatus | deaths']","A suspect was being sought Saturday in the shooting deaths of four people in Columbus, Ohio, police said."
+"['victimNumber | two', 'victimNumber | two']","Officers arriving at the large, blue two-story home in the city's South Linden section found the bloodied bodies of two men and two women."
+"['personnelArrivedTime | 7:26_a.m._Saturday', 'victimGender | woman', 'victimStatus | injured']",An injured woman was found outside the house when police arrived at 7:26 a.m. Saturday.
+"['shootingType | shooting_spree', 'victimGender | her', 'victimStatus | injuries']","It wasn't immediately disclosed whether her injuries, considered non-life threatening, related to the shooting spree."
+"['hospitalName | Grant_Medical_Center', 'takenToHospital | True']",She was rushed to Grant Medical Center.
+"['accidentDate | about_5:30_a.m.', 'suspectGender | man_or_woman', 'suspectStatus | seen_running_from_the_house']",The Dispatch reported a neighbor told police that a person — unclear whether it was a man or woman — was seen running from the house about 5:30 a.m.
+"['accidentAddress | Chesapeake,_Va.', 'accidentDate | Saturday_night', 'victimNumber | Ten', 'victimNumber | one']","Ten people were shot, including one fatally, during a block party Saturday night in Chesapeake, Va., police said."
+"['victimGender | man', 'victimStatus | died']","The identity of the man who died was being withheld, pending notification of next of kin."
+"['accidentAddress | Holly_Cove', 'accidentDate | about_10_p.m.', 'shootingType | shooting']","The shooting occurred at about 10 p.m. in Holly Cove, a neighborhood of townhouses, said Chesapeake police spokesman Leo Kosinski."
+['shootingType | mass_shooting'],"Police have no suspect information and do not consider the incident a mass shooting at this time, he said."
+['victimNumber | multiple'],"They arrived to a chaotic scene of multiple victims and people screaming, Kosinski said."
+"['hospitalName | Sentara_Norfolk_General_Hospital', 'takenToHospital | True']","Some victims were treated by medics on the scene and others were taken by ambulance to Sentara Norfolk General Hospital, the major trauma center in the Hampton Roads region."
+"['shootingType | shooting', 'victimGender | male', 'victimNumber | eight', 'victimStatus | died']","Sentara treated eight male victims of the shooting, including a man who died at 2:06 a.m., hospital spokesman Dale Gauding said."
+"['takenToHospital | True', 'victimNumber | 10']","As the night went on, police received reports from two other hospitals that they also were treating shooting victims, bringing the total number to 10, Kosinski said."
+"['accidentAddress | FORT_WALTON_BEACH,_Fla.', 'accidentAddress | Fort_Walton_Beach', 'shootingType | shooting']","FORT WALTON BEACH, Fla. (WEAR) — The Okaloosa County Sheriff's Office (OCSO) is investigating a shooting near Fort Walton Beach."
+['shootingType | drug-related'],Authorities said the incident looks to be drug-related.
+"['victimNumber | Three', 'victimNumber | two', 'victimStatus | nonlife-threatening_gunshot_wounds']","Three people suffered from nonlife-threatening gunshot wounds, two of the victims are 21-year-old males and the other is a 16-year-old female."
+"['accidentAddress | Landview_Drive', 'accidentDate | 2:26_a.m._Thursday_morning']",Authorities were called to Landview Drive around 2:26 a.m. Thursday morning in response to a shots fired call.
+"['hospitalName | Fort_Walton_Beach_Medical_Center', 'takenToHospital | True', 'victimGender | girl', 'victimStatus | gunshot_wound']",The girl with the gunshot wound was found at the scene and taken to Fort Walton Beach Medical Center for treatment.
+"['takenToHospital | True', 'victimNumber | two']",The two other shooting victims later turned up at the medical center to be treated.
+"['accidentAddress | Long_Island', 'accidentAddress | WYANDANCH,_Long_Island', 'accidentDate | Wednesday_night', 'shootingType | quadruple_shooting']","WYANDANCH, Long Island (WABC) -- Police are investigating a quadruple shooting on Long Island Wednesday night."
+"['accidentAddress | Wyandanch_at_Merritt_Avenue_and_15th_Street', 'accidentDate | around_9_p.m.', 'victimNumber | four', 'victimStatus | shot']",Authorities say four people were shot around 9 p.m. in Wyandanch at Merritt Avenue and 15th Street.
+"['victimNumber | One', 'victimStatus | shot_in_the_neck']",One person was shot in the neck and is in critical condition.
+"['victimGender | man', 'victimNumber | One', 'victimStatus | shot_in_the_arm']",One man was shot in the arm and is in stable condition.
+"['victimGender | men', 'victimNumber | Two', 'victimStatus | serious_but_stable_condition']",Two men are in serious but stable condition after being shot in the legs.
+"['hospitalName | Good_Samaritan_Hospital', 'takenToHospital | True', 'victimNumber | four']",All four victims were taken to Good Samaritan Hospital.
+"['accidentAddress | Cleveland', ""accidentAddress | city's_East_Side"", 'accidentDate | November', 'shootingType | quintuple_homicide']",Cleveland Deputy Chief Edward Tomba discusses Wednesday's arrest in the November quintuple homicide on the city's East Side.
+"['accidentAddress | CLEVELAND,_Ohio', 'accidentAddress | Cleveland', 'accidentDate | November_2014', 'shootingType | quintuple_homicide']","CLEVELAND, Ohio - Cleveland police have made an arrest in the November 2014 quintuple homicide on the city's East Side."
+"['suspectGender | man', 'suspectStatus | arrested']",Police Chief Calvin Williams and Deputy Chief Edward Tomba announced Wednesday afternoon that a man was arrested without incident earlier in the day.
+"['accidentAddress | 1443_East_92nd_Street', 'shootingType | slayings', 'suspectGender | man', 'victimAge | 9-year-old', 'victimGender | girl', 'victimNumber | five', 'victimStatus | dead']","Few other details were given, including the man's name, age and role in the slayings at 1443 East 92nd Street that ended with five people dead and a 9-year-old girl wounded."
+['suspectStatus | in_custody'],"The suspect remains in custody and is expected to be charged within 48 hours, Tomba said."
+"['accidentAddress | East_92nd_Street_home', 'accidentDate | Nov._21', 'suspectDescription | masked', 'victimName | Lemon_Bryant', 'victimStatus | killing']","A masked gunman opened fire at the East 92nd Street home on Nov. 21, killing Lemon Bryant, 60; Shaylona Williams, 17; Ja'rio Taylor, 18; and Sherita Johnson, 41."
+"['takenToHospital | True', 'victimName | Johnson']","Johnson, who was pregnant, was driven to the hospital where her child, Juwan, died after delivery."
+"['accidentAddress | Washington,_D.C._suburb', 'suspectGender | man', 'suspectStatus | killing_himself', 'victimNumber | four', 'victimNumber | two']","A man shot four members of his family, killing two and injuring another two, before killing himself in a Washington, D.C. suburb, police say."
+"['accidentAddress | Colesville_area_of_Montgomery_County', 'victimName | Andy_Kim', 'victimName | Sang_Yeon_Kim']","Sang Yeon Kim, 48, and Andy Kim, 10, died after they were shot in their own home in the Colesville area of Montgomery County, county police said."
+"['victimAge | 11-year-old', 'victimAge | 22-year-old', 'victimStatus | serious_injuries']",An 11-year-old girl and 22-year-old woman have serious injuries.
+['suspectName | Yong_Mun_Kim'],"The shooter was Yong Mun Kim, police said."
+"['suspectGender | He', 'victimAge_Group | adult', 'victimGender | wife']","He shot and killed his wife and son, and wounded his daughter and adult stepdaughter."
+"['suspectGender | he', 'victimGender | himself', 'victimStatus | killed']","Then, he killed himself."
+"['accidentAddress | 100_block_of_Amberleigh_Drive', 'accidentDate | just_after_midnight_Monday', 'victimNumber | multiple']",Officers were called to the 100 block of Amberleigh Drive just after midnight Monday for a report of multiple people shot inside a home.
+"['victimAge | 22-year-old', 'victimGender | woman']",The caller was the 22-year-old woman.
+['victimNumber | five'],"When they officers arrived, they found the five people."
+['suspectName | Kim'],Police believe Kim planned the attack amid marital trouble.
+['suspectGender | He'],"He left the names and phone numbers of relatives for police to call, officials said."
+"['accidentAddress | Manhattan', 'accidentDate | Saturday_night', 'shootingNumber | two', 'victimNumber | Ten', 'victimStatus | shot']",Ten people were shot during two separate incidents in Manhattan Saturday night and Sunday morning.
+"['accidentAddress | near_the_corner_of_W._116th_St._near_Frederick_Douglass_Blvd._in_Harlem', 'accidentDate | around_8:30_p.m.', 'shootingType | bloodshed']",The majority of the bloodshed happened during a large block party near the corner of W. 116th St. near Frederick Douglass Blvd. in Harlem around 8:30 p.m.
+"['victimAge_Group | 19_and_24', 'victimGender | men', 'victimNumber | five']","Police said roughly 1,000 people were participating in various barbecues when the gunman opened fire, striking five men between 19 and 24 years of age."
+"['victimAge | 21', 'victimGender | women', 'victimNumber | Two', 'victimStatus | shot']","Two women, 21 and 25, were also shot, cops said."
+"['takenToHospital | True', 'victimNumber | All', 'victimStatus | injured']",All of the injured are expected to survive and were taken to area hospitals with non-life threatening injuries.
+"['accidentAddress | Carver_Houses_on_E._104th_St.', 'accidentDate | around_2_a.m._Sunday.', 'victimGender | men', 'victimNumber | Three', 'victimStatus | shot']",Three more men were shot while standing in front of the Carver Houses on E. 104th St. around 2 a.m. Sunday.
+"['numberOfRoundsFired | approximately_six', 'victimAge | 19-year-olds', 'victimNumber | two', 'victimStatus | in_the_groin']","The shooter let off approximately six rounds, striking two 19-year-olds, one in the groin and one in the shoulder."
+"[""hospitalName | St._Luke's_Hospital"", 'takenToHospital | True', 'victimNumber | both', 'victimStatus | stable_condition']",They were both taken to St. Luke's Hospital in stable condition.
+"['hospitalName | Mt._Sinai_Hospital', 'takenToHospital | True', 'victimGender | man', 'victimNumber | third', 'victimStatus | gunshot_wound_to_his_right_leg']","The third man, 20, walked into Mt. Sinai Hospital with a gunshot wound to his right leg."
+"['accidentAddress | ORLANDO,_Fla.', 'accidentAddress | Willows_Park_near_Evans_High_School', 'accidentDate | Sunday', 'victimAge_Group | children', 'victimNumber | Four', 'victimStatus | shot']","ORLANDO, Fla. — Four children were shot Sunday at Willows Park near Evans High School, the Orlando Police Department said."
+"['accidentAddress | 3101_Willow_Bend_Blvd.', 'accidentDate | around_6:15_p.m.', 'suspectNumber | three']","Someone called 911 to report that three gunmen shot at a crowd at 3101 Willow Bend Blvd. around 6:15 p.m., police said."
+"['takenToHospital | True', 'victimAge_Group | teenage', 'victimGender | girls', 'victimNumber | Three', 'victimStatus | shot_in_the_leg']",Three teenage girls were shot in the leg and were taken to a hospital.
+"['takenToHospital | True', 'victimNumber | fourth', 'victimStatus | gunshot_wound']",Police said a fourth victim with a gunshot wound went to a hospital later.
+['shootingType | shooting'],Investigators linked the child's injuries to the shooting.
+"['victimAge_Group | teens', 'victimStatus | injuries_are_not_life-threatening']","The teens' injuries are not life-threatening, police said."
+"['accidentAddress | DESOTO_COUNTY,_MS', 'accidentAddress | DeSoto_County', 'victimGender | men', 'victimNumber | Four', 'victimStatus | shot']","DESOTO COUNTY, MS (WMC) - Four men were shot in DeSoto County, according to Sheriff Bill Rasco."
+"['accidentAddress | Vaiden_Road_and_Craft_Road_in_Hernando', 'shootingType | shooting']",The shooting happened at Vaiden Road and Craft Road in Hernando.
+"['victimGender | men', 'victimNumber | four', 'victimStatus | shot_in_the_lower_part_of_their_bodies']",Rasco said all four men were shot in the lower part of their bodies.
+['shootingType | shooting'],Family members said the shooting started as a dispute between a woman and a former boyfriend.
+"['suspectGender | he', 'victimGender | she']","When she said no, he showed up and opened fire."
+"['victimNumber | four', 'victimStatus | shot']","Seven people were inside the home, and four were shot."
+"['victimNumber | all_four', 'victimNumber | two', 'victimNumber | two', 'victimStatus | related']","According to family, all four are related--two brothers and two cousins."
+"['shootingType | shooting', 'victimAge | 31', 'victimName | Keatron_Walls', 'victimStatus | arrested']","Keatron Walls, 31, was arrested in connection with the shooting."
+"['suspectName | Walls', 'suspectStatus | charged']",Walls is charged with four counts of aggravated assault and one count of shooting into an occupied dwelling.
+"['takenToHospital | True', 'victimNumber | four']",All four victims were taken to the hospital in Memphis.
+"['accidentAddress | OAKLAND,_Calif.', 'accidentAddress | streets_of_Oakland', 'shootingType | gun_battle', 'victimNumber | eight', 'victimStatus | wounded']","OAKLAND, Calif. (KGO) -- A gun battle on the streets of Oakland left eight people wounded."
+"['accidentAddress | 14th_Street_near_Broadway', 'accidentDate | just_after_midnight', 'shootingType | shooting']",The shooting happened just after midnight on 14th Street near Broadway.
+"['victimNumber | All', 'victimStatus | will_survive']",All of the shooting victims will survive.
+"['takenToHospital | True', 'victimNumber | Some', 'victimStatus | still_in_the_hospital']",Some are still in the hospital.
+"['suspectGender | men', 'suspectNumber | Two', 'suspectStatus | arrested']",Two men were arrested for the crim.
+['accidentAddress | 14th_Street'],The gunfire was coming from 14th Street.
+"['suspectGender | men', 'suspectNumber | two', 'victimNumber | six', 'victimStatus | wounding']","Police say two men exchanged gunfire, wounding six people caught in the crossfire."
+"['takenToHospital | True', 'victimAge_Group | 17-_to_28-years-old']",Victims from 17- to 28-years-old were rushed to the hospital.
+"['suspectAge_Group | 20s', 'suspectGender | men', 'suspectNumber | Two', 'suspectStatus | wounded']","Two men in their 20s, also wounded, were arrested."
+"['accidentAddress | 14th_Sreet_in_Downtown_Oakland', 'accidentDate | Last_year', 'victimName | Emiliano_Nevarez', 'victimOccupation | musician', 'victimStatus | killed']","Last year, musician Emiliano Nevarez was killed by a stray bullet when he left the Golden Bull Bar, also on 14th Sreet in Downtown Oakland."
+"['datetime | vrijdag_13_maart', 'incidentType | verkeersongeval', 'location | Astorias', 'victimAge | 3_jaar_oud', 'victimGender | jongetje', 'victimStatus | ernstig_gewond_aan_het_hoofd']",Een jongetje van 3 jaar oud raakte op vrijdag 13 maart bij een verkeersongeval op de Astorias ernstig gewond aan het hoofd en werd door familie met spoed overgebracht naar het ziekenhuis.
+"['victimGender | jongetje', 'victimStatus | overleed']",Later in de avond overleed het jongetje als gevolg van zijn verwondingen.
+['incidentType | incident'],Na het incident werd de politie in kennis gesteld die onmiddellijk een onderzoek instelde.
+"['suspectDescription | familielid_van_het_kind', 'suspectVehicle | voertuig']","Het voertuig, betrokken bij de aanrijding en bestuurd door een familielid van het kind, is door de politie in beslag genomen voor verder onderzoek."
+"['datetime | vrijdagavond_rond_zes_uur', 'location | straat_Astorias_in_Vught', 'suspectVehicle | auto', 'victimAge | kleuter', 'victimStatus | aangereden']","Een kleuter die vrijdagavond rond zes uur werd aangereden door een auto in de straat Astorias in Vught, is overleden aan zijn verwondingen."
+['suspectDescription | familielid_van_het_jongetje'],Een familielid van het jongetje zat achter het stuur.
+['victimAge | kind'],Het gaat om een kind van drie of vier jaar oud.
+"['incidentType | ongeluk', 'victimGender | jongen', 'victimStatus | naar_het_ziekenhuis']",De familie bracht de jongen na het ongeluk zelf naar het ziekenhuis.
+"['victimAge | kindje', 'victimStatus | overleden_aan_zijn_verwondingen']",Daar is het kindje overleden aan zijn verwondingen.
+"['cause | nog_niet_duidelijk', 'incidentType | ongeluk']","Hoe het ongeluk heeft kunnen gebeuren, is nog niet duidelijk."
+"['datetime | Vrijdagavond', 'victimAge | kleuter']",Vrijdagavond heeft de politie onderzoek gedaan in Vught en in het Jeroen Bosch Ziekenhuis in Den Bosch waar de kleuter naartoe werd gebracht.
+['cause | nog_niet_duidelijk_wat_er_precies_is_gebeurd'],Het is nog niet duidelijk wat er precies is gebeurd.
+['suspectVehicle | auto'],De auto is in beslag genomen voor onderzoek.
+"['incidentType | ongeluk', 'suspectDescription | vader_van_de_jongen', 'suspectVehicle | wagen']",Volgens meerdere bronnen zou de vader van de jongen de wagen hebben bestuurd tijdens het ongeluk.
+"['datetime | woensdagavond', 'incidentType | ernstig_ongeval', 'location | A1_ter_hoogte_van_Hoevelaken', 'victimAddress | Hoevelaken', 'victimAge | 79-jarige', 'victimGender | vrouw', 'victimStatus | om_het_leven_gekomen']",Door een ernstig ongeval op de A1 ter hoogte van Hoevelaken is woensdagavond een 79-jarige vrouw uit Hoevelaken om het leven gekomen.
+"['location | A1_richting_Barneveld', 'victimStatus | slachtoffer']",Vermoedelijk had het slachtoffer pech gekregen op de A1 richting Barneveld en wilde de rijbaan oversteken naar de benzinepomp aan de andere kant van de weg richting Amersfoort.
+"['suspectVehicle | auto', 'victimGender | zij', 'victimStatus | aangereden']",Vervolgens werd zij aangereden door een auto en daarop meerdere keren overreden door andere automobilisten en een vrachtwagen.
+"['datetime | aan_het_begin_van_de_avond', 'incidentType | zware_aanrijding', 'location | Weimarstraat', 'victimAge | 40-jarige', 'victimStatus | om_het_leven_gekomen', 'victimVehicle | fietser']",Bij een zware aanrijding op de Weimarstraat is aan het begin van de avond een 40-jarige fietser om het leven gekomen.
+['victimStatus | geschept_door_een_auto'],Deze werd geschept door een auto.
+"['suspectAge | 33-jarige', 'suspectStatus | nader_worden_onderzocht', 'suspectVehicle | bestuurder']",Het gedrag van de 33-jarige bestuurder zal nader worden onderzocht.
+['victimStatus | slachtoffer'],Ondanks de inspanningen van de medische hulpverlerners is het slachtoffer ter plaatse overleden.
+['incidentType | aanrijding'],De VOA heeft ter plaatse de sporen van de aanrijding vastgelegd.
+['location | Weimarstraat'],De Weimarstraat is tot laat in de avond afgesloten geweest ten behoeve van het onderzoek.
+"['incidentType | auto-ongeluk', 'location | Vogelaardreef_in_Noordwijk', 'victimAge | 32', 'victimAmount | Twee', 'victimDescription | van_Poolse_nationaliteit', 'victimStatus | om_het_leven_gekomen']","Twee personen, van 32 en 43 jaar van Poolse nationaliteit, zijn tijdens een auto-ongeluk op de Vogelaardreef in Noordwijk om het leven gekomen."
+"['datetime | Rond_18.00_uur', 'incidentType | verkeersongeval']",Rond 18.00 uur kreeg de politie de melding dat er een verkeersongeval had plaatsgevonden.
+"['victimAmount | Drie', 'victimAmount | vierde', 'victimVehicle | auto']","Drie personen zouden nog in de auto zitten, een vierde persoon was uit de auto gehaald door omstanders die te hulp waren geschoten."
+"['victimAmount | tweede', 'victimStatus | door_omstanders_uit_de_auto_gehaald']",Toen de politie ter plaatse kwam was ook een tweede persoon door omstanders uit de auto gehaald.
+"['victimAmount | Twee', 'victimStatus | nog_bekneld_in_de_auto_te_zitten', 'victimVehicle | auto']",Twee anderen bleken nog bekneld in de auto te zitten.
+"['victimAmount | Beiden', 'victimStatus | slachtoffers']",Beiden slachtoffers bleken geen hartslag meer te hebben en zijn ter plaatse overleden.
+"['victimAmount | twee', 'victimDescription | van_Poolse_nationaliteit', 'victimGender | man', 'victimStatus | per_ambulance_naar_het_ziekenhuis_gebracht', 'victimVehicle | inzittenden']","De twee andere inzittenden, een man van 26 jaar en van 35 jaar eveneens van Poolse nationaliteit, zijn per ambulance naar het ziekenhuis gebracht."
+['incidentType | ongeval'],De verkeersdienst van de politie heeft op de plaats van het ongeval onderzoek gedaan naar de oorzaak.
+"['cause | macht_over_het_stuur_verloren', 'location | Vogelaardreef', 'suspectVehicle | tractor', 'victimVehicle | auto', 'victimVehicle | bestuurder']","De bestuurder van de auto is, door nog onbekende reden tijdens het inhalen van een tractor, de macht over het stuur verloren en is in de boskant van de Vogelaardreef terecht gekomen."
+['victimVehicle | auto'],"De auto is vervolgens half op zijn zijkant, half op de kop tegen een boom tot stilstand gekomen."
+['victimVehicle | auto'],Toegesnelde getuigen hebben de auto op zijn wielen gezet voordat de hulpverleningsdiensten ter plaatse kwamen.
+['suspectVehicle | tractorbestuurder'],"De politie heeft van de getuigen, waaronder de tractorbestuurder een verklaring opgenomen en zet het onderzoek naar de oorzaak voort."
+['location | Vogelaardreef'],De Vogelaardreef is korte tijd afgesloten geweest.
+"['datetime | nacht_van_vrijdag_op_zaterdag', 'location | Nieuweweg_in_Den_Helder', 'victimAddress | Den_Helder', 'victimAge | 24-jarige', 'victimGender | man', 'victimStatus | overleden']",Op de Nieuweweg in Den Helder is in de nacht van vrijdag op zaterdag een 24-jarige man uit Den Helder overleden.
+"['cause | door_onbekende_oorzaak', 'victimStatus | slachtoffer', 'victimVehicle | auto']",De bestuurder van de auto waarin het slachtoffer zat verloor door onbekende oorzaak de macht over het stuur.
+['victimVehicle | auto'],Zijn auto raakte in de slip en kwam eerst tegen een lantaarnpaal terecht en vervolgens tegen een boom.
+"['victimAddress | Den_Helder', 'victimAge | 24-jarige', 'victimStatus | met_de_schrik_vrij', 'victimVehicle | bestuurder_van_de_auto']","De 24-jarige bestuurder van de auto, eveneens uit Den Helder, kwam met de schrik vrij."
+"['victimStatus | door_de_brandweer_uit_het_voertuig_worden_gehaald', 'victimVehicle | passagier']",Zijn passagier moest echter door de brandweer uit het voertuig worden gehaald.
+"['victimGender | Hij', 'victimStatus | overleed_korte_tijd_later_aan_zijn_verwondingen']",Hij overleed korte tijd later aan zijn verwondingen.
+"['victimStatus | met_hoofd-,_rib_en_schouderletsel_per_ambulance_overgebracht_naar_het_MCA_in_Alkmaar', 'victimVehicle | bestuurder']","De bestuurder werd met hoofd-, rib en schouderletsel per ambulance overgebracht naar het MCA in Alkmaar."
+"['datetime | gisteravond', 'location | A10_Zuid', 'victimAge | 24_jaar', 'victimAmount | beiden', 'victimDescription | Poolse', 'victimGender | man', 'victimStatus | aangereden']","De Poolse man en vrouw die gisteravond op de A10 Zuid werden aangereden, zijn beiden 24 jaar."
+"['victimGender | man', 'victimGender | vrouw']","De vrouw overleed ter plekke, de man werd in kritieke toestand naar een ziekenhuis gebracht."
+"['victimGender | Hij', 'victimStatus | geopereerd_en_is_inmiddels_aanspreekbaar']",Hij is geopereerd en is inmiddels aanspreekbaar.
+"['datetime | rond_23.00_uur', 'victimGender | vrouw', 'victimVehicle | auto']",Volgens de politie stapte de vrouw rond 23.00 uur op de vluchtstrook de auto uit nadat ze ruzie had gekregen.
+['victimGender | ze'],Vervolgens rende ze de snelweg over.
+"['victimGender | haar', 'victimGender | haar', 'victimVehicle | bestuurder']",De bestuurder rende achter haar aan om haar tegen te houden.
+"['suspectVehicle | auto', 'victimGender | man', 'victimGender | vrouw', 'victimStatus | aangereden']","De vrouw werd door twee auto's aangereden, de man door een auto."
+"['victimAmount | vijf', 'victimDescription | Polen', 'victimVehicle | auto']",Er zaten in totaal vijf Polen in de auto.
+"['cause | waarschijnlijk_onder_invloed_van_alcohol', 'victimGender | vrouw']",Volgens de politie was de vrouw waarschijnlijk onder invloed van alcohol.
+"['victimGender | man', 'victimStatus | geopereerde']",De politie zal de geopereerde man snel horen voor zijn kant van het verhaal.
+"['datetime | zondagavond', 'incidentType | verkeersongeluk', 'location | A10_Zuid_ter_hoogte_van_De_Nieuwe_Meer', 'victimGender | vrouw', 'victimStatus | overleden']",Bij een verkeersongeluk op de A10 Zuid ter hoogte van De Nieuwe Meer is zondagavond een vrouw overleden.
+"['victimAmount | ander', 'victimStatus | slachtoffer']",Een ander slachtoffer is in kritieke toestand naar het ziekenhuis gebracht.
+"['datetime | rond_23.00_uur', 'victimGender | vrouw', 'victimVehicle | auto']",Volgens een woordvoerder stapte de vrouw rond 23.00 uur op de vluchtstrook de auto uit nadat ze ruzie had gekregen.
+"['datetime | zaterdagnacht', 'incidentType | ernstig_eenzijdig_ongeval', 'location | Ruiterweg_in_Darp', 'victimAddress | Diever', 'victimAge | 51-jarige', 'victimStatus | overleden_aan_zijn_verwondingen', 'victimVehicle | bestuurder']",Bij een ernstig eenzijdig ongeval op de Ruiterweg in Darp is zaterdagnacht een 51-jarige bestuurder uit Diever overleden aan zijn verwondingen.
+"['victimStatus | raakte_gewond', 'victimVehicle | bijrijder']",De bijrijder raakte gewond.
+"[""datetime | Even_voor_kwart_over_twee_'s_nachts"", 'location | Ruiterweg']",Even voor kwart over twee 's nachts hoorden omwonenden en feestgangers van het dorpsfeest een harde knal op de Ruiterweg.
+['victimVehicle | auto_met_paardentrailer'],Nadat zij gingen kijken zagen zij een auto met paardentrailer die tegen een boom was gebotst waarna zij direct alarm sloegen.
+"['victimAmount | twee', 'victimStatus | slachtoffers']","De twee slachtoffers konden snel uit het voertuig worden gehaald en worden behandeld in de ambulance, hierbij kregen zij later assistentie van het Mobiel Medisch Team die per auto aan kwam."
+"['victimAge | 23-jarige', 'victimStatus | snel_worden_overgebracht_naar_het_ziekenhuis']","De 23-jarige bijrijder kon al snel worden overgebracht naar het ziekenhuis, de bestuurder werd een tijd gereanimeerd maar dit mocht niet meer baten."
+['incidentType | ongeval'],Agenten van de Verkeersongevallen Analyse doen nader onderzoek naar de toedracht van het ongeval.
+"['datetime | zaterdagavond_11_maart', 'incidentType | te_water_geraakt', 'location | water_langs_de_Havenstraat_te_Sliedrecht', 'victimVehicle | personenauto']",Op zaterdagavond 11 maart is rond 21.00 uur een personenauto te water geraakt in het water langs de Havenstraat te Sliedrecht.
+['victimVehicle | auto'],De brandweer heeft met behulp van duikers de auto boven water gehaald en op de kade getild.
+"['victimGender | hij', 'victimStatus | gereanimeerd_werd', 'victimStatus | slachtoffer']",Het slachtoffer is daarna uit de auto gehaald waarbij hij gereanimeerd werd en direct in zeer kritieke toestand vervoerd naar het Utrechts Medisch Centrum.
+['victimGender | Hij'],Hij heeft geruime tijd in het water gelegen.
+"['victimAddress | Sliedrecht', 'victimAge | 51-jarige', 'victimGender | man', 'victimStatus | overleden']",Het gaat om een 51-jarige man uit Sliedrecht; hij is in het Utrechts Medisch Centrum in de loop van de avond overleden.
+"[""datetime | 's_middags"", 'incidentType | verkeersongeval', 'location | kruising_Ceintuurbaan/_Lokersdijk', 'victimAddress | Deventer', 'victimAge | 17-jarige', 'victimGender | hij', 'victimStatus | overleden', 'victimVehicle | scooteraar']",Een 17-jarige scooteraar uit Deventer is gisteravond overleden nadat hij 's middags ernstig gewond was geraakt bij een verkeersongeval op de kruising Ceintuurbaan/ Lokersdijk.
+"['victimGender | jongen', 'victimStatus | in_bewusteloze_en_zeer_kritieke_toestand_naar_het_ziekenhuis_gebracht']","De jongen werd in bewusteloze en zeer kritieke toestand naar het ziekenhuis gebracht, waar hij enkele uren later overleed."
+"['victimAddress | Deventer', 'victimAge | 17-jarige', 'victimStatus | raakte_gewond', 'victimVehicle | duopassagier']",Ook zijn 17-jarige duopassagier (ook uit Deventer) raakte gewond en werd in het ziekenhuis opgenomen.
+"['location | Lokersdijk_de_Ceintuurbaan_over', 'victimVehicle | snorfietser']",De snorfietser stak vanaf de Lokersdijk de Ceintuurbaan over om de Middelweg op te rijden.
+"['location | Ceintuurbaan', 'suspectAddress | Deventer', 'suspectAge | 20-jarige', 'suspectVehicle | automobilist', 'victimGender | Hij', 'victimGender | hij']","Hij werd daarbij aan de linkerzijde aangereden door een 20-jarige automobilist uit Deventer, die op de Ceintuurbaan reed en die hij in principe voorrang had moeten verlenen."
+['suspectVehicle | automobilist'],Het is niet bekend of de automobilist te hard reed.
+['suspectAge | 20-jarige'],"Mogelijk door de klap of een schrikreactie reed de 20-jarige door en raakte daarbij de bomen van de spoorwegovergang verderop, bij huize Corel."
+['suspectVehicle | auto'],De auto raakte geen trein en kwam even verderop tot stilstand.
+['suspectAge | 20-jarige'],De politie benadrukt dat de 20-jarige na het ongeval niet is doorgereden en doet onderzoek naar de toedracht van het ongeval.
+"['datetime | Zaterdagmorgen_vroeg_om_tien_voor_half_zes', 'incidentType | in_het_water', 'location | Broeksingel_in_Driel', 'victimVehicle | auto']","Zaterdagmorgen vroeg om tien voor half zes ontving de Regionale Alarm Centrale een melding, dat er een auto in het water lag aan de Broeksingel in Driel."
+['victimVehicle | auto'],"De brandweerploeg trof een auto, met brandende lampen, op de kop in het water aan."
+['victimVehicle | auto'],Direct gingen de brandweermensen het water in en bevestigden een kabel aan de auto en trokken deze op de kant.
+['victimVehicle | auto'],In de auto bevond zich nog de bestuurder.
+"['victimStatus | gereanimeerd_en_behandeld_om_verdere_afkoeling_te_voorkomen', 'victimStatus | slachtoffer']",Het slachtoffer werd direct door ambulancepersoneel gereanimeerd en behandeld om verdere afkoeling te voorkomen.
+"['victimAddress | Driel', 'victimStatus | slachtoffer']","Helaas is het slachtoffer, een inwoner van Driel overleden."
+['victimVehicle | auto'],Iemand had vanaf de Broeksingel de auto in het water ontdekt en alarm geslagen.
+['victimVehicle | auto'],Het is niet duidelijk hoelang de auto toen al in het water lag.
+['victimVehicle | personenauto'],"Doordat de personenauto op zijn kop lag in de drassige bodem, kon men niet in het voertuig komen en is de auto eerst op de kant getrokken."
+"['cause | onbekende_oorzaak', 'victimVehicle | bestuurder']",De bestuurder is door onbekende oorzaak mogelijk de macht over het stuur verloren en het water in gereden.
+['victimVehicle | personenauto'],De verkeersongevallen analysedienst van de politie doet onderzoek naar een mogelijke oorzaak en de technische staat van de personenauto.
+"['datetime | zaterdagochtend', 'victimAddress | Gelderse_Driel', 'victimAge | 33-jarige', 'victimGender | hij', 'victimStatus | overleden', 'victimVehicle | bestuurder']",Een 33-jarige bestuurder uit het Gelderse Driel is zaterdagochtend overleden nadat hij het water was ingereden.
+"['cause | door_onbekende_oorzaak', 'victimGender | man']","De man was door onbekende oorzaak mogelijk de macht over het stuur verloren, vermoedt de politie."
+"['victimVehicle | auto', 'victimVehicle | voertuig']","De auto lag op zijn kop in het water, waardoor de brandweer het voertuig eerst met een kabel op de kant moest trekken."
+"['datetime | rond_05.20_uur', 'victimVehicle | auto']",De melding dat er een auto in het water lag aan de Broeksingel kwam rond 05.20 uur binnen.
+"['victimStatus | slachtoffer', 'victimVehicle | auto']","Nadat de auto uit het water was gehaald, werd het slachtoffer gereanimeerd door ambulancepersoneel, maar dat mocht niet meer baten."
+['victimVehicle | auto'],De politie onderzoekt wat er is gebeurd en of de auto technisch in orde was.
+"['datetime | dinsdag', 'incidentType | dodelijk_ongeluk', 'location | A12_richting_Arnhem']",Op de A12 richting Arnhem is dinsdag ter hoogte van Ede een verkeerschaos ontstaan na een dodelijk ongeluk.
+['location | A12'],"Op de A12 is tijdelijk maar één rijstrook beschikbaar, meldt de VerkeersInformatieDienst."
+"['datetime | rond_16.15_uur', 'location | knooppunt_Maanderbroek', 'victimVehicle | busje']",Bij knooppunt Maanderbroek reed rond 16.15 uur een busje van het talud en kwam tegen een boom tot stilstand.
+['victimStatus | dodelijk_slachtoffer'],De identiteit van het dodelijk slachtoffer kan een woordvoerder van de politie nog niet geven.
+"['datetime | zaterdagnacht', 'location | spoor_in_Borne', 'victimGender | man', 'victimStatus | verongelukt']",Op het spoor in Borne is zaterdagnacht een man verongelukt nadat hij carnaval had gevierd.
+"['datetime | even_voor_middernacht', 'incidentType | geschept', 'suspectVehicle | sneltrein_richting_Enschede', 'victimAddress | Borne', 'victimAge | 39-jarige', 'victimStatus | slachtoffer']",Het 39-jarige slachtoffer uit Borne is even voor middernacht geschept door de sneltrein richting Enschede.
+['location | overgang_in_de_Bornebroeksestraat'],Dat gebeurde op de overgang in de Bornebroeksestraat.
+"['cause | gestruikeld', 'incidentType | ongeluk', 'victimGender | man']",De politie vermoedt dat de man is gestruikeld en gaat uit van een ongeluk.
+"['datetime | vrijdag', 'incidentType | aanrijding', 'victimAddress | Piershil', 'victimAge | 81-jarige', 'victimStatus | om_het_leven_gekomen', 'victimVehicle | fietser']",Een 81-jarige fietser uit Piershil is vrijdag om het leven gekomen bij een aanrijding.
+"['datetime | rond_12.15_uur', 'incidentType | ongeval', 'location | Buitenom_in_Piershil_ter_hoogte_van_de_kruising_met_de_Oosthoek']",Het ongeval gebeurde rond 12.15 uur op de Buitenom in Piershil ter hoogte van de kruising met de Oosthoek.
+"['victimAge | 81-jarige', 'victimGender | man']",De 81-jarige man stak daar bij een oversteekplaats over.
+"['location | Buitenom', 'suspectVehicle | auto']",Op de Buitenom vanuit de richting van Nieuw-Beijerland reed een auto.
+"['suspectAddress | Oud-Beijerland', 'suspectAge | 41-jarige', 'suspectVehicle | bestuurster']",De 41-jarige bestuurster uit Oud-Beijerland zag de man te laat.
+['incidentType | ongeval'],Direct kwamen hulpverleners waaronder twee ambulances naar de plek van het ongeval.
+"['victimGender | man', 'victimStatus | ziekenhuis_in_Rotterdam']",Een ambulance nam de man mee richting een ziekenhuis in Rotterdam.
+['victimStatus | mocht_niet_meer_baten'],Alle hulp mocht niet meer baten.
+"['suspectVehicle | automobiliste', 'victimStatus | meegenomen_naar_het_bureau']",De automobiliste is meegenomen naar het bureau.
+"['suspectGender | Zij', 'suspectStatus | niet_gewond']",Zij raakte niet gewond maar was volgens de politie wel bijzonder geschrokken.
+"['datetime | Donderdag', 'incidentType | ernstig_verkeersongeval', 'victimAmount | drie', 'victimGender | mannen', 'victimStatus | om_het_leven_kwamen']","Donderdag vond een ernstig verkeersongeval plaats, waarbij drie mannen om het leven kwamen."
+"['datetime | Omstreeks_16.40_uur', 'location | Oostkanaaldijk', 'suspectAddress | Maarssen', 'suspectAge | 43-jarige', 'suspectGender | man']",Omstreeks 16.40 uur reed een 43-jarige man uit Maarssen over de Oostkanaaldijk.
+['suspectGender | Hij'],Hij kwam uit de richting Nigtevecht en reed in de richting van Loenen.
+['cause | onbekende_oorzaak'],Door nog onbekende oorzaak kwam hij op de weghelft terecht voor het tegemoetkomend verkeer.
+"['victimAmount | drie', 'victimVehicle | auto']",Daar reed een auto met drie inzittenden.
+['incidentType | aanrijding'],Een aanrijding was het gevolg.
+"['victimAddress | Weesp', 'victimAge | 34-jarige', 'victimAge | 36-jarige', 'victimAmount | beide', 'victimStatus | kwamen_om_het_leven']","De 34-jarige bestuurder en de 36-jarige inzittende, beide uit Weesp, kwamen om het leven."
+"['victimAddress | Weesp', 'victimAge | 47-jarige', 'victimStatus | zwaar_gewond_vervoerd_naar_het_AMC', 'victimVehicle | inzittende']","De andere inzittende, een 47-jarige man uit Weesp, werd uit de auto geslingerd en werd zwaar gewond vervoerd naar het AMC."
+"['incidentType | ongeval', 'suspectAddress | Maarssen', 'suspectAge | 43-jarige', 'suspectGender | man', 'suspectStatus | om_het_leven']",De 43-jarige man uit Maarssen kwam ook bij het ongeval om het leven.
+['incidentType | ongeval'],De politie onderzoekt de oorzaak van het ongeval.
+"['datetime | vrijdagavond_rond_middernacht', 'incidentType | ongeval', 'location | Spannenburgerdyk_in_Sint_Nicolaasga', 'victimAddress | Langezwaag', 'victimAge | 29-jarige', 'victimStatus | omgekomen']",Een 29-jarige inwoner van Langezwaag is vrijdagavond rond middernacht omgekomen bij een ongeval op de Spannenburgerdyk in Sint Nicolaasga.
+"['incidentType | aangereden', 'location | weg_tussen_Sint_Nyk_en_Spannenburg_net_voor_de_afslag_naar_Idskenhuizen', 'victimGender | man']",De man werd op de weg tussen Sint Nyk en Spannenburg net voor de afslag naar Idskenhuizen aangereden.
+"['suspectVehicle | op_dat_moment_passerende_auto', 'victimStatus | slachtoffer']","Voor zover nu bekend stak het slachtoffer plotseling de weg, die verboden voor voetgangers is, over en werd vervolgens aangereden door een op dat moment passerende auto."
+"['suspectAddress | Woudsend', 'suspectAge | 82-jarige', 'suspectVehicle | bestuurder_van_die_auto', 'victimStatus | slachtoffer']","De bestuurder van die auto, een 82-jarige inwoner van Woudsend, kon het slachtoffer niet meer ontwijken."
+['incidentType | ongeval'],"Vanwege het ongeval kwamen diverse ambulances, politiewagens en een traumahelikopter ter plaatse."
+"['victimGender | man', 'victimStatus | met_de_traumahelikopter_in_zorgwekkende_toestand_naar_het_ziekenhuis_in_Groningen_gebracht']",De man is met de traumahelikopter in zorgwekkende toestand naar het ziekenhuis in Groningen gebracht.
+"['victimGender | man', 'victimStatus | overleed']",Daar overleed de man later die nacht.
+['incidentType | ongeval'],De Verkeers Ongevallen Analyse (VOA) van de Politie Fryslân doet onderzoek naar de toedracht van het ongeval.
+"['suspectStatus | met_de_schrik_vrij', 'suspectVehicle | bestuurder_van_de_auto']",De bestuurder van de auto kwam met de schrik vrij.
+"['datetime | zaterdagmiddag_rond_14:30_uur', 'incidentType | ongeval', 'location | Winkelweg_in_Zeewolde', 'victimAge | 12-jarige', 'victimGender | meisje', 'victimStatus | gewond_raakte', 'victimVehicle | brommobiel']","Het 12-jarige meisje dat zaterdagmiddag rond 14:30 uur gewond raakte bij een ongeval met een brommobiel aan de Winkelweg in Zeewolde, is maandagavond overleden."
+"['cause | onbekende_oorzaak', 'victimAge | 16-jarige', 'victimDescription | zus', 'victimGender | meisje', 'victimVehicle | brommobiel']",Het meisje zat samen met haar 16-jarige zus in de brommobiel toen deze door onbekende oorzaak in het water terecht kwam.
+"['victimAge | 12-jarige', 'victimAge | 16-jarige', 'victimGender | meisje', 'victimVehicle | brommobiel']",Het 12-jarige meisje raakte ernstig gewond en het 16-jarige meisje dat de brommobiel bestuurde liep onderkoelingsverschijnselen op.
+"['victimAge | 12-jarige', 'victimGender | meisje', 'victimStatus | overleed_maandagavond_aan_haar_verwondingen']",Het 12-jarige meisje overleed maandagavond aan haar verwondingen.
+"['victimDescription | zus', 'victimStatus | uit_het_ziekenhuis']",Haar zus is inmiddels uit het ziekenhuis en is opgevangen door haar familie.
+"['cause | wordt_nog_door_de_politie_onderzocht', 'datetime | zaterdagmiddag']",Wat er die zaterdagmiddag precies is gebeurd en hoe het ongeval heeft kunnen gebeuren wordt nog door de politie onderzocht.
+"['datetime | Zondag_omstreeks_15.25_uur', 'incidentType | ongeval', 'location | De_Scheiding', ""suspectVehicle | personenauto's"", 'victimAmount | één']","Zondag omstreeks 15.25 uur vond op De Scheiding een ongeval plaats tussen twee personenauto's, waarbij één betrokkene om het leven kwam en vijf anderen gewond raakten."
+"['victimAddress | Ureterp', 'victimAge | 24-jarfige']",Een 24-jarfige man uit Ureterp reed in de richting van de A7.
+['victimVehicle | bestuurder'],"In een bocht raakte de bestuurder de macht over het voertuig kwijt, de achterkant van de auto brak uit en hij kwam dwars op de weg te staan."
+"['suspectAddress | Frieschepalen', 'suspectAge | 40-jarige', 'suspectGender | man']",Op dat moment kwam uit tegenovergestelde richting een 40-jarige man uit Frieschepalen.
+"['incidentType | aanrijding', 'victimVehicle | auto']","Een aanrijding was het gevolg, waarbij de eerst genoemde auto tegen een verkeerspaal op een verkeersheuvel tot stilstand kwam."
+"['victimAmount | drie', 'victimVehicle | auto', 'victimVehicle | inzittenden_van_deze_auto']",Door de klap werden de drie inzittenden van deze auto uit de auto geslingerd.
+"['victimAddress | Ureterp,_overleed_daarbij.', 'victimAge | 24-jarige', 'victimAmount | Eén', 'victimGender | man', 'victimStatus | overleed']","Eén van hen, een 24-jarige man uit Ureterp, overleed daarbij."
+"['victimAddress | Boornbergum', 'victimAge | 27-jarige', 'victimAmount | derde', 'victimGender | man', 'victimVehicle | bestuurder', 'victimVehicle | inzittende']","De bestuurder en de derde inzittende, een 27-jarige man uit Boornbergum raakten zwaar gewond en werden overgebracht naar het ziekenhuis in Groningen. ."
+"['victimAge | 8_en_6_jaar', 'victimAmount | twee', 'victimDescription | zoontjes', 'victimStatus | raakten_gewond', 'victimVehicle | inzittenden_van_de_andere_auto']","Ook de inzittenden van de andere auto, de bestuurder en zijn twee zoontjes van 8 en 6 jaar, raakten gewond."
+"['victimAmount | twee', 'victimStatus | Met_onbekend_letsel', 'victimStatus | overgebracht_naar_het_ziekenhuis_in_Groningen_en_Drachten']",Met onbekend letsel zijn twee van hen overgebracht naar het ziekenhuis in Groningen en Drachten.
+['incidentType | aanrijding'],Door het bureau ongevallenanalyse van de politie Fryslân wordt een onderzoek ingesteld naar de aanrijding.
+"['victimAddress | Ureterp', 'victimAge | 24-jaar', 'victimName | Martijn_Muskita', 'victimStatus | overledene']","De naam van de overledene: Martijn Muskita, oud 24-jaar, gewoond hebbende te Ureterp."
+"['datetime | zondagochtend_vroeg', 'incidentType | eenzijdige_aanrijding', 'location | A1_ter_hoogte_van_Holten', 'victimStatus | om_het_leven_gekomen']",Bij een eenzijdige aanrijding op de A1 ter hoogte van Holten is zondagochtend vroeg een persoon om het leven gekomen.
+"['incidentType | ongeval', 'location | richting_van_Deventer_nabij_de_afslag_Sallandse_Heuvelrug']",Het ongeval gebeurde in de richting van Deventer nabij de afslag Sallandse Heuvelrug.
+"['cause | nog_onbekende_oorzaak', 'datetime | omstreeks_06.45_uur', 'victimAmount | drie', 'victimStatus | bekneld_kwamen_te_zitten', 'victimVehicle | inzittenden', 'victimVehicle | voertuig']","Het voertuig vloog omstreeks 06.45 uur door nog onbekende oorzaak van de snelweg, waarna drie inzittenden bekneld kwamen te zitten."
+"['victimAmount | Twee', 'victimAmount | ander']","Twee van hen zijn met onbekend letsel overgebracht naar het ziekenhuis, de ander is ter plekke aan zijn of haar verwondingen overleden."
+['incidentType | dodelijk_ongeval'],Als gevolg van het dodelijk ongeval was een rijstrook afgesloten.
+['victimVehicle | auto'],De auto is geborgen.
+"['victimAddress | Polen', 'victimGender | man', 'victimStatus | verongelukte_slachtoffer']",Het verongelukte slachtoffer is een man uit Polen.
+"['victimAddress | Polen', 'victimAmount | andere_twee', 'victimAmount | twee', 'victimGender | vrouwen', 'victimVehicle | inzittenden']","De andere twee inzittenden zijn twee vrouwen, eveneens uit Polen."
+"['victimAmount | drietal', 'victimVehicle | auto']","Volgens een getuige begon de auto van het drietal opeens te slingeren, waarna het voertuig tegen een vangrail reed en tot stilstand kwam tegen een brugpijler."
+"['datetime | vanochtend', 'incidentType | verkeersongeval', 'location | IJsselallee_in_Zwolle', 'victimAddress | Zwolle', 'victimAge | 79-jarige', 'victimStatus | om_het_leven_gekomen', 'victimVehicle | automobilist']",Bij een verkeersongeval op de IJsselallee in Zwolle is vanochtend een 79-jarige automobilist uit Zwolle om het leven gekomen.
+"['location | verkeerslichten_bij_de_Ittersumallee', 'suspectVehicle | vrachtwagen', 'victimGender | Hij']",Hij reed met hoge snelheid in op een vrachtwagen die stond te wachten voor verkeerslichten bij de Ittersumallee.
+"['victimAge | 71-jarige', 'victimGender | man', 'victimGender | vrouw', 'victimVehicle | auto']",De man zat samen met zijn 71-jarige vrouw in de auto.
+"['victimGender | Zij', 'victimStatus | raakte_zwaargewond']",Zij raakte zwaargewond en is door de brandweer uit het voertuig bevrijd.
+['victimStatus | Haar_toestand_is_kritiek'],Haar toestand is kritiek.
+"['suspectAddress | Tilburg', 'suspectAge | 44-jarige', 'suspectGender | man', 'suspectStatus | naar_het_ziekenhuis_gebracht_vanwege_nekklachten', 'suspectVehicle | bestuurder_van_de_kleine_vrachtwagen']","De bestuurder van de kleine vrachtwagen, een 44-jarige man uit Tilburg, is naar het ziekenhuis gebracht vanwege nekklachten."
+['incidentType | ongeval'],De chaos door het ongeval is groot.
+"['incidentType | kop-staart-botsing', 'suspectVehicle | vrachtwagen', 'victimVehicle | auto']",Door de klap ontstond er een kop-staart-botsing waarbij behalve de auto en de vrachtwagen ook twee andere personenauto's en een bestelbus betrokken waren.
+"['datetime | afgelopen_zondag', 'incidentType | aanrijding', 'location | Hoofddorp', 'victimAmount | twee', 'victimVehicle | fietsers']",De verkeersongevalsanalisten hebben een onderzoek ingesteld naar de aanrijding in Hoofddorp afgelopen zondag tussen twee fietsers.
+"['datetime | Rond_18.40_uur', 'incidentType | aanrijding', 'location | fietspad_aan_Graan_voor_Visch', 'victimAge | 27-jarige', 'victimAmount | twee', 'victimVehicle | fietsers']",Rond 18.40 uur ontstond een aanrijding tussen twee fietsers op het fietspad aan Graan voor Visch: een 27-jarige man en een 64-jarige vrouw.
+"['victimAddress | Hoofddorp', 'victimGender | vrouw', 'victimStatus | liep_hierdoor_ernstig_hoofdletsel_op']",De vrouw uit Hoofddorp liep hierdoor ernstig hoofdletsel op.
+"['victimGender | man', 'victimStatus | door_de_politie_aangehouden_en_overgebracht_naar_het_politiebureau']",De man werd door de politie aangehouden en overgebracht naar het politiebureau.
+"['victimGender | vrouw', 'victimStatus | met_spoed_naar_het_ziekenhuis_overgebracht,_maar_overleed_helaas_in_het_ziekenhuis_aan_haar_verwondingen']","De vrouw werd met spoed naar het ziekenhuis overgebracht, maar overleed helaas in het ziekenhuis aan haar verwondingen."
+['incidentType | aanrijding'],De verkeersongevalsanalisten onderzoeken de exacte toedracht van de aanrijding.
+"['datetime | maandag', 'incidentType | aanrijding', 'location | N247_tussen_Broek_in_Waterland_en_Monnickendam', 'suspectVehicle | lijnbus_van_Connexxion', 'victimStatus | om_het_leven_gekomen', 'victimVehicle | personenauto']","Door een aanrijding tussen een personenauto en een lijnbus van Connexxion, op de N247 tussen Broek in Waterland en Monnickendam, is maandag de bestuurder van de auto om het leven gekomen."
+"['incidentType | ongeval', 'suspectVehicle | bus']",De bus kwam na het ongeval in het naastgelegen water terecht.
+['suspectVehicle | bus'],Volgens een woordvoerder van Connexxion zaten er geen passagiers in de bus.
+"['cause | nog_onbekende_oorzaak', 'victimVehicle | auto']",De auto kwam door nog onbekende oorzaak op de linkerweghelft terecht.
+"['incidentType | frontale_botsing', 'suspectVehicle | bus', 'victimVehicle | personenauto']",De bus kon de personenauto niet meer ontwijken en een frontale botsing was het gevolg.
+"['victimStatus | ter_plekke_overleden', 'victimVehicle | bestuurder_van_de_personenauto']",De bestuurder van de personenauto is ter plekke overleden.
+"['suspectStatus | kwam_met_de_schrik_en_een_nat_pak_vrij', 'suspectVehicle | chauffeur_van_de_bus']",De chauffeur van de bus kwam met de schrik en een nat pak vrij.
+"['datetime | woensdagochtend', 'incidentType | ongeluk', 'location | snelweg_A58_bij_Arnemuiden', 'victimStatus | om_het_leven_gekomen']",Een spookrijder is woensdagochtend om het leven gekomen bij een ongeluk op de snelweg A58 bij Arnemuiden.
+"['datetime | rond_02.00_uur', 'incidentType | frontaal', 'suspectVehicle | bestelbusje', 'victimAddress | Bussum', 'victimAge | 42-jarige']","De 42-jarige inwoner uit Bussum botste rond 02.00 uur frontaal tegen een bestelbusje, meldt de politie Zeeland."
+"['suspectAmount | twee', 'suspectStatus | met_nekletsel_naar_een_ziekenhuis_gebracht', 'suspectVehicle | inzittenden_van_het_busje']",De twee inzittenden van het busje zijn met nekletsel naar een ziekenhuis gebracht.
+"['suspectAge | 32-jarige', 'suspectGender | man']",Het gaat om een 32-jarige man uit Vlissingen en een 44-jarige man uit het Zeeuwse Oost-Souburg.
+['location | A58'],De A58 is tijdelijk afgesloten geweest.
+"['datetime | dinsdagavond', 'incidentType | ongeval', 'location | Amersfoortsestraat', 'victimAddress | Barneveld', 'victimAge | 16-jarige', 'victimStatus | overleden', 'victimVehicle | bromfietser']","Een 16-jarige bromfietser uit Barneveld die dinsdagavond betrokken was bij een ongeval op de Amersfoortsestraat in zijn woonplaats, is overleden."
+"['suspectAddress | Barneveld', 'suspectAge | 21-jarige', 'suspectVehicle | automobilist']",Een 21-jarige automobilist uit Barneveld wilde linksaf slaan om een parkeerplaats op te rijden.
+"['cause | geen_voorrang_hebben_verleend', 'suspectGender | Hij', 'victimVehicle | bromfietser']",Hij zou daarbij geen voorrang hebben verleend aan de bromfietser.
+"['suspectVehicle | auto', 'victimVehicle | brommer']","Die schrok mogelijk, remde, kwam ten val en schoof met zijn brommer tegen de auto."
+"['victimStatus | overgebracht_naar_ziekenhuis_de_Gelderse_Vallei_in_Ede', 'victimVehicle | bromfietser']",De bromfietser is overgebracht naar ziekenhuis de Gelderse Vallei in Ede.
+"['victimGender | hij', 'victimStatus | overleed']",Daar overleed hij later die avond.
+"['datetime | zondagochtend', 'location | sloot_naast_de_Zoutelandseweg_in_Biggekerke', 'victimAddress | Zoutelande', 'victimAge | 54-jarige', 'victimGender | man', 'victimStatus | stoffelijk_overschot']","Het stoffelijk overschot dat zondagochtend door een voorbijganger werd gevonden in een sloot naast de Zoutelandseweg in Biggekerke, is van een 54-jarige man uit Zoutelande."
+"['incidentType | eenzijdig_ongeval', 'victimGender | man', 'victimStatus | om_het_leven_gekomen']",De man is vermoedelijk door een eenzijdig ongeval om het leven gekomen.
+['cause | geen_reden_om_van_een_misdrijf_uit_te_gaan'],Er was op het eerste gezicht geen reden om van een misdrijf uit te gaan.
+['victimVehicle | fiets'],Bij het lichaam werd ook een fiets aangetroffen.
+"['incidentType | verkeersongeval', 'victimGender | man', 'victimStatus | om_het_leven_was_gekomen']","Het Verkeers Ongevallen Analyseteam kwam ter plaatse, omdat niet kon worden uitgesloten dat de man door een verkeersongeval om het leven was gekomen."
+['victimStatus | slachtoffer'],"Nadat de identiteit van het slachtoffer was vastgesteld, werden nabestaanden ingelicht."
+['victimGender | man'],"Vervolgens werd in het mortuarium een schouw gehouden, zodat de identiteit van de man kon worden bevestigd."
+"['victimGender | man', 'victimStatus | dode']",Uit onderzoek op het lichaam van de dode man zijn geen sporen gevonden die erop wijzen dat hij door een misdrijf om het leven is gekomen.
+"['cause | in_de_sloot_is_terechtgekomen', 'incidentType | eenzijdig_ongeval', 'victimGender | man', 'victimStatus | overleden', 'victimVehicle | fiets']",De politie gaat uit van een eenzijdig ongeval waarbij de man met zijn fiets in de sloot is terechtgekomen en daar is overleden.
+['victimGender | man'],Nabestaanden hebben de man geïdentificeerd.
+"['victimAddress | Zoutelande', 'victimAge | 54-jarige', 'victimGender | man']",De politie heeft bevestigd dat het gaat om een 54-jarige man uit Zoutelande.
+"['location | Oud-Beijerland', 'suspectVehicle | tractor_met_aanhangwagen', 'victimAddress | die_plaats', 'victimAge | 25-jarige', 'victimVehicle | motorrijder']",In Oud-Beijerland zag een 25-jarige motorrijder uit die plaats op een kruising aan de Langeweg een tractor met aanhangwagen over het hoofd.
+"['suspectVehicle | voertuig', 'victimGender | Hij', 'victimStatus | schoof_gedeeltelijk_onder_de_aanhanger']",Hij reed zonder te remmen tegen het voertuig aan en schoof gedeeltelijk onder de aanhanger.
+"['datetime | woensdagochtend_rond_11_uur', 'incidentType | ongeval', 'location | Drechterlandseweg/N302_bij_Hoogkarspel', 'victimAge | 64-jarige', 'victimStatus | overleden', 'victimVehicle | automobiliste']",Bij een ongeval op de Drechterlandseweg/N302 bij Hoogkarspel is een 64-jarige automobiliste woensdagochtend rond 11 uur overleden.
+"['datetime | Rond_11.10_uur', 'victimAddress | Zeewolde', 'victimGender | vrouw']","Rond 11.10 uur reed de vrouw, woonachtig in Zeewolde, in de richting van Hoorn."
+"['cause | onbekende_redenen', 'victimVehicle | auto']",Om onbekende redenen kwam zij met haar rechtervoorwiel in de berm terecht en bij het tegensturen schoot de auto naar de andere weghelft.
+"['incidentType | frontaal_in_aanraking', 'suspectAddress | Winkel', 'suspectAge | 49-jarige', 'suspectGender | vrouw', 'suspectVehicle | automobiliste', 'victimGender | vrouw', 'victimVehicle | auto']","Hier kwam de auto van de vrouw frontaal in aanraking met een tegemoetkomende automobiliste, een 49-jarige vrouw uit Winkel."
+"['incidentType | botsing', 'suspectStatus | met_diverse_kneuzingen_en_voetletsel_naar_het_ziekenhuis_overgebracht', 'suspectVehicle | automobiliste', 'victimAddress | Zeewolde', 'victimGender | vrouw', 'victimStatus | niet_overleefd']","De vrouw uit Zeewolde heeft de botsing niet overleefd, de andere automobiliste is met diverse kneuzingen en voetletsel naar het ziekenhuis overgebracht."
+"['datetime | afgelopen_zaterdagavond', 'incidentType | ongeluk', 'victimAddress | Kampen', 'victimAge | 68-jarige', 'victimGender | man', 'victimStatus | overleden_aan_zijn_verwondingen']",Een 68-jarige man uit Kampen is na een ongeluk afgelopen zaterdagavond overleden aan zijn verwondingen.
+"['datetime | afgelopen_zaterdagavond', 'location | fietspad_langs_de_Europa-allee', 'victimDescription | Kampenaar', 'victimVehicle | fiets']",De Kampenaar reed afgelopen zaterdagavond op zijn fiets op  het fietspad langs de Europa-allee.
+"['incidentType | botsing', 'location | Ter_hoogte_van_de_Acacialaan', 'suspectAddress | Kampen', 'suspectAge | minderjarige', 'suspectGender | jongen', 'suspectVehicle | fietser', 'victimGender | hij']","Ter hoogte van de Acacialaan kwam hij in botsing met een andere fietser, een minderjarige jongen uit Kampen."
+"['victimStatus | slachtoffer', 'victimStatus | werd_naar_het_ziekenhuis_overgebracht_maar_overleed_diezelfde_avond_nog_aan_zijn_verwondingen']",Het slachtoffer werd naar het ziekenhuis overgebracht maar overleed diezelfde avond nog aan zijn verwondingen.
+"['suspectAddress | Kampen', 'suspectAge | minderjarige', 'suspectGender | jongen', 'suspectStatus | als_verdachte_aangemerkt_voor_het_ongeluk']",De minderjarige jongen uit Kampen is als verdachte aangemerkt voor het ongeluk.
+"['suspectGender | Hij', 'suspectStatus | na_het_verhoor_vrijgelaten']",Hij werd na het verhoor vrijgelaten.
+['incidentType | ongeluk'],De politie onderzoekt de oorzaak van het ongeluk.
+"['suspectAge | minderjarige', 'suspectStatus | mag_dit_onderzoek_in_vrijheid_afwachten']",De minderjarige mag dit onderzoek in vrijheid afwachten.
+"['datetime | woensdagmiddag', 'location | zijn_woonplaats', 'suspectVehicle | vrachtwagen', 'victimAddress | Amstelveen', 'victimAge | 12-jarige', 'victimGender | jongen', 'victimStatus | om_het_leven_gekomen']",Een 12-jarige jongen uit Amstelveen is woensdagmiddag om het leven gekomen nadat hij onder een vrachtwagen terechtkwam in zijn woonplaats.
+"['victimGender | Hij', 'victimStatus | overleed_in_het_ziekenhuis_aan_zijn_verwondingen']","Hij overleed in het ziekenhuis aan zijn verwondingen, meldt de politie."
+"['incidentType | ongeluk', 'location | Graaf_Aelbrechtlaan']",Het ongeluk gebeurde op de Graaf Aelbrechtlaan.
+"['cause | zag_vermoedelijk_de_jongen_over_het_hoofd', 'location | ter_hoogte_van_de_Keizer_Karelweg', 'suspectVehicle | vrachtwagen', 'victimGender | jongen']",De vrachtwagen sloeg ter hoogte van de Keizer Karelweg rechtsaf maar zag vermoedelijk de jongen over het hoofd.
+"['location | Amsterdam', 'victimAddress | Haarlem', 'victimAge | 36-jarige', 'victimGender | man', 'victimStatus | om_het_leven_gekomen', 'victimVehicle | auto']",Een 36-jarige man uit Haarlem is om het leven gekomen nadat hij in Amsterdam met zijn auto tegen een boom reed.
+"['cause | onbekende_oorzaak', 'victimGender | man']","Vermoedelijk verloor de man door nog onbekende oorzaak de controle over het stuur, liet de politie weten."
+"['incidentType | ongeval', 'location | Nieuwe_Hemweg']",Het ongeval gebeurde op de Nieuwe Hemweg.
+['victimStatus | slachtoffer_was_op_slag_dood'],Het slachtoffer was op slag dood.
+"['datetime | vanmiddag', 'incidentType | eenzijdig_ongeluk', 'location | A37_bij_Zwinderen', 'victimAddress | Portugal', 'victimAge | 40-jarige', 'victimStatus | omgekomen', 'victimVehicle | vrachtwagenchauffeur']",Een 40-jarige vrachtwagenchauffeur uit Portugal is vanmiddag omgekomen bij een eenzijdig ongeluk op de A37 bij Zwinderen.
+"['cause | verloor_door_een_klapband_de_macht_over_het_stuur', 'victimGender | man']",De man verloor door een klapband de macht over het stuur.
+['suspectVehicle | vrachtwagencombinatie'],De vrachtwagencombinatie begon daardoor te scharen.
+['suspectVehicle | chauffeur'],De chauffeur zat alleen in de truck.
+['incidentType | ongeluk'],Bij het ongeluk was geen ander verkeer betrokken.
