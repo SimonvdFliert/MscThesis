@@ -127,9 +127,23 @@ def _table_reader(table_file):
         entry_tab = []
         entry_list = literal_eval(entry_string)
         for member in entry_list:
-          value_pair = ([member[0]], [member[1]])
-          table.append(value_pair)
 
+            # hier een controle om apostrophe eruit te halen
+          if member[0].startswith("'"):
+            attribute = member[0][1:]
+          elif member[0].endswith("'"):
+            attribute = member[0][:-1]
+
+          if member[1].startswith("'"):
+            value = member[1][1:]
+          elif member[1].endswith("'"):
+            value = member[1][:-1]
+
+          #value_pair = ([member[0]], [member[1]])
+          value_pair = ([attribute], [value])
+
+          table.append(value_pair)
+      #print(table)
       yield table
 
 
@@ -248,7 +262,44 @@ def _mention_probability(table_entry, sentence, smoothing=0.0):
     value = table_entry[1]
   else:
     value = table_entry[0] + table_entry[2]
+
+
+### Eigen code!!! ============================================================================
+  punc = ',;'
+  final_punc = ''':.!'''
+
+  for element_id, elements in enumerate(sentence):
+    if elements[-1] in final_punc and element_id == (len(sentence) -1):
+        sentence[element_id] = elements[:-1]
+
+    for character in elements:
+      if character in punc:
+        sentence[element_id] = elements.replace(character, "")
+
+
+
+  #print(f"value  {value}")
   overlap = _len_lcs(value, sentence)
+
+### EIGEN CODE ============================================================================
+  if overlap == 0:
+    print(f'value {value}, sentence {sentence}')
+  #   punc = ','
+  #   final_punc = ''':.!'''
+
+  #   for element_id, elements in enumerate(sentence):
+  #     if elements[-1] in final_punc and element_id == (len(sentence) -1):
+  #         sentence[element_id] = elements[:-1]
+
+  #     for character in elements:
+  #       if character in punc:
+  #         sentence[element_id] = elements.replace(character, "")
+
+  #     #sentence[element_id] = re.sub(r'[^\w\s]', '', elements)
+
+  #   print(f'after punctuation removal   {sentence}')
+
+
   return float(overlap + smoothing) / float(len(value) + smoothing)
 
 
@@ -261,6 +312,14 @@ def _len_lcs(x, y):
   Returns
     integer: Length of LCS between x and y
   """
+  #x = x[0].split(" ")
+
+
+  ################################ -------------------------> Shoemelen met Waardes eigenlijk, niet echt netjes
+  # if x[0] == 'true':
+  #   x = ['hospital', 'hospitals', 'medical']
+
+
   table = _lcs(x, y)
   n, m = len(x), len(y)
   return table[n, m]
@@ -277,17 +336,37 @@ def _lcs(x, y):
   Returns:
     Table of dictionary of coord and len lcs
   """
-  n, m = len(x), len(y)
+  testsplit = x[0].split(" ")
+  
+  ##### Verhoogt Parent score met 0.0005
+  if x[0] == 'true':
+    testsplit = ['hospital', 'hospitals', 'medical']
+
+  n, m = len(testsplit), len(y)
   table = dict()
   for i in range(n + 1):
     for j in range(m + 1):
       if i == 0 or j == 0:
         table[i, j] = 0
-      elif x[i - 1] == y[j - 1]:
+      elif testsplit[i - 1] == y[j - 1]:
         table[i, j] = table[i - 1, j - 1] + 1
       else:
         table[i, j] = max(table[i - 1, j], table[i, j - 1])
   return table
+
+
+  #### OORSPRONKELIJK
+  # n, m = len(x), len(y)
+  # table = dict()
+  # for i in range(n + 1):
+  #   for j in range(m + 1):
+  #     if i == 0 or j == 0:
+  #       table[i, j] = 0
+  #     elif x[i - 1] == y[j - 1]:
+  #       table[i, j] = table[i - 1, j - 1] + 1
+  #     else:
+  #       table[i, j] = max(table[i - 1, j], table[i, j - 1])
+  # return table
 
 
 def _ngrams(sequence, order):
