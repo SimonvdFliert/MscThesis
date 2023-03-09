@@ -1,5 +1,5 @@
 # Worth More Than Gold
-## A Master Thesis of model diagnostics in Transformers in the field of NLG
+## A Master Thesis project investigating Transformers and the origin of errors through model diagnostics in the field of NLG
 This repository contains the data and code used for my Master thesis in Natural Language Generation
 
 ![image](./Gold.jpg)
