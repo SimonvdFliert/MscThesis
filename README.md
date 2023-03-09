@@ -2,7 +2,9 @@
 ## A Master Thesis of model diagnostics in Transformers in the field of NLG
 This repository contains the data and code used for my Master thesis in Natural Language Generation
 
-[[https://github.com/SimonvdFliert/MscThesis/blob/main/Gold.jpg|alt=octocat]]
+![My Image]([my-image.jpg](https://github.com/SimonvdFliert/MscThesis/blob/main/Gold.jpg))
+
+
 Table of Contents
 =================
 
