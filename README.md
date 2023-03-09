@@ -6,20 +6,21 @@ This repository contains the data and code used for my Master thesis in Natural 
 Table of Contents
 =================
 
-   * [Worth More Than Gold](#Worth More Than Gold)
+   * [Worth More Than Gold](#Worth-More-Than-Gold)
       * [Table of Contents](#table-of-contents)
       * [Installation](#installation)
-      * [Background readings in NLG](#Background readings in NLG)
-      * [Repository Overview](#paper-tests)
+      * [Background readings in NLG](#Background-readings-in-NLG)
+      * [Repository Overview](#Repository-Overview)
 
 
 ## Installation
-From local machine:  
-```
-pip install sssss
-```
 From Google Colab
-``` All Colab files contain the required packages within the first cell. Run this cell and you should be good to go!
+All Colab files contain the required packages within the first cell. Run this cell and you should be good to go!
+```
+!pip install git+https://github.com/huggingface/datasets.git
+!pip install rouge_score
+!pip install sentencepiece
+!pip install transformers
 ```
 
 ## Background readings in NLG
@@ -31,15 +32,19 @@ For those unfamiliar with NLG, below are some fantastic starting points
 
 ## Repository Overview
 This file contains several documents.
-1. The data can be found 
-2. The code is split in different colabs, each with their own purpose
-3. Other code adapted from different projects
-   4. Altered Parent
-   5. BARTScore
-6. ..
 
+### CACAPO Data
+The CACAPO data has been stored in the file named Data. Within this, several subfolders can be found.
+1. CACAPO: The original CACAPO dataset retrievable from [Dataverse](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LIBYHP)
+2. Cleaned_data: The originaltriples and texts extracted from the Original Dataset to train End-to-End systems
+3. Cleaned_continuous: Used for the continuous experiment, where splits are made for each subject
+4. Augmented_data: The dataset created by the script in "Data Augmentation Experiment", contains roughly 42K records compared to the original 20K
+5. Elongated_data: The dataset that has been manually elongated with additional contextual input
+6. GEM datasets: The datasets from different experiments adapted for the GEM Benchmark
+7. Pickled_attributes: This folder contains pickles of the attributes stored within the entire dataset and also split per subject and language
 
+### Code
+This folder contains the code written for this project. Within this file is both the WebNLG_xmlReader (taken and not adapted from the WebNLG challenge) and Evaluation_Code. In the latter folder are two files, an file containing the unaltered BARTScore code and a file for the altered PARENT code.
 
-
-
-
+### Manual_eval
+This file contains all Excel and CSV documents that have been used during manual review sessions in this project.
