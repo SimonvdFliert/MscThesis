@@ -1,0 +1,381 @@
+input,output
+"['victimGender | men', 'victimNumber | three', 'victimStatus | critical_injuries']",Police say three men also were shot and two suffered critical injuries.
+"['victimAge | 19', 'victimGender | men']",The wounded men range in age from 19 to 21.
+"['accidentAddress | bus', 'accidentDate | around_1:30_a.m.', 'shootingType | shooting']",Police said the shooting happened around 1:30 a.m. on the bus as it was headed north on I-5 over the Grapevine.
+['suspectStatus | arrested'],"After the shooting, the passengers disarmed the suspect and the bus driver pulled over to the right shoulder and the gunman left the bus voluntarily and left the gun behind on the bus before being arrested by authorities."
+['victimStatus | dead'],Medic pronounced the victim dead at the scene.
+['victimName | Adrian_Potts'],Police on Saturday night identified him as Adrian Potts.
+"['accidentAddress | west', 'suspectVehicle | gray_Nissan_Altima']","He fired from a gray Nissan Altima and left the area going west, police said."
+"['victimAge_Group | child', 'victimNumber | One', 'victimNumber | other']","One child was shot in the leg and the other was shot in the arm, police said."
+"['victimAge | 19-year-old', 'victimGender | men', 'victimNumber | two', 'victimStatus | shot_in_the_leg']","The two men, a 19-year-old and a 20-year-old, were both shot in the leg, police said."
+"['victimNumber | One', 'victimStatus | serious_condition']","One was in serious condition and the other had minor injuries, according to MedStar."
+"['takenToHospital | True', 'victimNumber | four']","At that time, Rochester General Hospital reported receiving four gunshot victims who arrived in private vehicles."
+"['victimName | Patrick_Carter', 'victimName | Rickey_Harvey', 'victimStatus | shot_at_least_once_in_the_upper_body']","Rickey Harvey, 29, Patrick Carter, 34, Joel Allen and Darelle Scott, 26, were shot at least once in the upper body."
+['shootingType | incident'],Details of the incident are unknown.
+"['victimNumber | one', 'victimNumber | three']","Police said three men, one boy and one girl were hit."
+['victimStatus | nonlethal_injuries'],"The other victims had nonlethal injuries, he said."
+['victimAge_Group | children'],Ramos did not know the age of the children.
+['shootingType | shooting'],"Police believe the victims were targeted, but they don't know whether the shooting was gang-related, Ramos said."
+['accidentAddress | parking_lot'],He said a large group of people was gathered in the parking lot when the gunman came up and began shooting.
+"['suspectGender | man', 'suspectRace | black', 'suspectVehicle | white_SUV']",Police said the only description they have so far is that the suspect is a black man who fled in possibly a white SUV.
+['shootingType | shooting'],"At Edison High School two blocks away, the Division III boys water polo semi-final between Edison and Exeter High was interrupted briefly because of the shooting."
+"['suspectName | Bishop_Henderson', 'victimGender | man', 'victimStatus | shoot']","Initially, Bishop Henderson was charged with assault after witnesses told police they saw him shoot a man in the face."
+"['suspectName | Henderson', 'victimName | Kristal_Avena', 'victimStatus | deaths']","However, Henderson is now charged with three counts of first-degree murder for the deaths of Kristal Avena, Khalil Carter and Lamar Lee-Kane."
+['suspectName | Henderson'],Court documents do not indicate why investigators now believe Henderson fired the deadly shots.
+"['accidentAddress | nightclub', 'accidentDate | around_closing_time', 'shootingType | shootout']",Springfield police Capt. Harry Kastrinakis said preliminary information indicates the groups were involved in a shootout as people were leaving the nightclub around closing time.
+['accidentDate | 1:58_a.m.'],Police responded to the scene at 1:58 a.m.
+['shootingType | gunfire'],Some officers who were within earshot of the gunfire responded within moments.
+"['victimNumber | One', 'victimNumber | four']","One shooting victim showed up at Mercy Medical Center for treatment, while four victims were brought to Baystate's trauma unit."
+"['victimNumber | Some', 'victimStatus | shot_in_the_torso']","Some were shot in the torso, but most were hit in the arms or legs, Kastrinakis said."
+"['accidentAddress | in_the_parking_lot', 'shootingType | gunfire']","Several police police units were stationed near the emergency room entrance as a precaution to prevent any retribution attacks, but gunfire erupted in the parking lot despite the police presence."
+"['accidentAddress | downtown', 'shootingType | gunfight']",Police do not know how many shooters were involved in the downtown gunfight outside Lux.
+['shootingType | incident'],The incident remains under investigation.
+['accidentDate | approximately_10:29_pm'],"At approximately 10:29 pm, the victims were walking when a vehicle passed by."
+['victimNumber | four'],"Shots were fired from the vehicle, striking four victims."
+"['takenToHospital | True', 'victimStatus | non-life_threatening_injuries']",All victims were transported to local hospitals with non-life threatening injuries.
+"['accidentAddress | listed_location', 'accidentDate | approximately_11:08_am']","At approximately 11:08 am, the victims were standing at the listed location."
+"['victimAge_Group | adult', 'victimNumber | One', 'victimNumber | three', 'victimStatus | struck_by_the_gunfire']",One adult female and three adult males were struck by the gunfire.
+['takenToHospital | True'],All of the victims were transported to local hospitals for treatment.
+"['accidentAddress | Southwest,_DC', 'victimAge | 23_year-old', 'victimName | Jasmine_Lashai_Light']","The decedent has been identified as 23 year-old Jasmine Lashai Light, Southwest, DC."
+['suspectName | Denham'],"Denham also is charged with animal abuse, armed criminal action, tampering and second-degree arson."
+['suspectStatus | taken_into_custody'],He was taken into custody Feb. 21 after being found walking naked in northwestern Arizona.
+['suspectStatus | arrested'],"He was returned earlier this month to Missouri, where he was arrested on suspicion of stealing his grandparents” car."
+['accidentAddress | just_down_the_street_from_Castlemont_High_School'],The site of the shooting is just down the street from Castlemont High School.
+['victimAge | 18-year-old'],The department is withholding the name of the 18-year-old victim pending notification of next of kin
+"['suspectGender | males', 'suspectNumber | 3-4', 'suspectWeapon | handguns', 'victimAge_Group | teens']","According to Cleveland police, they were approached by 3-4 males who produced handguns and began firing at the teens."
+"['victimAge | 12-year-old', 'victimGender | son']","The shots got the attention of a nearby shop owner and his 12-year-old son, who both came outside to investigate."
+"['victimAge | 12-year-old', 'victimStatus | struck_by_a_bullet_in_the_torso']","When more shots were fired, the two retreated back into the store, where they discovered the 12-year-old had been struck by a bullet in the torso."
+"['hospitalName | University_Hospitals', 'takenToHospital | True', 'victimAge_Group | teens', 'victimNumber | five', 'victimStatus | shot']","The five teens who were shot and taken to University Hospitals, where one remains confined with a gunshot wound to the head."
+"['suspectDescription | black_or_darkly-colored_hoodies', 'suspectOccupation | juveniles']","There have been no arrests, but police say the suspects were wearing black or darkly-colored hoodies and are also likely juveniles."
+"['victimAge | 27-year-old', 'victimStatus | died']",They say 27-year-old Devonte Henneghan and 30-year-old James Fields Jr. died as a result of their injuries.
+['shootingType | incident'],Detectives are actively investigating the incident and say this does not appear to be the result of a random shooting.
+['shootingType | shooting'],Anyone with information regarding this shooting is asked to contact the Violent Crimes Tip Line at (912) 525-3124.
+['victimStatus | in_stable_condition'],All were listed in stable condition.
+['victimNumber | one'],"Harris County Sheiff Ed Gonzalez said that one person was hit by a bullet, which then ricocheted and injured six others."
+"['suspectGender | man', 'suspectStatus | detained', 'suspectWeapon | gun']","According to Gonzalez, the man who was detained claimed the gun accidentally went off while it was in his pocket."
+['victimStatus | shot'],Gonzalez said the person who was shot did not know the suspect.
+['victimName | James_McChristian'],"James McChristian, of the same block where he was shot, was pronounced dead at 2:03 a.m., according to the Cook County Medical Examiner's Office."
+['victimStatus | died_from_a_gunshot_wound_in_his_torso'],An autopsy showed he died from a gunshot wound in his torso in a homicide.
+"['victimAge | 23-year-old', 'victimAge | 23-year-old', 'victimStatus | hit_in_her_leg']",A 23-year-old woman was hit in her leg and was in good condition and a 23-year-old man was hit in his shoulder and was in good condition.
+['suspectName | Kelvin_Clark'],"Kelvin Clark's bond was set for 250,000."
+"['shootingType | shooting', 'victimNumber | Six', 'victimNumber | one']",Six people were shot and one remains in critical condition after the shooting.
+"['accidentAddress | Westport_Art_Fair', 'personnelArrivedTime | around_3:30_a.m.', 'suspectGender | man']","A number of officers were on scene around 3:30 a.m. following the Westport Art Fair, when they observed a man shoot into a crowd of people and then get into a car."
+"['victimNumber | One', 'victimNumber | five']","One of the victims is in critical condition, five others are listed as non-life threatening."
+"['victimNumber | two', 'victimNumber | two']","Officers arriving at the large, blue two-story home in the city's South Linden section found the bloodied bodies of two men and two women."
+"['shootingType | shooting_spree', 'victimGender | her', 'victimStatus | injuries']","It wasn't immediately disclosed whether her injuries, considered non-life threatening, related to the shooting spree."
+"['victimGender | man', 'victimStatus | died']","The identity of the man who died was being withheld, pending notification of next of kin."
+['shootingType | mass_shooting'],"Police have no suspect information and do not consider the incident a mass shooting at this time, he said."
+['victimNumber | multiple'],"They arrived to a chaotic scene of multiple victims and people screaming, Kosinski said."
+"['hospitalName | Sentara_Norfolk_General_Hospital', 'takenToHospital | True']","Some victims were treated by medics on the scene and others were taken by ambulance to Sentara Norfolk General Hospital, the major trauma center in the Hampton Roads region."
+"['shootingType | shooting', 'victimGender | male', 'victimNumber | eight', 'victimStatus | died']","Sentara treated eight male victims of the shooting, including a man who died at 2:06 a.m., hospital spokesman Dale Gauding said."
+"['takenToHospital | True', 'victimNumber | 10']","As the night went on, police received reports from two other hospitals that they also were treating shooting victims, bringing the total number to 10, Kosinski said."
+"['victimNumber | Three', 'victimNumber | two', 'victimStatus | nonlife-threatening_gunshot_wounds']","Three people suffered from nonlife-threatening gunshot wounds, two of the victims are 21-year-old males and the other is a 16-year-old female."
+"['accidentAddress | Landview_Drive', 'accidentDate | 2:26_a.m._Thursday_morning']",Authorities were called to Landview Drive around 2:26 a.m. Thursday morning in response to a shots fired call.
+"['takenToHospital | True', 'victimNumber | two']",The two other shooting victims later turned up at the medical center to be treated.
+"['victimNumber | One', 'victimStatus | shot_in_the_neck']",One person was shot in the neck and is in critical condition.
+"['victimGender | man', 'victimNumber | One', 'victimStatus | shot_in_the_arm']",One man was shot in the arm and is in stable condition.
+"['victimGender | men', 'victimNumber | Two', 'victimStatus | serious_but_stable_condition']",Two men are in serious but stable condition after being shot in the legs.
+"['suspectGender | man', 'suspectStatus | arrested']",Police Chief Calvin Williams and Deputy Chief Edward Tomba announced Wednesday afternoon that a man was arrested without incident earlier in the day.
+['suspectStatus | in_custody'],"The suspect remains in custody and is expected to be charged within 48 hours, Tomba said."
+"['accidentAddress | East_92nd_Street_home', 'accidentDate | Nov._21', 'suspectDescription | masked', 'victimName | Lemon_Bryant', 'victimStatus | killing']","A masked gunman opened fire at the East 92nd Street home on Nov. 21, killing Lemon Bryant, 60; Shaylona Williams, 17; Ja'rio Taylor, 18; and Sherita Johnson, 41."
+"['takenToHospital | True', 'victimName | Johnson']","Johnson, who was pregnant, was driven to the hospital where her child, Juwan, died after delivery."
+"['victimAge | 11-year-old', 'victimAge | 22-year-old', 'victimStatus | serious_injuries']",An 11-year-old girl and 22-year-old woman have serious injuries.
+"['suspectGender | he', 'victimGender | himself', 'victimStatus | killed']","Then, he killed himself."
+['victimNumber | five'],"When they officers arrived, they found the five people."
+['suspectName | Kim'],Police believe Kim planned the attack amid marital trouble.
+['suspectGender | He'],"He left the names and phone numbers of relatives for police to call, officials said."
+"['victimAge_Group | 19_and_24', 'victimGender | men', 'victimNumber | five']","Police said roughly 1,000 people were participating in various barbecues when the gunman opened fire, striking five men between 19 and 24 years of age."
+"['victimAge | 21', 'victimGender | women', 'victimNumber | Two', 'victimStatus | shot']","Two women, 21 and 25, were also shot, cops said."
+['shootingType | shooting'],Investigators linked the child's injuries to the shooting.
+['shootingType | shooting'],Family members said the shooting started as a dispute between a woman and a former boyfriend.
+"['suspectGender | he', 'victimGender | she']","When she said no, he showed up and opened fire."
+"['victimNumber | four', 'victimStatus | shot']","Seven people were inside the home, and four were shot."
+"['suspectName | Walls', 'suspectStatus | charged']",Walls is charged with four counts of aggravated assault and one count of shooting into an occupied dwelling.
+"['takenToHospital | True', 'victimNumber | four']",All four victims were taken to the hospital in Memphis.
+['accidentAddress | 14th_Street'],The gunfire was coming from 14th Street.
+"['suspectAge_Group | 20s', 'suspectGender | men', 'suspectNumber | Two', 'suspectStatus | wounded']","Two men in their 20s, also wounded, were arrested."
+['pitcherName | Johnson'],"Johnson insisted he wasn't upset but, several hours later in the clubhouse, talked as if he was."
+"['gameTally | split', 'pitcherName | Damaso_Marte', 'teamName | Arizona']",Relievers Damaso Marte and Tyler Yates shut down potential Arizona late-inning comebacks as the teams split the four-game series.
+['batterName | Reynolds'],"Major league umpires have gotten several similar calls wrong this season, though they appeared to get this one right, and that makes Reynolds wonder if instant replay isn't long off."
+['pitcherName | Gavin_Floyd'],Gavin Floyd could be developing into a top-notch starter.
+"['competitionName | AL', 'winLossRecord | 57-24']",The defending AL champions had a major league-best 57-24 home record last season.
+['teamName | Tampa_Bay'],"Tampa Bay now goes on a nine-game, three-city road trip after a week filled with daily promotions celebrating its 2008 playoff run."
+"['RBI | nine', 'batterName | Konerko']","Konerko has nine RBIs over this last six games, including five in the past two games."
+['pitcherName | Sean_West'],Sean West is making the most of his second trip to the majors this season.
+['teamName | Marlins'],The Marlins bounced back in their half to take the lead.
+['batterName | Aaron_Rowand'],"The seesaw marathon lasted nearly four hours, and afterward it took awhile for Aaron Rowand to peel off his sweat-soaked uniform."
+"['strikeOutNumber | 20', 'teamName | San_Francisco']",Six San Francisco pitchers combined for 20 strikeouts.
+['batterName | Bengie_Molina'],"After Bengie Molina was intentionally walked, Huff singled."
+['batterName | Schierholtz'],Schierholtz remained on his feet and stayed in the game.
+"['batterName | Cody_Ross', 'pitchCount | 3-2']",Cody Ross fell down when he swung at a 3-2 pitch and missed.
+"['atBatNumber | nine', 'homeRunNumber | fourth']","It was his fourth homer in a span of nine at-bats, and his sixth this season."
+"['batterName | Barry_Bonds', 'batterName | Bobby_Bonds']",Barry Bonds and Bobby Bonds both accomplished the feat 10 times.
+"['pitchResult | out', 'pitcherName | Jordan_Walden']",Jordan Walden got the final out for his first major league save.
+"['batterName | Cabrera', 'walkNumber | six']","Each of the last six times Cabrera has walked, Fielder has followed with a hit."
+"['fielderName | Bryce_Harper', 'inningsPitched | sixth']","Bryce Harper didn't get past the sixth inning either, but for a completely different reason."
+"['fielderName | Harper', ""teamName | Washington's""]","Now in his third season, the 21-year-old Harper is one of Washington's brightest stars."
+['fielderName | Harper'],"The two-time All-Star once ran into a wall in the relentless pursuit of a fly ball, but on this day Harper was left explaining an act of nonchalance."
+"['pitcherName | Zimmermann', 'winLossType | loss']",Zimmermann took the loss but probably deserved a better fate.
+"['inningNumber | second', 'teamName | St._Louis']",St. Louis bolted in front for good in the second inning.
+['pitcherName | Brooks'],They didn't need it on a night when Brooks pitched the best game of his brief career.
+['batterName | Chris_Davis'],--  Chris Davis learned several years ago not to get caught up analyzing his swing when things are going bad.
+"['fielderPosition | slugger', 'teamName | Orioles']","The Orioles slugger certainly isn't going fool with it during his best streak of the season, either."
+"[""batterName | Davis'""]",It's the sixth grand slam of Davis' career.
+"['matchDate | July_25', 'teamName | Tampa_Bay']",He also hit one against Tampa Bay on July 25.
+"['batterName | Phillips', 'teamName | Cincinnati']",Phillips' last game-ending RBI was four years ago for Cincinnati.
+['RBI | seven'],He has seven in his career.
+['batterName | Phillips'],Phillips has returned to his hometown with a flourish.
+['competitionName | World_Series'],The defending World Series champions felt a little more like their old selves for one game.
+['teamName | Reds'],"The Reds felt that way, too."
+['pitcherName | Kela'],Kela didn't have much of an argument himself.
+['teamName | Pirates'],"From the Pirates' pitching perspective, it was terrible."
+['fielderName | Treanor'],Treanor couldn't recall a runner ever coming into him like that.
+['batterName | Johnson'],Johnson didn't get the win.
+['pitcherName | Johnson'],Johnson was the losing pitcher that night.
+['locationPlayed | Target_Field'],Nobody at Target Field was cheering louder at the end than his teammates.
+['pitcherName | Cook'],Cook was naturally disappointed.
+['pitcherName | Julio_Teheran'],ATLANTA -- Another strong outing from Julio Teheran.
+['batterName | Evan_Gattis'],Another clutch hit by Evan Gattis.
+"['baseNumber | first', 'batterName | Adeiny_Hechevarria', 'batterName | Johnson']","That caused Adeiny Hechevarria, running all the way from first, to slow up so he didn't pass Johnson."
+"['baseNumber | third', 'batterName | Hechevarria']",Hechevarria was held at third and never got any farther.
+['fielderName | Uggla'],"The video showed Uggla making the catch, but losing control as he grabbed the ball with his right hand -- before he actually went into his throwing motion."
+['locationPlayed | Baltimore'],"The game was closed to fans out of concern for their safety following recent rioting in Baltimore after Freddie Gray, a 25-year-old black man, died in police custody."
+['inningsPitched | 10'],"Entering the game, he had not allowed a run over his previous 10 innings."
+"['competitionName | AL', 'teamName | Detroit']",Detroit expects the two-time AL MVP to go on the disabled list.
+"['batterName | Cabrera', 'batterName | Martinez', 'pitchResult | fouled']","Martinez fouled the ball off, but Cabrera pulled up sharply, grabbing his left leg."
+"['batterName | Cabrera', 'teamName | Detroit']",Detroit said Cabrera will have an MRI.
+"['batterName | Dukes', 'batterName | Josh_Willingham']",Teammate Josh Willingham one-upped Dukes in that department.
+['injuryType | sore_back'],"Sidelined by a sore back, he came off the disabled list before the game."
+['pitcherName | Zambrano'],Zambrano said his back was fine.
+['pitcherName | Zambrano'],Zambrano had admitted earlier that he had been lazy in his between-games abdominal workouts to keep his back strong.
+"['batterName | Manny_Ramirez', 'teamName | Dodger']","BOSTON -- Manny Ramirez buttoned up a Dodger blue dress shirt, knotted a solid red tie around his neck and left the visitor's clubhouse to pose for pictures and sign autographs for fans waiting outside."
+['teamName | Arizona'],It didn't matter as Arizona went on to score the winner.
+"[""batterName | Joe_Mauer's""]","PITTSBURGH --  A dozen seasons in, there is still plenty of life in Joe Mauer's bat."
+"['teamName | Pittsburgh', 'teamRecord | 0-6']","Pittsburgh couldn't complete the comeback, however, while falling to 0-6 in extra-inning games."
+['pitcherName | Tyler_Mahle'],"LOS ANGELES --  Pitching close to home, Tyler Mahle wanted to give his family and friends something worth the drive from Orange County."
+"['pitcherName | Mahle', 'teamName | Dodgers']","Early on, the Dodgers were running his pitch count high enough that Mahle figured he'd be gone."
+"['batterName | Holliday', 'teamName | Colorado']",Holliday came through with a timely hit when Colorado needed it most.
+"['outNumber | one', 'teamName | Braves']",The Braves struck first with one out in the first inning.
+['pitcherName | Cook'],"After that, Cook was in control."
+['weatherType | blowing_snow'],"The harsh weather conditions, including blowing snow, forced Lake Superior State University's main campus in Sault Ste."
+['timePoint | Tuesday'],Marie to close Tuesday.
+['timePoint | Wednesday'],The university said it plans to reopen Wednesday.
+['temperatureHotCold | colder'],The trend continue toward much colder temperatures.
+"['temperatureCelsius | 15C', 'temperatureCelsius | 16C']","He said: “Some of us could reach 15C or 16C, really quite exceptional for this time of year.”"
+"['temperatureCelsius | 19.1C', 'timePoint | February_14']",Ladbrokes cut odds on the hottest February 14 ever – beating the 19.1C record – to 2/1.
+['timePoint | Valentine’s_Day'],Ladbrokes spokesman Alex Apati said: “Brits are getting really hot under the collar this Valentine’s Day.”
+['windAmount | breezy'],It will often be breezy.
+['timePoint | Overnight_Tuesday_Night'],Overnight Tuesday Night: Turning sticky.
+['temperatureCelsius | upper_30s_to_lower_40s'],Wind chill values will mostly be in the upper 30s to lower 40s.
+['temperatureCelsius | above_average'],"As such, the department expects that the province will see above average temperatures this summer."
+"['locationArea | Carolinas', 'weatherType | Nestor']","The final advisory has been issued on Nestor, which quickly is moving toward the Carolinas."
+['timePoint | over_the_next_five_days'],"Elsewhere, no major activity is expected over the next five days."
+"['timePoint | Sunday', 'windAmount | moderate']",The rip current threat is moderate for Sunday.
+"['timePoint | June_1st', 'timePoint | November_30th', 'weatherType | hurricane']",The official hurricane season runs from June 1st through November 30th.
+['windAmount | bit_breezy'],It will be a bit breezy as well so watch for a slight chop on the water.
+['timePoint | this_evening-tonight_&_into_Sunday'],We will be in advisory criteria this evening-tonight & into Sunday.
+"['locationArea | EDMONTON', 'timePoint | today']","EDMONTON -- It'll feel more ""wintry"" than it has in a while today."
+['locationArea | in_the_Edmonton_area'],"But, no heavy accumulation is expected in the Edmonton area."
+['locationArea | Edmonton'],Here's the forecast for Edmonton:
+['timePoint | Sunday'],"Happy Sunday, Motown!"
+['timePoint | 1:10_p.m._ET'],First pitch at Comerica Park is at 1:10 p.m. ET.
+['temperatureCelsius | -10C'],"Metereologist Simon Partridge told The Sun Online: ""Temperatures could well be feeling closer -10C because of the wind chill effect but the temperature on your thermometers won’t actually be that low."""
+['locationArea | UK'],"A blast of Arctic air will put spring on hold in the UK, forecasters are warning."
+['locationArea | Western_Oregon'],- Fall has officially arrived in Western Oregon - and winter might not be that far behind.
+['timePoint | September_23'],The Autumnal Equinox on September 23 marks the first day of fall.
+"['victimGender | jongetje', 'victimStatus | overleed']",Later in de avond overleed het jongetje als gevolg van zijn verwondingen.
+['incidentType | incident'],Na het incident werd de politie in kennis gesteld die onmiddellijk een onderzoek instelde.
+"['suspectDescription | familielid_van_het_kind', 'suspectVehicle | voertuig']","Het voertuig, betrokken bij de aanrijding en bestuurd door een familielid van het kind, is door de politie in beslag genomen voor verder onderzoek."
+['suspectDescription | familielid_van_het_jongetje'],Een familielid van het jongetje zat achter het stuur.
+['victimAge | kind'],Het gaat om een kind van drie of vier jaar oud.
+"['datetime | Vrijdagavond', 'victimAge | kleuter']",Vrijdagavond heeft de politie onderzoek gedaan in Vught en in het Jeroen Bosch Ziekenhuis in Den Bosch waar de kleuter naartoe werd gebracht.
+['suspectVehicle | auto'],De auto is in beslag genomen voor onderzoek.
+"['location | A1_richting_Barneveld', 'victimStatus | slachtoffer']",Vermoedelijk had het slachtoffer pech gekregen op de A1 richting Barneveld en wilde de rijbaan oversteken naar de benzinepomp aan de andere kant van de weg richting Amersfoort.
+['victimStatus | slachtoffer'],Ondanks de inspanningen van de medische hulpverlerners is het slachtoffer ter plaatse overleden.
+['incidentType | aanrijding'],De VOA heeft ter plaatse de sporen van de aanrijding vastgelegd.
+['location | Weimarstraat'],De Weimarstraat is tot laat in de avond afgesloten geweest ten behoeve van het onderzoek.
+"['victimAmount | Drie', 'victimAmount | vierde', 'victimVehicle | auto']","Drie personen zouden nog in de auto zitten, een vierde persoon was uit de auto gehaald door omstanders die te hulp waren geschoten."
+"['victimAmount | Beiden', 'victimStatus | slachtoffers']",Beiden slachtoffers bleken geen hartslag meer te hebben en zijn ter plaatse overleden.
+"['victimAmount | twee', 'victimDescription | van_Poolse_nationaliteit', 'victimGender | man', 'victimStatus | per_ambulance_naar_het_ziekenhuis_gebracht', 'victimVehicle | inzittenden']","De twee andere inzittenden, een man van 26 jaar en van 35 jaar eveneens van Poolse nationaliteit, zijn per ambulance naar het ziekenhuis gebracht."
+['incidentType | ongeval'],De verkeersdienst van de politie heeft op de plaats van het ongeval onderzoek gedaan naar de oorzaak.
+['victimVehicle | auto'],"De auto is vervolgens half op zijn zijkant, half op de kop tegen een boom tot stilstand gekomen."
+['victimVehicle | auto'],Toegesnelde getuigen hebben de auto op zijn wielen gezet voordat de hulpverleningsdiensten ter plaatse kwamen.
+['suspectVehicle | tractorbestuurder'],"De politie heeft van de getuigen, waaronder de tractorbestuurder een verklaring opgenomen en zet het onderzoek naar de oorzaak voort."
+['location | Vogelaardreef'],De Vogelaardreef is korte tijd afgesloten geweest.
+['victimVehicle | auto'],Zijn auto raakte in de slip en kwam eerst tegen een lantaarnpaal terecht en vervolgens tegen een boom.
+"['victimGender | man', 'victimGender | vrouw']","De vrouw overleed ter plekke, de man werd in kritieke toestand naar een ziekenhuis gebracht."
+['victimGender | ze'],Vervolgens rende ze de snelweg over.
+"['victimAmount | ander', 'victimStatus | slachtoffer']",Een ander slachtoffer is in kritieke toestand naar het ziekenhuis gebracht.
+['victimVehicle | auto_met_paardentrailer'],Nadat zij gingen kijken zagen zij een auto met paardentrailer die tegen een boom was gebotst waarna zij direct alarm sloegen.
+['incidentType | ongeval'],Agenten van de Verkeersongevallen Analyse doen nader onderzoek naar de toedracht van het ongeval.
+['victimVehicle | auto'],De brandweer heeft met behulp van duikers de auto boven water gehaald en op de kade getild.
+['victimGender | Hij'],Hij heeft geruime tijd in het water gelegen.
+['suspectVehicle | automobilist'],Het is niet bekend of de automobilist te hard reed.
+['suspectAge | 20-jarige'],"Mogelijk door de klap of een schrikreactie reed de 20-jarige door en raakte daarbij de bomen van de spoorwegovergang verderop, bij huize Corel."
+['suspectVehicle | auto'],De auto raakte geen trein en kwam even verderop tot stilstand.
+['suspectAge | 20-jarige'],De politie benadrukt dat de 20-jarige na het ongeval niet is doorgereden en doet onderzoek naar de toedracht van het ongeval.
+['victimVehicle | auto'],"De brandweerploeg trof een auto, met brandende lampen, op de kop in het water aan."
+['victimVehicle | auto'],Direct gingen de brandweermensen het water in en bevestigden een kabel aan de auto en trokken deze op de kant.
+['victimVehicle | auto'],In de auto bevond zich nog de bestuurder.
+"['victimAddress | Driel', 'victimStatus | slachtoffer']","Helaas is het slachtoffer, een inwoner van Driel overleden."
+['victimVehicle | auto'],Iemand had vanaf de Broeksingel de auto in het water ontdekt en alarm geslagen.
+['victimVehicle | auto'],Het is niet duidelijk hoelang de auto toen al in het water lag.
+['victimVehicle | personenauto'],"Doordat de personenauto op zijn kop lag in de drassige bodem, kon men niet in het voertuig komen en is de auto eerst op de kant getrokken."
+['victimVehicle | personenauto'],De verkeersongevallen analysedienst van de politie doet onderzoek naar een mogelijke oorzaak en de technische staat van de personenauto.
+"['cause | door_onbekende_oorzaak', 'victimGender | man']","De man was door onbekende oorzaak mogelijk de macht over het stuur verloren, vermoedt de politie."
+"['victimVehicle | auto', 'victimVehicle | voertuig']","De auto lag op zijn kop in het water, waardoor de brandweer het voertuig eerst met een kabel op de kant moest trekken."
+"['datetime | rond_05.20_uur', 'victimVehicle | auto']",De melding dat er een auto in het water lag aan de Broeksingel kwam rond 05.20 uur binnen.
+"['victimStatus | slachtoffer', 'victimVehicle | auto']","Nadat de auto uit het water was gehaald, werd het slachtoffer gereanimeerd door ambulancepersoneel, maar dat mocht niet meer baten."
+['victimVehicle | auto'],De politie onderzoekt wat er is gebeurd en of de auto technisch in orde was.
+['location | A12'],"Op de A12 is tijdelijk maar één rijstrook beschikbaar, meldt de VerkeersInformatieDienst."
+['victimStatus | dodelijk_slachtoffer'],De identiteit van het dodelijk slachtoffer kan een woordvoerder van de politie nog niet geven.
+['location | overgang_in_de_Bornebroeksestraat'],Dat gebeurde op de overgang in de Bornebroeksestraat.
+"['victimAge | 81-jarige', 'victimGender | man']",De 81-jarige man stak daar bij een oversteekplaats over.
+"['location | Buitenom', 'suspectVehicle | auto']",Op de Buitenom vanuit de richting van Nieuw-Beijerland reed een auto.
+['incidentType | ongeval'],Direct kwamen hulpverleners waaronder twee ambulances naar de plek van het ongeval.
+"['suspectGender | Zij', 'suspectStatus | niet_gewond']",Zij raakte niet gewond maar was volgens de politie wel bijzonder geschrokken.
+['suspectGender | Hij'],Hij kwam uit de richting Nigtevecht en reed in de richting van Loenen.
+['cause | onbekende_oorzaak'],Door nog onbekende oorzaak kwam hij op de weghelft terecht voor het tegemoetkomend verkeer.
+['incidentType | ongeval'],De politie onderzoekt de oorzaak van het ongeval.
+['incidentType | ongeval'],"Vanwege het ongeval kwamen diverse ambulances, politiewagens en een traumahelikopter ter plaatse."
+"['victimGender | man', 'victimStatus | overleed']",Daar overleed de man later die nacht.
+['incidentType | ongeval'],De Verkeers Ongevallen Analyse (VOA) van de Politie Fryslân doet onderzoek naar de toedracht van het ongeval.
+"['victimAddress | Ureterp', 'victimAge | 24-jarfige']",Een 24-jarfige man uit Ureterp reed in de richting van de A7.
+['victimVehicle | bestuurder'],"In een bocht raakte de bestuurder de macht over het voertuig kwijt, de achterkant van de auto brak uit en hij kwam dwars op de weg te staan."
+"['incidentType | aanrijding', 'victimVehicle | auto']","Een aanrijding was het gevolg, waarbij de eerst genoemde auto tegen een verkeerspaal op een verkeersheuvel tot stilstand kwam."
+['incidentType | aanrijding'],Door het bureau ongevallenanalyse van de politie Fryslân wordt een onderzoek ingesteld naar de aanrijding.
+"['victimAmount | Twee', 'victimAmount | ander']","Twee van hen zijn met onbekend letsel overgebracht naar het ziekenhuis, de ander is ter plekke aan zijn of haar verwondingen overleden."
+['incidentType | dodelijk_ongeval'],Als gevolg van het dodelijk ongeval was een rijstrook afgesloten.
+['victimVehicle | auto'],De auto is geborgen.
+"['victimAmount | drietal', 'victimVehicle | auto']","Volgens een getuige begon de auto van het drietal opeens te slingeren, waarna het voertuig tegen een vangrail reed en tot stilstand kwam tegen een brugpijler."
+"['victimGender | Zij', 'victimStatus | raakte_zwaargewond']",Zij raakte zwaargewond en is door de brandweer uit het voertuig bevrijd.
+['incidentType | aanrijding'],De verkeersongevalsanalisten onderzoeken de exacte toedracht van de aanrijding.
+"['incidentType | ongeval', 'suspectVehicle | bus']",De bus kwam na het ongeval in het naastgelegen water terecht.
+['suspectVehicle | bus'],Volgens een woordvoerder van Connexxion zaten er geen passagiers in de bus.
+"['suspectAge | 32-jarige', 'suspectGender | man']",Het gaat om een 32-jarige man uit Vlissingen en een 44-jarige man uit het Zeeuwse Oost-Souburg.
+['location | A58'],De A58 is tijdelijk afgesloten geweest.
+"['suspectAddress | Barneveld', 'suspectAge | 21-jarige', 'suspectVehicle | automobilist']",Een 21-jarige automobilist uit Barneveld wilde linksaf slaan om een parkeerplaats op te rijden.
+"['suspectVehicle | auto', 'victimVehicle | brommer']","Die schrok mogelijk, remde, kwam ten val en schoof met zijn brommer tegen de auto."
+['victimVehicle | fiets'],Bij het lichaam werd ook een fiets aangetroffen.
+['victimStatus | slachtoffer'],"Nadat de identiteit van het slachtoffer was vastgesteld, werden nabestaanden ingelicht."
+['victimGender | man'],"Vervolgens werd in het mortuarium een schouw gehouden, zodat de identiteit van de man kon worden bevestigd."
+"['victimGender | man', 'victimStatus | dode']",Uit onderzoek op het lichaam van de dode man zijn geen sporen gevonden die erop wijzen dat hij door een misdrijf om het leven is gekomen.
+['victimGender | man'],Nabestaanden hebben de man geïdentificeerd.
+"['cause | onbekende_redenen', 'victimVehicle | auto']",Om onbekende redenen kwam zij met haar rechtervoorwiel in de berm terecht en bij het tegensturen schoot de auto naar de andere weghelft.
+['incidentType | ongeluk'],De politie onderzoekt de oorzaak van het ongeluk.
+"['cause | onbekende_oorzaak', 'victimGender | man']","Vermoedelijk verloor de man door nog onbekende oorzaak de controle over het stuur, liet de politie weten."
+['suspectVehicle | vrachtwagencombinatie'],De vrachtwagencombinatie begon daardoor te scharen.
+['suspectVehicle | chauffeur'],De chauffeur zat alleen in de truck.
+['incidentType | ongeluk'],Bij het ongeluk was geen ander verkeer betrokken.
+['disallowedGoalName | Marzo'],"In eerste instantie kwam de treffer op naam van Marzo, die in zijn honderdste wedstrijd in het betaald voetbal eindelijk zijn eerste doelpunt dacht te hebben gemaakt."
+"['playerName | Kluivert', 'teamName | AZ-defensie']","Diezelfde Kluivert bleef het de AZ-defensie lastig maken, maar gescoord werd er niet."
+"['matchTime | na_de_thee', 'teamName | AZ']",AZ kreeg na de thee nieuwe energie en dat betaalde zich uit.
+"['goalType | omhaal', 'positionOfPlayer | verdediger']",De verdediger scoorde met een omhaal na een corner.
+['hasWonTeam | Heerenveen'],Heerenveen hoefde niet eens heel grandioos te spelen om te winnen.
+['teamName | Superboeren'],"Dat soort fouten zullen er bij de Superboeren uit moeten, wil de ploeg het verblijf in de eredivisie niet beperken tot één seizoen."
+"['goalScore | voorsprong', 'teamName | Excelsior']",Excelsior nam tweemaal een voorsprong.
+['goalName | Jeff_Stans'],"Eerst via Jeff Stans, daarna dankzij Tom van Weert."
+"['goalScore | achterstand', 'teamName | gasten']",Na de eerste de beste aanval van de gasten keek Twente echter tegen een achterstand aan.
+['teamName | ADO'],ADO verzuimde daarna de marge weer naar twee te brengen.
+"['coachName | Ron_Jans', 'stadiumPlayed | Enschede']","De ploeg van trainer Ron Jans had weinig in te brengen in Enschede, maar ging goed met de spaarzame kansen om."
+"['matchTime | vroeg', 'teamName | Ajax']",De van Ajax overgekomen verdediger ging echter al vroeg in de fout.
+['tackleRecipientName | Kamohelo_Mokotjo'],"Hij gaf de opstomende Kamohelo Mokotjo een duw in het strafschopgebied, waarna de bal op de stip ging."
+"['tackleGiverName | Ted_van_de_Pavert', 'teamName | Twente']","Nadat Twente vergeefs hoopte op een strafschop vanwege een handsbal van Ted van de Pavert, kwam PEC er razendsnel uit."
+"['chanceForType | maaide', 'playerNationality | Belg']",De Belg maaide in kansrijke positie echter over de bal.
+"['teamName | Vitesse', 'teamStandings | negende']","Dat bleek voor Vitesse - dat kon profiteren van de nederlaag van PEC Zwolle - niet genoeg, want de Arnhemmers eindigen op de negende plaats."
+"['tackleGiverName | Navarone_Foor', 'tackleRecipientName | Yeboah']",De arbiter gaf geen penalty toen Yeboah in de zestien onderuit werd gehaald door Navarone Foor.
+['goalName | Lewis_Baker'],Het slotakkoord kwam op naam van Lewis Baker.
+"['playerName | Renato_Tapia', 'teamName | Tukkers']",De Tukkers traden voor het eerst aan zonder Renato Tapia.
+"['playerName | Zakaria_El_Azzouzi', 'teamName | FC_Twente']",Zakaria El Azzouzi maakte zijn basisdebuut bij FC Twente.
+"['matchTime | In_de_eerste_helft', 'teamName | Twente']",In de eerste helft wist zowel Twente als NEC nauwelijks tot grote kansen te komen.
+['chanceForName | Christian_Santos'],"Aan de andere kant waren pogingen van onder meer Christian Santos, Limbombe en Todd Kane vrij ongevaarlijk."
+"['matchTime | Na_rust', 'stadiumPlayed | Nijmegen']",Na rust ontbrandde het duel in Nijmegen.
+"['coachName | Phillip_Cocu', 'hasLostTeam | ADO_Den_Haag']",De ploeg van Phillip Cocu speelde in de voorgaande vier competitieduels drie keer gelijk en won alleen van ADO Den Haag.
+['teamName | Go_Ahead'],Ook tegen Go Ahead ging het bijzonder moeizaam.
+"['stadiumPlayed | Friesland', 'teamName | Heerenveen', 'teamName | bezoekers']","De bezoekers maakten in Friesland optimaal gebruik van de gaten in de defensie van Heerenveen, dat ook offensief niet kon imponeren."
+['hasWonTeam | ADO'],ADO boekte daardoor opnieuw een knappe overwinning in een toch vaak lastige uitwedstrijd.
+"['matchTime | in_de_eerste_helft', 'teamName | Heerenveen']",Heerenveen liet in de eerste helft nagenoeg niets zien.
+"['coachName | Foppe_de_Haan', 'teamName | Friese']","De ploeg van trainer Foppe de Haan was slordig en inspiratieloos, waardoor kansen aan Friese zijde uitbleven."
+"['matchTime | Haags_Kwartiertje', 'teamName | ADO']","Voor aanvang van het Haags Kwartiertje stond ADO dus al op een comfortabele voorsprong, die ook in de slotfase nooit in gevaar kwam."
+['playerName | Sean_Klaiber'],Dat ging ten koste van Sean Klaiber.
+"['chanceForName | Haller', 'matchTime | Na_rust', 'teamName | Heerenveen']","Na rust probeerde Heerenveen direct de aanval te zoeken, maar het was Haller die namens Utrecht een grote kans om zeep hielp."
+"['goalkeeperName | Erwin_Mulder', 'positionOfPlayer | spits']",De spits vond Erwin Mulder op zijn weg.
+['teamName | Friezen'],"Voor de Friezen de tweede van het seizoen, Utrecht heeft er nu één."
+['goalScore | voorsprong'],Vooral zijn eigen pass in voorbereiding op de voorsprong was fraai.
+['teamName | Ajax'],Het spel van zowel Ajax als Vitesse was zeer slordig.
+['teamName | Vitesse'],Het vele balverlies zorgde er wel voor dat Vitesse - Ajax een aantrekkelijke en levendige wedstrijd werd.
+['chanceForName | Klaassen'],Maar laat nu juist Klaassen óók de man zijn die de ultieme kans op de beslissing liet liggen.
+"['goalkeeperName | Eloy_Room', 'positionOfPlayer | Keeper']",Keeper Eloy Room stopte de penalty en hield zijn team zodoende in leven.
+['teamName | Vitesse'],"Omdat Vitesse alles-of-niets ging spelen, kreeg Ajax vanzelfsprekend ruimte om de wedstrijd alsnog te beslissen."
+"['coachName | Peter_Bosz', 'homeAway | uitzege']",Wéér een belangrijke uitzege voor de ploeg van Peter Bosz.
+['playerName | Henriksen'],Henriksen is tevreden met het resultaat.
+['teamName | AZ'],"AZ speelde een matige wedstrijd. """
+"['goalName | Bart_Ramselaar', 'teamName | Utrecht']","Namens Utrecht scoorden Bart Ramselaar, Timo Letschert, Chris Kum en Andreas Ludwig."
+['goalScore | trok_de_stand_gelijk'],Een debutant trok de stand gelijk.
+"['matchTime | Na_de_pauze', 'teamName | Utrecht']",Na de pauze tikte Utrecht de thuispoeg zo nu en dan van het kastje naar de muur.
+['teamName | Utrecht'],Met tien man kwam Utrecht niet meer in de problemen.
+['teamName | thuisploeg'],De thuisploeg begon sterk en zorgde voor gevaar.
+['playerNationality | Duitser'],De Duitser had meer belangrijke reddingen.
+['goalName | Santos'],Santos bleek opnieuw trefzeker.
+['goalkeeperName | Kirsten'],"Lukte het wel, dan was er nog altijd uitblinker Kirsten."
+"['hasTiedTeam | PSV', 'numberOfPoints | twee']",PSV heeft twee heel kostbare punten laten liggen in de strijd om de titel.
+"['goalScore | 0-1', 'matchTime | kort_na', 'teamName | PSV']","PSV had een tegendoelpunt blijkbaar nodig om zelf tot scoren te komen, want kort na de 0-1 stond het alweer gelijk."
+"['matchTime | voor_en_na_rust', 'teamName | PSV']","PSV verdiende voor en na rust meer dan het kreeg, maar wist de kansen niet af te maken."
+['hasWonTeam | PSV'],PSV heeft voldaan aan zijn eerste opdracht na de winterstop.
+['teamName | NEC'],"Maar voor het zover is, moest er nog wel afgerekend worden met NEC."
+['stadiumPlayed | Eindhoven'],Het was een avondlang slordigheid troef in Eindhoven.
+"['goalkeeperName | Delle', 'positionOfPlayer | NEC-keeper']","Zijn eerste aanname was echter zo gemakzuchtig, dat het leer een meter wegsprong en NEC-keeper Delle nog kon redden."
+"['finalScore | 0-2', 'matchDate | Vorig_jaar']",Vorig jaar werkte  die strategie en werd het 0-2.
+"['coachName | Phillip_Cocu', 'teamName | PSV']",Punt van zorg voor Phillip Cocu is wel dat PSV sinds de winterstop te makkelijk goals tegen krijgt.
+['teamName | NEC'],Ook tegen NEC weer.
+['playerName | Guardado'],Weer Guardado mocht het zich aantrekken dat hij de doelpuntenmaker te gemakkelijk liet weglopen vanaf het middenveld.
+['coachName | Cocu'],Cocu kon ook nog een pluspuntje noteren.
+['matchDate | vrijdagavond'],Daar was vrijdagavond geen enkele sprake van.
+['matchTime | kort_na_rust'],Dat lukte kort na rust wel.
+['refereeName | Higler'],Ondanks die overtreding keurde scheidsrechter Higler het doelpunt goed.
+"['goalScore | 1-1', 'goalkeeperName | Krul']",Krul kwam niet overtuigend genoeg uit en tastte mis: 1-1.
+['matchTime | minuut_25'],We schrijven minuut 25.
+['playerNationality | Duitser'],Waar iedereen een voorzet verwacht gaat de Duitser voor eigen geluk.
+['teamName | Utrechtse'],Vanwege de moordende concurrentie op het Utrechtse middenrif vooral.
+['playerNationality | Duitser'],En ook omdat de Duitser veel te wisselvallig presteerde om een basisplaats te kunnen eisen.
+['teamName | Go_Ahead'],Vorige week tegen Go Ahead mocht hij weer eens opdraven vanaf de start.
+"['substituteName | Ludwig', 'teamName | Heerenveen']","Tegen Heerenveen, waar Ludwig de zieke Yassin Ayoub mocht vervangen, werd het allemaal nog mooier voor hem."
+['stadiumPlayed | Galgenwaard'],Galgenwaard explodeerde bij zijn goal.
+"['redCardName | Sam_Larsson', 'refereeName | Kamphuis']",De negentig minuten maakte hij niet vol. Want arbiter Kamphuis stuurde eerste Sam Larsson vroegtijdig naar de douches en daarna was Ludwig het haasje.
+['teamName | PSV'],Zodat hij de topper tegen PSV vanaf de tribunes moet bekijken.
+['hasWonTeam | NEC'],NEC heeft vooralsnog weinig moeite met de transitie van de Jupiler League naar de Eredivisie.
+"['matchStreakNumber | derde', 'matchStreakType | overwinning']",Het is alweer de derde overwinning dit seizoen voor de ploeg die afgelopen jaar een divisie lager het kampioenschap pakte.
+"['goalType | rebound', 'numberOfMatchGoals | beide']","Hij stond twee keer op de goede plek om een rebound in te tikken, en maakte zo beide doelpunten, netjes verdeeld over beide helften."
+"['goalScore | 1-0', 'teamName | Heerenveen']",De overwinning was terecht te noemen gezien het aantal doelpogingen (17 om 11) maar Heerenveen had wel veel meer balbezit en enigszins reden tot klagen toen het geen strafschop kreeg bij de stand van 1-0.
+['tackleGiverName | Luciano_Slagveer'],Luciano Slagveer ging echter wel erg gretig naar het gras en kreeg daarom een gele kaart voor een schwalbe.
+"['teamName | Heerenveen', 'teamName | NEC']","NEC staat nu zevende in de competitie, Heerenveen is afgezakt naar de 11e plaats."
+"['matchTime | drie', 'matchTime | eerste_tien_minuten']","De eerste tien minuten beloofden weinig goeds, maar de drie die volgden waren buitengewoon vermakelijk."
+"['chanceForName | Danny_Holla', 'chanceForName | Queensy_Menig']","Queensy Menig opende het bal met een geblokt schot, Danny Holla volgde diens voorbeeld en aan de andere kant schoot Mikhail Rosheuvel op de paal."
+['matchTime | In_de_tweede_helft'],In de tweede helft gingen beide ploegen aanvankelijk vrolijk verder.
+['teamName | Roda'],"Roda, veruit de minst scorende ploeg in de eredivisie, geloofde niet meer in een treffer en zette in op een punt."
+"['teamName | PEC', 'teamName | zwartgele']","PEC probeerde nog wel de zwartgele muur te doorbreken, maar die was kundig dichtgemetseld."
+['goalName | Bryan_Linssen'],"Bryan Linssen deed vervolgens nog iets terug, maar echt spannend werd het niet meer."
+['redCardName | Linssen'],Diezelfde Linssen werd in de slotfase van het veld gestuurd wegens natrappen.
+['hasTiedTeam | SC_Cambuur'],SC Cambuur weet bijna niet meer wat winnen is.
+"['temperatureCelsius | 8°C', 'timePoint | middagtemperaturen']",De middagtemperaturen liggen tussen 8°C in het noordoosten en 13°C in het midden en zuiden.
+"['locationArea | overal', 'windSpeedBft | 6-7']","De wind draait overal naar zuidwest en neemt in de loop van de ochtend en middag toe naar vrij krachtig, aan zee en op het IJsselmeer naar krachtig tot hard, 6-7 Bft."
+"['weatherFrequency | even', 'weatherType | buien']",Tussen de buien door breekt de zon even door.
+"['windAmount | matig', 'windDirection | noordoostenwind']","De noordoostenwind is overwegend matig, aan de kust en op het IJsselmeer (vrij) krachtig."
+['weatherType | helder'],Komende nacht is het helder.
+['weatherType | droog'],Het blijft droog.
+['weatherType | grondmist'],Hier en daar kan grondmist ontstaan.
+['timePoint | Morgen'],Morgen verandert er nog niet veel in het weerbeeld.
+"['timePoint | Vannacht', 'weatherType | helder']",Vannacht is het helder en blijft het droog.
+['maximumTemperature | 25°C'],De maximumtemperaturen komen uit tussen 25°C op de Wadden en 31°C in het zuidoosten en oosten.
+['weatherType | onweer'],Hierbij kan onweer voorkomen.
+['precipitationAmount | veel'],"Plaatselijk valt er veel neerslag, wat voor wateroverlast kan zorgen."
+['temperatureCelsius | 10°C'],De temperatuur loopt uiteen van 10°C in het noorden tot 15°C in het zuiden.
+"['locationArea | Elders', 'weatherType | droog']",Elders is het aanvankelijk droog met opklaringen.
+['minimumTemperature | 10_°C'],De minima liggen tussen 10 °C in het zuiden en 6°C in het noordoosten.
+"['timePoint | Morgen_overdag', 'weatherType | zonnige']",Morgen overdag zijn er zonnige perioden afgewisseld door een enkele bui.
+"['minimumTemperature | 1°C', 'weatherArea | lokaal']",De minimumtemperatuur loopt uiteen van 1°C lokaal in het noordoosten tot 8°C in het zuidwesten.
+"['windAmount | matige', 'windDirection | oostelijke']",Er staat een overwegend matige oostelijke wind.
+"['temperatureCelsius | 12°C', 'timePoint | middagtemperatuur']",De middagtemperatuur loopt uiteen van 12°C in het noordoosten tot 15°C in het uiterste zuiden.
+"['locationArea | in_het_westen', 'weatherType | nevelig']",Verder is het met name in het westen en noordwesten van het land nevelig.
+['minimumTemperature | 6°C'],De minima lopen uiteen van 6°C in het noordoosten en oosten tot 10°C in Zeeland.
+['maximumTemperature | 16°C'],De maximumtemperatuur ligt tussen 16°C in het noorden en 19°C in het zuiden van het land.
