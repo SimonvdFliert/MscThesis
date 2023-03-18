@@ -298,6 +298,11 @@ def _mention_probability(table_entry, sentence, smoothing=0.0):
   final_punc = ''':.!'''
 
   for element_id, elements in enumerate(sentence):
+
+    if sentence[element_id] == '':
+          sentence = sentence[:-1]
+          break
+
     if elements[-1] in final_punc and element_id == (len(sentence) -1):
         sentence[element_id] = elements[:-1]
 
@@ -385,7 +390,7 @@ def _ngram_counts(sequence, order):
 def parent(predictions,
            references,
            tables,
-           lambda_weight=0.5,
+           lambda_weight=None,
            smoothing=0.00001,
            max_order=4,
            entailment_fn=overlap_probability,
@@ -576,7 +581,7 @@ def main(_):
   ## Own code to extend results json
   #global model_name
   json_file_path = f"/content/drive/MyDrive/MscThesis/Logging_TestSet_Results/logResultsColabParent.json"
-  
+
   # with open(json_file_path, "r",encoding='utf-8') as json_data_file:
   #     data = json.load(json_data_file)
 
